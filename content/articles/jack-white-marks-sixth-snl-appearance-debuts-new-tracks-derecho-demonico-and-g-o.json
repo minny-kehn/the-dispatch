@@ -1,0 +1,55 @@
+{
+  "slug": "jack-white-marks-sixth-snl-appearance-debuts-new-tracks-derecho-demonico-and-g-o",
+  "headline": "Jack White Marks Sixth SNL Appearance, Debuts New Tracks 'Derecho Demonico' and 'G.O.D. And The Broken Ribs'",
+  "deck": "The performance marked his sixth as a musical guest, showcasing two new singles released just a day prior—underscoring the 50-year-old musician's sustained creative output.",
+  "category": "CULTURE",
+  "body": [
+    "Jack White recently made his sixth musical guest appearance on Saturday Night Live, debuting two new songs, 'Derecho Demonico' and 'G.O.D. And The Broken Ribs.' The performance highlighted White's enduring presence on a national stage and his continuous artistic output.",
+    "These new tracks were shared with the public just one day before his Saturday Night Live performance, emphasizing White's prolific creative pace. His latest album, 'No Name,' was released earlier in 2024, further demonstrating his consistent stream of new material.",
+    "The lyrics from 'G.O.D. And The Broken Ribs' offer a glimpse into White's thematic explorations:",
+    "“Welcome to the end of the world/ Nobody left but one boy and one girl and one other/ But you know we can’t live like a sister and brother/ They’re gonna make you a mother now.”",
+    "White's history with Saturday Night Live spans more than two decades, beginning with his debut on the show in 2002 as part of The White Stripes. This long tenure underscores his consistent relevance in the music industry.",
+    "His solo appearances on the iconic sketch comedy show are numerous, with prior performances in 2012, 2018, and October 2020. Most recently, before this sixth appearance, White performed in February 2023, showcasing tracks from his 2022 albums 'Fear of the Dawn' and 'Entering Heaven Alive'.",
+    "A notable moment from his past SNL appearances occurred in October 2020. During that performance, White played a guitar custom-designed for him by the legendary Eddie Van Halen, who had passed away earlier that same week, serving as a poignant tribute.",
+    "At 50 years old, White continues to be a dynamic force in rock music, consistently delivering new material and engaging with major platforms. His latest album, 'No Name,' released in 2024, has garnered attention for its distinct sound.",
+    "Jon Dolan of Rolling Stone praised White's recent work, describing 'No Name' as featuring:",
+    "“some of the best, most lively garage-blues crunch he’s given us in many many moons, with just the right amount of eccentricity thrown in.”",
+    "This sixth SNL appearance solidifies White's status not just as a musician with a storied past, but as an artist actively shaping contemporary rock. It reaffirms his capacity to introduce new work to a broad audience while maintaining critical acclaim.",
+    "White's continuous output and willingness to debut new material on high-profile stages suggest a sustained period of creative exploration. His performances remain a benchmark for artistic vitality and continued innovation within the genre."
+  ],
+  "publishedAt": "2026-04-05T08:09:14.528Z",
+  "readTime": 2,
+  "sources": [
+    "'SNL': Watch Jack White Perform 'Derecho Demonico,' 'G.O.D. And The Broken Ribs'",
+    "Rolling Stone"
+  ],
+  "sourceUrls": [
+    "https://www.rollingstone.com/music/music-news/snl-watch-jack-white-perform-derecho-demonico-g-o-d-the-broken-ribs-1235541948/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:04:25.145Z",
+      "detail": "Aggregated entertainment industry reports and music news publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:06:59.346Z",
+      "detail": "Compiled performance details, song release information, and historical appearance data from 2 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:09:14.528Z",
+      "detail": "Wove cultural criticism with historical context and career analysis to illustrate the artist's enduring relevance."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including names, dates, album titles, and direct quotes, were meticulously cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-04-05T08:11:13.910Z"
+    }
+  ]
+}

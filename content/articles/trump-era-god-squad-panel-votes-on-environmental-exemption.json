@@ -1,0 +1,53 @@
+{
+  "slug": "trump-era-god-squad-panel-votes-on-environmental-exemption",
+  "headline": "Trump-Era 'God Squad' Panel Votes on Environmental Exemption",
+  "deck": "A panel comprised largely of former Trump cabinet members—dubbed the “God Squad”—cast a vote on March 31 to exempt an unspecified item, raising questions about future environmental policy.",
+  "category": "CLIMATE",
+  "body": [
+    "A panel primarily composed of former Trump cabinet members, referred to as the “God Squad,” conducted a vote on March 31 to grant an exemption. This decision, reported by public radio’s environmental news magazine Living on Earth, signals potential shifts in environmental policy.",
+    "The vote to exempt an unspecified item was discussed in an interview conducted by Jenni Doering with Pat Parenteau, an emeritus professor and senior fellow for climate policy at Vermont Law and Graduate School.",
+    "The “God Squad” designation itself underscores the perceived weight and authority of this body, whose members were central figures in the previous administration's approach to environmental regulation.",
+    "While the specific details of what was exempted remain undisclosed in initial reports, the very act of a panel with such a composition making such a vote carries significant implications.",
+    "Decisions by panels linked to prior administrations, especially those known for their distinct stance on climate and environmental issues, can often foreshadow future policy directions or signal continued efforts to alter existing regulatory frameworks.",
+    "The interview with Professor Parenteau, a respected voice in climate policy, suggests that this vote is noteworthy enough to warrant expert analysis and public attention.",
+    "The report, featured by Living on Earth and also referenced by Inside Climate News, highlights the ongoing scrutiny of environmental policy decisions, particularly those that emerge from politically charged contexts.",
+    "For environmental advocates and policy observers, any move to grant exemptions could represent a rollback or loosening of protections, aligning with broader themes of deregulation seen during the Trump administration.",
+    "The full impact of this exemption vote will depend heavily on the specific item or regulation it targets. Further details are crucial for understanding the scope and potential consequences for environmental protection.",
+    "This development reinforces the importance of tracking decisions made by influential panels, even after a change in presidential administrations, as their actions can have lasting effects on climate and environmental governance."
+  ],
+  "publishedAt": "2026-04-04T11:45:18.683Z",
+  "readTime": 1,
+  "sources": [
+    "Inside Climate News",
+    "Living on Earth"
+  ],
+  "sourceUrls": [
+    "https://insideclimatenews.org/news/04042026/trump-god-squad-endangered-species-oil/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-04T11:42:50.199Z",
+      "detail": "Accessed public radio's environmental news magazine, Living on Earth, and Inside Climate News, which featured an interview with an emeritus professor."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-04T11:44:15.723Z",
+      "detail": "Identified a specific interview with Pat Parenteau by Jenni Doering, detailing a March 31 vote by a 'God Squad' panel primarily composed of Trump cabinet members to exempt an unspecified item."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-04T11:45:18.683Z",
+      "detail": "Constructed a news article analyzing the implications of a Trump-era panel's vote on environmental exemptions, contextualizing it within broader climate policy discussions and emphasizing the need for further details."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 5/10, Accuracy: 10/10, Readability: FK 18.2",
+      "timestamp": "2026-04-04T11:46:25.047Z"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "cardiologist-warns-prolonged-sitting-doubles-heart-attack-risk",
+  "headline": "Cardiologist Warns Prolonged Sitting Doubles Heart Attack Risk",
+  "deck": "A common daily habit, often overlooked by most individuals, significantly elevates cardiovascular dangers—with one cardiologist warning it doubles heart attack risk.",
+  "category": "HEALTH",
+  "body": [
+    "A prominent cardiologist issues a stark warning: a prevalent daily habit, specifically prolonged sitting, doubles an individual's risk of a heart attack. This alarming statistic underscores a health threat often dismissed or entirely overlooked by the general public.",
+    "Despite the significant danger, most people rarely consider the profound risks associated with their sedentary routines. This lack of awareness contributes to the escalating health concerns linked to modern lifestyles.",
+    "\"This daily habit doubles your heart attack risk and most people don't think twice about it,\" the cardiologist stated, as reported by Hindustan Times.",
+    "The severity of prolonged sitting's impact on health has led experts to draw parallels with one of the most well-known health hazards. The phrase \"Sitting is the new smoking\" encapsulates the growing medical consensus regarding sedentary lifestyles.",
+    "\"Sitting is the new smoking,\" declares TheCable, highlighting the profound health implications of a sedentary existence.",
+    "Beyond the doubled heart attack risk, a generally sedentary lifestyle and extended periods of sitting pose a direct and substantial threat to overall heart health. These habits can contribute to a range of cardiovascular issues over time.",
+    "The adverse effects of long hours spent sitting extend beyond cardiovascular health, also negatively impacting digestion. Prolonged immobility can disrupt the body's natural digestive processes, leading to further health complications.",
+    "Specific demographics, such as tech workers, are particularly vulnerable due to the inherent nature of their professions. These individuals often find themselves needing innovative strategies to maintain health and fitness amidst predominantly sedentary work environments.",
+    "Traditional systems of medicine are also offering insights into mitigating these modern challenges. Ayurveda, an ancient Indian system, suggests potential fixes and remedies for issues that arise from extended periods of sitting.",
+    "The convergence of medical warnings and traditional wisdom underscores the urgent need for individuals to re-evaluate their daily habits. Adopting proactive measures against prolonged sitting is becoming increasingly critical for public health and long-term well-being."
+  ],
+  "publishedAt": "2026-04-05T08:08:50.276Z",
+  "readTime": 1,
+  "sources": [
+    "Hindustan Times",
+    "TheCable",
+    "Onlymyhealth",
+    "Inshorts"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxObHlfRXJIUDdJTm94WUpPNXVVQmdVdndBeDZtRktxMXctZ3k1QlNzT2xOMVdYUDZtbWg0Y2pVVUxWUmxGRlFNY29ieXhfOVBfdF8zNXk2TExuMFVoMTZWcC16bG54NFZ0Rll3UVpwV3FxOHBJcXN0YlVNZTFwSFZqeE1ZQ1ZjUWFTUWNTREFsLTF1clBQMXRhWnYtYzhPWkxVbEFUV2tNZXFMX3JRZWFhX2FiX0hCb2hQbHQ3VlctTUZXZmZBcndSeTFiYVRFMEdXa1NxQjZFUTA5d2gxRUhNT0J4ajMyN25SVUZ6UmJCU1p4aURpMGIydUItNnIxanh1Q0M00gGIAkFVX3lxTE4xb0YtcmNRLUhTSWxmUEJVSm5BZnNSQXdFX21LdHRubGFlYmRaQm9wVmw1TlF6U214VW8xUnJpazY5TFdKUFB6TDBoclJwc08yb05aYVNWVWNFOU1ZNDE4ZmRnR1AyTmZvdW5sWFVSbnIyNy1DcEUwN181VVQtc21EQnRVcDEta0g5eUNSMXYtRlNpdTUwekNKZGQ2aGJUakNWT0o2RG45a1lkcHE2Y3Z1eTJQcXJTdzNnYkg4ZUdqQVlncG0tSjZCUkhQNWtXc0RHZkpncU5kb1RVY2kxSHlJelZkV29DNXNoNUFQbElmVTVoQzRiSEE4andkVkxIZU1mWEd0LWpUOA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:04:25.145Z",
+      "detail": "Aggregated health warnings and medical analyses from prominent news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:06:59.346Z",
+      "detail": "Compiled cardiologist warnings, health risk comparisons, and lifestyle implications related to prolonged sitting from four distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:08:50.276Z",
+      "detail": "Wove medical warnings with lifestyle analysis and traditional health perspectives to highlight the critical, yet overlooked, dangers of sedentary habits."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, direct quotes, and statistics were cross-referenced and verified against the provided fact sheet, showing perfect alignment.",
+      "timestamp": "2026-04-05T08:10:54.219Z"
+    }
+  ]
+}

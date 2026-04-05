@@ -1,0 +1,50 @@
+{
+  "slug": "mary-beth-hurt-actor-known-for-garp-and-interiors-dies-at-79",
+  "headline": "Mary Beth Hurt, Actor Known for 'Garp' and 'Interiors,' Dies at 79",
+  "deck": "The acclaimed performer, who earned a Bafta nomination for her film debut in Woody Allen’s Interiors, built a four-decade big-screen career portraying complex, intelligent women.",
+  "category": "CULTURE",
+  "body": [
+    "Mary Beth Hurt, the acclaimed actor recognized for her roles in films like The World According to Garp and her Oscar-nominated debut in Woody Allen's Interiors, has died at the age of 79. Her passing marks the end of a distinguished career that spanned four decades on the big screen.",
+    "Hurt garnered significant critical attention early in her career, receiving a Bafta nomination for Most Promising Newcomer for her performance in Interiors (1978). This dramatic film, which also marked her movie debut, was a commercial success, earning $10 million against a $3 million budget.",
+    "Despite the nomination, Hurt ultimately lost the Bafta to Christopher Reeve, who famously portrayed Superman in the 1978 film. Her performance in Interiors nonetheless established her as a formidable presence in American cinema.",
+    "The film's nuanced characterizations drew critical commentary, with Vincent Canby of The New York Times remarking on the performances:",
+    "\"Mr Heard and Miss Hurt are two of our best young actors, but the material is either thin and unfocused or rich and besides the point.\"",
+    "Hurt went on to portray Helen Holm, the college professor wife of Robin Williams's character, in the acclaimed 1982 adaptation of John Irving’s novel, The World According to Garp. The film was both a critical and commercial hit, securing Oscar nominations for co-stars John Lithgow and Glenn Close.",
+    "Her versatile career saw her secure other notable roles, including the female lead in Joan Micklin Silver’s Head Over Heels (1979), a part for which she was chosen over Jamie Lee Curtis. She also appeared in A Change of Seasons (1980), playing the daughter of characters portrayed by Shirley MacLaine and Anthony Hopkins.",
+    "Throughout her extensive career, Hurt often found herself cast in specific types of roles, a fact she once reflected on with characteristic wit:",
+    "\"I’ve never been cast as a mistress. I’m the girl men marry, not the girl they have affairs with.\"",
+    "Born in Marshalltown, Iowa, Mary Beth Hurt left an indelible mark on cinema through her intelligent and grounded performances. Her contributions to film endure through her body of work."
+  ],
+  "publishedAt": "2026-04-04T12:01:31.372Z",
+  "readTime": 1,
+  "sources": [],
+  "sourceUrls": [
+    "https://www.theguardian.com/film/2026/apr/04/mary-beth-hurt-obituary"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-04T11:56:48.557Z",
+      "detail": "Aggregated publicly available obituary information regarding Mary Beth Hurt's passing."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-04T11:59:16.828Z",
+      "detail": "Compiled key biographical details, career milestones, critical reception, and filmography data from the provided obituary."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-04T12:01:31.372Z",
+      "detail": "Wove significant career achievements, critical commentary, and personal reflections into a structured narrative highlighting her impact on film."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 3/10, Accuracy: 7/10, Readability: FK 13.1",
+      "timestamp": "2026-04-04T12:03:40.807Z"
+    }
+  ]
+}

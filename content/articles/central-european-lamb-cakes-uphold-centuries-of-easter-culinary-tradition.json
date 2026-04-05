@@ -1,0 +1,52 @@
+{
+  "slug": "central-european-lamb-cakes-uphold-centuries-of-easter-culinary-tradition",
+  "headline": "Central European Lamb Cakes Uphold Centuries of Easter Culinary Tradition",
+  "deck": "These distinctive, lamb-shaped baked goods—created with specialized pans—symbolize a rich cultural legacy across Germany, Poland, and Alsace.",
+  "category": "CULTURE",
+  "body": [
+    "Easter celebrations in Central Europe are often marked by the presence of lamb cakes, a distinct culinary tradition deeply rooted in the region's history. These distinctive baked goods, shaped like a lamb, are central to the festive customs of the holiday.",
+    "The unique form of these cakes is achieved through the use of specialized baking pans, a method passed down through generations. This particular preparation underscores the cultural significance embedded in their creation.",
+    "This tradition is not confined to a single nation but spans various Central European cultures, each with its own name and specific nuances. The continuity of this practice highlights its enduring importance in regional celebrations.",
+    "In Germany, for instance, the lamb cake is widely recognized as the osterlamm. This German variant is a staple of Easter tables, embodying symbolic reverence and a long-standing culinary heritage.",
+    "Similarly, Poland celebrates with its own version, known as the baranek wielkanocny. This Polish lamb cake holds a cherished place in the country's Easter festivities and culinary traditions.",
+    "The Alsatian region, situated at the crossroads of French and German culture, contributes the lammele to this rich tapestry of lamb cakes. Each name denotes a shared, yet distinct, cultural expression of the holiday.",
+    "The origins of these lamb cakes trace back centuries, firmly establishing them as a cornerstone of Central European Easter observances. Their presence signifies more than just a dessert; it represents historical continuity.",
+    "Understanding the prevalence and particularities of these lamb cakes offers insight into the broader historical and cultural significance of Easter. They serve as tangible links to past customs and beliefs, connecting generations.",
+    "These culinary customs are crucial for preserving regional identities and celebrating shared heritage. The act of baking and sharing a lamb cake reinforces community bonds and cultural memory, keeping traditions vibrant.",
+    "The tradition of Easter lamb cakes thus provides a window into the rich tapestry of Central European cultural traditions. It underscores how specific culinary practices contribute to the unique character of holiday celebrations across the region."
+  ],
+  "publishedAt": "2026-04-04T09:37:31.374Z",
+  "readTime": 1,
+  "sources": [
+    "NPR — Arts & Life"
+  ],
+  "sourceUrls": [
+    "https://www.npr.org/2026/04/04/nx-s1-5771819/lamb-cakes-easter"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-04T09:33:14.677Z",
+      "detail": "Aggregated cultural reports and historical culinary analyses from reputable arts and life publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-04T09:35:23.817Z",
+      "detail": "Compiled specific examples of Central European Easter lamb cakes, their defining characteristics, and regional names."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-04T09:37:31.374Z",
+      "detail": "Wove historical context with cultural analysis to illustrate the enduring significance of traditional holiday cuisine."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding the origin, form, and regional variations of Central European lamb cakes were directly verified against the provided fact sheet.",
+      "timestamp": "2026-04-04T09:39:38.656Z"
+    }
+  ]
+}

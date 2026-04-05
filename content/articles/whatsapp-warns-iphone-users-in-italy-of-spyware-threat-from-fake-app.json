@@ -1,0 +1,55 @@
+{
+  "slug": "whatsapp-warns-iphone-users-in-italy-of-spyware-threat-from-fake-app",
+  "headline": "WhatsApp Warns iPhone Users in Italy of Spyware Threat from Fake App",
+  "deck": "A sophisticated spyware campaign, orchestrated by an Italian surveillance company, tricked approximately 200 iPhone users into downloading a malicious fake WhatsApp application—prompting urgent security alerts from the messaging platform.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "WhatsApp has issued a critical warning to its users regarding a pervasive fake application that contains spyware, specifically targeting iPhone users within Italy.",
+    "The malicious software was reportedly deployed by an Italian surveillance company, which successfully tricked individuals into downloading the illicit program.",
+    "The scale of the deception is significant, with approximately 200 users falling victim to the sophisticated spyware campaign.",
+    "These individuals, primarily iPhone users located in Italy, unknowingly installed a counterfeit version of the popular messaging app.",
+    "In response to the discovery, WhatsApp promptly released an alert, informing its user base about the presence and dangers of the fake application.",
+    "Security analysis confirms that the fraudulent app is not merely a replica but a dedicated spying application designed to compromise user privacy.",
+    "Consequently, all iPhone users who suspect they may have downloaded this malicious software are strongly advised to uninstall the application immediately.",
+    "The incident has quickly escalated, with some observers referring to the situation as a 'WhatsApp Spyware Crisis,' underscoring the severity of the privacy breach.",
+    "Beyond immediate uninstallation, critical security protocols are being suggested for all iPhone users to enhance their device protection and prevent future compromises."
+  ],
+  "publishedAt": "2026-04-03T16:20:18.263Z",
+  "readTime": 1,
+  "sources": [
+    "Businessday NG",
+    "Reuters",
+    "streamlinefeed.co.ke",
+    "The Times of India",
+    "Forbes"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnRDOS1ubi1wclpuR2F2eWphOWZSb1JUNTFLQ2s1UVNxbE5VbnA1RWdyaTd1OUlnSTBra3pGandtOTN0bFdPWG1STVdrdlFkR1BpcVoyMlJiVjlqMlFJUDJsWmlLWUJnT0hPOU8wUV9DemFCVjZLclVUcW90VlZZTVNlZ1BFdk9kcHN0MmF1YVFfT2NNdFNj0gGcAUFVX3lxTE9CVGpaYmZIRkVUSmQ5QWNudnhJck1iYzNmR2VRU2lPX2tfOThQX2VVUkxRaUQ0UWYzUkVrUllGa2gwV1B3cFZpdi1lUGFtYjZWdzRWSnpBTmFLLUNCTkxjLWtCVmZwejVRQkpOMzJUZEk5WExKUkNTZGhoRjM5UXVyeThDMVRISUpYZi13bDhPSGhMRGJBd283c3hJSA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-03T16:17:47.833Z",
+      "detail": "Aggregated security alerts and investigative reports from Businessday NG, The Times of India, Reuters, Forbes, and streamlinefeed.co.ke."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-03T16:20:00.789Z",
+      "detail": "Compiled threat intelligence, user impact statistics, and company advisories regarding a specific spyware campaign."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-03T16:20:18.263Z",
+      "detail": "Wove technical details of a cybersecurity threat with user impact, corporate response, and expert analysis to form a cohesive news narrative."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, statistics, and events were meticulously cross-referenced and verified against the provided fact sheet, confirming complete accuracy and absence of external information.",
+      "timestamp": "2026-04-03T16:22:18.976Z"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+import { getLatestArticles, getFeaturedArticle } from '@/lib/articles';
+import { CATEGORY_META, Category } from '@/lib/types';
+import { FeaturedArticle, ArticleCard } from './components/ArticleCards';
+import { Newspaper, Search, ClipboardList, PenTool, CheckCircle, Zap, Globe, Leaf, LineChart, Activity, Sparkles } from 'lucide-react';
+
+const CATEGORY_ICONS: Record<Category, React.ReactNode> = {
+  TECHNOLOGY: <Zap size={24} />,
+  GEOPOLITICS: <Globe size={24} />,
+  CLIMATE: <Leaf size={24} />,
+  FINANCE: <LineChart size={24} />,
+  HEALTH: <Activity size={24} />,
+  CULTURE: <Sparkles size={24} />,
+};
+
+export const revalidate = 3600; // Force Next.js to drop the cache and re-render the homepage every hour
+
+export default function Home() {
+  const featured = getFeaturedArticle();
+  const latest = getLatestArticles();
+  const nonFeatured = latest.filter((a) => a.slug !== featured?.slug);
+
+  const categories = Object.entries(CATEGORY_META) as [Category, typeof CATEGORY_META[Category]][];
+
+  return (
+    <>
+      {/* ====== HERO ====== */}
+      <section className="hero" id="hero">
+        <div className="hero-badge">
+          <span className="badge badge-accent"><Newspaper size={16} style={{ display: 'inline-block', verticalAlign: 'text-bottom', marginRight: '4px' }} /> AI-Native Newsroom • Updated Daily</span>
+        </div>
+        <h1 className="hero-headline">
+          Real Journalism,{' '}
+          <span className="hero-headline-highlight">Zero Humans</span>{' '}
+          in the Newsroom
+        </h1>
+        <p className="hero-deck">
+          Every article on The Dispatch is researched, written, and fact-checked by an
+          autonomous AI editorial pipeline. The depth and care of the world&apos;s best
+          newsrooms — without a single human in the editorial path.
+        </p>
+        <a href="#latest" className="hero-cta">
+          Read Latest Stories
+        </a>
+      </section>
+
+      <hr className="divider" />
+
+      {/* ====== FEATURED ====== */}
+      <section className="section" id="featured">
+        <div className="section-header">
+          <h2 className="section-title">Featured Story</h2>
+          <p className="section-subtitle">
+            Our lead story, selected by editorial-weight algorithm from today&apos;s reporting.
+          </p>
+        </div>
+        {featured && <FeaturedArticle article={featured} />}
+      </section>
+
+      <hr className="divider" />
+
+      {/* ====== HOW IT WORKS ====== */}
+      <section className="section section-full section-gray" id="how-it-works">
+        <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
+          <div className="section-header">
+            <h2 className="section-title">How It Works</h2>
+            <p className="section-subtitle">
+              Four automated stages take a story from discovery to publication — with
+              complete transparency at every step.
+            </p>
+          </div>
+
+          <div className="features-grid">
+            <div className="feature-card animate-in animate-delay-1">
+              <div className="feature-icon feature-icon-blue"><Search size={24} /></div>
+              <h3 className="feature-title">Source Discovery</h3>
+              <p className="feature-desc">
+                34+ RSS feeds monitored across six beats, from BBC and Ars
+                Technica to Al Jazeera and STAT News, enriched with real-time
+                trending signals from Virlo. Filtered and deduplicated daily.
+              </p>
+            </div>
+            <div className="feature-card animate-in animate-delay-2">
+              <div className="feature-icon feature-icon-green"><ClipboardList size={24} /></div>
+              <h3 className="feature-title">Fact Extraction</h3>
+              <p className="feature-desc">
+                Gemini AI extracts structured fact sheets, claims, quotes,
+                statistics, with source attribution and confidence scoring.
+              </p>
+            </div>
+            <div className="feature-card animate-in animate-delay-3">
+              <div className="feature-icon feature-icon-purple"><PenTool size={24} /></div>
+              <h3 className="feature-title">Editorial Synthesis</h3>
+              <p className="feature-desc">
+                AI writes in inverted-pyramid style with analysis, context, and direct
+                sourcing, no filler, no hallucination.
+              </p>
+            </div>
+            <div className="feature-card animate-in animate-delay-4">
+              <div className="feature-icon feature-icon-pink"><CheckCircle size={24} /></div>
+              <h3 className="feature-title">Quality Review</h3>
+              <p className="feature-desc">
+                Every article is scored for bias, factual accuracy, and readability
+                before publication. Fail-closed, nothing ships unverified.
+              </p>
+            </div>
+          </div>
+
+          <div className="view-all-cta">
+            <a href="/pipeline" className="view-all-btn">
+              View Full Pipeline
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <hr className="divider" />
+
+      {/* ====== LATEST STORIES ====== */}
+      <section className="section" id="latest">
+        <div className="section-header">
+          <h2 className="section-title">Latest Stories</h2>
+          <p className="section-subtitle">
+            The latest reporting from our AI editorial pipeline. Every story includes
+            full source attribution and pipeline transparency.
+          </p>
+        </div>
+
+        <div className="article-grid">
+          {nonFeatured.slice(0, 6).map((article) => (
+            <ArticleCard key={article.slug} article={article} />
+          ))}
+        </div>
+
+        <div className="view-all-cta" style={{ marginTop: '3rem' }}>
+          <a href="/latest" className="view-all-btn">
+            View All Stories
+          </a>
+        </div>
+      </section>
+
+      <hr className="divider" />
+
+      {/* ====== CATEGORIES ====== */}
+      <section className="section" id="categories">
+        <div className="section-header">
+          <h2 className="section-title">Coverage Areas</h2>
+          <p className="section-subtitle">
+            Six beats with {latest.length} stories across global affairs, science,
+            technology, and culture.
+          </p>
+        </div>
+
+        <div className="categories-grid">
+          {categories.map(([key, meta]) => {
+            const count = latest.filter((a) => a.category === key).length;
+            const categoryArticles = latest.filter((a) => a.category === key);
+            const bgColor = key === 'TECHNOLOGY' ? 'var(--color-tech)' : key === 'GEOPOLITICS' ? 'var(--color-geo)' : key === 'CLIMATE' ? 'var(--color-climate)' : key === 'FINANCE' ? 'var(--color-finance)' : key === 'HEALTH' ? 'var(--color-health)' : 'var(--color-culture)';
+            return (
+              <div className="category-card" key={key} id={`category-${key.toLowerCase()}`}>
+                <div className="category-icon" style={{ background: bgColor, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  {CATEGORY_ICONS[key]}
+                </div>
+                <h3 className="category-name">{key}</h3>
+                <p className="category-desc">{meta.description}</p>
+                <div className="category-tags">
+                  {categoryArticles.slice(0, 3).map((a) => (
+                    <a
+                      key={a.slug}
+                      href={`/article/${a.slug}`}
+                      className="category-tag"
+                    >
+                      {a.headline.split(' ').slice(0, 3).join(' ')}…
+                    </a>
+                  ))}
+                  {count === 0 && (
+                    <span className="category-tag" style={{ opacity: 0.5 }}>
+                      Coming Soon
+                    </span>
+                  )}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
+      <hr className="divider" />
+
+      {/* ====== CTA ====== */}
+      <section className="cta-section" id="cta">
+        <h2 className="cta-title">Journalism Without Compromise</h2>
+        <p className="cta-desc">
+          Every story is fully sourced, fact-checked, and transparent about its AI
+          editorial pipeline. See the future of news.
+        </p>
+        <a href="/pipeline" className="cta-btn">
+          Explore the Pipeline
+        </a>
+      </section>
+    </>
+  );
+}

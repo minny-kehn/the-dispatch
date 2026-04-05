@@ -1,0 +1,46 @@
+{
+  "slug": "u-s-rescues-second-f-15-pilot-shot-down-in-iran",
+  "headline": "U.S. Rescues Second F-15 Pilot Shot Down in Iran",
+  "deck": "The successful extraction of the crew member follows the downing of a U.S. F-15 jet in Iranian territory—a development confirmed by President Donald Trump on his social media platform.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "The United States has successfully rescued the second crew member of a U.S. F-15 jet. This significant development marks a critical turn in an ongoing situation in the region.",
+    "The rescue operation focused on the second pilot from an F-15 aircraft that was previously shot down in Iran. Details surrounding the downing of the jet remain sparse, but the recovery effort has now concluded for both crew members.",
+    "The incident involving the F-15 jet being shot down in Iran has drawn considerable international attention. The successful rescue of both pilots underscores the complexities and risks inherent in current geopolitical dynamics.",
+    "Sources close to the event described the rescue as 'miraculous,' highlighting the extreme challenges and dangers involved in extracting personnel from a hostile environment. Such operations are often fraught with peril.",
+    "President Donald Trump publicly confirmed the rescue of the second pilot. His statement provided official acknowledgment of the successful operation.",
+    "The President utilized his social media platform to deliver the confirmation. This method of communication has become a characteristic element of his administration's public messaging on sensitive and breaking news."
+  ],
+  "publishedAt": "2026-04-05T08:07:42.824Z",
+  "readTime": 1,
+  "sources": [],
+  "sourceUrls": [
+    "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:04:25.145Z",
+      "detail": "Aggregated official statements and news reports regarding military operations."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:06:59.346Z",
+      "detail": "Identified two key events: the rescue of a second U.S. F-15 pilot in Iran and its confirmation by President Trump."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-05T08:07:42.824Z",
+      "detail": "Constructed a concise geopolitical report detailing a critical military rescue and its official announcement."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 2/10, Accuracy: 5/10)",
+      "timestamp": "2026-04-05T08:09:55.302Z"
+    }
+  ]
+}
