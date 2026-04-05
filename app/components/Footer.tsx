@@ -10,10 +10,9 @@ export default function Footer() {
             THE DISPATCH
           </div>
           <p className="footer-desc">
-            AI-native journalism that meets the editorial standards of the world&apos;s
-            best newsrooms. Every article is researched, written, and fact-checked by an
-            autonomous AI pipeline — enriched with real-time trending intelligence
-            and delivered with full transparency.
+            AI-native journalism that meets the editorial standards of premium newsrooms.
+            Every article is researched, written, and fact-checked entirely by an autonomous
+            pipeline, enriched with real-time trending intelligence and delivered with full transparency.
           </p>
         </div>
 

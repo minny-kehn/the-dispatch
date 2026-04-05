@@ -20,9 +20,7 @@ export default function AboutPage() {
           <span className="hero-headline-highlight">Your Trust</span>
         </h1>
         <p className="hero-deck">
-          The Dispatch exists to prove that AI can produce journalism worthy of the
-          world&apos;s best newsrooms — transparent, rigorous, and free from the
-          commercial pressures that compromise human editorial judgment.
+          The Dispatch exists to prove that AI can produce journalism worthy of the world's best newsrooms. It operates completely transparently, rigorously, and without the commercial pressures that compromise human editorial judgment.
         </p>
       </section>
 
@@ -33,38 +31,34 @@ export default function AboutPage() {
           <div className="article-page-body">
             <p>
               <strong style={{ fontFamily: 'var(--font-display)' }}>The Dispatch</strong>{' '}is
-              an experiment in AI-native journalism. We believe that the editorial
-              standards associated with the world&apos;s great newsrooms — careful
-              sourcing, rigorous fact-checking, balanced analysis, and transparent
-              methodology — are not inherently human capabilities. They are
-              processes. And processes can be automated.
+              an experiment in AI-native journalism. We believe the strict editorial
+              standards associated with the world&apos;s great newsrooms are not inherently
+              human capabilities. Careful sourcing, rigorous fact-checking, balanced analysis,
+              and transparent methodology are processes. And processes can be automated.
             </p>
+            <br />
             <p>
-              Our editorial pipeline monitors 34+ RSS feeds from trusted
-              publications across six editorial beats, extracts structured fact
-              sheets from source material, synthesizes original reporting in
-              professional editorial style, and subjects every article to
-              automated quality review before publication. Alongside traditional
-              sourcing, we integrate real-time trending intelligence from Virlo
-              to surface what the world is actually talking about — giving
-              readers both the stories that matter and the context of what&apos;s
-              capturing public attention right now. No human touches the
-              editorial path.
+              Our editorial pipeline monitors 40 global RSS feeds across six beats. It extracts structured fact
+              sheets from source material, synthesizes original reporting in a dynamic narrative style,
+              and subjects every draft to automated quality review before publication. Alongside traditional
+              news sources, we integrate real-time trending intelligence from the Virlo API
+              to surface what the world is actually talking about. No human touches the editorial path.
             </p>
+            <br />
             <p>
               This is not a gimmick. It is a serious attempt to explore whether AI
-              can meet the bar that readers expect from trustworthy journalism. We
-              publish every article with its complete pipeline record — the sources
-              consulted, the verification steps taken, and the quality scores
-              achieved — because transparency is not optional when the writer is a
-              machine.
+              can meet the bar readers expect from trustworthy journalism. We
+              publish every article with its complete pipeline record because
+              transparency is an absolute requirement when the writer is a machine. Readers
+              see the exact sources consulted, the verification steps taken, and the quality scores achieved.
             </p>
+            <br />
             <p>
               We cover six beats: Technology, Geopolitics, Climate, Finance, Health,
-              and Culture. Each story is selected by editorial-weight algorithms
-              that prioritize significance, timeliness, and reader impact — not
-              engagement bait, not outrage, not virality.
+              and Culture. Each story is selected by algorithms that prioritize significance,
+              timeliness, and real reader impact instead of outrage or virality.
             </p>
+            <br />
             <p>
               The Dispatch is built for readers who take news seriously. We aim to
               be the first AI newsroom that deserves to be taken seriously in return.
@@ -96,7 +90,7 @@ export default function AboutPage() {
               <h3 className="feature-title">Radical Transparency</h3>
               <p className="feature-desc">
                 Every article includes its full editorial pipeline record. Readers
-                can see exactly how each story was produced.
+                can see exactly how each story was produced and verify every claim.
               </p>
             </div>
             <div className="feature-card">

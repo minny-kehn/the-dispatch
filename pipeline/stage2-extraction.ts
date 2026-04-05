@@ -119,12 +119,18 @@ Extract at least 5-10 key facts. Be thorough but only include claims present in 
       );
 
       factSheet.extractionTimestamp = new Date().toISOString();
+      factSheet.category = candidate.category; // Strict preservation to avoid LLM category drift
       factSheet.sourceUrls = candidate.sources.map(s => s.url);
       // Defensive: ensure arrays exist after potential JSON repair
       factSheet.keyFacts = factSheet.keyFacts || [];
       factSheet.keyQuotes = factSheet.keyQuotes || [];
       factSheet.keyStatistics = factSheet.keyStatistics || [];
-      factSheet.sourceNames = factSheet.sourceNames || [];
+      
+      // Defensively ensure 'SOURCES REFERENCED' is never empty by injecting the hardcoded RSS source names
+      const candidateSourceNames = candidate.sources.map(s => s.name);
+      const llmSourceNames = factSheet.sourceNames || [];
+      // Combine and deduplicate to ensure core sources are always present
+      factSheet.sourceNames = Array.from(new Set([...candidateSourceNames, ...llmSourceNames]));
       factSheets.push(factSheet);
       totalFacts += factSheet.keyFacts.length;
 

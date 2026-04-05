@@ -47,18 +47,16 @@ export default function PipelinePage() {
             </div>
             <h3 className="category-name">Stage 1: Source Discovery</h3>
             <p className="category-desc" style={{ maxWidth: '800px', fontSize: '16px', lineHeight: '1.7' }}>
-              Our pipeline monitors 34+ RSS feeds across six editorial beats —
-              technology, geopolitics, climate, finance, health, and culture —
-              pulling from trusted publications. We also pull
-              real-time trending signals from Virlo to identify stories gaining
-              momentum across social platforms. Stories are filtered by recency,
-              deduplicated to eliminate overlap, and cross-referenced against
-              previously published articles to ensure every piece covers
-              genuinely new ground. Top candidates are then scraped for full-text
-              context before advancing to fact extraction.
+              Our pipeline monitors 40 global RSS feeds across six categories:
+              technology, geopolitics, climate, finance, health, and culture.
+              We pull from trusted publications and integrate real-time trending signals
+              from the Virlo API to identify stories gaining momentum across social platforms.
+              Stories are filtered by recency, deduplicated to eliminate overlap, and cross-referenced against
+              previously published articles to ensure every piece covers genuinely new ground.
+              Top candidates are then scraped for full-text context before advancing to fact extraction.
             </p>
             <div className="category-tags" style={{ marginTop: '16px' }}>
-              <span className="category-tag">34+ RSS sources</span>
+              <span className="category-tag">40 global RSS sources</span>
               <span className="category-tag">6 editorial beats</span>
               <span className="category-tag">Trending intelligence</span>
               <span className="category-tag">Automated deduplication</span>
@@ -101,16 +99,15 @@ export default function PipelinePage() {
             <h3 className="category-name">Stage 3: Editorial Synthesis</h3>
             <p className="category-desc" style={{ maxWidth: '800px', fontSize: '16px', lineHeight: '1.7' }}>
               With a verified fact sheet in hand, the AI editorial engine composes
-              a complete article. It follows the inverted-pyramid structure used by
-              professional newsrooms: the most newsworthy information first,
-              followed by supporting detail and context. The engine incorporates
+              a complete article. It abandons dry reporting in favor of a dynamic,
+              narrative-driven feature style designed to keep readers engaged. The engine incorporates
               direct quotes from sources, weaves in historical context, and
-              provides analysis to help readers understand why the story matters.
-              Body text is sanitized to remove any markdown artifacts, and each
-              article typically runs 8–14 paragraphs.
+              provides sharp, conversational analysis explaining why the story matters.
+              Body text is sanitized to remove markdown artifacts, and each
+              highly scannable article typically runs 8 to 14 paragraphs.
             </p>
             <div className="category-tags" style={{ marginTop: '16px' }}>
-              <span className="category-tag">Inverted-pyramid structure</span>
+              <span className="category-tag">Narrative feature style</span>
               <span className="category-tag">8–14 paragraphs</span>
               <span className="category-tag">Contextual analysis</span>
               <span className="category-tag">No hallucination policy</span>
@@ -130,10 +127,10 @@ export default function PipelinePage() {
               quality reviewer. It scores three dimensions: bias detection
               (checking for political lean, loaded language, or one-sided framing),
               factual accuracy (verifying claims against the original fact sheet),
-              and readability (Flesch-Kincaid grade level targeting 12–14). Articles
-              that score well are approved; borderline articles receive a soft pass
-              with quality notes. Only articles with significant accuracy or bias
-              issues are rejected outright.
+              and readability (Flesch-Kincaid grade level). Articles
+              that score exceptionally well are approved. Borderline articles receive a soft pass
+              with quality notes. Any article with significant accuracy, bias, or category drift
+              issues is rejected outright.
             </p>
             <div className="category-tags" style={{ marginTop: '16px' }}>
               <span className="category-tag">Bias detection</span>

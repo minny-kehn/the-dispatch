@@ -56,6 +56,18 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'TECHNOLOGY',
     reliability: 'medium',
   },
+  {
+    name: 'Google News — Science',
+    url: 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB',
+    category: 'TECHNOLOGY',
+    reliability: 'high',
+  },
+  {
+    name: 'Science Daily',
+    url: 'https://www.sciencedaily.com/rss/all.xml',
+    category: 'TECHNOLOGY',
+    reliability: 'medium',
+  },
 
   // ============== GEOPOLITICS ==============
   {
@@ -170,6 +182,18 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'FINANCE',
     reliability: 'high',
   },
+  {
+    name: 'Forbes — Business',
+    url: 'https://www.forbes.com/business/feed/',
+    category: 'FINANCE',
+    reliability: 'high',
+  },
+  {
+    name: 'The Economist — Business',
+    url: 'https://www.economist.com/business/rss.xml',
+    category: 'FINANCE',
+    reliability: 'high',
+  },
 
   // ============== HEALTH ==============
   {
@@ -189,6 +213,12 @@ export const RSS_SOURCES: RSSSource[] = [
     url: 'https://www.who.int/rss-feeds/news-english.xml',
     category: 'HEALTH',
     reliability: 'high',
+  },
+  {
+    name: 'Medical News Today',
+    url: 'https://www.medicalnewstoday.com/rss/medicalnews.xml',
+    category: 'HEALTH',
+    reliability: 'medium',
   },
 
 
@@ -228,6 +258,12 @@ export const RSS_SOURCES: RSSSource[] = [
     url: 'https://feeds.npr.org/1008/rss.xml',
     category: 'CULTURE',
     reliability: 'medium',
+  },
+  {
+    name: 'IndieWire',
+    url: 'https://www.indiewire.com/feed/',
+    category: 'CULTURE',
+    reliability: 'high',
   },
 ];
 

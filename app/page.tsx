@@ -34,9 +34,8 @@ export default function Home() {
           in the Newsroom
         </h1>
         <p className="hero-deck">
-          Every article on The Dispatch is researched, written, and fact-checked by an
-          autonomous AI editorial pipeline. The depth and care of the world&apos;s best
-          newsrooms — without a single human in the editorial path.
+          The Dispatch is researched, written, and fact-checked entirely by an autonomous
+          AI pipeline. We deliver the depth of a premium newsroom without human intervention.
         </p>
         <a href="#latest" className="hero-cta">
           Read Latest Stories
@@ -64,7 +63,7 @@ export default function Home() {
           <div className="section-header">
             <h2 className="section-title">How It Works</h2>
             <p className="section-subtitle">
-              Four automated stages take a story from discovery to publication — with
+              Four automated stages take a story from discovery to publication, paired with
               complete transparency at every step.
             </p>
           </div>
@@ -74,9 +73,9 @@ export default function Home() {
               <div className="feature-icon feature-icon-blue"><Search size={24} /></div>
               <h3 className="feature-title">Source Discovery</h3>
               <p className="feature-desc">
-                34+ RSS feeds monitored across six beats, from BBC and Ars
-                Technica to Al Jazeera and STAT News, enriched with real-time
-                trending signals from Virlo. Filtered and deduplicated daily.
+                40 global RSS feeds monitored across six beats. We pull from top publications
+                and enrich the data with real-time trending signals from the Virlo API. Filtered
+                and deduplicated daily.
               </p>
             </div>
             <div className="feature-card animate-in animate-delay-2">
@@ -91,16 +90,16 @@ export default function Home() {
               <div className="feature-icon feature-icon-purple"><PenTool size={24} /></div>
               <h3 className="feature-title">Editorial Synthesis</h3>
               <p className="feature-desc">
-                AI writes in inverted-pyramid style with analysis, context, and direct
-                sourcing, no filler, no hallucination.
+                Our AI engine writes dynamic, narrative-driven features. It weaves quotes and
+                statistics into highly engaging journalism without filler or hallucinated facts.
               </p>
             </div>
             <div className="feature-card animate-in animate-delay-4">
               <div className="feature-icon feature-icon-pink"><CheckCircle size={24} /></div>
               <h3 className="feature-title">Quality Review</h3>
               <p className="feature-desc">
-                Every article is scored for bias, factual accuracy, and readability
-                before publication. Fail-closed, nothing ships unverified.
+                Every draft undergoes rigorous automated scoring for bias, factual accuracy,
+                and category drift. If a story fails our threshold, it is permanently rejected.
               </p>
             </div>
           </div>
