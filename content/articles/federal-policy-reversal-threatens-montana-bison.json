@@ -1,0 +1,52 @@
+{
+  "slug": "federal-policy-reversal-threatens-montana-bison",
+  "headline": "Federal Policy Reversal Threatens Montana Bison",
+  "deck": "A new proposal by the Trump administration aims to evict over 950 American bison from federal grazing lands in Montana, signaling a significant shift in land management priorities.",
+  "category": "CLIMATE",
+  "body": [
+    "In a move that casts a harsh spotlight on federal land use policy, the Trump administration has proposed canceling leases for American buffalo grazing on federal land in Montana. This directive, issued in January by Interior Secretary Doug Burgum, targets the iconic species amidst a broader administrative focus that has also included wind turbines, electric cars, and climate researchers.",
+    "The proposal specifically calls for the removal of bison from lands managed by the Bureau of Land Management (BLM) in north-central Montana. This action reverses a determination made by the Biden administration, which had placed conservation on par with grazing and resource extraction as legitimate uses for BLM-administered territory.",
+    "This proposed policy shift appears to be a direct response to longstanding anti-bison sentiment emanating from powerful cattle ranching interests and Republican politicians within Montana. Their concerns have long influenced land use discussions in a state deeply rooted in its agricultural economy.",
+    "Such a stance stands in stark contrast to the Interior Department's own historical legacy and symbolism. For over a century, the department, which oversees the BLM, has celebrated its crucial role in preventing the extinction of the American buffalo, prominently featuring the animal on its official seal as a testament to its conservation efforts.",
+    "Secretary Burgum's ruling hinges on a narrow interpretation of land use, asserting that bison in north-central Montana lack a legal right to graze on BLM-leased land. His justification states that these buffalo are not being raised for 'production-oriented purposes,' a criterion that underpins traditional livestock grazing leases.",
+    "\"Burgum has ruled that since bison here in north-central Montana are not being raised for 'production-oriented purposes,' they have no legal right to roam, wallow or munch grass on land leased from the bureau.\"",
+    "Should this ruling become final, the consequences for wildlife conservation will be immediate and substantial. More than 950 buffalo, which have grazed peacefully on these federal lands for the past two decades without major incident, face eviction from tens of thousands of acres.",
+    "The vacated lands are slated to be repurposed for cattle grazing, with their owners benefiting from significantly discounted leases. These BLM grazing fees are approximately 90 percent cheaper than those charged for livestock on privately owned land in Montana, providing a substantial economic incentive for the switch.",
+    "Montana Governor Greg Gianforte has publicly supported the prospect of banishing the buffalo, aligning his administration with the cattle ranchers who form a vital component of the state’s agricultural economy. This political backing underscores the deep-seated tension between economic interests and wildlife preservation.",
+    "This policy reversal represents more than just a localized land dispute; it highlights a fundamental redefinition of conservation's place within federal land management. The outcome will set a critical precedent for future decisions concerning native species and public lands across the United States, shaping the balance between ecological protection and agricultural development."
+  ],
+  "publishedAt": "2026-04-06T17:14:12.608Z",
+  "readTime": 2,
+  "sources": [
+    "Inside Climate News"
+  ],
+  "sourceUrls": [
+    "https://insideclimatenews.org/news/05042026/trump-interior-proposal-cancels-bison-grazing-leases-public-land/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:07:29.671Z",
+      "detail": "Aggregated policy statements, environmental analyses, and news reports from Inside Climate News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:11:46.299Z",
+      "detail": "Compiled administrative proposals, legal justifications, historical context, and impact statistics regarding bison grazing leases from a single source."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:14:12.608Z",
+      "detail": "Wove policy details with historical context and economic implications to examine the potential impact on wildlife conservation and federal land use."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 7/10, Accuracy: 10/10)",
+      "timestamp": "2026-04-06T17:18:51.267Z"
+    }
+  ]
+}

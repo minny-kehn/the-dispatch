@@ -1,0 +1,54 @@
+{
+  "slug": "nigeria-confronts-mounting-lassa-fever-death-toll",
+  "headline": "Nigeria Confronts Mounting Lassa Fever Death Toll",
+  "deck": "A dangerous Lassa fever outbreak continues to claim lives across Nigeria, exposing persistent challenges in public health containment.",
+  "category": "HEALTH",
+  "body": [
+    "Nigeria is grappling with a severe public health crisis as the Lassa fever death toll has climbed to 146, with these fatalities recorded within the first quarter of the year. The alarming figure paints a grim picture of the ongoing struggle to control the viral hemorrhagic illness across the nation. This significant loss of life casts a harsh spotlight on the urgent need for enhanced health interventions.",
+    "Among the affected regions, Bauchi and Taraba states are currently topping the Lassa fever fatality chart, signaling concentrated outbreaks in these areas. The Katsina government has also confirmed two deaths attributed to the disease, adding to the national count. These reports underscore the widespread geographical challenge posed by the virus.",
+    "The outbreak is often described by local observers as a 'five-state trap,' indicating that a limited number of states bear the brunt of the disease's impact. Despite concentrated efforts, Nigeria continues to struggle significantly in containing the Lassa fever outbreak. This persistent difficulty highlights systemic vulnerabilities within the public health infrastructure.",
+    "Lassa fever, an acute viral hemorrhagic illness, is caused by the Lassa virus and is endemic in West Africa. The disease primarily transmits to humans through contact with food or household items contaminated with the urine or feces of infected multimammate rats. This mode of transmission makes it particularly challenging to control in communities where sanitation and pest control can be inconsistent.",
+    "Outbreaks of Lassa fever frequently intensify during the dry season, a pattern that Nigeria experiences with regularity, leading to significant case numbers each year. The cyclical nature of these outbreaks places a continuous strain on healthcare facilities and resources. Understanding these seasonal trends is crucial for effective preventive strategies.",
+    "The rising death toll from Lassa fever highlights an ongoing public health crisis in Nigeria, indicating profound challenges in both containment and treatment efforts. The concentration of fatalities in specific states like Bauchi and Taraba, alongside the broader struggle to control the spread, demands immediate attention. This situation pushes an already vulnerable population closer to the brink.",
+    "Addressing this persistent threat requires a concerted and immediate effort to bolster public health interventions and awareness campaigns, particularly in high-risk areas. Enhanced surveillance, rapid diagnostic capabilities, and improved access to treatment facilities are critical next steps. Without these measures, the nation risks further loss of life and a deepening public health emergency."
+  ],
+  "publishedAt": "2026-04-06T17:16:20.520Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "allAfrica.com",
+    "Punch Newspapers",
+    "streamlinefeed.co.ke",
+    "Freedom Radio Nigeria",
+    "21st CENTURY CHRONICLE"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVGU4ZjZpcTM0M3NYclYxenF2djNZdE44Vk5BdWdjU2VaTWoxQ3BTMFFfV1NWczJvWDZfRmJqbG1UX2ZlWGtsT2gzQkM4QlBfMmx6NG9GT3dDOEE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:07:29.671Z",
+      "detail": "Aggregated health reports and news updates from multiple Nigerian and pan-African news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:11:46.299Z",
+      "detail": "Compiled Lassa fever death tolls, confirmed fatality locations, and outbreak descriptions from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:16:20.520Z",
+      "detail": "Wove statistical data with contextual background to frame the ongoing public health crisis in Nigeria, emphasizing its human impact and systemic challenges."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Death toll and state-specific fatality figures verified against provided statistics, and outbreak descriptions cross-referenced with key claims.",
+      "timestamp": "2026-04-06T17:20:23.821Z"
+    }
+  ]
+}

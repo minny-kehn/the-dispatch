@@ -1,0 +1,53 @@
+{
+  "slug": "israel-targets-iran-gas-complex-as-trump-deadline-nears",
+  "headline": "Israel Targets Iran Gas Complex as Trump Deadline Nears",
+  "deck": "An Israeli strike on a key Iranian gas complex underscores rapidly escalating regional tensions, coinciding with Iran's rejection of a ceasefire proposal and looming threats from the United States.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "A significant development unfolded with Israel's confirmed attack on Iran's South Pars gas complex, an incident that immediately casts a harsh spotlight on the volatile geopolitical landscape. This military action comes at a particularly fraught moment, as diplomatic efforts in the region appear to be faltering and rhetoric from key international players intensifies.",
+    "The strike follows a period of heightened warnings emanating from former President Trump, who has been 'amping up threats' against Tehran. His statements have created an atmosphere of growing apprehension, with a specific deadline regarding Iran reportedly fast approaching, adding another layer of urgency to the current situation.",
+    "Meanwhile, the path to de-escalation appears increasingly narrow as Iran has firmly rejected the latest ceasefire proposal on the table. This diplomatic impasse suggests a deep chasm between the parties, making any immediate resolution to the broader regional instability an increasingly remote prospect.",
+    "Adding to the gravity of the moment, reports from various sources indicate that plans are already in place to strike strategic Iranian sites should a diplomatic deal fail to materialize. Such preparations highlight the serious considerations being weighed by international actors, underscoring the potential for a far wider confrontation.",
+    "These interlocking events signify a critical juncture in the ongoing tensions involving Israel, Iran, and the United States. The combination of direct military action, a persistent diplomatic stalemate, and the pressure of impending deadlines collectively paints a grim picture for regional stability, pushing an already vulnerable region closer to the brink.",
+    "Reflecting on the long-term impact, the current trajectory suggests that the Middle East stands at a perilous crossroads. The unresolved tensions demand immediate and concerted international attention to prevent a broader conflict that could carry severe, far-reaching global repercussions."
+  ],
+  "publishedAt": "2026-04-06T17:13:18.306Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Channels Television",
+    "BBC",
+    "AP News",
+    "Yahoo",
+    "The Jerusalem Post"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGJBRjNZbGtYeXpMbjR0Qy1Xc1hWYVVVR1RQeU1fMWFKaTZ3Q1gwM3Zwb1NhazV0N3laU094RHhHRE9taVpGTG82X0FmZEszMEMwNGlRZnBDUHlQSjl5c1dPSWJoT1FDZGdKbGxLZmJnQWdJMlhVRGZfakFLdk56cXZJWkJZclVCMGVQOFZOQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:07:29.671Z",
+      "detail": "Aggregated news reports and analyses from international news organizations and wire services."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:11:46.299Z",
+      "detail": "Compiled details on the Israeli strike, Trump's threats, Iran's diplomatic stance, and military preparedness from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:13:18.306Z",
+      "detail": "Wove military actions with diplomatic developments and political rhetoric to illustrate escalating geopolitical tensions and their potential ramifications."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific events, claims, and quotes were directly cross-referenced and confirmed against the provided fact sheet, with no discrepancies found.",
+      "timestamp": "2026-04-06T17:18:08.776Z"
+    }
+  ]
+}

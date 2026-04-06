@@ -1,0 +1,54 @@
+{
+  "slug": "nigerias-refineries-failure-fuels-economic-turmoil",
+  "headline": "Nigeria's Refineries' Failure Fuels Economic Turmoil",
+  "deck": "Despite billions invested, Nigeria's state-owned refineries remain largely defunct, creating widespread hardship and price instability for its citizens.",
+  "category": "FINANCE",
+  "body": [
+    "Nigeria's vital petroleum infrastructure, its state-owned refineries, are deepening a national crisis, fueling widespread economic hardship and volatile prices for ordinary citizens. These critical facilities, intended to process crude oil domestically, have instead become a significant source of instability. Their disrepair forces the nation to rely heavily on imported refined products, passing exorbitant costs directly to consumers and businesses.",
+    "The operational failures of these mega refineries are increasingly described as a profound 'legacy of waste' by industry observers. Despite consuming billions in public funds over the years, these facilities are currently producing virtually no refined petroleum. This stark reality underscores a systemic challenge that has long plagued Nigeria's energy sector, diverting crucial resources without yielding any tangible output.",
+    "\"Legacy of waste: Inside Nigeria’s mega refineries gulping billions, producing nothing.\"",
+    "This persistent non-performance carries critical implications for Nigeria’s broader economic stability and energy security. The inability to refine its own abundant crude oil leaves the nation vulnerable to global market fluctuations, directly translating into higher petrol prices and immense financial strain for an already struggling populace. Ensuring a reliable supply of affordable fuel is an energy security imperative, yet the current situation actively undermines this goal.",
+    "Amidst this challenging landscape, calls for decisive action are growing louder from various stakeholders. The Petroleum Products Retail Outlets Owners Association of Nigeria (PETROAN) has specifically tasked Mr. Ojulari with spearheading petroleum production efforts at both the Port Harcourt and Warri Refineries, signaling an urgent need for operational revival. Analysts like Rewane have also weighed in, urging the Federal Government to consider selling subsidized crude oil to private refining companies like Dangote to help alleviate petrol price pressures.",
+    "Such measures aim to untangle the complex web of inefficiencies and financial drain that the defunct refineries represent. The current paradigm, where a major oil-producing nation imports most of its refined products, not only squanders national wealth but also stifles potential for domestic job creation and industrial growth. Reforming this sector is not merely an economic decision but a fundamental step towards national resilience.",
+    "Stabilizing the market and ensuring national energy independence hinges on a clear path forward for these crucial assets. Whether through robust private sector involvement, comprehensive rehabilitation, or strategic divestment, the urgent need to transform these unproductive facilities into engines of growth and stability remains paramount. The decisions made now will profoundly shape the economic well-being of millions of Nigerians for years to come."
+  ],
+  "publishedAt": "2026-04-06T17:15:35.803Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "The Sun Nigeria",
+    "The Guardian Nigeria News",
+    "Tribune Online",
+    "thesourceng.com",
+    "THISDAYLIVE"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0lBX2pYRnl4RUVRVmlERXBrQ1A2aE5JdXhaZEhvVkFpR0hWbWFlTkdnaVl0Zi14UTR3Z3dWeTFhZHNyYzNMS09iTkNySnJ0a0ZnUFNra2pjYnJkcWZwOERPeUt6cWRwMGs5X1VrU0c5a0RJWnhNalIwMU4tSkRLT1U4ZUhsa1FYNGRmTC11RdIBlAFBVV95cUxQVzVHUE1RUlpJcFRiT09IYWl4cDFnWkdYNFZzeTBJTU1SSXdhRXlfeWRpVHJVVDhZRnNBZFlZaGNibUEtR0d0VEJIeFRZOTlTRVNTRWJET2lkY243Mmt4STdpTE90N2xxWXM5ajI1YVZMS18yRDN3WkQtTkVnVXZsWVhCUEtzdHVDZFZ4WmRqajRMd1dK?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:07:29.671Z",
+      "detail": "Aggregated reports from leading Nigerian news outlets, including The Sun Nigeria, The Guardian Nigeria News, and Tribune Online, regarding the state of national oil refineries."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:11:46.299Z",
+      "detail": "Compiled claims of refinery disrepair, financial waste, and production failures, along with proposed solutions and quotes, from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:15:35.803Z",
+      "detail": "Wove together journalistic reports and expert analyses to illustrate the profound economic and humanitarian impact of Nigeria's non-functional oil refineries."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, direct quotes, and numerical data were meticulously cross-referenced and found to be in perfect alignment with the provided fact sheet, with no instances of fabrication or misrepresentation.",
+      "timestamp": "2026-04-06T17:19:46.307Z"
+    }
+  ]
+}

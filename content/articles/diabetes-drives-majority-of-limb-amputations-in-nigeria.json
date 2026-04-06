@@ -1,0 +1,48 @@
+{
+  "slug": "diabetes-drives-majority-of-limb-amputations-in-nigeria",
+  "headline": "Diabetes Drives Majority of Limb Amputations in Nigeria",
+  "deck": "A critical public health challenge emerges in Nigeria, as specialists link diabetes to a staggering number of surgical procedures across the nation.",
+  "category": "HEALTH",
+  "body": [
+    "A significant public health concern has been brought to light in Nigeria, where diabetes is now identified as the cause behind 60% of all limb amputations. This stark figure, reported by Punch Newspapers, casts a harsh spotlight on the profound impact of the metabolic disease within the country's communities.",
+    "The revelation comes from unnamed specialists, whose collective insights paint a grim picture of diabetes-related complications. Such a high percentage suggests that diabetes is not merely a contributing factor but the dominant force behind a substantial portion of these life-altering surgeries.",
+    "This statistic underscores a considerable burden on Nigeria's healthcare system and the lives of its citizens. The prevalence of diabetes-related amputations indicates a pressing need for enhanced awareness, early diagnosis, and effective management strategies to mitigate these severe outcomes.",
+    "Understanding this direct and significant link between diabetes and limb amputations is crucial for policymakers and medical professionals alike. It is a clear indicator that current approaches may need re-evaluation to better protect vulnerable populations.",
+    "Looking ahead, this data will be instrumental in developing targeted prevention and management strategies across Nigeria. Addressing this challenge effectively will require concerted efforts to improve patient outcomes and alleviate the heavy toll exacted by diabetes-related complications."
+  ],
+  "publishedAt": "2026-04-06T17:16:00.272Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Punch Newspapers"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFhDU2F3LUh4MUM3cGstUWVCZVZuWFAwR0lvSlc3MEFOMVZGNnFQXzRNcXJKN3N3NEFzUk9LQVFEYzFmV3l3TGhXV0hmblRGbzgwS3R0NjVuQWdIdU1IbjZsR2VDX2FaWXdpbTVLbFR6OW1Wa0tVOTJnMld4eVREYU9jY3o3U3pGRlM1djlOR0RhYmpua2JLd2FmOXREV21J?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:07:29.671Z",
+      "detail": "A Google News search for health-related headlines in Nigeria led to a report published by Punch Newspapers."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:11:46.299Z",
+      "detail": "The core statistic, its attribution to specialists, and the source publication were extracted from the Punch Newspapers headline."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T17:16:00.272Z",
+      "detail": "The article synthesized the reported statistic with its public health implications to highlight the critical challenge posed by diabetes in Nigeria."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The central statistic regarding diabetes and limb amputations, along with its attribution to 'Specialists' and 'Punch Newspapers', was directly verified against the provided fact sheet, confirming high accuracy.",
+      "timestamp": "2026-04-06T17:20:04.416Z"
+    }
+  ]
+}
