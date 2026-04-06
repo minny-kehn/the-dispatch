@@ -1,0 +1,59 @@
+{
+  "slug": "orion-crew-navigates-early-mission-malfunction",
+  "headline": "Orion Crew Navigates Early Mission Malfunction",
+  "deck": "Astronauts aboard the Artemis II mission successfully addressed a critical system malfunction as their journey to the Moon unfolded, demonstrating resilience in deep space.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The ambitious Artemis II mission, designed to pave the way for humanity's return to the lunar surface, faced an unexpected challenge shortly after departing Earth orbit. Astronauts aboard the Orion spacecraft encountered a malfunction with the FPGA-Based Space Toilet, a critical component for long-duration human spaceflight. This early technical snag cast a harsh spotlight on the complexities inherent in pushing the boundaries of human exploration.",
+    "Reports from the crew indicated trouble with the toilet system as Orion began its trajectory towards the Moon, a development that quickly engaged both the astronauts and ground teams. The issue emerged during a crucial phase of the journey, underscoring the constant vigilance required for every system onboard.",
+    "Midway to the Moon, Artemis II astronauts reported a distinct 'burning smell' emanating from the toilet, an alarming detail in the confined environment of a spacecraft. Despite this concerning sensory input, a thorough assessment by the crew and ground teams ultimately deemed the system to be fine, a testament to their meticulous troubleshooting protocols.",
+    "Working collaboratively, the crew in space and the dedicated ground teams at mission control successfully resolved the toilet issue on the Orion spacecraft. This swift and effective problem-solving highlighted the critical interplay between human ingenuity and sophisticated engineering in overcoming unforeseen challenges far from Earth.",
+    "Meanwhile, the mission continued its rigorous flight plan, including a necessary correction burn completed on Flight Day 5. This maneuver was crucial for maintaining Orion's precise trajectory, ensuring the spacecraft remained on course for its lunar rendezvous.",
+    "During its expansive journey, the Artemis crew also experienced a period of radio silence, losing contact with Earth for a full 40 minutes. Such moments of isolation underscore the vast distances involved in lunar travel and the self-reliance demanded of astronauts on these pioneering missions.",
+    "Despite these early technical hurdles and communication gaps, the Artemis II mission demonstrated its robust capabilities by successfully arriving in lunar space. This milestone confirms Orion’s operational readiness and the crew’s adeptness in handling the unpredictable nature of deep space travel.",
+    "The successful navigation of these early technical challenges underscores the meticulous preparation and adaptive capabilities essential for deep space exploration. As Artemis II continues its journey around the Moon, the experience provides invaluable data for engineers and mission planners, reinforcing the critical need for robust and reliable life support systems as humanity looks towards sustained lunar presence."
+  ],
+  "publishedAt": "2026-04-06T12:15:58.307Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Science",
+    "EEJournal",
+    "bbc.com",
+    "NASA (.gov)",
+    "Space",
+    "The Times of India",
+    "Engadget",
+    "CNN",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEJpUjVmaEliQUVnVlJaYWhLU2ZvNE9qc0tZQUJEMnI0czRlTWJNYlBqOTFldXo4Q1N2NkpTeHV2Y0hSSWctaVM3aWJoMWNQRmlVZ2U4ZnFTTEJqWnZ6QUFWa3pFWWFNYTJTa3dwUW1RQVY2RVlIc1c3eEdnNUhLR3pjRm1lUXJINU1pX1hkZEhxRVcxclpmY0JsYlMweDFpU3lQNGRtWUlydHJkMlR1YjZZRXA4MUhmd21wbkoxQ01fdTY3c25vQ05nenN2VktEM21YLXpGenphSHFtdVQ1cGZEQU5BUzJ4X3c?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMENHRlpTbWVYTW0yeDlMY3lad3RvZUM2R0NZNkZvMXU0d1BKUHZubXJocnAyMllqd3hIUTZzbTlyNXp5Q0VKR2licFI4MmFmaGhOdW5sMU1VWjluWG40RlpMdEUyUldUR3Y2YzRGaHVLam40eW9ZUXZHa0hjSUFaNHRHS2REOUpmU19Oa2Z4UFhVS2tjMVA3blF6SnB5dU1TdHpqTzA5aWNzakoyeGxfLTJjTjNMM1Nxak1NVzRR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:13:33.654Z",
+      "detail": "Aggregated mission updates, technical analyses, and news reports from space agencies and international media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:15:38.559Z",
+      "detail": "Compiled details of the space toilet malfunction, crew reports, troubleshooting efforts, and mission milestones from 7 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:15:58.307Z",
+      "detail": "Wove technical incident reports with mission progress updates to illustrate the challenges and resilience of the Artemis II crew and ground teams."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding mission events, malfunctions, and crew actions were meticulously cross-referenced against the provided fact sheet.",
+      "timestamp": "2026-04-06T12:18:09.936Z"
+    }
+  ]
+}

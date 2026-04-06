@@ -1,0 +1,54 @@
+{
+  "slug": "iran-issues-retaliation-warning-amid-heightened-regional-tensions",
+  "headline": "Iran Issues Retaliation Warning Amid Heightened Regional Tensions",
+  "deck": "A dangerous escalation of conflict grips the Middle East as Iran issues stark warnings of retaliation following US threats and reported exchanges of attacks with Israel, raising concerns over global shipping lanes.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Tensions in the Middle East have reached a perilous new peak as Iran issued a stark warning of \"devastating\" retaliation, coming after former President Trump's expletive-laden threats concerning the vital Strait of Hormuz. Tehran has vehemently condemned these threats, which centered on the potential closure of the critical global shipping lane. This dangerous escalation underscores the region's volatility and the profound implications for international stability and commerce.",
+    "These escalating verbal confrontations are unfolding against a backdrop of reported direct military exchanges. Both Israel and Iran are said to be trading attacks, adding a dangerous kinetic dimension to the already fraught diplomatic landscape. Residents of an Iranian city reported it was \"hit hard\" by strikes, while video footage emerged showing huge blasts at an Iranian missile base.",
+    "The gravity of the situation was underscored by Iran's official statement, warning of \"much more devastating retaliation\" should any further provocations occur. This declaration casts a harsh spotlight on the immediate risks of miscalculation in a region already on edge.",
+    "The Strait of Hormuz remains a central flashpoint in this unfolding crisis. Former President Trump previously issued a new ultimatum regarding the strait, intensifying fears of a naval confrontation. Tehran's strong condemnation highlights the strategic importance of this waterway, which is vital for global oil shipments.",
+    "Beyond the geopolitical maneuvering, the human cost of these escalating tensions is already being felt. Residents described an Iranian city as \"hit hard\" by recent strikes, painting a grim picture of the immediate impact on civilian populations. Such accounts underscore the direct consequences of these military actions on people's daily lives.",
+    "Analysts suggest that the continued threats and counter-threats push an already vulnerable population closer to the brink. The potential for disruption in the Strait of Hormuz carries severe global economic repercussions, given its role as a choke point for international energy supplies. The current volatile situation, marked by reported strikes and retaliatory warnings, signals a high risk of broader regional conflict.",
+    "As diplomatic channels struggle to contain the current trajectory, the coming days will be critical in determining whether the region can step back from the precipice. The interplay of direct military action, economic threats, and sharp rhetoric creates a complex web of unresolved tensions requiring careful de-escalation. The international community watches closely for any signs of restraint or further provocations that could ignite a wider conflagration."
+  ],
+  "publishedAt": "2026-04-06T12:16:21.318Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "The Guardian",
+    "Al Jazeera",
+    "The New York Times",
+    "bbc.com",
+    "Truncated Source (Iran threatens ‘much more devastating’ retaliation if civili)"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2Q1NTNGWi1weGFRTWdVb1JvdkdfaGJpZE11VkN1V211aFFkWGlpdWQ3OVpPQW1lQUJPc0FhSk5DVHVORmFWN2w3bHlkX29mSktycVVkb3ZxdV9BUkJ1Z3hiclRFMnJVakdGYThrTGZocnVHUWVKSVl5UlNqVHlnNFdBUWdOZl80NEEtT1ZzMlVpb3JpeEZHMWVVSzNtRkNoVWJqd2ZpTzkyUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:13:33.654Z",
+      "detail": "Aggregated geopolitical reports, official statements, and eyewitness accounts to understand the evolving crisis."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:15:38.559Z",
+      "detail": "Compiled specific threats, reported attacks, and resident accounts from The Guardian, Al Jazeera, The New York Times, and bbc.com."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:16:21.318Z",
+      "detail": "Wove together diplomatic warnings, military reports, and human impacts to illustrate the dangerous escalation of regional conflict."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including direct quotes and reported events, were meticulously cross-referenced and confirmed against the provided fact sheet, with no discrepancies found.",
+      "timestamp": "2026-04-06T12:18:28.413Z"
+    }
+  ]
+}

@@ -68,6 +68,12 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'TECHNOLOGY',
     reliability: 'medium',
   },
+  {
+    name: 'Nature News',
+    url: 'https://www.nature.com/nature.rss',
+    category: 'TECHNOLOGY',
+    reliability: 'high',
+  },
 
   // ============== GEOPOLITICS ==============
   {
@@ -106,11 +112,35 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'GEOPOLITICS',
     reliability: 'high',
   },
+  {
+    name: 'Reuters — World',
+    url: 'https://www.reutersagency.com/feed/',
+    category: 'GEOPOLITICS',
+    reliability: 'high',
+  },
+  {
+    name: 'DW News',
+    url: 'https://rss.dw.com/rdf/rss-en-all',
+    category: 'GEOPOLITICS',
+    reliability: 'high',
+  },
+  {
+    name: 'France 24',
+    url: 'https://www.france24.com/en/rss',
+    category: 'GEOPOLITICS',
+    reliability: 'high',
+  },
+  {
+    name: 'South China Morning Post',
+    url: 'https://www.scmp.com/rss/91/feed',
+    category: 'GEOPOLITICS',
+    reliability: 'high',
+  },
 
   // ============== CLIMATE ==============
   {
     name: 'Google News — Environment',
-    url: 'https://news.google.com/rss/search?q=climate+change+environment&hl=en-US&gl=US&ceid=US:en',
+    url: 'https://news.google.com/rss/search?q=climate+change+environment&hl=en&gl=world&ceid=US:en',
     category: 'CLIMATE',
     reliability: 'high',
   },
@@ -141,6 +171,12 @@ export const RSS_SOURCES: RSSSource[] = [
   {
     name: 'Yale Climate Connections',
     url: 'https://yaleclimateconnections.org/feed/',
+    category: 'CLIMATE',
+    reliability: 'high',
+  },
+  {
+    name: 'Devex',
+    url: 'https://www.devex.com/news/rss',
     category: 'CLIMATE',
     reliability: 'high',
   },
@@ -194,6 +230,18 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'FINANCE',
     reliability: 'high',
   },
+  {
+    name: 'Financial Times',
+    url: 'https://www.ft.com/rss/home',
+    category: 'FINANCE',
+    reliability: 'high',
+  },
+  {
+    name: 'Nikkei Asia',
+    url: 'https://asia.nikkei.com/rss',
+    category: 'FINANCE',
+    reliability: 'high',
+  },
 
   // ============== HEALTH ==============
   {
@@ -220,7 +268,18 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'HEALTH',
     reliability: 'medium',
   },
-
+  {
+    name: 'NPR — Health',
+    url: 'https://feeds.npr.org/1128/rss.xml',
+    category: 'HEALTH',
+    reliability: 'high',
+  },
+  {
+    name: 'The Lancet',
+    url: 'https://www.thelancet.com/rssfeed/lancet_online.xml',
+    category: 'HEALTH',
+    reliability: 'high',
+  },
 
   // ============== CULTURE ==============
   {
@@ -262,6 +321,12 @@ export const RSS_SOURCES: RSSSource[] = [
   {
     name: 'IndieWire',
     url: 'https://www.indiewire.com/feed/',
+    category: 'CULTURE',
+    reliability: 'high',
+  },
+  {
+    name: 'The Africa Report',
+    url: 'https://www.theafricareport.com/feed/',
     category: 'CULTURE',
     reliability: 'high',
   },
