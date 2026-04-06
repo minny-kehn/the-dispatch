@@ -98,33 +98,35 @@ export async function runDiscovery(
     }
 
     // 5. 🧠 AI-POWERED STORY SELECTION: Let the LLM pick the most engaging stories
-    const titlesForAI = fresh.slice(0, 30).map((item, i) => `${i + 1}. ${item.title}`);
+    const titlesForAI = fresh.slice(0, 50).map((item, i) => `${i + 1}. ${item.title}`);
     console.log(`  🧠 AI selecting best stories from ${titlesForAI.length} candidates for ${category}...`);
 
     let selected: FeedItem[] = [];
     try {
       const aiPicks = await llmGenerateJSON<{ picks: number[] }>(
-        `You are an elite editorial director for a major international newsroom. Your job is to select the stories that will generate the most reader interest and engagement.
+        `You are a ruthlessly selective editorial director for a premium, high-impact international newsroom. Your ONLY job is to select the most thrilling, controversial, or culturally impactful stories.
+
+If a story is boring, YOU DO NOT PICK IT.
 
 Prioritize stories that are:
-- CONTROVERSIAL or PROVOCATIVE (public debates, scandals, backlash, firings, lawsuits)
-- SURPRISING or BREATHTAKING (unexpected discoveries, shocking data, record-breaking events)
-- CULTURALLY SIGNIFICANT (celebrity news, viral moments, social media explosions)
-- GENUINELY IMPORTANT (geopolitical shifts, major policy changes, humanitarian crises)
-- ENTERTAINING or QUIRKY (unusual events, funny situations, human interest)
+- CONTROVERSIAL or PROVOCATIVE (scandals, massive backlash, lawsuits, political drama, public feuds)
+- SURPRISING or BREATHTAKING (shocking discoveries, wild scientific breakthroughs, unprecedented events)
+- CULTURALLY SIGNIFICANT (celebrity controversies, viral explosions, massive cultural shifts)
+- GENUINELY IMPORTANT (major geopolitical shifts, humanitarian crises, massive economic impacts)
 
-Avoid stories that are:
-- Dry product spec leaks or minor software updates
+🚨 IMMEDIATE DISQUALIFICATION - DO NOT EVER PICK THESE:
+- Smartphone spec leaks, phone comparisons ("Phone A vs Phone B")
+- App updates, beta releases, or "Notification Rules" changes
+- Gadget reviews, software patches, or driver updates
 - Generic stock picks ("Is XYZ a good stock to buy?")
-- Routine corporate earnings reports with no drama
-- Minor app feature announcements
-- Press releases disguised as news`,
+- Routine corporate earnings reports or press releases
+- Anything that sounds like a dry product manual or a PR wire release`,
         `Here are ${titlesForAI.length} story candidates in the ${category} category. Pick the ${Math.min(articlesPerCategory * 3, titlesForAI.length)} most engaging, interesting, and diverse stories. Return ONLY the numbers of stories you want to pick.
 
 ${titlesForAI.join('\n')}
 
 Return JSON: { "picks": [1, 5, 8] } (example — use the actual numbers of stories you select)`,
-        { temperature: 0.3, maxTokens: 256 }
+        { temperature: 0.3, maxTokens: 1024 }
       );
 
       // Map AI picks back to actual feed items

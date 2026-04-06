@@ -1,0 +1,55 @@
+{
+  "slug": "davido-rethinks-political-ambitions-citing-celebrity-failure-rate",
+  "headline": "Davido Rethinks Political Ambitions, Citing Celebrity 'Failure Rate'",
+  "deck": "Nigerian music icon Davido is reportedly reconsidering a move into politics, influenced by the perceived struggles of other public figures in the political arena.",
+  "category": "CULTURE",
+  "body": [
+    "Davido, the Nigerian music sensation whose influence extends far beyond the stage, is reportedly reassessing his previously hinted political aspirations. This shift in perspective from one of the continent's most prominent figures offers a rare glimpse into the personal considerations of celebrity involvement in public office, a topic of frequent discussion across the nation.",
+    "Reports from numerous Nigerian outlets indicate a significant shift in the artist's viewpoint, moving from a position of potential engagement to one of considerable caution. His expressed skepticism marks a notable turn for a personality often associated with political discourse, prompting questions about the factors shaping his evolving stance.",
+    "“I’m now skeptical about going into politics,” Davido stated, a sentiment widely reported by Daily Post Nigeria.",
+    "This newfound circumspection, sources suggest, is heavily influenced by what Davido perceives as a 'celebrity failure rate' within the political arena. He appears to be weighing the complexities and inherent risks that accompany a transition from the entertainment industry to the demanding landscape of governance.",
+    "The intricacies of navigating public service after a career built on global acclaim appear to weigh heavily on his mind. His acknowledgment that the path is fraught with challenges underscores the careful deliberation he is applying to his future, moving beyond initial enthusiasm to a more sober assessment.",
+    "Reflecting on what might have been, the celebrated musician also offered a glimpse into an entirely different career path he once considered. This revelation provides insight into the breadth of his interests beyond music and public life, hinting at a foundational curiosity.",
+    "“I Would Have Been A Journalist,” Davido revealed, as reported by LEADERSHIP Newspapers.",
+    "Davido's public contemplation offers a unique window into the personal calculations of public figures grappling with political involvement, and serves as a mirror to ongoing societal debates about the role of celebrity in leadership. His considered withdrawal from direct political ambition, for now, frames a continuing discussion about the qualifications and challenges faced by those who seek to bridge the gap between fame and governance."
+  ],
+  "publishedAt": "2026-04-06T16:16:48.204Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "The Nation Newspaper",
+    "Daily Post Nigeria",
+    "LEADERSHIP Newspapers",
+    "P.M. News",
+    "Daily Times Nigeria News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTZzbUwwRlJxR3FKV1k4eUFpUmFLNnZUT3pWd3E2TmJocHl1ZnFZZ3dqTW92MlJCLUxOdEJ5WjItbGJuNUxTZWx1ZERWWEcxVUFuRER3Y1EteVdpLVYtUWV6NS00WUVqR0MxTjN4ZVQ2cEJvaGNQOGFkSGExbEk5ZlRmNE9FUzjSAYwBQVVfeXFMT3pfNFp6NWo2TWdQaTdtZlZMc3F1enNyaTU0MzNjTkNjVUZZMjVVSGVEUmxfTDNxVDE3RVA4cjFBQnFMd0JTa1dYYllsbjBTV2NNR1Awdjh4NlFLbEFpQS1DSFFGVFU1bXR5d1BIWXBNSUtpdGpGYzBRcVVzdS11QkVoMGhWR0JrcmcxOXA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:07:46.702Z",
+      "detail": "Monitored Google News Entertainment for reports from prominent Nigerian newspapers regarding Davido's political statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:12:18.426Z",
+      "detail": "Extracted claims regarding Davido's political skepticism, reconsideration, and alternative career path, along with key quotes, from 6 Nigerian news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:16:48.204Z",
+      "detail": "Constructed a narrative detailing Davido's evolving political views, contextualizing his skepticism within the 'celebrity failure rate' and highlighting his alternate career interest."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including direct quotes and the influence of the 'celebrity failure rate' on Davido's political reconsideration, were precisely verified against the provided fact sheet.",
+      "timestamp": "2026-04-06T16:21:04.299Z"
+    }
+  ]
+}

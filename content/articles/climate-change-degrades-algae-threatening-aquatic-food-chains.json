@@ -1,0 +1,50 @@
+{
+  "slug": "climate-change-degrades-algae-threatening-aquatic-food-chains",
+  "headline": "Climate Change Degrades Algae, Threatening Aquatic Food Chains",
+  "deck": "A concerning shift driven by global warming is altering the fundamental nutritional quality of algae, the bedrock of marine ecosystems.",
+  "category": "CLIMATE",
+  "body": [
+    "Climate change is causing a profound, yet often unseen, transformation at the very foundation of aquatic life. Algae, microscopic organisms essential to virtually all marine and freshwater food webs, are reportedly turning into a less nutritious form, drawing comparisons to 'junk food' for the myriad species that depend on them.",
+    "This degradation in nutritional quality means that while algae may still be present in abundance, their caloric and nutrient content is diminishing. Organisms feeding on these altered algae are receiving fewer vital resources, potentially impacting their growth, reproductive success, and overall health.",
+    "The implications ripple immediately upwards through the aquatic food chain. Small crustaceans and fish that consume algae directly will suffer first, their diminished health affecting predators further along the chain, from larger fish to seabirds and marine mammals.",
+    "Such a widespread decline in foundational nutrition could trigger significant cascading effects throughout entire aquatic ecosystems. The health and survival of countless marine species are at stake, pushing already vulnerable populations closer to the brink of ecological instability.",
+    "Beyond the immediate environmental concerns, this shift also poses a tangible threat to human food sources. Fisheries worldwide rely on healthy marine ecosystems, and a compromised food web could lead to reduced fish stocks and broader disruptions in the global seafood supply.",
+    "Reflecting on the long-term impact, the alteration of algae by climate change underscores the pervasive nature of global warming. It is not merely a matter of rising temperatures or sea levels, but a fundamental reshaping of life's building blocks, with far-reaching and complex consequences for the planet's intricate biological systems."
+  ],
+  "publishedAt": "2026-04-06T16:14:41.268Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Environment",
+    "Google News",
+    "Haaretz"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbzFoX1ZkMmNIRDl3WFBSdUZ0Q1ZIUEZwXzBmbVQwT0JSeEJ0LUxGakJIVkpJTElkbW5iMGd0SXYwMDhkQnUxbXRsX0JKRzNJN01FSmx2UW9SdXdraDRwVkgtY0VaMk03SUhaTkoxRmNVWkg5YlpnTEowVXptcmdRSnd5OVRKUW9EUXBoSVQ0Q1lDeDhmMTFyZUVzRHUwVzlQNlhTVW5UdmE5WDBOMGE5MTltWEhHNWxUM3FhRHVPQjNMbGpzMjQ2enlUMnZOMEYxOWd5aE9HZmkyNXhGUk44bHFKaVBNRGxPQVJ6QWxxdzR0OF9xVzZRMTQxNVZrbmtsZW5jQkIzd3BNYXJkSTBWM0VmVk9zMWNsYVpCTG9aUW1LaWlCclE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:07:46.702Z",
+      "detail": "Monitoring environmental news feeds and international publications via Google News and Haaretz."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:12:18.426Z",
+      "detail": "Identified a core claim regarding climate change's impact on algal nutrition and its ecological implications from referenced sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:14:41.268Z",
+      "detail": "Constructed a narrative detailing the cascading ecological and human impacts of degrading algal nutritional quality due to climate change."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The central scientific claim regarding algae degradation due to climate change was directly verified against the provided fact sheet, with all subsequent elaborations and implications found to be logical extensions of this core fact.",
+      "timestamp": "2026-04-06T16:18:44.607Z"
+    }
+  ]
+}

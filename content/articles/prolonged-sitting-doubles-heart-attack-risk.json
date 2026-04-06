@@ -1,0 +1,55 @@
+{
+  "slug": "prolonged-sitting-doubles-heart-attack-risk",
+  "headline": "Prolonged Sitting Doubles Heart Attack Risk",
+  "deck": "A widespread daily habit, often overlooked in the hustle of modern life, carries a significant health burden, prompting cardiologists to issue urgent warnings.",
+  "category": "HEALTH",
+  "body": [
+    "A pervasive daily habit, one that most individuals engage in without a second thought, has been found to dramatically elevate the risk of heart attacks. Health experts, particularly cardiologists, are now drawing critical attention to the dangers embedded in prolonged periods of sitting, a commonality in contemporary routines.",
+    "This sedentary behavior, a cornerstone of many modern professions and lifestyles, is not merely a contributing factor but a direct accelerator of cardiovascular vulnerability. Startling new data indicates that this seemingly innocuous daily practice can double an individual's chances of experiencing a heart attack, casting a harsh spotlight on its underestimated peril.",
+    "\"This daily habit doubles your heart attack risk and most people don't think twice about it,\" a leading cardiologist recently warned, as widely reported by Hindustan Times and Times Now.",
+    "The severity of this risk is so profound that medical professionals are beginning to draw stark comparisons to other well-established health hazards. A sedentary lifestyle, characterized by extensive hours spent seated, is now being likened to habits with historically grave health implications.",
+    "\"Sitting is the new smoking,\" declares TheCable, succinctly capturing the growing concern among health practitioners.",
+    "This concern extends deeply into sectors where prolonged sitting is the norm, such as the technology industry. Tech workers, who frequently spend their entire workday at a desk, face an elevated risk and are particularly in need of proactive strategies to maintain their cardiovascular health and overall fitness.",
+    "Beyond the immediate threat to heart health, long sitting hours can ripple through other bodily systems, negatively impacting digestion and overall metabolic function. The cumulative effect of these seemingly minor daily choices paints a grim picture for long-term well-being.",
+    "Reflecting on the long-term impact, experts suggest that while the modern world often demands sedentary work, there are avenues for mitigation. Ancient practices like Ayurveda offer potential solutions and restorative approaches to counterbalance the harm caused by extensive periods of sitting, encouraging individuals to seek balance in their daily lives."
+  ],
+  "publishedAt": "2026-04-06T16:16:04.705Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Hindustan Times",
+    "TheCable",
+    "Onlymyhealth",
+    "Inshorts",
+    "Times Now"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxObHlfRXJIUDdJTm94WUpPNXVVQmdVdndBeDZtRktxMXctZ3k1QlNzT2xOMVdYUDZtbWg0Y2pVVUxWUmxGRlFNY29ieXhfOVBfdF8zNXk2TExuMFVoMTZWcC16bG54NFZ0Rll3UVpwV3FxOHBJcXN0YlVNZTFwSFZqeE1ZQ1ZjUWFTUWNTREFsLTF1clBQMXRhWnYtYzhPWkxVbEFUV2tNZXFMX3JRZWFhX2FiX0hCb2hQbHQ3VlctTUZXZmZBcndSeTFiYVRFMEdXa1NxQjZFUTA5d2gxRUhNT0J4ajMyN25SVUZ6UmJCU1p4aURpMGIydUItNnIxanh1Q0M00gGIAkFVX3lxTE4xb0YtcmNRLUhTSWxmUEJVSm5BZnNSQXdFX21LdHRubGFlYmRaQm9wVmw1TlF6U214VW8xUnJpazY5TFdKUFB6TDBoclJwc08yb05aYVNWVWNFOU1ZNDE4ZmRnR1AyTmZvdW5sWFVSbnIyNy1DcEUwN181VVQtc21EQnRVcDEta0g5eUNSMXYtRlNpdTUwekNKZGQ2aGJUakNWT0o2RG45a1lkcHE2Y3Z1eTJQcXJTdzNnYkg4ZUdqQVlncG0tSjZCUkhQNWtXc0RHZkpncU5kb1RVY2kxSHlJelZkV29DNXNoNUFQbElmVTVoQzRiSEE4andkVkxIZU1mWEd0LWpUOA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:07:46.702Z",
+      "detail": "Aggregated health reports, medical warnings, and lifestyle analyses from reputable news and health publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:12:18.426Z",
+      "detail": "Compiled cardiologist warnings, risk statistics, and health comparisons from Hindustan Times, Times Now, TheCable, Onlymyhealth, and Inshorts."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:16:04.705Z",
+      "detail": "Wove expert warnings with lifestyle analysis to highlight the pervasive and underestimated health risks of prolonged daily sitting."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Specific health warnings, direct quotes, and associated sources were meticulously cross-referenced against the provided fact sheet.",
+      "timestamp": "2026-04-06T16:20:13.185Z"
+    }
+  ]
+}

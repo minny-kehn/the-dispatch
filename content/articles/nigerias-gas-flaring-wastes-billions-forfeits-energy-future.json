@@ -1,0 +1,53 @@
+{
+  "slug": "nigerias-gas-flaring-wastes-billions-forfeits-energy-future",
+  "headline": "Nigeria's Gas Flaring Wastes Billions, Forfeits Energy Future",
+  "deck": "A new World Bank assessment reveals the staggering economic cost of Nigeria's persistent gas flaring, highlighting a profound loss of national wealth and energy potential.",
+  "category": "FINANCE",
+  "body": [
+    "Nigeria, a nation rich in hydrocarbon resources, has incurred a staggering $56.75 billion loss due to the pervasive practice of gas flaring. This immense sum represents a significant drain on the country's economy, diverting crucial funds that could otherwise fuel development and improve the lives of its citizens. The continuous burning off of natural gas associated with oil extraction underscores a systemic inefficiency within a vital sector.",
+    "This substantial economic setback, attributed to an analysis by the World Bank, casts a harsh spotlight on the long-standing challenges Nigeria faces in harnessing its natural resources effectively. Gas flaring, often a consequence of inadequate infrastructure for capturing and processing natural gas, leads to both considerable financial losses and severe environmental pollution. It is a practice with deeply rooted implications for the nation's fiscal health and ecological balance.",
+    "Beyond the immediate monetary figures, gas flaring represents a profound squandering of Nigeria's intrinsic energy potential. Each plume of fire that lights the night sky signifies an opportunity lost to power homes, industries, and drive economic growth. This ongoing waste prevents the country from fully leveraging its abundant natural gas reserves, which could serve as a cornerstone for sustainable development.",
+    "Remarkably, analysts suggest that Nigeria is effectively flaring what some describe as 'the answer to the world’s biggest tech problem.' This provocative assertion highlights the immense, untapped value of the gas currently being incinerated, hinting at its potential applications far beyond conventional energy generation. The scale of this overlooked resource suggests a critical oversight with global implications.",
+    "Harnessing Nigeria’s vast gas sector could position the nation as a leader in Africa’s future energy landscape. Developing the necessary infrastructure and policies to capture, process, and distribute this gas would not only mitigate environmental damage but also unlock immense economic opportunities. Such a strategic shift could transform Nigeria into a continental energy powerhouse, driving regional growth and innovation.",
+    "The persistent flaring of gas thus paints a grim picture of missed opportunities, where a valuable resource is literally going up in smoke. It underscores the urgent need for comprehensive investments in gas utilization projects, from processing plants to pipeline networks. Addressing this issue is not merely an environmental imperative but a crucial economic one, demanding a concerted national effort.",
+    "Moving forward, the unresolved tension between Nigeria's energy potential and its current practices demands robust policy interventions and significant infrastructural development. The path to reclaiming these lost billions and securing a sustainable energy future lies in a decisive shift towards gas capture and utilization. This strategic pivot is essential for unlocking the nation's full economic promise and environmental stewardship."
+  ],
+  "publishedAt": "2026-04-06T16:15:00.524Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "LEADERSHIP Newspapers",
+    "Businessday NG",
+    "Blueprint Newspapers",
+    "P.M. News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GNjJPeFh6TlN4OVpCUUxYSkk1aXg1dlBxMXJlUEYtWkc0WWhRVjFGcjlNUjdaZXlwSThSZTlqQURtamY0Umt4bWh2endWLUphdmpSai1ZclgzamtFTFhtTWhqeFg5SzhLcFFRRkxVanhuM19sV1p0YWtR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:07:46.702Z",
+      "detail": "Aggregated economic reports, energy sector analyses, and news coverage from Nigerian and international media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:12:18.426Z",
+      "detail": "Compiled statistics on financial losses from gas flaring, expert claims, and analyses of energy potential from 4 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T16:15:00.524Z",
+      "detail": "Wove economic data with expert analysis to examine the financial and strategic implications of Nigeria's gas flaring practices."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Financial figures and analytical claims were meticulously cross-referenced against the provided World Bank assessment data, with all specific facts confirmed.",
+      "timestamp": "2026-04-06T16:19:02.732Z"
+    }
+  ]
+}
