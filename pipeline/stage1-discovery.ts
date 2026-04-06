@@ -83,10 +83,40 @@ export async function runDiscovery(
     const unique = deduplicateItems(recent);
     console.log(`  🔄 ${category}: ${unique.length} unique items after dedup`);
 
-    // 4. Sort by recency (newest first)
-    const sorted = unique.sort(
-      (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-    );
+    // 4. Score and rank by engagement potential (not just recency)
+    const scored = unique.map(item => {
+      let score = 0;
+
+      // Recency boost: newer stories score higher (max 40 points)
+      const ageHours = (Date.now() - new Date(item.publishedAt).getTime()) / (1000 * 60 * 60);
+      score += Math.max(0, 40 - (ageHours * (40 / recencyHours)));
+
+      // Title quality: longer, more specific titles tend to be better stories (max 20 points)
+      const titleWords = item.title.split(/\s+/).length;
+      if (titleWords >= 6 && titleWords <= 15) score += 15;
+      else if (titleWords >= 4) score += 8;
+      // Bonus for titles with numbers/specifics (indicates concrete reporting)
+      if (/\d/.test(item.title)) score += 5;
+
+      // Summary depth: stories with richer summaries have more material to work with (max 20 points)
+      const summaryLength = (item.summary || '').length;
+      if (summaryLength > 400) score += 20;
+      else if (summaryLength > 200) score += 12;
+      else if (summaryLength > 50) score += 5;
+
+      // Multi-source coverage: if other feeds also covered this, it's significant (max 20 points)
+      const relatedCount = unique.filter(
+        other => other !== item && hasTitleOverlap(other.title, item.title)
+      ).length;
+      score += Math.min(20, relatedCount * 10);
+
+      return { item, score };
+    });
+
+    // Sort by engagement score (highest first)
+    const sorted = scored
+      .sort((a, b) => b.score - a.score)
+      .map(s => s.item);
 
     // 5. Select top N candidates, skipping those that look like existing articles
     const selected: FeedItem[] = [];
