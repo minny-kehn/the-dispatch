@@ -11,6 +11,7 @@ import { batchScrape, ScrapedContent } from './scraper';
 import { getSourcesByCategory, getAllCategories } from '@/lib/sources';
 import { Category } from '@/lib/types';
 import { getExistingSlugs, generateSlug, getExistingSourceUrls } from './utils';
+import { llmGenerateJSON } from './llm';
 
 // ============================================
 // Types
@@ -83,58 +84,61 @@ export async function runDiscovery(
     const unique = deduplicateItems(recent);
     console.log(`  🔄 ${category}: ${unique.length} unique items after dedup`);
 
-    // 4. Score and rank by engagement potential (not just recency)
-    const scored = unique.map(item => {
-      let score = 0;
-
-      // Recency boost: newer stories score higher (max 40 points)
-      const ageHours = (Date.now() - new Date(item.publishedAt).getTime()) / (1000 * 60 * 60);
-      score += Math.max(0, 40 - (ageHours * (40 / recencyHours)));
-
-      // Title quality: longer, more specific titles tend to be better stories (max 20 points)
-      const titleWords = item.title.split(/\s+/).length;
-      if (titleWords >= 6 && titleWords <= 15) score += 15;
-      else if (titleWords >= 4) score += 8;
-      // Bonus for titles with numbers/specifics (indicates concrete reporting)
-      if (/\d/.test(item.title)) score += 5;
-
-      // Summary depth: stories with richer summaries have more material to work with (max 20 points)
-      const summaryLength = (item.summary || '').length;
-      if (summaryLength > 400) score += 20;
-      else if (summaryLength > 200) score += 12;
-      else if (summaryLength > 50) score += 5;
-
-      // Multi-source coverage: if other feeds also covered this, it's significant (max 20 points)
-      const relatedCount = unique.filter(
-        other => other !== item && hasTitleOverlap(other.title, item.title)
-      ).length;
-      score += Math.min(20, relatedCount * 10);
-
-      return { item, score };
+    // 4. Filter out already-published stories first
+    const fresh = unique.filter(item => {
+      if (existingUrls.has(item.link)) return false;
+      const candidateSlug = generateSlug(item.title);
+      if (existingSlugs.has(candidateSlug)) return false;
+      return true;
     });
 
-    // Sort by engagement score (highest first)
-    const sorted = scored
-      .sort((a, b) => b.score - a.score)
-      .map(s => s.item);
+    if (fresh.length === 0) {
+      console.log(`  ⚠ No new stories for ${category} after filtering existing`);
+      continue;
+    }
 
-    // 5. Select top N candidates, skipping those that look like existing articles
-    const selected: FeedItem[] = [];
-    for (const item of sorted) {
-      if (selected.length >= articlesPerCategory * 3) break; // Get 3x for scraping redundancy
+    // 5. 🧠 AI-POWERED STORY SELECTION: Let the LLM pick the most engaging stories
+    const titlesForAI = fresh.slice(0, 30).map((item, i) => `${i + 1}. ${item.title}`);
+    console.log(`  🧠 AI selecting best stories from ${titlesForAI.length} candidates for ${category}...`);
 
-      // 🚨 CRITICAL DEDUPLICATION: Skip if we already published a story using this exact source URL
-      if (existingUrls.has(item.link)) {
-        continue;
-      }
+    let selected: FeedItem[] = [];
+    try {
+      const aiPicks = await llmGenerateJSON<{ picks: number[] }>(
+        `You are an elite editorial director for a major international newsroom. Your job is to select the stories that will generate the most reader interest and engagement.
 
-      // Fallback check against raw title slug
-      const candidateSlug = generateSlug(item.title);
-      if (existingSlugs.has(candidateSlug)) {
-        continue;
-      }
+Prioritize stories that are:
+- CONTROVERSIAL or PROVOCATIVE (public debates, scandals, backlash, firings, lawsuits)
+- SURPRISING or BREATHTAKING (unexpected discoveries, shocking data, record-breaking events)
+- CULTURALLY SIGNIFICANT (celebrity news, viral moments, social media explosions)
+- GENUINELY IMPORTANT (geopolitical shifts, major policy changes, humanitarian crises)
+- ENTERTAINING or QUIRKY (unusual events, funny situations, human interest)
 
-      selected.push(item);
+Avoid stories that are:
+- Dry product spec leaks or minor software updates
+- Generic stock picks ("Is XYZ a good stock to buy?")
+- Routine corporate earnings reports with no drama
+- Minor app feature announcements
+- Press releases disguised as news`,
+        `Here are ${titlesForAI.length} story candidates in the ${category} category. Pick the ${Math.min(articlesPerCategory * 3, titlesForAI.length)} most engaging, interesting, and diverse stories. Return ONLY the numbers of stories you want to pick.
+
+${titlesForAI.join('\n')}
+
+Return JSON: { "picks": [1, 5, 8] } (example — use the actual numbers of stories you select)`,
+        { temperature: 0.3, maxTokens: 256 }
+      );
+
+      // Map AI picks back to actual feed items
+      const pickedIndices = (aiPicks.picks || []).map(n => n - 1).filter(i => i >= 0 && i < fresh.length);
+      selected = pickedIndices.length > 0
+        ? pickedIndices.map(i => fresh[i])
+        : fresh.slice(0, articlesPerCategory * 3); // Fallback to first N if AI returns nothing
+
+      console.log(`  ✓ AI picked: ${selected.map(s => `"${s.title.substring(0, 50)}..."`).join(', ')}`);
+    } catch (err) {
+      console.log(`  ⚠ AI selection failed, falling back to recency sort`);
+      selected = fresh
+        .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+        .slice(0, articlesPerCategory * 3);
     }
 
     if (selected.length === 0) {
