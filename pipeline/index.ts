@@ -25,7 +25,7 @@ loadEnvConfig(process.cwd());
 
 const CONFIG = {
   /** Number of articles to produce per category per run */
-  articlesPerCategory: 1,
+  articlesPerCategory: 2,
   /** How far back to look for news (hours) */
   recencyHours: 48,
   /** How many days to keep articles before pruning */

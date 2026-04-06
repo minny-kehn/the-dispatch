@@ -330,6 +330,54 @@ export const RSS_SOURCES: RSSSource[] = [
     category: 'CULTURE',
     reliability: 'high',
   },
+  {
+    name: 'TMZ',
+    url: 'https://www.tmz.com/rss.xml',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'BuzzFeed',
+    url: 'https://www.buzzfeed.com/world.xml',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'Vice',
+    url: 'https://www.vice.com/en/rss',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'People Magazine',
+    url: 'https://people.com/feed/',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'The Daily Beast',
+    url: 'https://feeds.thedailybeast.com/rss/articles',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'Daily Mail — News',
+    url: 'https://www.dailymail.co.uk/articles.rss',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'Reddit — Popular',
+    url: 'https://www.reddit.com/r/popular.rss',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
+  {
+    name: 'Dazed',
+    url: 'https://www.dazeddigital.com/rss',
+    category: 'CULTURE',
+    reliability: 'medium',
+  },
 ];
 
 export function getSourcesByCategory(category: Category): RSSSource[] {

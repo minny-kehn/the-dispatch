@@ -1,0 +1,58 @@
+{
+  "slug": "artemis-ii-astronauts-repair-onboard-system-during-lunar-transit",
+  "headline": "Artemis II Astronauts Repair Onboard System During Lunar Transit",
+  "deck": "NASA's critical crewed test flight to the Moon faced an unexpected technical hurdle when its advanced space toilet experienced issues shortly after leaving Earth's orbit.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The Artemis II Moon Mission, a vital crewed test flight aimed at returning humanity to the lunar surface, encountered an unexpected technical challenge shortly after departing Earth's gravitational embrace. En route to the Moon, the spacecraft's life support systems were put to an early test when its onboard toilet system began to malfunction. This incident, while seemingly minor, underscored the intricate challenges of maintaining habitability in the unforgiving vacuum of space.",
+    "Astronauts aboard Artemis II quickly identified the source of the trouble, reporting a distinct \"burning smell\" emanating from the toilet unit. Such an anomaly, however small, demands immediate attention in a closed environment far from any repair shop. The crew's swift identification of the issue allowed ground teams to begin assessing the situation without delay.",
+    "\"Artemis II Moon Mission’s FPGA-Based Space Toilet Poops Out Shortly After Reaching Earth Orbit, Repaired by Space Plumber,\" reported EEJournal, highlighting the unexpected nature of the breakdown in a system described as 'FPGA-Based.'",
+    "Responding with remarkable agility, the Artemis II crew, in close collaboration with ground control teams, initiated a meticulous troubleshooting process. This collaborative effort, spanning millions of miles, exemplifies the ingenuity and adaptability required for deep-space missions. Their coordinated actions were crucial in diagnosing the root cause of the unexpected problem.",
+    "Confirming the successful resolution, NASA stated, \"Crew and Ground Teams Successfully Troubleshoot Orion’s Toilet.\"",
+    "Despite the initial setback with the hygiene system, the Artemis II mission pressed onward, demonstrating the resilience of both the spacecraft and its human occupants. The Orion capsule successfully navigated its journey, eventually arriving in lunar space as planned. On Flight Day 5, the crew completed a precise correction burn, a critical maneuver to fine-tune their trajectory around the Moon.",
+    "The toilet repair was not the only challenge the crew faced during their pioneering journey. At one point, the Artemis II astronauts experienced a tense 40-minute period when they lost contact with Earth. These moments, where communication links falter, serve as potent reminders of the isolation inherent in deep-space exploration and the critical reliance on robust systems.",
+    "This early mission incident, from a malfunctioning toilet to brief communication blackouts, offers invaluable lessons for future long-duration space travel. It underscores the paramount importance of robust, redundant life support systems and the extraordinary problem-solving capabilities of astronauts and ground teams. As NASA continues its ambitious plans for lunar habitation and Mars missions, such real-world experiences are critical for refining the technologies and protocols that will carry humanity further into the cosmos."
+  ],
+  "publishedAt": "2026-04-06T12:45:28.397Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Science",
+    "EEJournal",
+    "bbc.com",
+    "NASA (.gov)",
+    "Space",
+    "Engadget",
+    "CNN",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEJpUjVmaEliQUVnVlJaYWhLU2ZvNE9qc0tZQUJEMnI0czRlTWJNYlBqOTFldXo4Q1N2NkpTeHV2Y0hSSWctaVM3aWJoMWNQRmlVZ2U4ZnFTTEJqWnZ6QUFWa3pFWWFNYTJTa3dwUW1RQVY2RVlIc1c3eEdnNUhLR3pjRm1lUXJINU1pX1hkZEhxRVcxclpmY0JsYlMweDFpU3lQNGRtWUlydHJkMlR1YjZZRXA4MUhmd21wbkoxQ01fdTY3c25vQ05nenN2VktEM21YLXpGenphSHFtdVQ1cGZEQU5BUzJ4X3c?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMENHRlpTbWVYTW0yeDlMY3lad3RvZUM2R0NZNkZvMXU0d1BKUHZubXJocnAyMllqd3hIUTZzbTlyNXp5Q0VKR2licFI4MmFmaGhOdW5sMU1VWjluWG40RlpMdEUyUldUR3Y2YzRGaHVLam40eW9ZUXZHa0hjSUFaNHRHS2REOUpmU19Oa2Z4UFhVS2tjMVA3blF6SnB5dU1TdHpqTzA5aWNzakoyeGxfLTJjTjNMM1Nxak1NVzRR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:42:51.244Z",
+      "detail": "Aggregated mission reports, aerospace journal analyses, and news coverage from multiple sources."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:45:04.857Z",
+      "detail": "Compiled details on the toilet malfunction, repair actions, mission progress, and communication loss from 7 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-06T12:45:28.397Z",
+      "detail": "Wove technical details with crew experiences and mission milestones to illustrate the complexities of deep-space operations."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, direct quotes, and numerical data were meticulously cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-04-06T12:47:10.609Z"
+    }
+  ]
+}
