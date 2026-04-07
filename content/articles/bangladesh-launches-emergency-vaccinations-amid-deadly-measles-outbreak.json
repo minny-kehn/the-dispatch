@@ -1,0 +1,53 @@
+{
+  "slug": "bangladesh-launches-emergency-vaccinations-amid-deadly-measles-outbreak",
+  "headline": "Bangladesh Launches Emergency Vaccinations Amid Deadly Measles Outbreak",
+  "deck": "A rapid vaccination drive is underway in Bangladesh as a severe measles outbreak has claimed the lives of over a hundred children, highlighting a critical public health emergency.",
+  "category": "HEALTH",
+  "body": [
+    "Bangladesh has initiated an urgent, nationwide measles vaccination drive, responding to a severe outbreak that has tragically claimed the lives of more than 100 children. This rapid mobilization aims to curb the rampant spread of the highly contagious disease, which has cast a harsh spotlight on the nation's public health vulnerabilities. The emergency campaign underscores the critical need for immediate action to protect its youngest and most susceptible population.",
+    "Reports from various international news organizations paint a grim picture, confirming that the outbreak has led to the deaths of nearly 100 children, with some sources reporting over 100 fatalities. One particularly stark account details 94 child deaths within a mere 19-day period, revealing the alarming speed and severity of the current crisis. These figures underscore the devastating impact on families and communities across the nation.",
+    "In light of these escalating numbers, the government of Bangladesh has swiftly launched a comprehensive measles vaccination program. Health officials are working tirelessly to reach affected areas and administer doses, aiming to create a protective shield around the most vulnerable. This proactive measure is deemed essential to prevent further loss of life and contain the infectious disease.",
+    "This deadly spike in measles cases serves as a potent indicator of the ongoing global challenges in maintaining robust vaccination coverage. Despite measles being a largely preventable disease with a safe and effective vaccine, outbreaks continue to push already vulnerable populations closer to the brink. The current situation in Bangladesh highlights how quickly public health crises can escalate without sustained preventative measures.",
+    "The sheer volume of child fatalities in such a short span has galvanized international attention, prompting calls for accelerated support for Bangladesh's public health infrastructure. The disease, known for its rapid transmission, poses a significant threat in densely populated areas where access to healthcare can be inconsistent. Efforts are now concentrated on ensuring widespread access to the life-saving vaccine.",
+    "As the emergency vaccination efforts continue, the nation faces the immense task of not only containing this immediate outbreak but also fortifying its long-term immunization strategies. The coming weeks will be crucial in determining the efficacy of the rapid response and in preventing similar tragedies from unfolding in the future. Sustained vigilance and international cooperation remain paramount to protect children from this persistent and dangerous disease."
+  ],
+  "publishedAt": "2026-04-07T12:55:19.874Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "nbcnews.com",
+    "The Guardian",
+    "Al Jazeera",
+    "BBC",
+    "Deccan Herald"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkxjaml2UU1BX09UUnhzVDRUYVg3ZXBkVUVQTVBOYUh0a2tWSlEyc3NSNHdZNXNRN3Z3b1lfVWNnYUtPTWlPVFlRR19xLWRiRTZPeXZrd0pvaE5qcS1WT0puRDg3VUtYU2FQbmdieVB6dzd2dkhhSjFSUzhTTWRmSDR1ZFdDVTVGd0dFbDFQMllpUEtZUnZ5TmpjWjZzV1lEeXVSbVNLWkcyUGZNUkJJbUVFNXdzUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:47:41.913Z",
+      "detail": "Aggregated reports from international news outlets via Google News Health."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:51:59.774Z",
+      "detail": "Compiled confirmed and suspected child death tolls, emergency vaccination drive details, and outbreak severity from nbcnews.com, The Guardian, Al Jazeera, BBC, and Deccan Herald."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:55:19.874Z",
+      "detail": "Wove reported death tolls and emergency response details into a narrative highlighting a critical public health crisis and the urgency of vaccination efforts."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported statistics on child fatalities and vaccination efforts were directly cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-04-07T12:59:17.558Z"
+    }
+  ]
+}

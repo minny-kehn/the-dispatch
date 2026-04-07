@@ -1,0 +1,54 @@
+{
+  "slug": "trumps-iran-deadline-fuels-oil-price-jump",
+  "headline": "Trump's Iran Deadline Fuels Oil Price Jump",
+  "deck": "Global oil markets are responding with heightened volatility as a critical deadline set by former President Trump concerning Iran approaches, influencing prices and investor sentiment worldwide.",
+  "category": "FINANCE",
+  "body": [
+    "Global oil markets are experiencing a significant surge, with prices hovering around $110 per barrel, as a critical deadline set by former President Trump regarding Iran draws near. This uptick reflects a cautious repositioning among traders who are closely monitoring the geopolitical landscape and its potential for disruption.",
+    "The approaching deadline, which Trump has reportedly reaffirmed, carries substantial weight. It includes the possibility of military action, with specific mentions of potentially bombarding Iran's power plants and bridges, alongside demands for the reopening of a vital oil route.",
+    "Central to these concerns is the Strait of Hormuz, a narrow passage through which a significant portion of the world's oil supply travels. The Strait remains shut, a persistent point of tension that amplifies market anxieties about supply disruptions should the situation escalate.",
+    "Amidst this uncertainty, frustration is palpably growing among market participants. Investors and analysts alike are attempting to navigate the implications of these high-stakes geopolitical maneuvers on an already delicate global economy.",
+    "Meanwhile, despite the specific pressures on oil, broader global shares are mostly registering higher. This divergence suggests that while the energy sector is acutely sensitive to the Iran situation, other market segments are being driven by different, perhaps more optimistic, factors.",
+    "The impending deadline and the associated geopolitical tensions with Iran are directly impacting global oil prices and financial markets. Fluctuations in oil prices can ripple through economies worldwide, influencing everything from transportation costs to consumer goods, while market uncertainty can deter investment and economic stability.",
+    "As the deadline looms, the world watches for clarity on the path forward. The immediate future of global oil prices and, by extension, various sectors of the world economy, will hinge on the diplomatic and strategic decisions made in the coming days regarding Iran."
+  ],
+  "publishedAt": "2026-04-07T12:54:36.545Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "The New York Times",
+    "cnbc.com",
+    "AP News",
+    "Reuters",
+    "Bloomberg.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOTNjN3FsQU0zRTM1MDcxZjNoSG1CNkJSM3FqVzNYOW9iWW5sOFNYWkhnU25jMlJrSGhMVE9JNndEMWJmMmlPNi1yZF9PWUF1MkRLY0dLQWVsTmdTNE1odWpqVVE0UEc2dGlLbVVsTHJDZDJfYnYxZVRobzhCczVFag?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:47:41.913Z",
+      "detail": "Aggregated market reports, geopolitical analyses, and news updates from major financial and news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:51:59.774Z",
+      "detail": "Compiled oil price movements, deadline details, and market sentiment from The New York Times, cnbc.com, AP News, Reuters, and Bloomberg.com."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-07T12:54:36.545Z",
+      "detail": "Wove financial market reactions with geopolitical developments to illustrate the direct impact of the approaching Trump deadline on Iran."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Financial figures, market reactions, and geopolitical events were meticulously cross-referenced against the provided fact sheet, confirming all specific claims and statistics.",
+      "timestamp": "2026-04-07T12:58:33.999Z"
+    }
+  ]
+}
