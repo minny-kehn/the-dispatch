@@ -1,0 +1,54 @@
+{
+  "slug": "coachella-attendees-grapple-with-soaring-costs-rental-cancellations",
+  "headline": "Coachella Attendees Grapple With Soaring Costs, Rental Cancellations",
+  "deck": "The annual music festival faces unprecedented logistical challenges as demand outstrips supply and last-minute cancellations leave many stranded.",
+  "category": "CULTURE",
+  "body": [
+    "The lead-up to this year’s Coachella Valley Music and Arts Festival has been marked by significant turbulence for attendees, as reports indicate a dramatic surge in demand and corresponding price hikes. This intense interest has created a challenging environment, pushing the experience further out of reach for some while exacerbating logistical nightmares for others. The festival, a cultural touchstone, finds itself at the center of a storm of escalating costs and widespread frustration.",
+    "Amid the rising tide of demand, prices across the board for the Coachella experience have seen a notable spike this year. From tickets to ancillary services, the financial burden on attendees has grown considerably. This upward trend paints a grim picture for those hoping to secure their spot at the iconic desert event without facing exorbitant expenses.",
+    "Adding to the financial strain, numerous reports have surfaced regarding last-minute rental cancellations impacting attendees. These sudden changes have cast a harsh spotlight on the precarious nature of securing accommodation for high-demand events. Many individuals have found their meticulously planned stays abruptly rescinded, creating immediate and pressing concerns.",
+    "Attendees have specifically reported instances where Airbnb hosts canceled their reservations mere days before the festival was set to begin. These hosts then allegedly relisted the very same properties at significantly higher prices, capitalizing on the desperate scramble for lodging. Such practices have left some festival-goers stranded and scrambling for alternatives in a market already under immense pressure.",
+    "The logistical chaos extends beyond general attendees to the influential figures often central to the festival's marketing ecosystem. Brands have reportedly canceled Coachella trips for influencers just days before the event, disrupting carefully curated promotional plans. This unexpected development has added another layer of uncertainty to the pre-festival buzz.",
+    "In the wake of these alleged cancellations, a wave of influencer gossip has permeated social media, with many speaking out about their experiences. The public dialogue highlights the intricate relationships between brands, influencers, and major cultural events. It underscores the potential for reputational damage when these partnerships falter at critical junctures.",
+    "The confluence of surging prices, last-minute rental cancellations, and disputes with influencers underscores the volatile nature of event-related travel and sponsorship in a high-demand market. These challenges severely impact attendee experience and trust, while potentially straining brand relationships and event publicity. Moving forward, the industry faces the task of addressing these systemic issues to preserve the integrity and accessibility of such significant cultural gatherings."
+  ],
+  "publishedAt": "2026-04-11T05:57:47.692Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "The Hollywood Reporter",
+    "People.com",
+    "KTLA",
+    "KESQ",
+    "SFGATE"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1BkbGhmam4wbDFITkpWal9udUhHN3FkeE8tX0Y4eHMtRWw3WDg2b2J0R2cySmJyZ2NYbVNJWENaRVNDbTJ6aHRFbVR5VzROaHlSOE5Ca0RnR2w2RkVhU3J1ckVNaTFpb0RXS1FZTEJOWFJMa2sxVHlTX0lSeHdaN2daT3VMMFVQdkhiOXA2dURvd3BuZDBhbS1wOUtVS0E0aFl2aXFoNnE2aGZPUVMwTk1XVTVCNDRMbVJN?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:49:57.112Z",
+      "detail": "Aggregated reports from entertainment news outlets and local media regarding the Coachella festival."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:53:58.702Z",
+      "detail": "Compiled details on surging demand, price increases, rental cancellations, and influencer trip disputes from The Hollywood Reporter, People.com, KTLA, KESQ, and SFGATE."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:57:47.692Z",
+      "detail": "Wove together reports of logistical challenges and financial strains to illustrate the turbulent pre-festival environment for attendees and influencers."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported claims",
+      "timestamp": "2026-04-11T06:02:06.115Z"
+    }
+  ]
+}

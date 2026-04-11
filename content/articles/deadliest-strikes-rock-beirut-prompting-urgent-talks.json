@@ -1,0 +1,55 @@
+{
+  "slug": "deadliest-strikes-rock-beirut-prompting-urgent-talks",
+  "headline": "Deadliest Strikes Rock Beirut, Prompting Urgent Talks",
+  "deck": "Central Beirut has endured its most devastating day of conflict in decades, as Israeli strikes claimed numerous lives and sparked immediate calls for de-escalation.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Central Beirut endured a day of unprecedented devastation this week, as Israeli strikes claimed the lives of at least 182 people and inflicted extensive damage across the urban core. This brutal escalation has been widely characterized as the deadliest day of the ongoing conflict, casting a harsh spotlight on the spiraling violence.",
+    "The intensity of the assault was particularly acute during one period, described by observers as 'the deadliest 10 minutes in decades.' These concentrated strikes painted a grim picture of the immediate humanitarian crisis unfolding on the ground, pushing an already vulnerable population closer to the brink.",
+    "Amidst the escalating violence, Israel stated that an existing Iran truce does not extend to central Beirut, signaling a deliberate expansion of its operational scope. This declaration complicates diplomatic efforts and indicates a determined stance regarding its military objectives in the region.",
+    "Meanwhile, the Israeli Defense Forces (IDF) have reported significant operations during the broader conflict, stating they have eliminated more than 1,400 Hezbollah terrorists. Furthermore, the IDF claims to have dismantled over 4,300 infrastructure sites, underscoring the widespread nature of the military engagement across various fronts.",
+    "The sheer force of the recent bombardments left many residents in a state of profound shock and fear.",
+    "  ‘We thought Beirut was going to collapse’",
+    "Reflecting on the immediate aftermath, these devastating strikes have swiftly led to international calls for negotiations to commence 'as soon as possible.' The urgency of these appeals highlights the global concern over the conflict's trajectory and the imperative to prevent further loss of life.",
+    "The profound human cost and widespread destruction in central Beirut underscore the critical need for immediate de-escalation. Without swift and decisive diplomatic intervention, the unresolved tensions threaten to plunge the region into even deeper instability, with dire consequences for its inhabitants."
+  ],
+  "publishedAt": "2026-04-11T05:55:19.558Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "France 24",
+    "AP News",
+    "LiveNOW from FOX",
+    "i24NEWS",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRE55d1N1N21xNzlRTlU4UENXM3ZCVGV4aFZxSlg3a2hNNWFGSGVjZGhDSWNJYUF2UTZZbHBiaE9yTGlLcHpFMGJGYmREV0ozRElqcWtpcjM0WFNzRmtXTDhYeEdIVjJJY3dmcTVXdE8zblk0cTBzYWVJbkpMNkRyb1VkTjJlRmUxSkZTQV9OQi1tcEl0OVpQWF9DSDlXWDJNVW1GZ1g1UnhzTmpPQXZRYV9oSkVETGFTMDI2RjFlOFNOUlJ2cUxJaW1xelY2UWZ4Vjl1ZWlZMA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:49:57.112Z",
+      "detail": "Aggregated incident reports, casualty counts, and diplomatic statements from leading news agencies and international broadcasters."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:53:58.702Z",
+      "detail": "Compiled specific casualty statistics, event descriptions, and direct quotes from AP News, France 24, LiveNOW from FOX, i24NEWS, and Google News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-11T05:55:19.558Z",
+      "detail": "Wove immediate casualty figures with contextual military reports and diplomatic calls to illustrate the severe escalation and its human impact."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 5/10, Accuracy: 9/10, Readability: FK 16.1",
+      "timestamp": "2026-04-11T05:59:58.920Z"
+    }
+  ]
+}
