@@ -1,0 +1,53 @@
+{
+  "slug": "epic-games-readies-disney-themed-shooter-for-fortnite",
+  "headline": "Epic Games Readies Disney-Themed Shooter for Fortnite",
+  "deck": "A major collaboration between Epic Games and Disney is poised to bring beloved Disney characters into a new extraction shooter experience within Fortnite, aiming to revitalize the popular game.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Gaming giant Epic Games is reportedly deep in development on an \"Arc Raiders-like\" extraction shooter, set to feature an array of beloved Disney characters. This ambitious new title is expected to launch within Fortnite by the end of the year, marking a significant expansion of the popular battle royale platform. The move signals a bold strategic play to integrate iconic intellectual property into a thriving, yet constantly evolving, gaming landscape.",
+    "Sources suggest that Epic Games is placing considerable strategic weight on this deepening partnership with Disney, reportedly pinning the comeback of Fortnite on the success of this collaboration. This initiative underscores a clear intent to reinvigorate Fortnite's player base and secure its position at the forefront of the gaming world. It represents a calculated effort to leverage Disney's vast appeal to a global audience.",
+    "The nature of this burgeoning relationship appears to extend beyond a mere licensing deal, with reports indicating that Epic is not just integrating Disney characters but is actively building this extraction shooter for Disney. This suggests a more profound, intertwined development process, indicating a shared vision for the project's direction and eventual impact. Such a collaborative approach could yield a uniquely cohesive gaming experience.",
+    "The new game is specifically described as being \"Arc Raiders-style,\" a genre known for its blend of player-versus-environment combat, resource gathering, and the high stakes of extraction. Integrating this gameplay loop directly into Fortnite promises to introduce a fresh dynamic to a platform already celebrated for its versatility and evolving content. This strategic addition aims to offer both long-time players and new audiences a compelling reason to engage.",
+    "Adding further intrigue to this high-profile alliance, there has been ongoing speculation within industry circles regarding the potential for Disney to acquire Unreal Engine, Epic Games' powerful development tool. While unconfirmed, such discussions highlight the profound strategic alignment and potential long-term ambitions shared between these two entertainment titans. This broader context frames the current game development as part of a much larger, unfolding narrative.",
+    "As the year progresses towards the anticipated release, the gaming and entertainment industries will be closely watching the impact of this unprecedented collaboration. The successful integration of Disney's cherished characters into an extraction shooter within Fortnite could redefine cross-IP engagement and set a new benchmark for strategic partnerships. It remains a pivotal moment for both companies, charting a course for future digital experiences."
+  ],
+  "publishedAt": "2026-04-12T07:00:49.391Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "Eurogamer",
+    "Bloomberg.com",
+    "Engadget",
+    "Creative Bloq",
+    "GameSpot"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1lXMTM1OExwdGR5WkR2N192TnEyMExoTkVPMVlNYlNtYnU0bVBJZmZxbzladDJEdTJ4b2s3c3RpMGx1UEVEZ2w5Nm5jdnBtejJKeVptLWFETm9GbzFGNXB0cm9iX1REbmtjemJKNVl2YnI3VFk4Q25zZ1p6dktXblRfcG1WaXAwZUlYWWd4RVVWNjRmZE9ZU2xZbnY3VDV2elhWb2t2RmRKZ0hGZTlqX3NJcENuMnRYLUs4LTJqRFFONlllekE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-12T06:56:35.953Z",
+      "detail": "Aggregated reports from Eurogamer, Engadget, GameSpot, Bloomberg.com, and Creative Bloq."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:00:28.799Z",
+      "detail": "Compiled claims regarding Epic's Disney-themed extraction shooter, its integration with Fortnite, strategic importance, and related speculation from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:00:49.391Z",
+      "detail": "Wove reported development details with strategic analysis and industry speculation to frame the significance of the Epic-Disney collaboration."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.9",
+      "timestamp": "2026-04-12T07:05:31.135Z"
+    }
+  ]
+}

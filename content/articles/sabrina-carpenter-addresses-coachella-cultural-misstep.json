@@ -1,0 +1,55 @@
+{
+  "slug": "sabrina-carpenter-addresses-coachella-cultural-misstep",
+  "headline": "Sabrina Carpenter Addresses Coachella Cultural Misstep",
+  "deck": "A recent live performance incident at Coachella involving Sabrina Carpenter has sparked a wider conversation about cultural sensitivity and the intense scrutiny faced by public figures.",
+  "category": "CULTURE",
+  "body": [
+    "Pop artist Sabrina Carpenter found herself at the center of a cultural debate following a moment during her Coachella set that quickly went viral. The singer has since issued an apology, acknowledging a misunderstanding that ignited significant online discussion.",
+    "The incident unfolded when Carpenter reacted to a fan's cultural cry from the audience, which she initially mistook for a 'yodel.' Her immediate public response to the sound drew swift attention across social media platforms.",
+    "“I Don’t Like It,”",
+    "Carpenter stated, addressing the sound from the stage, a remark that was widely circulated and contributed to the subsequent 'Coachella backlash' against the artist, according to multiple reports.",
+    "In the wake of the public reaction, Carpenter offered an apology, clarifying that she had mistakenly identified an Arabic call as yodeling. Her statement indicated a learning moment for the singer amidst the controversy.",
+    "“Now I Know What a Zaghrouta Is,”",
+    "Carpenter shared in her apology, acknowledging the specific cultural significance of the sound. This recognition points to the increasing demand for public figures to demonstrate cultural awareness in their real-time interactions.",
+    "The episode casts a harsh spotlight on the heightened scrutiny public figures encounter regarding cultural sensitivity, particularly during live events. It underscores how quickly information spreads across social media, transforming a fleeting misunderstanding into a significant public relations challenge that demands a swift and informed response."
+  ],
+  "publishedAt": "2026-04-12T07:04:53.594Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "The Independent",
+    "Yahoo",
+    "People.com",
+    "Variety",
+    "News.com.au"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXRYcjlUSVk2UWwxdW9mWS00V1RwRFd0WFZGV2I3TDdTR0poY3dCbWd1UnlkZEZGYUN4OWRUMlNLQlF3VXYwc2g3eXJBaG5rV01TLXQxTkdzSGR5TE93akhSaXF6SFhJUjVySFRzN1Y5VU1SWGdxZ3hGUVBpdHZjM0JhcUdReGU1ZkFBUHZJVlNFTTlveHdzLVJiRnlaTUthbm43c1NRTWE0S1VRb0x2U0tzT1A3d1g5cW44YTFMSUFrSHJNZ0prYWhB?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-12T06:56:35.953Z",
+      "detail": "Aggregated news reports and social media discussions from entertainment news outlets regarding a celebrity incident at a music festival."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:00:28.799Z",
+      "detail": "Compiled event details, direct quotes, and public reaction descriptions from 6 distinct news sources including The Independent, Yahoo, People.com, Variety, and News.com.au."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:04:53.594Z",
+      "detail": "Wove chronological event details with direct quotes and contextual analysis to examine a celebrity's cultural misstep and subsequent apology, highlighting broader themes of public scrutiny and cultural sensitivity."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including direct quotes and key events like the 'Coachella backlash' and the nature of the cultural misstep, were precisely verified against the provided fact sheet.",
+      "timestamp": "2026-04-12T07:08:04.867Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "utah-emerges-as-measles-outbreak-center",
+  "headline": "Utah Emerges as Measles Outbreak Center",
+  "deck": "A significant shift in the nation's public health landscape sees Utah now at the forefront of measles transmission.",
+  "category": "HEALTH",
+  "body": [
+    "Utah has suddenly become the focal point of the nation's ongoing measles outbreak, marking a critical shift in the disease's geographic concentration. Reports from multiple news outlets, including St. George News and KUER, identify the state as the new 'epicenter' for the highly contagious virus. This development signals a pressing public health concern, drawing national attention to the spread within its borders.",
+    "The outbreak is not merely contained but actively spreading throughout Utah, according to reporting by KUER. This internal transmission pattern underscores the virulence of measles and the speed at which it can take hold in susceptible populations. Public health officials are closely monitoring the situation as new cases emerge across various communities.",
+    "Crucially, those affected by the escalating outbreak in Utah are largely individuals who have not received the measles vaccine. This consistent pattern, highlighted by KUER, paints a grim picture of the vulnerability within unvaccinated segments of the population. The absence of protective immunity allows the virus to find fertile ground, perpetuating its cycle of infection.",
+    "This concentrated activity in Utah stands in stark contrast to other regions that previously saw measles cases. For instance, South Carolina, which had reported measles activity earlier, is now experiencing no new cases or transmission, as confirmed by CIDRAP and KUTV. The quiet in South Carolina offers a momentary reprieve, even as the situation intensifies elsewhere.",
+    "Indeed, Utah currently leads the entire United States in active measles outbreaks, a statistic reported by KUTV that casts a harsh spotlight on the state's public health challenge. The concentration of cases there signifies a renewed urgency for proactive measures and community engagement. This leadership in active outbreaks points to a significant battle ahead for health authorities.",
+    "The resurgence of measles in Utah, primarily among the unvaccinated, serves as a potent reminder of the enduring importance of immunization programs. As the state grapples with this escalating health crisis, the national conversation around vaccine efficacy and public health preparedness will undoubtedly intensify. The collective effort to contain and ultimately quell this outbreak will be a significant test for communities and health systems alike."
+  ],
+  "publishedAt": "2026-04-12T07:04:35.530Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "St. George News",
+    "KUER",
+    "CIDRAP",
+    "KUTV",
+    "Utah Public Radio"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkU1T2pYaU15WTlISEV3d2VfenQwbDNWM1YxVXdXVG5KcHM2c3hxSzhlOTVvbjRockdCWExzcDM0eTMybXFpM2dwVVZYcjFjckRDZ2Rkc29JeE5MOVRmb3dRNVhXeGVuNnNtRWpWQ0NEcXN4Y2RsN1RYMmpyam1zcUdIWWJDZExLUkZzVzctSVNuVzVTM1RBeTNXR29UWDgyRFlsSTZORFpUXzBzNFNETy1Mb3lDQTVMeFV1c2Nvejg0NkRE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-12T06:56:35.953Z",
+      "detail": "Aggregated local news reports, public radio broadcasts, and health organization updates regarding U.S. measles activity."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:00:28.799Z",
+      "detail": "Compiled claims about Utah's epicenter status, outbreak spread, and vaccination status from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:04:35.530Z",
+      "detail": "Wove individual facts into a cohesive narrative highlighting Utah's escalating measles challenge and contrasting it with other states."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding Utah's measles outbreak status, spread, affected population, and comparison to South Carolina were directly verified against the provided fact sheet.",
+      "timestamp": "2026-04-12T07:07:46.699Z"
+    }
+  ]
+}

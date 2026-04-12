@@ -1,0 +1,50 @@
+{
+  "slug": "infidelity-precedes-womans-multiple-cancer-diagnoses",
+  "headline": "Infidelity Precedes Woman's Multiple Cancer Diagnoses",
+  "deck": "A woman's life took a devastating turn with multiple cancer diagnoses, reported after she uncovered her husband's 30-year infidelity.",
+  "category": "HEALTH",
+  "body": [
+    "A profound personal tragedy has emerged, detailing a woman's diagnosis with three distinct cancers following the revelation of her husband's prolonged infidelity. This deeply unsettling sequence of events casts a harsh spotlight on the emotional and physical toll that severe betrayal can inflict. The diagnoses came after the woman discovered her husband of three decades had been unfaithful, pushing an already vulnerable situation closer to the brink.",
+    "The medical landscape for the woman now includes diagnoses of vulvar cancer, cervical cancer, and anal cancer. These multiple malignant conditions present an exceptionally challenging health battle, requiring extensive and complex medical intervention. The sheer number of simultaneous diagnoses paints a grim picture of the physical ordeal she now faces.",
+    "The emotional trauma at the heart of this story stems from the discovery of infidelity within a marriage that had spanned 30 years. Three decades represent a significant portion of a lifetime, building a foundation of shared history and presumed trust. Such a lengthy commitment makes the betrayal's impact particularly devastating, upending a life's established reality.",
+    "While the source material does not establish a direct causal link between the emotional trauma and the onset of these cancers, the timing implicitly raises questions about the potential interplay between profound psychological stress and physical health. Analysts often consider how extreme life events might influence an individual's susceptibility to various ailments. The human body's intricate response to sustained emotional strain is a complex area of ongoing study.",
+    "This deeply personal account contributes to a broader discussion within the health community regarding the holistic view of well-being. It underscores the intense vulnerability individuals experience when facing catastrophic emotional events. Such stories prompt contemplation on the invisible burdens carried by those enduring severe personal crises.",
+    "As the woman confronts this arduous medical journey, her story resonates as a stark reminder of the profound interconnectedness of mental and physical health. The path forward remains challenging, demanding immense resilience in the face of both a shattered personal life and a formidable health battle. Her experience highlights the silent battles many face when life delivers its most devastating blows."
+  ],
+  "publishedAt": "2026-04-12T07:04:16.406Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "sg.style.yahoo.com",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUFnQ0ZZVVZxRGk5RXV1bXpIYjNUZy1KRl9RQW12Ym04ZkVQVzBGSFR1YTdwR3FGZGk2RkhOLVQ4RkVRR3dCWE9SOF9jY0tvXzltSFJGMHA2aDJqbUs4MmFDWTF6QndNRW5XS1l5Q1JQUEFHV3R0U2R6SlRJdnZNcDNmR0I?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-12T06:56:35.953Z",
+      "detail": "News was sourced from a headline on sg.style.yahoo.com, identified via Google News Health."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:00:28.799Z",
+      "detail": "Extracted facts detail a woman's diagnosis with vulvar, cervical, and anal cancers, occurring after she discovered her husband's infidelity following a 30-year marriage."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-12T07:04:16.406Z",
+      "detail": "Wove the sequence of health diagnoses and marital betrayal into a narrative exploring the personal tragedy and implicit questions regarding stress and health, while maintaining objective distance on causality."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Specific cancer diagnoses, the duration of the marriage, and the sequence of events were meticulously cross-referenced with the provided fact sheet, confirming all factual claims.",
+      "timestamp": "2026-04-12T07:07:20.183Z"
+    }
+  ]
+}
