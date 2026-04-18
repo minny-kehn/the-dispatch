@@ -1,0 +1,52 @@
+{
+  "slug": "singer-d4vd-charged-in-teens-murder-case",
+  "headline": "Singer D4vd Charged in Teen's Murder Case",
+  "deck": "The arrest of the prominent singer on murder charges has cast a harsh spotlight on the legal proceedings surrounding the death of a teenage girl.",
+  "category": "CULTURE",
+  "body": [
+    "The music world is grappling with startling news as singer D4vd has been arrested and charged with murder, stunning fans and observers alike. This serious development centers on the death of Celeste Rivas Hernandez, a case that has immediately drawn widespread attention. Authorities have confirmed the charges, marking a significant turn in an unfolding investigation.",
+    "The arrest itself unfolded in a location that further amplified the story's high-profile nature: Sandra Bullock’s former home. This detail, alongside the gravity of the charges, has ensured intense media scrutiny of the singer's legal predicament. Such an unexpected setting adds another layer of intrigue to an already somber event.",
+    "Celeste Rivas Hernandez has been identified as a teenage girl, a detail that paints a grim picture of the tragedy at the heart of this case. Her family is now expected to issue a public statement following D4vd's arrest, undoubtedly seeking clarity and justice in the wake of their profound loss. The anticipation of their words underscores the human impact of this unfolding drama.",
+    "Compounding the public interest, footage of D4vd's arrest has reportedly surfaced, offering a visual account of the moment authorities apprehended the singer. These images show D4vd surrounded by gun-wielding police officers, vividly capturing the intensity and seriousness of the law enforcement operation. The availability of such footage adds a visceral dimension to the public's understanding of the events.",
+    "As new details continue to emerge regarding D4vd's arrest and the ongoing investigation, the legal process is poised to unfold under an intense public gaze. The intersection of a prominent public figure with such grave allegations ensures continued scrutiny, as the courts prepare to navigate the complex proceedings ahead. The coming weeks will undoubtedly bring further revelations in this deeply unsettling case."
+  ],
+  "publishedAt": "2026-04-18T06:28:26.712Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "ABC7 Los Angeles",
+    "The New York Times",
+    "Yahoo",
+    "Los Angeles Times",
+    "New York Post"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXdmSmhhSUQxV0RnV1JZSm1iNGtTV3luaERCaXhWQUNRSkRNbWY1d29JWER4ZGtDcjBUcm4tSGY1YVRWRXdPajVvYXZpblBOLWw1SXJxRnZUczJnQzhxVUk5Rkp6YmNNbkh1amVuSmM5cFBwNUdBb01yVlZnb0hFVk15SXp4Z1N1WE1wTENCNHlST1lkcmgyQ0E4bHlNM0RHZGo5WjVlLU9md0XSAbABQVVfeXFMTWdBS2VFNWJyUW03OFpuTnc2aGZ6SDdLMy0tVjE1b2g4eHViY2pCTEJKV2lRNlZIeEUzdkpVWFlGdG56M0dPcTU4LWhsMVFrUDF6NDRPcWdtSmJVYnBENmhNa0NlZXRDVlUwOUZvUlcwVkx2a19QeDM4NDBYLW9hWXZKUkxpQnFXMG9lMGJkeEFiVGNHUlpXbjR2Y0xkTTJQTC1zeHAtREpLLU9mU1EzWlo?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:20:19.181Z",
+      "detail": "Aggregated reports from major news outlets including ABC7 Los Angeles, The New York Times, Yahoo, Los Angeles Times, and New York Post."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:24:18.854Z",
+      "detail": "Compiled facts regarding singer D4vd's arrest, murder charge, victim identification, arrest location, and details of arrest footage from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:28:26.712Z",
+      "detail": "Wove together verified reports of a high-profile arrest with contextual details to outline the immediate impact and ongoing legal complexities of the case."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 6/10, Accuracy: 9/10)",
+      "timestamp": "2026-04-18T06:32:11.500Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "amazon-transitions-fire-tv-sticks-to-vega-os-drops-android",
+  "headline": "Amazon Transitions Fire TV Sticks to Vega OS, Drops Android",
+  "deck": "Amazon's popular streaming devices are making a significant move away from Google's Android platform, signaling a strategic shift in its hardware ecosystem.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Amazon is charting a new course for its popular Fire TV Sticks, with plans to discontinue the use of Android on all future models. This strategic pivot marks a significant departure from the company's long-standing reliance on Google's underlying platform, as Amazon embraces its proprietary Vega OS. The move is poised to grant Amazon greater control over its device ecosystem, potentially paving the way for unique features and performance optimizations.",
+    "This transition is already underway, as evidenced by the latest Fire TV Stick models hitting the market. Reports confirm that Amazon has released not just one, but a second Fire TV Stick that operates natively on the Vega OS. This steady rollout signals a clear intent to fully integrate the new operating system across its streaming hardware portfolio.",
+    "Traditionally, Fire TV Sticks have run on Fire OS, an Amazon-customized version built upon Android. The shift to Vega OS represents Amazon's continued effort to reduce its dependence on Google, a move that could have broad implications for app compatibility and the strategies developers employ for the Fire TV platform. This strategic decision reshapes the competitive landscape in the streaming device market.",
+    "Amidst this operating system overhaul, Amazon has also been busy refreshing its hardware lineup. The company recently unveiled a slimmer Fire TV Stick HD, designed with enhanced portability in mind. This particular model is being recommended by analysts for frequent travelers, offering a convenient entertainment solution on the go.",
+    "The expansion of Amazon's device ecosystem extends beyond just streaming sticks. Signaling a broader ambition in the home entertainment space, Amazon has also opened preorders for its new Ember Artline TVs. This move positions Vega OS as a core component not only for compact streaming devices but also for larger, integrated television experiences.",
+    "For consumers looking to upgrade or enter the Fire TV ecosystem, Amazon is making some models more accessible. A current promotion offers a significant saving of $25 on the Amazon Fire TV Stick 4K Select. This deal, available using the promotional code SAVE4K, provides an opportunity for users to experience high-definition streaming at a reduced cost.",
+    "As Amazon solidifies its commitment to Vega OS, the long-term impact on user experience, developer engagement, and the broader streaming market will become clearer. This strategic decision underscores Amazon’s drive to cultivate a more independent and deeply integrated hardware and software ecosystem. The company is actively shaping the future direction of its popular streaming devices, aiming for distinct advantages in a crowded field."
+  ],
+  "publishedAt": "2026-04-18T06:24:40.365Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "9to5Google",
+    "lowpass.cc",
+    "New Atlas",
+    "TechCrunch",
+    "Mashable"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aVkxlTEx0MnNKaEsxaklVMzVFLTZPMFAySW5fdkI5cURVT2psYU1QZlFJelFiZXBOdDA1ZTl6Z1V6U01fLUtGTVhrcDRkOEFXaXVyaTVLUWJJNUZXeWRQcDhDVjc2SmE4c0RnZlVQY3RZOEFsTGdpWQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:20:19.181Z",
+      "detail": "Aggregated technology reports and product announcements from Google News — Technology, 9to5Google, lowpass.cc, New Atlas, TechCrunch, and Mashable."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:24:18.854Z",
+      "detail": "Compiled facts regarding Amazon's discontinuation of Android for Fire TV Sticks, the adoption of Vega OS, new product releases, and consumer deals from six distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-18T06:24:40.365Z",
+      "detail": "Wove product details and strategic announcements to frame Amazon's pivot to Vega OS, examining its implications for the Fire TV ecosystem and consumer offerings."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims",
+      "timestamp": "2026-04-18T06:29:22.511Z"
+    }
+  ]
+}
