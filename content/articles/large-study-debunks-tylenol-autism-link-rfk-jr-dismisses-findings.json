@@ -1,0 +1,55 @@
+{
+  "slug": "large-study-debunks-tylenol-autism-link-rfk-jr-dismisses-findings",
+  "headline": "Large Study Debunks Tylenol-Autism Link, RFK Jr. Dismisses Findings",
+  "deck": "A substantial new Danish study, analyzing data from over 1.5 million children, has found no connection between acetaminophen use during pregnancy and autism, a conclusion swiftly rejected by prominent public figure RFK Jr.",
+  "category": "HEALTH",
+  "body": [
+    "A comprehensive Danish study has now offered a definitive finding, concluding there is no link between Tylenol use during pregnancy and the development of autism in children. This significant research, which aimed to address long-standing concerns among expectant parents, provides crucial clarity on a widely used over-the-counter medication. However, the study’s findings have been met with immediate skepticism and outright dismissal from figures like RFK Jr., casting a spotlight on the ongoing tension between scientific consensus and public discourse.",
+    "The sheer scale of the investigation underscores the weight of its conclusions. Researchers meticulously examined data from more than 1.5 million children, a robust sample size that lends considerable authority to its findings. This extensive data analysis offers a powerful counterpoint to previous anxieties, suggesting a collapse of what Medical Xpress termed a 'major pregnancy scare' related to Tylenol and autism risk.",
+    "Medical professionals are reinforcing these findings, aiming to reassure pregnant individuals. Kira Philipsen Prahm, MD, PhD, a key figure in the research, explicitly highlighted that the study found no link between acetaminophen exposure during pregnancy and an increased risk of autism. This expert confirmation serves to strengthen the medical community's stance on the safety profile of acetaminophen when used as directed.",
+    "For years, a pervasive concern has cast a shadow over acetaminophen, commonly known as Tylenol, regarding its potential connection to autism. This 'pregnancy scare' had prompted many expectant parents to reconsider using the pain reliever, even for common ailments, due to the lack of definitive answers. The present Danish study was specifically designed to rigorously investigate this perceived link, providing much-needed evidence.",
+    "Despite the extensive nature of the study and its clear conclusions, the findings have not been universally accepted.",
+    " _RFK Jr., a prominent public figure, unequivocally labeled the study as \"Garbage,\" as reported by HuffPost._",
+    "Such dismissals of large-scale, peer-reviewed scientific research highlight a persistent challenge in public health communication. When a study of this magnitude, involving millions of data points and expert analysis, is rejected outright, it can sow confusion and mistrust among the public. This dynamic underscores the ongoing battle to ensure that evidence-based health information reaches and is accepted by those who need it most.",
+    "The implications of this study are profound for pregnant individuals and healthcare providers alike, potentially alleviating widespread fears about a common and often necessary medication. Moving forward, the focus will likely shift towards how these robust scientific findings are communicated and integrated into public health guidance, particularly in an environment where misinformation can spread rapidly."
+  ],
+  "publishedAt": "2026-04-19T07:10:15.889Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "HuffPost",
+    "abcnews.com",
+    "CNN",
+    "Medical Xpress",
+    "Contemporary Pediatrics"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYng1TlpWOHp3Mnl1OEUyYXRfM2lGd25qc2pPWXFnWEd2d3lpQmtCNTlVOHpndnVSRm9yZ1IzU0FfTzZpbWphQmFjamkxa281Tm9VNHhmZjVvbVV4QW5JS1JRcktkZzRRQnJnVGtKMDhyY3hETk8zYkJWb2dDSWtkN3V4NmJkMzlfRmt5NUxkRE43SjVobjRUb9IBngFBVV95cUxPbVRMMVJaRGxaR01KWFg2MS1lYi05ODJwR01WT1ZlQ0JZZWY2SEZPYWhtMThFdXFDTklHTm5wNmVOY3I5b2JXQkpkMi1TVVpiYkxfUVNTZTdwcDlIY1p1UTBjTmZEY2NIdjJremtfNjEtTVEwS042UlFNTXZLYl9kRldtbzBXSTZ5MWJ0T2FEQ3Nnam9rRmZ3QnlTcFVvZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:02:20.538Z",
+      "detail": "Aggregated news reports and scientific articles detailing a new study on Tylenol and autism, along with public reactions."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:06:26.109Z",
+      "detail": "Compiled study findings, participant statistics, expert quotes, and public figure dismissals from HuffPost, abcnews.com, CNN, Medical Xpress, and Contemporary Pediatrics."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:10:15.889Z",
+      "detail": "Wove scientific findings with public reaction and historical context to illustrate the impact of new research on a significant public health concern."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, statistics, and direct quotes were meticulously cross-referenced and verified against the provided fact sheet, with no discrepancies or fabrications identified.",
+      "timestamp": "2026-04-19T07:14:19.544Z"
+    }
+  ]
+}

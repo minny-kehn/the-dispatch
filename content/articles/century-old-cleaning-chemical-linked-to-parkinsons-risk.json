@@ -1,0 +1,51 @@
+{
+  "slug": "century-old-cleaning-chemical-linked-to-parkinsons-risk",
+  "headline": "Century-Old Cleaning Chemical Linked to Parkinson's Risk",
+  "deck": "Initial reports suggest a common household ingredient, used for decades, may significantly elevate the danger of developing the neurodegenerative disease.",
+  "category": "HEALTH",
+  "body": [
+    "A pervasive cleaning ingredient, long a staple in households and industries for over a century, has been linked to a substantially increased risk of Parkinson's disease, casting a harsh spotlight on the potential hidden dangers within everyday products. This concerning development emerges from initial scientific findings, prompting an urgent re-evaluation of substances once considered benign.",
+    "The early data paint a grim picture, indicating that exposure to this century-old chemical is associated with an alarming 500% increased risk of developing Parkinson's. Such a profound statistical link underscores the urgent need for a deeper understanding of its mechanisms and widespread public awareness.",
+    "The sheer longevity and ubiquity of this ingredient mean that countless individuals may have been exposed over generations, often without any knowledge of potential health ramifications. Its presence in various cleaning agents has made it an inconspicuous part of daily life for decades, weaving it into the fabric of home and work environments.",
+    "These initial reports suggest a potential public health risk that could necessitate significant shifts in product manufacturing and consumer behavior. The gravity of a common chemical contributing to a debilitating neurodegenerative condition like Parkinson's demands immediate and thorough investigation by health authorities and scientific bodies.",
+    "Reflecting on the long-term impact, this information could compel regulators to reassess product safety standards for a wide array of household and industrial chemicals. Consumers, armed with this knowledge, may also begin to scrutinize ingredient lists more closely, pushing for greater transparency from manufacturers.",
+    "While the specific identity of the chemical and the precise scientific studies detailing this link are eagerly awaited, these initial findings from sources like Yahoo and SciTechDaily serve as a critical alarm bell. They highlight the intricate and often delayed discovery of environmental factors contributing to complex diseases.",
+    "The path forward will undoubtedly involve extensive research to corroborate these findings and identify specific exposure pathways. Ultimately, this discovery could pave the way for preventative strategies and a renewed focus on environmental health, offering hope in the ongoing fight against neurodegenerative diseases."
+  ],
+  "publishedAt": "2026-04-19T07:09:53.108Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Yahoo",
+    "SciTechDaily"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmNmSzFxZVZkbFN3ZGh6NDd5QmZ2NHI1UV9uRTdWY2hseHNCRUhTellGVjJ5VEtyWml5M2dKUVFfbUZSem1YNFhhU2lKNlJUZzBWQ3V2ZmViV0xjTlZ0eU50WjhJM2lUbW1SQTZrTmIzdWpFWEJjQXg0RmNRel9VcW1XWTVSdkVSZk5ad1I4cWlCam8?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:02:20.538Z",
+      "detail": "Aggregated health news headlines and initial scientific reports from Google News, Yahoo, and SciTechDaily."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:06:26.109Z",
+      "detail": "Compiled primary claims regarding a century-old cleaning ingredient's link to Parkinson's disease and a specific 500% increased risk statistic."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:09:53.108Z",
+      "detail": "Wove initial reports and a key statistic into a coherent narrative examining the public health implications of a common chemical's potential link to Parkinson's disease."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Key facts regarding the century-old cleaning chemical's link to Parkinson's disease and the 500% increased risk were directly verified against the provided fact sheet, and source attribution was confirmed.",
+      "timestamp": "2026-04-19T07:14:00.384Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "iran-reasserts-control-fires-on-ships-in-hormuz-strait",
+  "headline": "Iran Reasserts Control, Fires on Ships in Hormuz Strait",
+  "deck": "New reports of gunfire and renewed restrictions in the Strait of Hormuz signal a significant escalation of tensions in the critical global waterway.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Iran has reportedly fired on ships within the Strait of Hormuz, simultaneously moving to reimpose strict new restrictions across the globally vital waterway. These assertive actions by Tehran immediately cast a harsh spotlight on an already tense region, raising concerns about maritime safety and the free flow of international commerce. The developments mark a notable escalation in the long-standing geopolitical complexities surrounding this crucial chokepoint.",
+    "Reports from merchant vessels attempting to navigate the Strait confirm instances of gunfire, underscoring the immediate danger posed to commercial shipping. Among these incidents, two Indian ships specifically came under fire, highlighting the broad international implications of Tehran's recent maneuvers. Such direct confrontations paint a grim picture for those traversing the narrow passage.",
+    "Tehran has unequivocally reasserted what it describes as strict control over the Strait of Hormuz, declaring its authority over the maritime passage. This declaration follows a series of incidents where ships were attacked, further solidifying Iran's intent to enforce its will in the region. The move is being watched closely by international observers for its potential to reshape maritime dynamics.",
+    "The Strait of Hormuz itself is an indispensable artery for global trade, particularly vital for the transit of oil and liquefied natural gas. Its strategic importance cannot be overstated, as a substantial portion of the world's energy supplies passes through its waters daily. Any disruption here sends ripples across international energy markets and supply chains.",
+    "These latest actions by Iran risk pushing an already vulnerable geopolitical landscape closer to the brink of wider instability. Analysts suggest that the imposition of restrictions and the use of force could provoke international condemnation and complicate diplomatic efforts in the broader Middle East. The unresolved tensions in this critical maritime corridor demand continued vigilance from the international community."
+  ],
+  "publishedAt": "2026-04-19T07:07:30.936Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Sun Sentinel",
+    "AP News",
+    "Reuters",
+    "NBC News",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGgyTXhfMFd3MGpjVFBPc2tpZmF3YVYzRjZLYWZQeUMyUDBsdVh3TVhyTWhVTjlCcWx6YnRNZy1lZGRaNVF5MW91S1BNOFhFWDVlTWthYXFfdEhGUHAzUFlydGxlaGRtNkRJV1luSWktR2NudFcydXl6MmdESVBtM09LVmFBejdVTTlaZ08zMWV3RlpaOGpOUEswLVRENFV1T0pMOTkxRWhoc2I1MFVyUnRmczYydUNOajhQYkpLMDZBVEc2TTU4?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:02:20.538Z",
+      "detail": "Aggregated reports from international news agencies and major publications regarding maritime incidents."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:06:26.109Z",
+      "detail": "Compiled details of ship attacks, gunfire reports, and Iranian declarations of control in the Strait of Hormuz from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:07:30.936Z",
+      "detail": "Wove incident reports with declarations of control to contextualize escalating geopolitical tensions in a vital shipping artery."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including events and statistics, were directly cross-referenced and verified against the provided fact sheet, with no fabrications or misrepresentations found.",
+      "timestamp": "2026-04-19T07:12:06.468Z"
+    }
+  ]
+}

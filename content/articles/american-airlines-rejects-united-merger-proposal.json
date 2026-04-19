@@ -1,0 +1,54 @@
+{
+  "slug": "american-airlines-rejects-united-merger-proposal",
+  "headline": "American Airlines Rejects United Merger Proposal",
+  "deck": "A potential airline mega-merger has been publicly spurned by American Airlines, highlighting a corporate rivalry between former colleagues.",
+  "category": "FINANCE",
+  "body": [
+    "American Airlines has firmly rejected a merger proposal from United Airlines, drawing a clear line in the sand against a potential consolidation that would reshape the industry. The carrier issued a public statement confirming its stance, communicating its decision to major news outlets as the story broke.",
+    "At the heart of this high-stakes corporate maneuvering is a curious personal history between the two airline giants' chief executives. United CEO Scott Kirby and American CEO Robert Isom once worked alongside one another, a partnership famously described as a 'dream team' during their shared tenure.",
+    "Despite their past collaboration, Kirby, now at the helm of United, has reportedly harbored intentions to acquire American Airlines, a move that would reunite the former colleagues under vastly different circumstances. Such an acquisition would create an airline behemoth, significantly altering the competitive landscape.",
+    "However, American Airlines has made its position unequivocally clear, shutting down any immediate prospects of such a deal. The airline's swift and public rejection signals a strong desire to maintain its independence and strategic direction amidst a dynamic market.",
+    "This unfolding narrative of a potential airline mega-merger carries echoes of broader conversations about industry consolidation, a topic that has drawn attention from various political figures. Analysts suggest that the story of such a deal has even been linked to discussions involving former President Trump, underscoring the significant regulatory and political dimensions of airline mergers.",
+    "The rejection by American Airlines holds substantial implications for the broader airline industry, particularly concerning competition and consumer choice. A merger of this magnitude would undoubtedly reduce the number of major carriers, potentially affecting pricing, routes, and service options for travelers across the United States.",
+    "As the dust settles on American's decisive rejection, the industry now watches closely for United's next move and the long-term ramifications of this corporate standoff. The episode underscores the ongoing tensions between expansion and market diversity, with the future of air travel competition hanging in the balance."
+  ],
+  "publishedAt": "2026-04-19T07:09:07.885Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "Fortune",
+    "CNBC",
+    "American Airlines",
+    "Axios",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBneVFGSFN2cDBpZ3ZNOHd1Z21yalpJcW4taG1nWDlKa0VNV1NINzhtaHV3STd0cWtvU1hLNHhQbFpNcmNnd0dSaWxjTE9RT3RTS3NLS3lvSjdtQ1BxZGNVZnhkd2hPNXVGNllRem1wTi1OYlBtMHVkRUVB?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:02:20.538Z",
+      "detail": "Monitored major business news outlets and corporate statements for developments in the airline industry."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:06:26.109Z",
+      "detail": "Compiled details of the merger proposal, American Airlines' rejection, and the historical relationship between the CEOs from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-19T07:09:07.885Z",
+      "detail": "Framed the corporate rivalry and merger rejection within broader discussions of industry consolidation and regulatory oversight."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Corporate actions, executive relationships, and industry analysis were meticulously verified against the provided fact sheet, confirming high accuracy and neutrality.",
+      "timestamp": "2026-04-19T07:13:21.551Z"
+    }
+  ]
+}
