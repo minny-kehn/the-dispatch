@@ -1,0 +1,53 @@
+{
+  "slug": "astrobotic-engine-achieves-record-thrust-in-hot-fire-test",
+  "headline": "Astrobotic Engine Achieves Record Thrust in Hot-Fire Test",
+  "deck": "Astrobotic's innovative 'Chakram' engine demonstrated significant power and efficiency, marking a pivotal moment for future lunar and deep-space missions.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Astrobotic, a company deeply invested in lunar logistics, recently completed a landmark hot-fire test of its advanced rocket engine. This successful trial saw the 'Chakram' Rotating Detonation Rocket Engine (RDRE) generate an impressive 4,000 pounds of thrust, a critical step forward in propulsion technology. The achievement underscores the potential for more efficient and powerful systems in space exploration.",
+    "The engine, known as 'Chakram,' is a sophisticated Rotating Detonation Rocket Engine (RDRE), a design hailed for its groundbreaking approach to propulsion. This technology harnesses continuous, spinning detonations to generate thrust, a stark departure from the steady combustion found in conventional rocket engines. Its name, 'Chakram,' draws inspiration from an ancient Indian weapon, reflecting its potent and circular operational principle.",
+    "During its recent test, the 'Chakram' engine not only demonstrated substantial thrust but also established a new record for burn time in its class. This extended operational period is a testament to the engine's stability and durability under extreme conditions. Such sustained performance is crucial for the demanding requirements of long-duration space missions.",
+    "This cutting-edge Astrobotic rocket engine holds the promise of significantly fueling more efficient moon missions. The inherent design of RDREs allows for greater propellant efficiency compared to traditional rocket engines, meaning more payload can be carried with less fuel. This efficiency translates directly into reduced costs and expanded capabilities for lunar ventures.",
+    "The successful test signals a significant advancement in rocket propulsion, with far-reaching implications for space exploration. By proving its capability to produce substantial thrust while maintaining efficiency, the 'Chakram' engine positions itself as a potential catalyst for future endeavors. This innovation could unlock new possibilities for lunar development, scientific research, and deeper probes into the cosmos.",
+    "As Astrobotic continues to refine this promising technology, the aerospace community will be watching closely for its integration into forthcoming missions. The path to more cost-effective and ambitious deep-space explorations now appears clearer, driven by breakthroughs like the 'Chakram' RDRE. This development solidifies the ongoing push for innovation that will shape humanity's future in space."
+  ],
+  "publishedAt": "2026-04-25T06:59:36.230Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Gizmodo",
+    "SpaceNews",
+    "autoevolution",
+    "TribLIVE.com",
+    "SpaceWatch.GLOBAL"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEF2OXI3X2tuR3RPU21lZjVFdlRTbXVhdzFNTjJuaUVkTVFSNTBKeTBUY25heXNQRDRKMEZxWU92Yld3U3AzWm1RQzdMcmY5MkdqWXkwVDhqWjdVSGNMT2g5TUlkT3VLQ24zUURIYXJPZzBUdkVKV29kdlR2X2lucm9Eb1BGUXNWT180SkhLcVlKUVJFVFFsQmdPakdLRm5aWmRlNXBnMmZHQlN6MU9nenhrbmU?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-25T06:55:13.387Z",
+      "detail": "Aggregated reports and analysis from leading technology and space news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-25T06:59:15.573Z",
+      "detail": "Compiled specific details on the engine type, thrust achieved, record burn time, and mission implications from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-25T06:59:36.230Z",
+      "detail": "Wove technical specifications with strategic impact to illustrate the significance of advances in rocket propulsion technology."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 9/10, Readability: FK 15.7",
+      "timestamp": "2026-04-25T07:04:00.099Z"
+    }
+  ]
+}
