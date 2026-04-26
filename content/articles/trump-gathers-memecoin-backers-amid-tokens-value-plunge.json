@@ -1,0 +1,57 @@
+{
+  "slug": "trump-gathers-memecoin-backers-amid-tokens-value-plunge",
+  "headline": "Trump Gathers Memecoin Backers Amid Token's Value Plunge",
+  "deck": "Donald Trump recently hosted a lavish event at Mar-a-Lago for investors in his self-branded memecoin, even as the digital asset experiences a significant decline in value.",
+  "category": "FINANCE",
+  "body": [
+    "Donald Trump recently convened a gathering at his Mar-a-Lago estate, bringing together top buyers of his self-branded memecoin. The opulent event unfolded as the associated cryptocurrency token has been caught in a deep slide, its value hovering near historic lows. This convergence of high-profile political engagement and volatile digital finance casts a harsh spotlight on the speculative nature of such assets.",
+    "The Mar-a-Lago luncheon attracted a notable roster of guests, underscoring the unique intersection of celebrity and speculative finance. Among the prominent figures in attendance was legendary boxer Mike Tyson, adding another layer of intrigue to the exclusive gathering. The event served as a direct engagement between the former president and those who have invested in his digital currency.",
+    "During the event, Mr. Trump took the opportunity to vocalize his support for the burgeoning digital asset space.",
+    "\"crypto is mainstream and banks should back off the industry's bill.\"",
+    "Despite the former president's public endorsement, the performance of the memecoin itself paints a grim picture. Market analysts have observed the token in a pronounced decline, indicating a period of significant investor unease. This downturn contrasts sharply with the celebratory atmosphere of the Mar-a-Lago gathering, highlighting the inherent risks in the volatile cryptocurrency market.",
+    "Indeed, what was once heralded as a highly exclusive event related to Trump's memecoin has seen its luster diminish over time. Previously described as 'Most Exclusive,' the gathering is now considered 'a lot less exclusive' a year later. This shift reflects the broader challenges and fluctuating fortunes that often characterize the world of speculative digital assets.",
+    "The gathering was explicitly a convergence of investors who had put their capital into Trump's self-branded memecoin. This direct interaction between a prominent political figure and his digital asset's stakeholders underscores the personal connection he maintains with this corner of the financial world. It also highlights how political figures are increasingly engaging with novel, often unregulated, financial instruments.",
+    "Mr. Trump's continued engagement with the volatile cryptocurrency market through his self-branded memecoin, even as its value plummets, carries significant implications. His public advocacy for crypto at such events could influence public perception and potentially signal his future policy leanings should he return to office. This ongoing narrative compels observation from both political and financial stakeholders, as it illustrates the evolving intersection of celebrity, politics, and speculative digital assets."
+  ],
+  "publishedAt": "2026-04-26T07:20:43.414Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "CoinDesk",
+    "The Washington Post",
+    "The New York Times",
+    "Yahoo Finance",
+    "Bloomberg.com",
+    "WSJ"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDUwa2xHcnNXVDlDQnBUQ1RtMk5TVXhjV21BVGdKV3FBVU1WbThfd2VRM0FHNHRuX0g1RU5tX1Nmb3cza3dCSzhia1RTT2hQQkt0ZEp4am1FdmJ4SXd3LWZKTjI1NnBZUHRGM19YRlRBMzF6ZXBaTVBOcjZLV01aSFZWem8yc3ZIaWRvdEdB?oc=5",
+    "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:14:21.073Z",
+      "detail": "Aggregated news reports and financial analyses from leading publications to identify details of the Mar-a-Lago event and the performance of the associated memecoin."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:17:58.551Z",
+      "detail": "Compiled facts regarding Donald Trump's attendance, key attendees, his statements on crypto, and the memecoin's market performance from 7 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:20:43.414Z",
+      "detail": "Wove event details and market analysis with political commentary to frame the significance of Trump's continued involvement with speculative digital assets amidst their decline."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, including event details, attendee names, direct quotes, and market performance descriptions, were meticulously cross-referenced and verified against the provided fact sheet, confirming complete accuracy.",
+      "timestamp": "2026-04-26T07:24:45.191Z"
+    }
+  ]
+}

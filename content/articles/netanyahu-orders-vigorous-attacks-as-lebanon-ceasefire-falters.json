@@ -1,0 +1,54 @@
+{
+  "slug": "netanyahu-orders-vigorous-attacks-as-lebanon-ceasefire-falters",
+  "headline": "Netanyahu Orders 'Vigorous Attacks' as Lebanon Ceasefire Falters",
+  "deck": "Israel's stated intent to strike Hezbollah forcefully, despite an extended ceasefire, threatens to ignite a broader regional conflict.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Israel has declared its resolve to attack Hezbollah 'forcefully,' an assertive stance that emerges amid a backdrop of escalating hostilities along its northern border. This declaration follows direct orders from Israeli Prime Minister Benjamin Netanyahu, who has instructed his military to engage Hezbollah in Lebanon with renewed intensity. The situation casts a harsh spotlight on the fragility of regional de-escalation efforts, pushing an already volatile situation closer to the brink.",
+    "Netanyahu's directive to his military was unambiguous, instructing them to hit Hezbollah with 'Powerful Strikes.'",
+    "These orders arrive as reports confirm a tragic human toll, with four individuals killed in recent strikes on southern Lebanon. Such casualties paint a grim picture of the immediate impact of the escalating clashes, revealing the severe consequences for civilian populations caught in the crossfire. The loss of life underscores the tangible cost of continued military engagement.",
+    "Crucially, these aggressive actions and reported deaths are unfolding even as an extended ceasefire remains in place between the parties. Israel's continuation of attacks into Lebanon, despite the diplomatic efforts for de-escalation, signals a profound challenge to the efficacy of the truce. This contradiction raises serious questions about the commitment to peace in a deeply fractured region.",
+    "Analysts now suggest that the Israel-Lebanon ceasefire is being severely tested by these escalating clashes. What was intended as a period for de-escalation appears to be instead characterized by heightened military activity, threatening to unravel any progress made towards stability. The current situation highlights the precarious nature of agreements in an environment rife with deep-seated tensions.",
+    "Reflecting on the long-term impact, this surge in hostilities signals a significant escalation that carries the risk of widening the conflict beyond the Gaza Strip. The potential for a broader military confrontation involving additional regional actors could further destabilize the Middle East. Such a scenario would have far-reaching implications for international security and humanitarian efforts.",
+    "The current trajectory places immense pressure on diplomatic channels to restore and enforce the ceasefire, demanding immediate attention from international mediators. Without a renewed commitment to de-escalation, the region faces the daunting prospect of a conflict that could engulf multiple nations, with devastating consequences for millions. The unresolved tensions between Israel and Hezbollah continue to pose a profound challenge to any hope of lasting peace."
+  ],
+  "publishedAt": "2026-04-26T07:19:27.861Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Reuters",
+    "BBC",
+    "WSJ",
+    "Al Jazeera",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHFYOUgyaGRzV0Z3eWVYQkNoR3Zfd1NxdjJyR000bDhDYk12dUs4RnNRSThKbHF0d2I4STM2NXNyNU5SRTZncGNlcmxDblZrOVV5WUt1VmIxZG5TdTV2YUR2N3RvZ2pYeWxIUW5rUndJd1EzTXJvRE54bHMxNTVkanUwZWFZdHRqanhhalVpZ1NWRi03UDhCLVRseHlQRF9rTVExa2lfN2U4d3MwVEEtMi1HMm4?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:14:21.073Z",
+      "detail": "Aggregated geopolitical reports, military directives, and casualty statistics from international news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:17:58.551Z",
+      "detail": "Compiled Israel's military intentions, Prime Minister Netanyahu's orders, and casualty figures from southern Lebanon from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:19:27.861Z",
+      "detail": "Wove direct quotes and casualty data with analyses of ceasefire effectiveness to illustrate escalating tensions and regional risks."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.9",
+      "timestamp": "2026-04-26T07:23:46.774Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "justice-department-drops-powell-probe-amid-political-scrutiny",
+  "headline": "Justice Department Drops Powell Probe Amid Political Scrutiny",
+  "deck": "The Justice Department's decision to drop a criminal investigation into Federal Reserve Chair Jerome Powell lifts a significant cloud, yet revelations of 'lasting damage' and renewed political attention to the central bank's finances suggest lingering tensions.",
+  "category": "FINANCE",
+  "body": [
+    "The Justice Department has concluded its criminal investigation into Federal Reserve Chair Jerome Powell, a development that removes a layer of uncertainty from the nation's top financial leader. This decision marks a significant turn in a probe that had cast a shadow over the central banking system. The conclusion of such an inquiry, particularly involving an official of Powell's stature, is a notable event for financial markets and public perception alike.",
+    "The formal cessation of the criminal probe was initiated by Jeanine Pirro, according to reports from multiple news outlets. Her direct involvement in dropping the investigation brings an official close to a chapter that had drawn considerable attention. This action clears the immediate legal questions surrounding Chair Powell's conduct.",
+    "Despite the probe's conclusion, its impact on the institution was profound, with one prominent publication noting it caused \"lasting damage\" to the Federal Reserve and its chairman.",
+    "These reports of the investigation's end arrive amidst heightened political interest in the Federal Reserve's operations. President Trump, for instance, publicly vowed to \"get to the bottom\" of the central bank's multibillion-dollar building renovation project. This declaration signals a continuing governmental focus on the Fed's internal affairs.",
+    "President Trump's pledge regarding the renovation project was made following the shift in the Powell investigation, drawing a clear timeline between the two events. The timing suggests a potential redirection of political scrutiny from the Chair's personal conduct to the institution's expenditures. Such an immediate pivot underscores the persistent political pressures facing the independent body.",
+    "Concurrently with the dropping of the Powell probe, a Senate panel scheduled a vote to advance the nomination of Warsh, a move that further intertwines legislative and executive actions concerning the Fed. This juxtaposition of events points to a broader landscape of institutional maneuvering. The confluence of these decisions highlights a period of significant activity around the Federal Reserve.",
+    "Jerome Powell, as Chair of the Federal Reserve, helms the United States' central banking system, a role critical for monetary policy and economic stability. A criminal investigation into such a high-ranking official inherently carries substantial weight, influencing market confidence and the Fed's perceived independence. The resolution of this probe, therefore, is not merely a legal matter but a significant financial and political one.",
+    "While the immediate cloud of a criminal investigation has lifted from Chair Powell, the implications of the \"lasting damage\" and the subsequent, pointed political focus on the Federal Reserve's finances will undoubtedly persist. The institution now faces the challenge of rebuilding trust and maintaining its operational autonomy against a backdrop of continued governmental scrutiny. The coming months will reveal how these tensions evolve and shape the central bank's future."
+  ],
+  "publishedAt": "2026-04-26T07:21:06.936Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "The New York Times",
+    "CNN",
+    "Fox News",
+    "The Washington Post"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjBDUEctYWdJSEJhYTE4V2hMOHZwTzdJSHVrZFZONkJUQ3RYcmlvZElzR19oR2pTdjlLTHN2Sk5WM00tMVdvYUlFWTgySmlJblR4RTlGb0NaVUFYVG1xTlljTWcyNmVXbjdLeE9jWU85c0NNWm9JLWNqT1dVc0NoLXg1aGZ1aXhqNlFSa2FTMldLYzg?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:14:21.073Z",
+      "detail": "Aggregated news reports from major publications regarding the Justice Department's actions and related political statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:17:58.551Z",
+      "detail": "Compiled details on the dropping of the Powell probe, the official involved, statements on institutional damage, and President Trump's subsequent vows from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-04-26T07:21:06.936Z",
+      "detail": "Wove together official announcements, analytical observations, and political reactions to explain the significance of the probe's conclusion and its broader implications for the Federal Reserve."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the identity of the official who dropped the probe, the attributed quote, and the details of the President's subsequent vow, were precisely cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-04-26T07:25:02.302Z"
+    }
+  ]
+}
