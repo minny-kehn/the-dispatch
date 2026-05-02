@@ -1,0 +1,49 @@
+{
+  "slug": "facebook-accounts-compromised-in-appsheet-phishing-attack",
+  "headline": "Facebook Accounts Compromised in AppSheet Phishing Attack",
+  "deck": "A sophisticated phishing operation leveraging Google AppSheet has reportedly led to the compromise of tens of thousands of Facebook user accounts, raising fresh concerns about digital security.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "A significant cybersecurity breach has reportedly compromised 30,000 Facebook accounts, casting a harsh spotlight on the persistent threat of phishing attacks. The incident, which leveraged a sophisticated Google AppSheet campaign, underscores the evolving tactics employed by malicious actors. This large-scale compromise immediately raises alarms for users worldwide regarding the security of their personal data on major online platforms.",
+    "The incident was brought to light by The Hacker News, detailing how attackers exploited the Google AppSheet platform as a vector. This particular method highlights a concerning trend where legitimate development tools can be weaponized for illicit purposes. Such a breach paints a grim picture for digital security, demonstrating the ingenuity of those seeking to exploit vulnerabilities.",
+    "The sheer volume of 30,000 Facebook accounts affected by this campaign is a stark reminder of the broad reach of modern cyber threats. Each compromised account represents a potential loss of personal information, privacy, and even financial security for individual users. This scale of attack pushes an already vulnerable online population closer to the brink of digital insecurity.",
+    "Phishing remains one of the most prevalent and effective methods for cybercriminals to gain unauthorized access to sensitive data. By masquerading as trustworthy entities, these campaigns trick users into divulging their credentials. The utilization of a platform like Google AppSheet adds a layer of apparent legitimacy, making it harder for unsuspecting users to identify the malicious intent.",
+    "This incident serves as a critical indicator for major technology companies regarding the security of their ecosystems. Even seemingly peripheral tools, when exploited, can become conduits for widespread breaches affecting core user bases. It necessitates a continuous re-evaluation of security protocols and vigilance across all integrated services.",
+    "Reflecting on the long-term impact, this breach underscores the relentless cat-and-mouse game between cybersecurity defenders and threat actors. As platforms evolve, so too do the methods of attack, requiring constant innovation in defense. The imperative now is for enhanced vigilance and collaborative efforts to protect users from increasingly sophisticated digital threats."
+  ],
+  "publishedAt": "2026-05-02T07:20:51.915Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tOGFWOFp0YnI1LThUWmxQc0VjSllXRWY4TktTUTdSUTAxUGdfU2lXbS1JNk8yVXQxUGkwSmVycVBwMlVDOUt6SU1fenhVbWFHQU9kWkNUT0RaWmpydWxrOVEzd0RnbHh6SG1NcDNyb2dOSWU0Mzd3UmRHUGwtQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:16:19.748Z",
+      "detail": "Aggregated cybersecurity reports and technology news headlines."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:20:13.344Z",
+      "detail": "Compiled details on a large-scale Facebook account compromise, the method of attack, and the reporting source from two identical news headlines."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:20:51.915Z",
+      "detail": "Wove details of the phishing campaign and account compromise into a narrative examining cybersecurity risks and the evolving tactics of threat actors."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The number of compromised accounts, the specific phishing campaign platform, and the initial reporting source were all precisely verified against the provided fact sheet.",
+      "timestamp": "2026-05-02T07:25:01.498Z"
+    }
+  ]
+}

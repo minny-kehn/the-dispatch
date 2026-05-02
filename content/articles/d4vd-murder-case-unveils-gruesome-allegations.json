@@ -1,0 +1,54 @@
+{
+  "slug": "d4vd-murder-case-unveils-gruesome-allegations",
+  "headline": "D4vd Murder Case Unveils Gruesome Allegations",
+  "deck": "Court filings in the D4vd murder case have revealed disturbing details, prompting profound distress within the victim's family.",
+  "category": "CULTURE",
+  "body": [
+    "The family of the teen victim in the D4vd murder case is grappling with profound shock, as gruesome details surrounding the alleged killing have surfaced in recent court filings. These revelations cast a harsh spotlight on the accusations against D4vd, deepening the already tragic contours of the case. The emerging information paints a grim picture for those following the legal proceedings.",
+    "D4vd stands accused of killing a 14-year-old teen, identified as Celeste Rivas Hernandez. This serious accusation forms the core of the ongoing legal battle, drawing significant public attention to the alleged actions and their devastating consequences. The case has unfolded with escalating gravity since its initial reports.",
+    "Prosecutors allege a chilling motive behind the accused's actions, asserting that D4vd killed the teen after she threatened to release information that could 'end his career.' This particular claim suggests a desperate attempt to silence damaging revelations, pushing an already vulnerable situation closer to the brink. The alleged threat provides a critical, albeit disturbing, piece of the prosecutorial narrative.",
+    "Further details emerging from the investigation suggest a premeditated scheme, with a body bag purchased online reportedly part of D4vd's plan to kill. Such an allegation adds a layer of calculated intent to the already serious charges. These specific claims are now central to the evidence presented in court.",
+    "An updated death certificate for Celeste Rivas Hernandez has also been filed, noting that it remains unclear if she was pregnant at the time of her death. This particular detail adds another layer of complexity and sorrow to the victim's story. The uncertainty surrounding this aspect underscores the profound loss and unanswered questions for her loved ones.",
+    "The victim's family expressed profound distress, stating they were 'shocked' by the gruesome details now made public, according to reports from the Los Angeles Times and NBC Los Angeles.",
+    "As legal proceedings continue to unfold, the severe consequences of these alleged actions are becoming increasingly clear. The ongoing scrutiny of the case underscores the tragic loss of a young life and the serious nature of the accusations against D4vd. The court will continue to examine these details as it moves forward."
+  ],
+  "publishedAt": "2026-05-02T07:24:24.211Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Los Angeles Times",
+    "ABC7 Los Angeles",
+    "NBC Los Angeles",
+    "NBC News",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXVxdThYakc4Nzg3VERsYmhvaGxzOHFDemFwYm1RUG9GWlUtTnBvU245YlFxeXN5VTg0RzhFVk9xdmtxaU9LYmQ2dHh5SWRNN3F4MnotNTU2MnJGZkxyTXpRQUdlUEFhOVBweUFqVGoxLXFEdmc0MmJZdDUyMC1TczJWVDUtSHF0Q2c?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:16:19.748Z",
+      "detail": "Aggregated reports from major news outlets, including the Los Angeles Times, NBC Los Angeles, ABC7 Los Angeles, and NBC News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:20:13.344Z",
+      "detail": "Compiled specific claims regarding the victim's family's shock, alleged motive, victim's age, and details about the alleged scheme from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:24:24.211Z",
+      "detail": "Wove emerging court details with family reactions and prosecutorial claims to illuminate the gravity of the D4vd murder case."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the victim's age and name, alleged motive, evidence details, and direct quotes with source attributions, were precisely cross-referenced and verified against the provided fact sheet.",
+      "timestamp": "2026-05-02T07:27:57.556Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "oscars-ban-ai-broaden-film-category-access",
+  "headline": "Oscars Ban AI, Broaden Film Category Access",
+  "deck": "The Academy of Motion Picture Arts and Sciences has unveiled sweeping rule changes, firmly drawing a line against artificial intelligence while expanding opportunities for human talent and international cinema.",
+  "category": "CULTURE",
+  "body": [
+    "The Academy of Motion Picture Arts and Sciences has implemented significant adjustments to its eligibility rules for the upcoming Oscars, signaling a crucial moment for the industry. These updates address the burgeoning influence of artificial intelligence in filmmaking, alongside modifying long-held conventions for actor recognition and international film submissions. The changes reflect a considered effort to adapt to a rapidly evolving creative landscape, setting clear boundaries for technological involvement while broadening the scope of human artistry.",
+    "Central to these revisions is a decisive crackdown on Artificial Intelligence, with the Academy explicitly banning AI actors from awards consideration. This move underscores a commitment to human performance as the bedrock of cinematic achievement, ensuring that the faces and voices celebrated on screen are those of flesh-and-blood artists. It casts a harsh spotlight on the ethical and creative dilemmas posed by emerging digital tools, asserting the primacy of human craft.",
+    "Further solidifying its stance, the Academy has also prohibited AI-generated writing from being eligible for Oscar awards. This means that screenwriters vying for the coveted statuette must be entirely human, reinforcing the idea that storytelling, at its most profound, remains a uniquely human endeavor. The rule clarifies the Academy's position on authorship, ensuring that the narratives honored are products of human imagination and experience.",
+    "Meanwhile, the Academy has moved to broaden recognition for human talent within its existing categories. Actors can now receive multiple nominations in the same category, a departure from previous restrictions. This adjustment allows for a more comprehensive acknowledgment of exceptional performances, providing a more nuanced appreciation for an actor's diverse contributions across different projects within a single awards cycle.",
+    "Beyond individual performances, the eligibility criteria for International Film categories have also been significantly expanded. This update reflects a growing appreciation for global cinema and provides a wider platform for films from around the world to compete for the industry's most prestigious accolades. It is a nod to the increasingly interconnected nature of filmmaking and the rich tapestry of stories originating beyond Hollywood's traditional borders.",
+    "These specific rule changes primarily affect acting and international film categories, indicating a targeted approach to modernizing the awards. The adjustments aim to clarify the Academy's position on technology's role in creative processes while fostering a more inclusive and representative recognition of human artistic merit. They collectively paint a picture of an institution grappling thoughtfully with the future of its craft.",
+    "The implications of these rule changes are likely to resonate throughout the film industry, influencing production decisions, submission strategies, and the ongoing dialogue about the intersection of art and technology. As filmmakers continue to explore the capabilities of AI, the Academy's updated guidelines provide a clear framework for what constitutes award-eligible work, shaping the very definition of cinematic excellence in the years to come."
+  ],
+  "publishedAt": "2026-05-02T07:24:04.236Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Variety",
+    "Yahoo",
+    "Deadline",
+    "BBC",
+    "The Guardian"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWUzb09oZWNRTU1wOF9wTEFjSVlxb0ZhT1J4U2V0SHA2R1BURVNCZEhCSUc4SHBFc0xoTTQ3NmtEbTJHS0FiZ2pxQl9aSV92YTF0Vi0xSEZVQktKZ08xRUU1aFU5a1NyYkFHWFMzQl9PQzlWNnJjOE1NMTZIYmZ5NGdDSVh2WkJHVWVTQTRaT1FxTmk2QWJ1RmFwQUlDZTlFZmlMMHhpNA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:16:19.748Z",
+      "detail": "Aggregated reports from leading entertainment and news outlets regarding the Academy's rule changes."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:20:13.344Z",
+      "detail": "Compiled specific updates on AI bans, actor nomination eligibility, and international film category expansions from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-02T07:24:04.236Z",
+      "detail": "Wove together details of the Oscar rule changes, emphasizing the Academy's stance on AI and human talent, to explain their broader industry impact."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific rule changes regarding AI, acting nominations, and international film categories were directly verified against the provided fact sheet, with no factual discrepancies or fabrications found.",
+      "timestamp": "2026-05-02T07:27:27.874Z"
+    }
+  ]
+}
