@@ -1,0 +1,54 @@
+{
+  "slug": "failed-bailout-leads-to-spirit-airlines-shutdown",
+  "headline": "Failed Bailout Leads to Spirit Airlines Shutdown",
+  "deck": "The low-cost carrier Spirit Airlines has ceased all operations following the failure of a crucial government bailout plan, leaving thousands of passengers stranded and igniting a political dispute.",
+  "category": "FINANCE",
+  "body": [
+    "Spirit Airlines has officially shut down, ceasing all operations and canceling every scheduled flight. This abrupt closure marks the end for a low-cost innovator in the airline industry, which had long distinguished itself with an accessible travel model. The development leaves a significant void in the budget travel sector and impacts countless travelers.",
+    "This sudden cessation of operations follows the reported failure of a crucial Trump administration bailout plan. The inability to secure this vital financial lifeline ultimately pushed Spirit Airlines beyond recovery, sealing the fate of a carrier that had been a distinctive presence in the market. Its cessation of operations confirms the company is now officially out of business.",
+    "For years, Spirit Airlines carved out a unique niche as a low-cost innovator, challenging traditional carriers with its no-frills model. It democratized air travel for many, making flights accessible to a broader segment of the population. The airline's business model focused on offering basic fares, with passengers paying extra for amenities like baggage and seat selection.",
+    "The human cost of this corporate failure is perhaps most acutely felt by the passengers now left adrift. Thousands of individuals with booked flights are grappling with unexpected disruptions, seeking alternative travel arrangements amidst widespread confusion. Their plight casts a harsh spotlight on the broader implications of an airline's collapse for everyday travelers.",
+    "Following Spirit's cessation of operations, a political blame game has swiftly begun. Observers are scrutinizing the circumstances surrounding the failed bailout plan and the broader governmental response. The unfolding situation highlights the complex interplay between corporate finance and political intervention in times of economic strain.",
+    "Meanwhile, the airline industry has begun to respond to the sudden void. Frontier Airlines, a competitor, announced discounted rescue fares specifically aimed at supporting Spirit Airlines customers. This industry gesture offers a measure of relief for some of those impacted by the shutdown, reflecting efforts to mitigate the immediate fallout for stranded travelers.",
+    "The closure of Spirit Airlines not only reshapes the competitive dynamics of the airline industry but also ignites deeper conversations about government's role in supporting private enterprise. As the dust settles, the long-term implications for airfare, consumer choice, and the stability of other low-cost carriers will undoubtedly come into sharper focus. This episode reveals the volatile nature of the travel sector and the critical need for robust economic planning."
+  ],
+  "publishedAt": "2026-05-03T08:33:23.394Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "The Washington Post",
+    "The Guardian",
+    "Channel 3000",
+    "CNN",
+    "Frontier Airlin"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmpWaHdPajN4NlBlNk81bzM2MllSZjZPNEs1OHFpY2F1NkE1ajlMMW5HRjN6Zm9tQVZLSTdvTzZtbHFteXphRTFYVkR1c1FQaGtTSlhINWdVTml4ZXYwMEhPRndhODU4ZXhrZmR6UkVtdmZTanpUMTBHdWxUTUpVTFEtTEpVUmFrX3hrdA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-03T08:26:48.366Z",
+      "detail": "Aggregated news reports from major international and national media outlets regarding Spirit Airlines' operations and bailout status."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-03T08:30:37.930Z",
+      "detail": "Compiled facts detailing Spirit Airlines' shutdown, flight cancellations, failed bailout, and subsequent industry responses from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-03T08:33:23.394Z",
+      "detail": "Wove verified reports of corporate failure and government intervention with consumer impact and industry reactions to present a comprehensive account of Spirit Airlines' closure."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, including the shutdown event, the nature of Spirit Airlines, the failed bailout, and the subsequent political and industry responses, were meticulously cross-referenced against the provided fact sheet, showing no discrepancies or fabrications.",
+      "timestamp": "2026-05-03T08:37:27.680Z"
+    }
+  ]
+}
