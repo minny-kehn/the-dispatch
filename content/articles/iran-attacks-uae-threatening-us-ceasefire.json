@@ -1,0 +1,53 @@
+{
+  "slug": "iran-attacks-uae-threatening-us-ceasefire",
+  "headline": "Iran Attacks UAE, Threatening US Ceasefire",
+  "deck": "A recent surge in Iranian missile attacks on the United Arab Emirates signals a dangerous challenge to the fragile truce between Washington and Tehran, raising alarms across the Middle East.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "The United Arab Emirates has reportedly endured a second consecutive day of missile attacks from Iran, marking a significant escalation in regional tensions. These aggressive actions, which included a strike on the critical port of Fujairah, are the first of their kind since a delicate ceasefire was established between the United States and Iran. The sudden resurgence of hostilities casts a harsh spotlight on the precarious state of regional diplomacy.",
+    "Reports from multiple international outlets confirm that Iran fired missiles at the UAE, with one particularly notable incident targeting Fujairah. This strategic location, vital for global energy markets, underscores the broader economic implications of these military maneuvers. The pattern of sustained attacks over two days suggests a deliberate and calculated move by Tehran.",
+    "These latest incidents immediately bring into question the durability of the US-Iran ceasefire, which some analysts now describe as teetering on the brink of meltdown. Despite the clear provocations, the United States maintains that the shaky truce remains intact, emphasizing a desire to de-escalate rather than acknowledge its collapse. This diplomatic stance highlights the extreme sensitivity surrounding any formal declaration of the ceasefire's failure.",
+    "The targeting of Fujairah holds particular significance for global energy markets. As a major bunkering hub and an important oil export terminal, any threat to its operations sends ripples through international commodity prices and supply chains. This strategic vulnerability adds another layer of complexity to an already tense geopolitical landscape, drawing the attention of global economic powers.",
+    "The renewed aggression against the UAE risks broader destabilization across the Middle East. The attacks not only elevate direct tensions between Iran and the Emirates but also challenge the intricate web of alliances and security arrangements in the region. Such actions push an already vulnerable population closer to the brink of wider conflict, with uncertain consequences for millions.",
+    "As the international community grapples with these developments, the immediate focus remains on preventing further escalation and preserving whatever remains of the US-Iran ceasefire. The coming days will reveal whether diplomatic efforts can withstand these renewed pressures or if the region is poised for a more profound and dangerous shift. The imperative is clear: to navigate these volatile currents with utmost caution, seeking pathways to stability amidst the rising tide of hostility."
+  ],
+  "publishedAt": "2026-05-06T05:28:54.030Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Al Jazeera",
+    "The Guardian",
+    "WSJ",
+    "Reuters",
+    "Bloomberg.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFQ0UXZtM0UySE44QlhvZ2wwYUJOVTB6WnRxOHF6Y2Y0TDdTOFIyanF5YVh1cU05Y0h0cElzaXJXTUJPZnc5ZEVaNlpVXzUtb3JUOU9VUlFhMGhNUG5KdVUzRW95QTU0aWdzYjNhUHhua28tbkhvVW5Rc2NEV2tpSldzYUhkM3M5c0NkeGg2cjB6MGfSAZgBQVVfeXFMTUFYLXQzamU4Vjk1bVdadkdPcWEzWEpfcjdxS2JiNDlHdkszOEJkOHhZam1pclNLMFNBNk5fSmQ5U2Q2ZlVRNWhnREItNGpWbEFORXVtcFo1cE5pOXlZcmpOQjBIbUozNk5Ock9vU3JfMnpuRmI2czN4d19taXZ5X2dFSUctbjc0VTBiOE43cGJqckJLTHBpRkk?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-06T05:23:44.214Z",
+      "detail": "Aggregated reports on Iranian attacks from major news outlets including Al Jazeera, WSJ, Reuters, and Bloomberg.com."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-06T05:27:47.614Z",
+      "detail": "Compiled details on missile attacks, specific locations, ceasefire status, and market implications from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-06T05:28:54.030Z",
+      "detail": "Wove immediate attack details with analysis of ceasefire fragility and regional implications for energy markets and security."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 16.1",
+      "timestamp": "2026-05-06T05:33:12.963Z"
+    }
+  ]
+}
