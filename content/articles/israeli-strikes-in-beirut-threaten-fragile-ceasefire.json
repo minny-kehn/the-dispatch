@@ -1,0 +1,53 @@
+{
+  "slug": "israeli-strikes-in-beirut-threaten-fragile-ceasefire",
+  "headline": "Israeli Strikes in Beirut Threaten Fragile Ceasefire",
+  "deck": "Israeli forces have conducted strikes deep within Beirut's suburbs, immediately imperiling an already shaky ceasefire with Hezbollah and leading to civilian casualties.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Israeli forces have conducted strikes deep within Beirut's suburbs, casting a harsh spotlight on the fragility of the existing ceasefire with Hezbollah and raising immediate concerns for regional stability. These actions mark a significant escalation, as they represent the first time Israel has struck Beirut since the ceasefire agreement with the militant group.",
+    "The strikes reportedly targeted a specific Hezbollah commander within Beirut's southern suburb, a densely populated area. This precise targeting, while potentially aimed at a high-value individual, carries broader implications for the delicate balance of power and the sustained peace efforts in the region.",
+    "The immediate human cost of these actions is tragically clear, as families across Lebanon are now searching through rubble for loved ones killed in a day of Israeli strikes. Reports indicate that seven people lost their lives in southern Lebanon alone due to the airstrikes, painting a grim picture of the conflict's toll.",
+    "Beyond the immediate casualties, the devastation extends to crucial community structures and cultural sites. In a particularly jarring development reported from the affected areas, a Catholic convent was reportedly bulldozed, adding another layer of distress to an already vulnerable population grappling with the aftermath.",
+    "These reports come as the region grapples with an already tenuous ceasefire, consistently tested by cross-border tensions and sporadic exchanges. The ongoing searches for victims of previous Israeli strikes further underscore the persistent cycle of violence that has plagued the borderlands, exacerbating humanitarian concerns.",
+    "Analysts suggest these recent actions push an already delicate situation closer to the brink of wider conflict, risking a complete breakdown of the ceasefire. The targeting of Beirut, a symbolic and strategic center, carries significant weight, demanding urgent de-escalation from all parties involved to prevent further destabilization."
+  ],
+  "publishedAt": "2026-05-07T05:31:48.590Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "The Washington Post",
+    "BBC",
+    "Al Jazeera",
+    "PBS",
+    "AP News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYy05cU1rcVk3aXlCRFNmNTJ3WEhSalR4dkk5MC1YNl9WWG1XaG9QVWNLQUhoZGRvaDA3cmRNSkdtZDI5dkI3aERJbmRBd01FWFlsOFBCYTQ4OEQxM3RrNU1HNXhqZ1dWZkQxZkxXTng2N3ZWdk1NaXJsNVpwMEtqb1NySUVXbjk5ZDZLS1ptdk1fVGdqMVdCckNOdW43Rnc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:26:22.486Z",
+      "detail": "Aggregated reports from major international news outlets regarding Israeli military actions and their regional impact."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:30:32.539Z",
+      "detail": "Compiled details of Israeli strikes, casualty figures, ceasefire status, and specific targets from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:31:48.590Z",
+      "detail": "Wove verified strike details and casualty counts into a narrative examining the immediate human cost and broader geopolitical implications for regional stability."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 7/10, Accuracy: 9/10)",
+      "timestamp": "2026-05-07T05:36:08.553Z"
+    }
+  ]
+}

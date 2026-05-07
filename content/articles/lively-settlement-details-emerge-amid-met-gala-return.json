@@ -1,0 +1,54 @@
+{
+  "slug": "lively-settlement-details-emerge-amid-met-gala-return",
+  "headline": "Lively Settlement Details Emerge Amid Met Gala Return",
+  "deck": "New details surrounding the legal resolution between Blake Lively and Justin Baldoni have surfaced, even as Lively made a grand return to the Met Gala.",
+  "category": "CULTURE",
+  "body": [
+    "Recent reports have shed light on the legal settlement between actor Justin Baldoni and Blake Lively, with Baldoni's legal representation confirming that no financial exchange was part of the resolution. This development brings clarity to a situation that has drawn considerable attention within entertainment circles. The specifics of the agreement, while not fully disclosed, mark a significant step for both parties.",
+    "Justin Baldoni, through his lawyer, expressed profound satisfaction with the outcome, stating he was \"ecstatic at the result\" of the Wayfarer settlement with Blake Lively.",
+    "These reports arrive as Blake Lively once again captured the fashion world's gaze, making a memorable return to the Met Gala in 2026. Her appearance at the prestigious event, often considered the pinnacle of celebrity fashion, was highly anticipated. Lively's presence underscores her enduring influence on the cultural landscape, shifting focus from legal matters to her public persona.",
+    "For her grand entrance, Lively chose an archival Versace gown, a selection that instantly became a talking point among fashion critics and fans alike. The custom creation was notable not just for its historical significance but also for its dramatic scale. Her ensemble featured a breathtaking 13-foot train, ensuring all eyes remained on her as she navigated the red carpet.",
+    "Despite her prominent history with the event, questions had emerged regarding whether Lively had received a personal invitation from Anna Wintour for the 2026 Met Gala. Such speculation often swirls around the exclusive guest list, highlighting the event's rigorous selection process. Ultimately, her dazzling appearance put any such doubts to rest.",
+    "While Blake Lively commanded the spotlight at the Met Gala, her husband, Ryan Reynolds, was notably absent from the festivities in 2026. However, the couple recently shared a rare, makeup-free selfie, offering fans a glimpse into their private life away from the red carpet's glare. This personal moment provided a counterpoint to the high-glamour event.",
+    "The confluence of these events — a resolved legal matter and a celebrated public appearance — paints a nuanced picture of a prominent figure navigating both personal and professional spheres. As the dust settles on the settlement, Blake Lively continues to shape her public narrative through carefully chosen engagements and glimpses into her private world."
+  ],
+  "publishedAt": "2026-05-07T05:34:49.312Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Yahoo",
+    "People.com",
+    "instyle.com",
+    "Vogue",
+    "E! News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXhVTG9jbGxUTEl2Ul9Wem5pczhFaXZDaldjS21aNDNqNTZ3YXd2a3Vsa3g4SEx3bTdRamp2eGVNRlpfZU1SYzVmcGpHSW80SjJEcmVHVll6LTJlOUwtNGtHWVJkeHhxUzFkRlJiNV8xbE9SNGMwNThYWUpYX0t2LUtSNE1uMlVDUXZxSnlYTGtVUXR3LUNzS2wzLUpzMEgwR1AtSlNXVmhTM2VzZGVB?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:26:22.486Z",
+      "detail": "Aggregated entertainment news reports and celebrity features from various online publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:30:32.539Z",
+      "detail": "Compiled details on a legal settlement, celebrity quotes, and Met Gala appearance specifics from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:34:49.312Z",
+      "detail": "Wove together legal updates with high-profile cultural event coverage to provide a comprehensive look at a celebrity's recent activities."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Legal settlement details, celebrity event specifics, and personal life glimpses were meticulously cross-referenced with the provided fact sheet, ensuring all factual claims, direct quotes, and statistics were accurately represented without fabrication.",
+      "timestamp": "2026-05-07T05:38:20.417Z"
+    }
+  ]
+}

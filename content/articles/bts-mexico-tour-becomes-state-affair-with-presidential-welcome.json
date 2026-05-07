@@ -1,0 +1,56 @@
+{
+  "slug": "bts-mexico-tour-becomes-state-affair-with-presidential-welcome",
+  "headline": "BTS Mexico Tour Becomes State Affair with Presidential Welcome",
+  "deck": "The global K-Pop sensation BTS received a diplomatic reception in Mexico, elevating their tour beyond a typical concert series into a significant state event.",
+  "category": "CULTURE",
+  "body": [
+    "The recent tour by global K-Pop phenomenon BTS in Mexico transcended the typical concert series, evolving into a significant diplomatic event marked by an official presidential welcome. This high-level engagement underscored the group's immense cultural influence, positioning their visit as a matter of state importance rather than merely entertainment.",
+    "This unprecedented level of official engagement saw the group welcomed personally by the President of Mexico. The meetings and visits occurred ahead of their highly anticipated Mexico City concerts, signaling a profound recognition of BTS's global impact by the nation's highest office.",
+    "The group’s itinerary included a visit to Mexico's Presidential Palace, also known as the National Palace, a rare privilege typically reserved for heads of state or prominent dignitaries. From this historic vantage point, BTS greeted their passionate fanbase, known as ARMY, demonstrating a unique blend of formal diplomacy and direct fan interaction.",
+    "Their concerts across Mexico were met with overwhelming enthusiasm, quickly selling out and cementing the group's immense popularity in the region. This fervent reception from their dedicated followers, coupled with the official state recognition, painted a vivid picture of their widespread appeal.",
+    "Beyond the roar of sold-out crowds and the gleam of official receptions, BTS's visit underscored a deeper phenomenon: the growing soft power influence of K-Pop. Their ability to engage with national leaders and become part of state affairs highlights the genre's expanding reach and its capacity to foster cultural exchange.",
+    "The group’s own reflections on this significant engagement further illuminated its purpose and connection with their audience.",
+    "“The Energy Here Is Incredible”",
+    "This sentiment echoed the palpable excitement surrounding their presence, both from fans and official channels. Another powerful message resonated through their visit, emphasizing a broader impact.",
+    "“This Is for the Youth”",
+    "Reflecting on the long-term impact, BTS's reception in Mexico City serves as a potent reminder of K-Pop's expanding global footprint. It demonstrates the genre's capacity to foster genuine cultural exchange and potentially forge new diplomatic pathways through the universal language of music, extending its influence far beyond the stage."
+  ],
+  "publishedAt": "2026-05-07T05:35:08.811Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Billboard",
+    "Forbes",
+    "Yahoo",
+    "The Korea Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMWk0UGhERFRkcjRZNWY3UU1XdVBaLWd3c0dEY0tENmh5N2U2WVNvdTJadEFlcUN6MzhEdTQ5LTd1bjZxOWo4QjYzUTh2a19sV3FGRldLWmZveW4wYzRocWlyM1FQNExSSUs0clhQelR4N1p1ZHZLRVVnQWdyUXV5cFdvZEtocHBwczFzVmZ3TU1LU0U5RFB5Y2k3dFNJWVRwZ2FncWFpNnJ1Sm1C?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:26:22.486Z",
+      "detail": "Aggregated news reports, entertainment features, and cultural analyses from prominent international publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:30:32.539Z",
+      "detail": "Compiled event details, official statements, and fan engagement reports regarding BTS's Mexico tour from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-07T05:35:08.811Z",
+      "detail": "Wove factual accounts of BTS's visit with contextual analysis to illustrate K-Pop's growing diplomatic and cultural influence."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific events, quotes, and claims regarding BTS's Mexico tour, presidential welcome, palace visit, fan interaction, and sold-out concerts were meticulously verified against the provided fact sheet.",
+      "timestamp": "2026-05-07T05:38:47.814Z"
+    }
+  ]
+}
