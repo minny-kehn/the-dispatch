@@ -1,0 +1,51 @@
+{
+  "slug": "asean-leaders-adopt-crisis-plan-amid-middle-east-war-fallout",
+  "headline": "ASEAN Leaders Adopt Crisis Plan Amid Middle East War Fallout",
+  "deck": "Southeast Asian nations move to mitigate the far-reaching economic and energy repercussions of the ongoing Middle East conflict.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Leaders of the Association of Southeast Asian Nations (ASEAN) have adopted a comprehensive crisis plan, signaling their deep alarm over the escalating Middle East war. This decisive action aims to mitigate the growing backlash and potential instability stemming from the conflict, which has begun to ripple across global markets and economies.",
+    "The urgency behind ASEAN's unified response is particularly driven by an emerging energy crisis that is now weighing heavily on many nations within the bloc. Alongside this, measures have been adopted to ease broader economic pain, with leaders directly attributing these financial pressures to the ongoing war involving Iran.",
+    "Behind the scenes, the atmosphere at the recent ASEAN summit was reportedly charged, characterized by some diplomatic observers as 'angry' as the full scope of the international repercussions became clear. This palpable concern is pushing the bloc to forge a joint response, emphasizing the need for collective action to navigate the turbulent global landscape.",
+    "In a more subtle, yet equally potent diplomatic maneuver, Southeast Asian leaders also used the summit to reaffirm their core values. This collective reaffirmation is widely interpreted as a veiled rebuke of the Mideast war, underscoring ASEAN's steadfast commitment to principles of peace and regional stability.",
+    "As the bloc implements these newly adopted measures, the long-term effectiveness of its crisis plan will hinge on the sustained commitment of member states and the unpredictable trajectory of the Middle East conflict itself. The unfolding situation continues to test ASEAN's resolve to maintain regional stability amidst profound international pressures and economic uncertainties."
+  ],
+  "publishedAt": "2026-05-09T05:22:31.530Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "AP News",
+    "Reuters",
+    "Foreign Policy",
+    "Al Jazeera"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmVIS0N5QnQzdGlTemlQaUJxb1o5NWhJZGlQYzZkNHRJZGRaLWJySHdWX3ZjRGVIcEVUMGVBRkxpTjlBd3VUem9HYzNyaUFRWHg5WDVyMkgtQUpoX0RzWUMyRE9IQUp6QVVHWExCdVY5VWNRWUsyMktZamlCQUhSRkt2TEpKUTl1OTZFUjR0ZVJrcUFVakdrbg?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-09T05:16:57.312Z",
+      "detail": "Aggregated reports from international newswires and foreign policy publications detailing ASEAN's diplomatic responses to the Middle East conflict."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-09T05:20:57.082Z",
+      "detail": "Compiled ASEAN leaders' statements on crisis plans, economic mitigation measures, energy concerns, and summit characterizations from AP News, Reuters, Al Jazeera, and Foreign Policy."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-09T05:22:31.530Z",
+      "detail": "Wove diplomatic actions with economic impacts and geopolitical analyses to illustrate how distant conflicts compel regional blocs to take proactive measures for stability."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, including the adoption of a crisis plan, attribution of economic pain to the Iran war, and characterization of the ASEAN summit, were directly verified against the provided fact sheet.",
+      "timestamp": "2026-05-09T05:26:24.111Z"
+    }
+  ]
+}
