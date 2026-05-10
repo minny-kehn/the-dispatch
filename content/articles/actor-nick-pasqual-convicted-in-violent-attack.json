@@ -1,0 +1,52 @@
+{
+  "slug": "actor-nick-pasqual-convicted-in-violent-attack",
+  "headline": "Actor Nick Pasqual Convicted in Violent Attack",
+  "deck": "A Los Angeles jury has found actor Nick Pasqual guilty of attempted murder following a brutal knife attack on his estranged girlfriend, a Hollywood makeup artist.",
+  "category": "CULTURE",
+  "body": [
+    "A Los Angeles courtroom has delivered a stark verdict, finding actor Nick Pasqual guilty of attempted murder. Known to audiences for his role in the popular series 'How I Met Your Mother', Pasqual faced charges stemming from a violent assault on his estranged girlfriend. This conviction brings a measure of legal resolution to a case that has cast a harsh spotlight on the grave realities of domestic violence, even when involving figures from the entertainment world.",
+    "The charges centered around a brutal incident where Pasqual subjected his former partner, a respected Hollywood makeup artist, to a violent knife attack. The assault unfolded at her Sunland home, where she was stabbed multiple times. This harrowing event painted a grim picture of intimate partner violence, leaving the victim with severe injuries and highlighting the extreme danger she faced.",
+    "The prominence of Pasqual's acting career, though not extensive, lends a particular weight to this conviction. His public persona, now irrevocably linked to such a heinous act, serves as a sobering reminder that such crimes transcend social standing or professional recognition. The entertainment industry, like any other, is not immune to the profound challenges posed by domestic abuse.",
+    "The legal process, culminating in this guilty verdict, underscores a critical principle: accountability for violent crimes. Regardless of the perpetrator's background or public recognition, the justice system is designed to address such egregious acts with seriousness. This outcome affirms the relentless pursuit of justice for victims, pushing back against any perception that status might offer protection from legal consequences.",
+    "This case resonates deeply, drawing attention to the pervasive issue of domestic violence that continues to plague communities. It reinforces the importance of legal frameworks that protect individuals from harm within their personal relationships and the necessity of holding perpetrators responsible. The verdict sends a clear signal about the societal intolerance for such brutal acts.",
+    "As the legal proceedings move towards sentencing, the focus will undoubtedly shift to the repercussions Pasqual now faces for his actions. This judgment not only closes a chapter for the victim and her pursuit of justice but also serves as a poignant affirmation of the legal system's commitment to addressing violent crime with unwavering resolve. The outcome offers a stark lesson on the devastating consequences of unchecked aggression and the imperative of seeking safety and support for those at risk."
+  ],
+  "publishedAt": "2026-05-10T05:40:10.858Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Chicago Tribune",
+    "Yahoo News Malaysia",
+    "ABC7 Los Angeles",
+    "People.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ25EU2pNVTNhR3pfTDdKYnowYWFvZzJJWWNkenhySU5sb29Eb2JZTWhPQXhkUFd6YkZoenRlU1JUTnVJNjZEU3h2OVpvNkEzRUQ1a3o2MVZxZHI1OVY3U0NfU2JvNkN5aXlzY2RGYmlEN1hvUkR4dEFfaGxEY3V3dGdDVWJQOVlwbEtEeC1HWQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-10T05:32:04.839Z",
+      "detail": "Aggregated breaking news reports from major U.S. and international news outlets, including ABC7 Los Angeles and Yahoo News Malaysia, covering a significant legal verdict."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-10T05:36:01.719Z",
+      "detail": "Compiled specific details regarding an actor's attempted murder conviction, the victim's profession, the nature of the violent attack, and its location, drawing information from Chicago Tribune, People.com, and other referenced sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-10T05:40:10.858Z",
+      "detail": "Constructed a narrative that contextualizes the legal outcome within the broader societal issue of domestic violence, emphasizing accountability for public figures."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the conviction, the perpetrator's identity, the victim's profession, and the nature and location of the attack were directly verified against the provided fact sheet.",
+      "timestamp": "2026-05-10T05:43:30.939Z"
+    }
+  ]
+}
