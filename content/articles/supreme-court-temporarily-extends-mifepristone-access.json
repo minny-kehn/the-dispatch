@@ -1,0 +1,50 @@
+{
+  "slug": "supreme-court-temporarily-extends-mifepristone-access",
+  "headline": "Supreme Court Temporarily Extends Mifepristone Access",
+  "deck": "The nation's highest court has stepped in to momentarily preserve access to a widely used abortion medication, halting restrictions that threatened its availability across the country.",
+  "category": "HEALTH",
+  "body": [
+    "The Supreme Court has temporarily extended access to mifepristone, the widely used abortion pill, until at least Thursday. This crucial intervention comes as the legal battle over the medication's availability continues to unfold, leaving providers and patients in a state of uncertainty.",
+    "Justice Samuel Alito's order, issued on Monday, ensures that women can continue to obtain mifepristone at pharmacies or through mail services, without the requirement of an in-person doctor visit. This decision effectively prevents a federal appeals court's previously imposed restrictions on the medication from taking immediate effect.",
+    "The current Supreme Court case originated from a lawsuit filed by the state of Louisiana, which aims to roll back the Food and Drug Administration’s long-standing regulations governing how mifepristone can be prescribed and dispensed. The challenge seeks to alter the established framework for medication abortion, which has been in place for decades.",
+    "Mifepristone received its initial approval from the FDA in 2000, and since then, agency scientists have repeatedly affirmed its safety and effectiveness. Despite this consistent scientific endorsement, abortion opponents have persistently challenged the drug's safety for over 25 years, alleging that the FDA violated federal law by overlooking critical safety issues in its approval process.",
+    "Prior to the Supreme Court's intervention, a three-judge panel of the 5th U.S. Circuit Court of Appeals had ruled that mail access and telehealth visits for mifepristone should be suspended while the broader legal case progresses. That ruling would have significantly curtailed how the medication could be distributed and prescribed.",
+    "Over the years, the FDA has progressively eased various initial restrictions surrounding mifepristone, including expanding who is authorized to prescribe it, refining how it is dispensed, and adjusting the types of safety complications that must be reported. These changes reflect an evolving understanding of the medication's use in real-world clinical settings.",
+    "Mainstream medical groups, prominent figures within the pharmaceutical industry, and Democratic members of Congress have all voiced strong cautionary notes to the court against imposing limitations on mifepristone access. Their collective concerns highlight the potential public health implications and the disruption to established medical practice that such restrictions could cause.",
+    "As Thursday approaches, the legal landscape surrounding mifepristone remains fluid, with the Supreme Court's ultimate decision on the appeals court ruling still pending. The ongoing judicial scrutiny of a medication deemed safe and effective by federal regulators places the future of medication abortion access in a precarious position for millions."
+  ],
+  "publishedAt": "2026-05-12T05:41:14.841Z",
+  "readTime": 2,
+  "sources": [
+    "STAT News"
+  ],
+  "sourceUrls": [
+    "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-12T05:33:53.680Z",
+      "detail": "Aggregated legal filings, court orders, and news reports from STAT News regarding the Supreme Court's action on mifepristone."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-12T05:37:52.554Z",
+      "detail": "Compiled details on the Supreme Court's temporary order, its impact on mifepristone access, the origin of the lawsuit, and historical context from 4 distinct factual points."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-12T05:41:14.841Z",
+      "detail": "Wove legal developments with historical context and stakeholder perspectives to detail the Supreme Court's temporary intervention on mifepristone access."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, including specific dates, court actions, and stakeholder positions, were directly verified against the provided fact sheet, showing no discrepancies or fabrications.",
+      "timestamp": "2026-05-12T05:45:04.097Z"
+    }
+  ]
+}
