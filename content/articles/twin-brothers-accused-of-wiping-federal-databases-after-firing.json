@@ -1,0 +1,51 @@
+{
+  "slug": "twin-brothers-accused-of-wiping-federal-databases-after-firing",
+  "headline": "Twin Brothers Accused of Wiping Federal Databases After Firing",
+  "deck": "Minutes after their dismissal, Muneeb and Sohaib Akhter allegedly retaliated by deleting nearly one hundred US government databases, exposing a serious vulnerability in federal contractor security protocols.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The digital infrastructure supporting US government operations faced a severe breach recently, as twin brothers Muneeb and Sohaib Akhter stand accused of wiping out 96 databases hosting critical federal information. This alleged act of sabotage occurred mere minutes after the brothers were summarily fired from their positions at a Washington, D.C., firm. The incident casts a harsh spotlight on the vulnerabilities inherent in systems managed by third-party contractors and the profound impact of insider threats.",
+    "On February 18, 2025, the brothers' employment concluded abruptly during a Microsoft Teams meeting, which wrapped up at 4:50 pm. Almost immediately, Sohaib Akhter attempted to access his former employer’s network, only to find his VPN access and Windows account had already been terminated. This swift action, however, proved tragically incomplete.",
+    "Just six minutes after the firing call ended, at 4:56 pm, Muneeb Akhter's account, overlooked in the rapid termination process, successfully accessed a US government database. He allegedly issued commands to prevent other users from connecting or making changes before proceeding to delete the entire database. This initial act of destruction was quickly followed by another, as Muneeb Akhter then targeted and wiped out a Department of Homeland Security database at 4:58 pm.",
+    "“issued commands to prevent other users from connecting or making changes to the database, and then issued a command to delete the database,” the government said, detailing the precise and deliberate nature of the alleged attack.",
+    "The total scope of the alleged damage is staggering, encompassing 96 US government databases. Given that the firm employed by the 34-year-old brothers sold software and services to 45 federal clients, the incident paints a grim picture of widespread potential disruption and data loss across various agencies. The sheer volume of compromised systems suggests a calculated and systematic approach to digital destruction.",
+    "The alleged acts of sabotage were not isolated incidents but followed a pattern of concerning behavior. Before their dismissal, Muneeb Akhter reportedly assembled 5,400 usernames and passwords gleaned from his company's network data. He then developed custom Python scripts, one notably named “marriott_checker.py,” to test these credentials against common websites. This illicit activity led to successful logins into hundreds of accounts, including DocuSign and various airline platforms, sometimes even resulting in Muneeb booking travel for himself using victims' airline miles. Earlier, on February 1, 2025, Sohaib Akhter provided his brother with a plaintext password from an EEOC database, which was subsequently used for unauthorized access to an individual's email account.",
+    "This latest accusation is not the first time the Akhter brothers have faced legal trouble concerning computer-related schemes. Back in 2015, both Muneeb and Sohaib Akhter pled guilty in Virginia to charges involving wire fraud and computers. Muneeb Akhter received a three-year prison sentence, while Sohaib Akhter was sentenced to two years, highlighting a disturbing history of similar offenses.",
+    "Despite their past convictions, Muneeb Akhter secured a position in 2023 with the Washington, D.C., firm that serviced federal clients. His brother, Sohaib, joined the same company a year later, in 2024. This raises significant questions regarding the thoroughness of background checks and the ongoing monitoring of employees with access to sensitive government systems, particularly those with a documented history of cyber-related crimes.",
+    "The alleged actions of the Akhter brothers underscore the persistent and evolving challenge of securing critical digital infrastructure, especially when leveraging third-party contractors. The incident highlights the urgent need for robust access management protocols, comprehensive termination procedures, and vigilant oversight to mitigate insider threats. As investigations continue, the episode serves as a stark reminder of the constant vigilance required to protect sensitive government data from malicious actors, both external and internal."
+  ],
+  "publishedAt": "2026-05-13T05:48:42.175Z",
+  "readTime": 3,
+  "sources": [
+    "Ars Technica"
+  ],
+  "sourceUrls": [
+    "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-13T05:43:28.154Z",
+      "detail": "Aggregated reports detailing the alleged actions of Muneeb and Sohaib Akhter from legal and technology news sources."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-13T05:47:35.454Z",
+      "detail": "Compiled precise timelines, specific actions, and legal backgrounds of the Akhter brothers from the provided fact sheet."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-13T05:48:42.175Z",
+      "detail": "Constructed a chronological narrative outlining the brothers' alleged misconduct, their historical legal issues, and the critical implications for federal cybersecurity protocols."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual",
+      "timestamp": "2026-05-13T05:52:45.130Z"
+    }
+  ]
+}
