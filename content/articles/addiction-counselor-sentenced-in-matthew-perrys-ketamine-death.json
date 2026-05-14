@@ -1,0 +1,53 @@
+{
+  "slug": "addiction-counselor-sentenced-in-matthew-perrys-ketamine-death",
+  "headline": "Addiction Counselor Sentenced in Matthew Perry's Ketamine Death",
+  "deck": "A recent sentencing brings a measure of accountability in the tragic passing of the beloved 'Friends' star, highlighting the severe legal consequences for those distributing controlled substances.",
+  "category": "CULTURE",
+  "body": [
+    "A drug counselor, implicated in the distribution of ketamine that ultimately led to the death of actor Matthew Perry, has received a two-year sentence. This development marks a significant turn in the ongoing investigation surrounding the beloved 'Friends' star's passing. The ruling casts a harsh spotlight on the grave responsibilities inherent in addiction care, particularly when controlled substances are involved.",
+    "The individual, an addiction counselor by profession, was directly linked to supplying the ketamine that investigators determined to be the cause of Perry's fatal overdose. This legal outcome underscores the direct causal chain established by authorities between the counselor's actions and the tragic event. For many, it represents a crucial step toward understanding the circumstances that led to the actor's untimely demise.",
+    "The two-year prison sentence handed down to the counselor reflects the serious legal repercussions associated with such an offense. This judicial decision sends a clear message about the accountability expected from those in positions of trust, especially within the sensitive realm of addiction treatment. It highlights the profound responsibility carried by professionals who interact with vulnerable individuals struggling with substance use.",
+    "Matthew Perry, globally recognized for his iconic role as Chandler Bing on the hit television series 'Friends', died from an acute ketamine overdose. His passing in October 2023 sent shockwaves through Hollywood and among his vast fanbase, prompting a comprehensive investigation into the source of the drug. The counselor's sentencing offers a concrete legal conclusion to one aspect of that complex inquiry.",
+    "This sentencing is part of a wider legal effort, with five individuals now convicted in connection with Matthew Perry’s death. The ongoing legal proceedings paint a grim picture of the intricate web of circumstances that can contribute to such a tragedy. Each conviction aims to unravel the various threads that led to the 'Friends' star's overdose.",
+    "The resolution of this specific case provides a degree of closure for those seeking answers about Perry's death, while simultaneously reinforcing the stringent legal framework governing controlled substances. As the broader legal landscape surrounding the incident continues to unfold, this sentencing stands as a stark reminder of the profound and often fatal consequences when professional boundaries are crossed in the distribution of powerful drugs."
+  ],
+  "publishedAt": "2026-05-14T05:50:47.651Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "NBC News",
+    "The New York Times",
+    "BBC",
+    "AP News",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFo3bEpMZ2E0cVUzNzJtNmtvbDczRWctam9NZGp5MWotSkRsRlIycXVTbWNob0VGZmxZQzhnalNBSVdLblhxQnlFOGhTTnFrM2Vvd0RHQWJwMlBraU4wRkJWVjNFWmx5UTdFcEcxb1VfNFdTZGVuNjlra29HcTdtQ0RUdlN5Z1F6OHB6R2t3OENQcEJtczFwTEM5SEdkWFY2Q0hJenlR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-14T05:42:38.761Z",
+      "detail": "Aggregated reports from major news outlets regarding the legal proceedings surrounding Matthew Perry's death."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-14T05:46:28.659Z",
+      "detail": "Compiled details on the counselor's sentencing, the cause of death, and the number of convictions from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-14T05:50:47.651Z",
+      "detail": "Wove legal developments with contextual background to detail the accountability in a high-profile fatality within the cultural sphere."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All key facts regarding the counselor's sentencing, the cause of death, and the number of convictions were verified against the provided fact sheet, with one minor date detail not present in the provided ground truth.",
+      "timestamp": "2026-05-14T05:54:13.240Z"
+    }
+  ]
+}
