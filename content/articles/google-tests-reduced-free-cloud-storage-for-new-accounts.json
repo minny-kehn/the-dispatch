@@ -1,0 +1,55 @@
+{
+  "slug": "google-tests-reduced-free-cloud-storage-for-new-accounts",
+  "headline": "Google Tests Reduced Free Cloud Storage for New Accounts",
+  "deck": "Google is reportedly evaluating a new policy that could significantly cut the default free cloud storage offered to new users, potentially requiring additional security measures for traditional capacities.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "New users joining the Google ecosystem may soon find their complimentary cloud storage significantly constrained, as reports suggest the tech giant is testing a new policy that could reduce the default offering from 15GB to a mere 5GB. This potential shift marks a notable departure from Google's long-standing practice, raising questions about accessibility and user experience for millions worldwide. The changes appear to be tied to increased security protocols.",
+    "Sources indicate that new Gmail accounts, for instance, might only receive the reduced 5GB free storage unless a phone number is linked. To access the more generous 15GB capacity that existing users enjoy, new accounts would reportedly need to provide this additional personal data, signaling a more stringent approach to free service tiers. This move could push users towards either sharing more information or considering paid upgrades sooner.",
+    "These observations come from various tech publications, including PiunikaWeb, extremetech.com, and Tom's Hardware, all citing user claims and their own investigations. The reports paint a picture of Google actively evaluating changes behind the scenes, casting a harsh spotlight on the future of its free services.",
+    "Google, speaking through Tom's Hardware, confirmed the ongoing evaluation:",
+    "\"testing a new storage policy for new accounts.\"",
+    "For years, Google has set an industry benchmark by offering a robust 15GB of free storage across its suite of services, encompassing Gmail, Google Drive, and Google Photos. This generous allowance has been a cornerstone of its user acquisition strategy, deeply integrating individuals into its expansive digital environment. A reduction of this magnitude, particularly for new entrants, represents a strategic re-evaluation of that long-held approach.",
+    "Analysts suggest that this move points toward Google's concerted effort to optimize resource allocation and encourage greater user engagement with its premium services. It places a new onus on individuals to either conform to stricter security requirements by providing a phone number or face the prospect of quickly hitting storage limits, potentially prompting them to subscribe to Google One plans earlier in their user journey. The implications extend beyond mere storage, touching on data privacy and the value proposition of free online services.",
+    "The outcome of these tests could reshape expectations for free cloud storage across the industry, potentially prompting other providers to re-evaluate their own offerings. As Google continues its trials, the tech community and new users alike will be closely watching to see how this potential policy adjustment ultimately balances user convenience with the company's evolving business objectives."
+  ],
+  "publishedAt": "2026-05-16T05:26:31.773Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "The Register",
+    "PiunikaWeb",
+    "extremetech.com",
+    "Tom's Hardware",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHdyZnJoQ0NXRFU5TXk5U3VzaGxtYklDZFlIQ1Zkbl9RemJYTXlhaXp1N0hyY21Zd0NDQXN2cEJPaVI1alhkcE9VT0ItREtOS05rejRhdkdrclFEYks5ZG9NUXRzLWx4cnFUNEl6RnpFb3AwWGhfOGdGMmVtUm9fZTkwNFhrTV9GRXhsZUczWUxhdkh0UjBvbkE4eFBsNnBrdXV5ajdYWDZqNWNqM0lETVVWNHh4UQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:21:58.106Z",
+      "detail": "Aggregated user reports, tech publication analyses, and Google's official statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:25:48.259Z",
+      "detail": "Compiled details on new storage limits, phone number requirements, and Google's confirmation from 4 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:26:31.773Z",
+      "detail": "Wove reported policy changes with official statements and contextual background to analyze Google's strategic shift in free cloud storage offerings."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Specific claims regarding reduced storage limits, phone number requirements for increased capacity, and Google's official statement were directly verified against the provided fact sheet.",
+      "timestamp": "2026-05-16T05:30:47.266Z"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "medical-consensus-renames-pcos-for-enhanced-patient-care",
+  "headline": "Medical Consensus Renames PCOS for Enhanced Patient Care",
+  "deck": "After years of scientific review and advocacy, Polycystic Ovary Syndrome has been officially renamed Polyendocrine Metabolic Ovarian Syndrome, a crucial step aimed at improving diagnosis and treatment for millions globally.",
+  "category": "HEALTH",
+  "body": [
+    "The medical community has officially adopted a new designation for Polycystic Ovary Syndrome (PCOS), a condition that impacts a significant portion of the global female population. This change, which renames the condition to Polyendocrine Metabolic Ovarian Syndrome (PMOS), represents a pivotal moment in understanding and managing a complex health challenge.",
+    "This renaming is not merely a semantic shift; it reflects a deeper, more accurate comprehension of the condition's multifaceted nature. Experts hope this updated terminology will lead directly to improved diagnostic precision and more effective care strategies for the 170 million women worldwide currently affected.",
+    "The effort to revise the condition's name was a prolonged undertaking, spanning several years of dedicated work by medical professionals and patient advocates. Underlying this push was a growing consensus that the previous name, PCOS, failed to fully encapsulate the systemic reach of the syndrome.",
+    "The former designation, which focused primarily on ovarian cysts, was increasingly seen as misleading by those who study and treat the condition. It did not adequately convey the broad metabolic and endocrine dysfunctions that are central to the syndrome.",
+    "Live Science reported on the widespread sentiment among experts regarding the previous nomenclature.",
+    "\"The name was inaccurate,\"",
+    "Now known as PMOS, the new name is intended to cast a clearer spotlight on the polyendocrine and metabolic components of the condition, moving beyond the often-misleading emphasis on ovarian morphology. This broader understanding is anticipated to foster more holistic treatment plans.",
+    "Reflecting on the long-term impact, doctors believe the shift will empower healthcare providers to approach PMOS with a more comprehensive perspective, ultimately enhancing the quality of life for countless patients. It signifies an evolution in medical knowledge, moving closer to an inclusive and precise understanding of women's health."
+  ],
+  "publishedAt": "2026-05-16T05:29:25.059Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "The Verge",
+    "Endocrine Society",
+    "The New York Times",
+    "Live Science",
+    "Forbes"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnhjUUNwSW9HWTRkaThmX1hpMG9weGRCd2FTTnY1UWhEZmN1N01HQlBNOWhhTTdNNHp0Y0xjWXJueHd1SjYtVGl1YmNQTS1neW5YTXA3Mkt5S1A5dkppN1Y2bnkxM3pxeGhOS3RzZWwwQ1BJY05sQ0hJc3lTa1Y3Q2Y2V18?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:21:58.106Z",
+      "detail": "Aggregated news reports and medical society announcements regarding the renaming of Polycystic Ovary Syndrome."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:25:48.259Z",
+      "detail": "Compiled official statements on the new name, its purpose, global prevalence statistics, and expert opinions from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-16T05:29:25.059Z",
+      "detail": "Wove medical facts with contextual background to explain the significance of the renaming and its anticipated impact on patient care."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Medical terminology, specific statistics, and direct quotes were meticulously verified against the provided fact sheet, confirming all claims are accurately represented without fabrication.",
+      "timestamp": "2026-05-16T05:32:49.805Z"
+    }
+  ]
+}
