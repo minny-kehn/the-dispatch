@@ -1,0 +1,53 @@
+{
+  "slug": "who-declares-ebola-outbreak-a-global-health-emergency",
+  "headline": "WHO Declares Ebola Outbreak a Global Health Emergency",
+  "deck": "The World Health Organization has elevated the Ebola outbreak in the Democratic Republic of the Congo and Uganda to its highest alert level, signaling an urgent need for international intervention.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "The World Health Organization (WHO) has officially declared the ongoing Ebola outbreak in the Democratic Republic of the Congo and Uganda an 'emergency of international concern'. This critical designation underscores the severity of the situation and acknowledges the potential for the deadly disease to spread beyond national borders, demanding a robust, coordinated global response.",
+    "Specifically, the outbreak has been concentrated within the Democratic Republic of the Congo, presenting a grave challenge to an already fragile health infrastructure. The particular strain identified in this current epidemic is the Bundibugyo virus, adding a layer of complexity to containment efforts given its characteristics.",
+    "The declaration by the global health body is formally termed a 'public health emergency of international concern', a recognition that mobilizes significant international resources and attention.",
+    "\"emergency of international concern\"",
+    "This crucial classification, also referred to by some as a 'global health emergency', serves as an urgent call to action for governments, aid organizations, and medical professionals worldwide. It is a mechanism designed to galvanize international efforts, ensuring that affected nations receive the necessary support to combat the virus effectively and prevent wider contagion.",
+    "The ramifications of this declaration are profound, signaling a critical need for coordinated international efforts and resources to contain the Ebola outbreak. Preventing its further spread across borders is now a paramount concern for public health authorities globally.",
+    "This move underscores the serious threat the disease poses to public health, not only within the affected regions of Congo and Uganda but also potentially worldwide. The global health community must now focus on bolstering surveillance, improving rapid diagnostic capabilities, and ensuring timely, effective treatment for those afflicted."
+  ],
+  "publishedAt": "2026-05-17T05:48:31.446Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "The Guardian",
+    "CNN",
+    "World Health Organization (WHO)",
+    "BBC"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0x0ZTVKMzVTeGRTOFJ1a0JtSnRsOHN6bFA0Ym9VVjNmSjN2REtpVzdvNW5HR0ZKTHFNS1YxNlN0ZFU0Um9rbEx0c1RqSHQ0UlB4azFCUUpBYkhwd3Z3RkIyVnVWcTFZV2R3XzQ0RWkyaDU1RVpFNWFvTmVmYzhXMzA5R1pBc0JEaVJVSHA2TXA5VEstd3FibkNTOTB6UEZJM2FF?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:43:30.939Z",
+      "detail": "Aggregated reports from leading international news outlets and direct communications from the World Health Organization regarding the Ebola outbreak status."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:47:18.277Z",
+      "detail": "Compiled key facts about the WHO declaration, affected regions, virus strain, and official terminologies from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:48:31.446Z",
+      "detail": "Wove factual details with contextual background and the significance of the WHO declaration to present a comprehensive, authoritative account of the global health emergency."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the official declaration terms, affected regions, and virus strain, were meticulously cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-05-17T05:52:37.274Z"
+    }
+  ]
+}

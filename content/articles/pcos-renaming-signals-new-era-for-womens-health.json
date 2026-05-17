@@ -1,0 +1,54 @@
+{
+  "slug": "pcos-renaming-signals-new-era-for-womens-health",
+  "headline": "PCOS Renaming Signals New Era for Women's Health",
+  "deck": "This week's scientific revelations span from a significant reclassification of a common condition affecting millions of women to surprising insights into ancient human practices and the unexpected byproducts of nuclear power.",
+  "category": "HEALTH",
+  "body": [
+    "The medical community has taken a significant step this week, formally renaming Polycystic Ovary Syndrome (PCOS) to Polyendocrine Metabolic Ovarian Syndrome (PMOS). This change, emerging from a deeper understanding of the condition's multifaceted nature, aims to refine diagnostic approaches and ultimately enhance the care provided to those affected.",
+    "This reclassification is not merely semantic; it reflects a concerted effort to improve the lives of the 170 million women globally living with the condition. By acknowledging the broader metabolic and endocrine implications, the new name, PMOS, is expected to guide more comprehensive treatment strategies and earlier interventions.",
+    "The renaming of PMOS casts a harsh spotlight on a condition that has long presented diagnostic challenges, promising a future where treatment pathways are clearer and more effectively tailored to individual patient needs. This shift highlights the dynamic nature of medical science, constantly evolving as new research deepens our understanding of the human body.",
+    "Meanwhile, other fascinating scientific revelations have offered glimpses into both humanity's distant past and the profound, sometimes unexpected, consequences of our technological advancements. Researchers have recently unveiled compelling evidence suggesting Neanderthals engaged in sophisticated dental practices, effectively identifying them as the world's earliest known dentists.",
+    "This discovery challenges long-held perceptions of our ancient cousins, painting a more complex picture of their cognitive abilities and practical skills. It adds another layer to our understanding of early human ingenuity and the surprising parallels between ancient and modern approaches to health.",
+    "From the ancient world to the dawn of the atomic age, another remarkable finding emerged from the site of humanity's first nuclear detonation. Scientists have identified a truly unique, 'alien' crystal formed instantly during the intense heat and pressure of the initial nuclear bomb explosion.",
+    "This never-before-seen material offers a tangible, if sobering, reminder of the extraordinary forces unleashed by such an event and the unexpected geological imprints they leave behind. The discovery underscores how extreme conditions can forge entirely new forms of matter, expanding the known boundaries of crystallography.",
+    "These diverse breakthroughs, from medical reclassification to archaeological reinterpretation and atomic-level material science, collectively underscore the ceaseless human endeavor to comprehend our bodies, our history, and the very fabric of the physical world around us. Each revelation, however disparate, contributes another vital piece to the grand mosaic of scientific understanding."
+  ],
+  "publishedAt": "2026-05-17T05:51:02.987Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Live Science",
+    "Endocrine Society",
+    "ScienceAlert",
+    "Forbes"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxOc1lUd1hHb2RwZVo2d0JBblBPQnB0UjdKWHdWeFBlZ0NZY1hPa25aaF93QUVQSGRTckM4X1htSTJ1cTdJeElVWXE3Q3BxQzh5eWU2bU40ZFVfaVZHZ1F1bHF2Zm1oWFVBdHAxWXpEejR4RFlpaGZ1SVJDZUwxSTF5d2c1NW9nMXI4VUxmdVYzUW9NRHJLeUhEM2V3cUthbzItTEJad1RfcVp5LTdhTlo0YkxsOWZxa05SbG1McThMYmp3WE5mVDA0bVB0OU9qbWtKT0hjVkcwaUNrWjVjXzd4MnVsZVpHTTVKUm9HdFpjQ2hJeHpMZlJEY0x3VlpDZzR0a3llN0FIWUV1OWVtU1Y1SVJR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:43:30.939Z",
+      "detail": "Aggregated scientific reports and medical announcements from leading publications and societies."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:47:18.277Z",
+      "detail": "Compiled details on medical reclassification, archaeological findings, and material science discoveries from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-17T05:51:02.987Z",
+      "detail": "Wove medical advancements with archaeological and atomic discoveries to illustrate the breadth of current scientific exploration."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Medical reclassification details, global health statistics, archaeological findings, and material science discoveries were all meticulously cross-referenced with the provided fact sheet.",
+      "timestamp": "2026-05-17T05:54:29.125Z"
+    }
+  ]
+}
