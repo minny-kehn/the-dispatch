@@ -1,0 +1,53 @@
+{
+  "slug": "congo-ebola-outbreak-declared-emergency-americans-exposed",
+  "headline": "Congo Ebola Outbreak Declared Emergency, Americans Exposed",
+  "deck": "The World Health Organization has designated the current Ebola epidemic in the Democratic Republic of the Congo and Uganda a public health emergency, prompting a global effort to contain the highly contagious disease.",
+  "category": "HEALTH",
+  "body": [
+    "The World Health Organization has issued a grave declaration, labeling the ongoing Ebola epidemic in the Democratic Republic of the Congo and Uganda a public health emergency of international concern. This urgent announcement casts a harsh spotlight on a burgeoning crisis that now implicates American citizens, with reports indicating potential exposure. The severity of the Bundibugyo virus, responsible for this particular outbreak, has triggered a global scramble to contain its spread, pushing an already vulnerable population closer to the brink.",
+    "The epidemic's epicenter lies within the Democratic Republic of the Congo and neighboring Uganda, where the Bundibugyo virus has taken hold. This particular strain of Ebola disease demands immediate and coordinated action to prevent further devastation in a region often challenged by healthcare infrastructure limitations. The international community is mobilizing resources, recognizing the critical need for rapid intervention.",
+    "The WHO's determination of a public health emergency of international concern underscores the gravity of the situation, signaling that the outbreak poses a significant risk beyond national borders. This designation is not made lightly; it serves as a global alert, demanding robust international cooperation and a unified response to mitigate the threat. Such declarations are crucial for galvanizing resources and expertise where they are most needed.",
+    "Indeed, a global scramble is underway to contain this new Ebola outbreak, with nations worldwide assessing their preparedness and response strategies. Amidst this urgent effort, the United States finds itself directly involved, as its citizens are among those who may have been exposed or affected. This development highlights the interconnectedness of global health and the far-reaching implications of infectious diseases.",
+    "In response to the potential exposure of its nationals, the U.S. government is actively looking to relocate a \"small number\" of its citizens from the affected areas. This measure reflects the serious precautions being taken to safeguard American lives and prevent any further spread of the virus. The Centers for Disease Control and Prevention (C.D.C.) has confirmed that Americans are indeed among those affected by this virulent pathogen.",
+    "This incident serves as a potent reminder of Ebola's persistent threat and its capacity to transcend geographical boundaries, impacting individuals globally. Managing such infectious diseases in regions with limited resources presents immense challenges, often exacerbating existing humanitarian concerns. The current crisis underscores the critical necessity for sustained international support and robust public health initiatives to protect communities worldwide.",
+    "As international health organizations and national governments intensify their containment efforts, the coming weeks will reveal the true scope of this latest Ebola challenge. The successful management of this emergency will depend on swift diagnostics, effective isolation protocols, and community engagement, all while navigating complex logistical and political landscapes. The world watches closely as the global health community works to prevent a wider catastrophe."
+  ],
+  "publishedAt": "2026-05-18T06:13:40.950Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Washington Post",
+    "CNN",
+    "The New York Times",
+    "World Health Organization (WHO)"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFJkdGliNGxoQXlPdjNHMHlQeS0zV0NLcUVlOE5XNWJkanFKMGF0SDRLMjVPejRNaHBySExwZjkxV0p4UG5OT0pkOVlYckhtdDFHRkpXdHFwQklZUnNHeVhMWTVwbTZOMWNUbU5TSXVVMXdtUkp4QXR4WWludlUtY1BoS3lEUGE5SXZRaExrV0sydFhjWWtiVDNoMTg?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-05-18T06:06:24.056Z",
+      "detail": "Aggregated reports from major news outlets and official health organizations regarding the Ebola outbreak."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-05-18T06:10:19.293Z",
+      "detail": "Compiled details on the outbreak's location, virus type, WHO declaration, US citizen involvement, and containment efforts from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-05-18T06:13:40.950Z",
+      "detail": "Wove official health declarations with reports of US citizen exposure to detail the emerging international public health emergency."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the WHO's declaration of a",
+      "timestamp": "2026-05-18T06:17:37.572Z"
+    }
+  ]
+}
