@@ -1,0 +1,53 @@
+{
+  "slug": "untraced-ebola-cases-fuel-crisis-in-eastern-dr-congo",
+  "headline": "Untraced Ebola Cases Fuel Crisis in Eastern DR Congo",
+  "deck": "A critical public health emergency is unfolding in the Democratic Republic of Congo, where a rapidly expanding Ebola outbreak is complicated by nearly 300 untraced cases and dangerously lagging contact tracing efforts.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with a rapidly escalating Ebola outbreak, marked by a deeply concerning number of untraced individuals whose whereabouts remain unknown. With confirmed Ebola cases now reaching 1,000, public health officials face immense challenges in containing a disease that continues to spread across vulnerable communities. The immediate threat is amplified by nearly 300 people infected with the virus whose locations are currently unaccounted for. This situation casts a harsh spotlight on the fragility of control efforts.",
+    "The presence of so many untraced cases creates a perilous blind spot for health authorities, allowing the highly contagious virus to potentially spread undetected. Experts believe this latest outbreak likely originated in a remote gold-mining town, a setting often characterized by transient populations and limited infrastructure, which inherently complicates disease surveillance. Such an environment provides fertile ground for the virus to take hold before detection.",
+    "Compounding the danger, contact tracing efforts in the affected regions are reported to be dangerously behind schedule, a critical failing in any epidemic response. Officials have repeatedly warned about the dire state of these tracing operations, which are fundamental to isolating cases and breaking chains of transmission. The inability to effectively track and monitor those who have been in contact with infected individuals pushes an already vulnerable population closer to the brink.",
+    "This widening crisis places an immense burden on the population, particularly the youngest and most vulnerable. Almost three million children and adolescents in eastern DR Congo now face rising risks from the disease, a grim picture painted by the escalating outbreak. Their exposure is exacerbated by the disruption to daily life and the challenges in accessing essential health services in affected areas.",
+    "These alarming reports come as the overall number of Ebola cases in the Democratic Republic of Congo has surged past the 1,000 mark. The relentless increase underscores the persistent difficulties in implementing robust public health measures amidst complex logistical and security challenges. The latest official update, \"Ebola Outbreak, DRC and Region, Situation Report #8,\" was issued on June 24, 2026, indicating the ongoing nature and severity of the emergency.",
+    "Preventing wider regional spread and mitigating the devastating humanitarian consequences hinges on immediate, decisive action to bolster contact tracing and locate every untraced individual. The stakes are profoundly high for the millions already affected and for the stability of a region continuously battling multiple crises. A concerted, international effort remains essential to avert further tragedy."
+  ],
+  "publishedAt": "2026-06-27T05:56:16.237Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Guardian",
+    "NPR",
+    "The New York Times",
+    "ReliefWeb",
+    "Unicef"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEtpZmhhTUM2aEo1a2h3bXdCNFVwaFBrajgxR3huZ2VoTWZNeTZPVjdxTVpFN0ZsY0hmNVBvWmJuUlN3NWpRM1h0cHM2cEszT3NGU0tFeXYzZFNFM05nX2w0RnlXSWtIelRwM0JzcHZaY1JQcGpYSTJweC1BZWtiWHc3N3JmQ2taODEyV0FBTkt5X0lUSjUyMDF5QnhEQmZ1UTZLQTNVelg5TXFPV0pCa0d3ME5lTUpF?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-27T05:49:15.424Z",
+      "detail": "Aggregated health reports, news articles, and humanitarian situation updates from international organizations and major news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-27T05:52:55.248Z",
+      "detail": "Compiled statistics on Ebola cases, untraced individuals, and at-risk child populations, along with official warnings and outbreak origins from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-27T05:56:16.237Z",
+      "detail": "Wove public health data with humanitarian impact analysis to examine the escalating Ebola crisis, focusing on the critical challenges posed by untraced cases and lagging contact tracing."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported statistics, events, and key claims regarding the Ebola outbreak in DR Congo were directly verified against the provided fact sheet.",
+      "timestamp": "2026-06-27T05:59:36.522Z"
+    }
+  ]
+}
