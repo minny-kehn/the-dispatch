@@ -1,0 +1,51 @@
+{
+  "slug": "chinese-dissident-finds-refuge-in-canada-after-perilous-escape",
+  "headline": "Chinese Dissident Finds Refuge in Canada After Perilous Escape",
+  "deck": "A Chinese national, identified as a dissident, has successfully arrived in Canada, concluding a remarkable journey that began with a daring escape to South Korea by dinghy.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "A Chinese dissident has successfully arrived in Canada, bringing to a close a perilous journey that began with a daring escape across international waters. This development underscores the persistent challenges faced by individuals seeking refuge from political pressures and highlights the complex pathways to asylum.",
+    "The initial flight to South Korea, undertaken in a small dinghy, speaks volumes about the desperation driving such escapes. It paints a vivid picture of the risks individuals are willing to embrace to seek freedom and safety beyond their home country's borders.",
+    "This individual's arduous journey casts a harsh spotlight on ongoing human rights issues, which compel some citizens to seek asylum abroad. Such acts of defiance, even on a personal scale, draw international attention to the pressures faced by those who express dissenting views.",
+    "Canada's acceptance of the dissident reflects its long-standing commitment to offering refuge to those fleeing persecution. It reaffirms the nation's position as a destination for individuals seeking protection, navigating intricate international asylum protocols to provide a safe haven.",
+    "The successful arrival also highlights the intricate web of international relations involved when dissidents seek asylum. It requires careful diplomatic navigation between host countries and transit nations, often against a backdrop of geopolitical sensitivities.",
+    "The story of this particular dissident underscores the global implications of human rights issues and the critical role countries like Canada play. It serves as a potent reminder of the personal sacrifices made in the pursuit of fundamental freedoms.",
+    "As the dissident begins a new life in Canada, their journey stands as a testament to both individual courage and the enduring complexities of international asylum systems. It also keeps alive the conversation around the global responsibility to protect those who flee persecution, an ongoing challenge for nations worldwide."
+  ],
+  "publishedAt": "2026-06-28T06:16:09.049Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Google News",
+    "AP News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmVhMGxNWWpZMFk4ZlZZTUN1RThSMmI4ZUcxdVltLWc1M0lBLXc0NmFVUWltT18zbUo4dVJabThVUzBUd1Z5eGF0VE1YR1cxVFFPLTJjcmowR0F1UkJ3VDJRVkdpWjJzUlFybFYzaGtVaVA2QkRReFMzSFpEcEZaT3ptckt2cWxGMFNtWWdpQVk4b3lEVkpRa1gtMWZyaGdlTnRhRHZMM2Q?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:10:42.904Z",
+      "detail": "The news of the Chinese dissident's arrival in Canada was sourced from AP News reports aggregated by Google News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:15:08.857Z",
+      "detail": "Extracted facts include the dissident's identity, their initial escape to South Korea by dinghy, and their final arrival in Canada."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:16:09.049Z",
+      "detail": "The narrative was crafted by framing the dissident's journey as an emblem of human rights challenges and the international asylum process."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.6",
+      "timestamp": "2026-06-28T06:20:23.943Z"
+    }
+  ]
+}

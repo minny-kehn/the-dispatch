@@ -1,0 +1,55 @@
+{
+  "slug": "u-s-public-health-system-faces-measles-resurgence",
+  "headline": "U.S. Public Health System Faces Measles Resurgence",
+  "deck": "Ongoing measles and whooping cough outbreaks, linked to declining vaccination rates, raise alarms among experts about the nation's public health infrastructure.",
+  "category": "HEALTH",
+  "body": [
+    "Ongoing measles outbreaks are casting a harsh spotlight on the resilience of the U.S. public health system, prompting experts to voice significant concerns. These resurgent infections, alongside a notable spike in whooping cough cases, suggest a troubling weakening of preventative measures nationwide. Such developments are leading many to question the current state of a system once lauded for its robust defenses against infectious diseases.",
+    "Across the United States, communities are grappling with a resurgence of measles, a highly contagious disease once thought to be largely eradicated. This wave of infections is compounded by a simultaneous spike in whooping cough cases, presenting a dual challenge to public health officials. These outbreaks paint a grim picture, signaling a regression in the nation's collective immunity.",
+    "Analysts have drawn a clear link between these escalating case numbers and a concerning decline in vaccination rates. The erosion of herd immunity leaves an increasing number of individuals vulnerable, pushing an already susceptible population closer to the brink of widespread illness. This direct correlation underscores the vital role vaccinations play in maintaining community health.",
+    "Meanwhile, two new reports have emerged, shedding light on the significant obstacles currently impeding efforts to contain these U.S. measles outbreaks. These analyses delve into the systemic challenges and practical difficulties faced by health authorities on the ground. They highlight the complexities involved in managing infectious disease spread in an environment of diminished public health resources and trust.",
+    "\"U.S. may have lost a ‘crown jewel’ of public health, experts say.\"",
+    "This poignant observation, as reported by the San Francisco Chronicle, encapsulates the profound concern resonating through the public health community. It suggests a fundamental weakening of the infrastructure and collective commitment that once made the U.S. a global leader in disease prevention. The implications of such a loss extend far beyond current outbreaks, threatening future preparedness.",
+    "Adding to the urgency, measles is now being identified as a significant summer illness threat, according to assessments. The increased travel and social gatherings typical of the warmer months could accelerate transmission, complicating containment efforts. This seasonal projection casts a long shadow over the coming months, urging heightened vigilance from public health officials and the public alike.",
+    "The current landscape demands a renewed focus on bolstering public health infrastructure and restoring confidence in preventative medicine. Reversing the trajectory of declining vaccination rates and addressing the systemic obstacles highlighted in recent reports will be crucial. Without decisive action, the nation risks further erosion of its public health capabilities, leaving communities increasingly exposed to preventable diseases."
+  ],
+  "publishedAt": "2026-06-28T06:18:16.989Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "San Francisco Chronicle",
+    "CIDRAP",
+    "Peoriatimes.com",
+    "Jacksonville Journal-Courier",
+    "Pharmacy Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0xWRURqbi1lanRUamF5bDEzYk0yYXhPWUZjVkRtbVB5RUd0S1dKZHRzSkdFRGtYaHF1ZkdqN3c5aGdLZ3BxbHQ5RDhQM2hyRzAxY001WnFodHRHRVhZRFY5NEdYcktjT0prSk43empsbTJJMFdtVEFjUGY0V2ViYUp3OWhhc1docXFzeXpNaTN4QQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:10:42.904Z",
+      "detail": "Aggregated reports on measles outbreaks, vaccination rates, and expert commentary from multiple U.S. news sources."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:15:08.857Z",
+      "detail": "Compiled details on ongoing outbreaks, linked low vaccination rates, expert concerns about public health infrastructure, and specific quotes from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:18:16.989Z",
+      "detail": "Wove expert observations with current disease statistics to frame the resurgence of vaccine-preventable illnesses as a critical challenge to U.S. public health."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding measles outbreaks, whooping cough spikes, vaccination links, and expert quotes were precisely verified against the provided fact sheet, with no fabrications or misrepresentations.",
+      "timestamp": "2026-06-28T06:22:01.359Z"
+    }
+  ]
+}

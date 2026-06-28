@@ -1,0 +1,54 @@
+{
+  "slug": "scalpers-inflate-steam-machine-prices-amid-scarcity",
+  "headline": "Scalpers Inflate Steam Machine Prices Amid Scarcity",
+  "deck": "Valve's ambitious Steam Machine faces immediate market challenges as online resellers demand double the original price for reservations.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Valve's highly anticipated Steam Machine, designed to bridge the gap between PC gaming and living room consoles, is facing an immediate market challenge as scalpers have begun reselling reservations online. This practice casts a harsh spotlight on the device's scarcity and the fervent demand among early adopters. The situation immediately complicates Valve's strategic rollout of its new gaming hardware.",
+    "On platforms like eBay, reservations for the Steam Machine are appearing with price tags ranging from $2,700 to $2,900. These figures represent a substantial markup, roughly double Valve's original pricing for the console. This swift market manipulation paints a grim picture for consumers hoping to acquire the device at its intended cost.",
+    "The Steam Machine itself has garnered significant attention from tech and gaming publications, with The Verge describing it as the most ambitious game console they have ever played. Valve has openly expressed a desire to make the device more affordable, signaling a long-term vision for broader accessibility. However, this aspiration is tempered by the immediate reality of production and distribution.",
+    "Valve would \"love to make the Steam Machine more affordable\" but consumers should not \"expect it 'any time soon',\" according to Digital Foundry.",
+    "Meanwhile, industry analysts offer a nuanced perspective on the Steam Machine's true value proposition. PCMag suggests that PC gamers might find more excitement in the underlying SteamOS operating system than in the hardware itself. This distinction highlights the dual nature of Valve's offering: a physical console alongside an open-source gaming platform.",
+    "Reviews for the Valve Steam Machine delve deeply into its technical specifications, covering critical aspects like GPU and CPU benchmarks, SteamOS performance tests, thermal management, and noise levels. These comprehensive evaluations underscore the device's engineering complexity and its positioning as a powerful, customizable gaming solution. The price point remains a significant factor in these detailed assessments.",
+    "The current market dynamics, driven by scalper activity and Valve's own pricing constraints, will undoubtedly shape the Steam Machine's initial trajectory and consumer perception. As Valve navigates the complexities of hardware manufacturing and market availability, the tension between ambitious design and accessible pricing will remain a central challenge. The coming months will reveal how this innovative console finds its footing in a competitive gaming landscape."
+  ],
+  "publishedAt": "2026-06-28T06:15:28.129Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "Wccftech",
+    "PCMag",
+    "The Verge",
+    "Digital Foundry",
+    "Game"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWR5bGN0dW1Jbzd2Rm9LYzVsSUtpdlRNeGdXMmJaaVBtVkdBVmJCbC1lWFBIN3Z0UEV4ZmpRUHAxN2NrRWtSMDQ1LVJJS2lncUdPNTFUbE5vb1hDcHhLYzI5NlZsWTYyYV83Z1pwM0w2ekZCS29QeThrSldNME1FbnladW1vemp4MVIyYXJCWFh2dXV0RmE1TkNnNlNRdmgwV1JHb0xOV1FSRTllOGhsWWpTbDYyMUJyQkstRE0xR24za1cxM1R30gHMAUFVX3lxTE9Gd2FzalNwcHBRb1dLQ1dhbXRON0E5ZTJabWJ2bVlaSVo5djJjbGtqcE1qakhFVlJhZnh0NTBuOTBHaE5nQUxubGoxU2F3d0kzNHBRYWxYMTIwT3o3UXN6bnc5bi1EQ1g0OUZ0Wld2c2Y4c29UeWxMWktrNF9RSm94YkJYejRCRGhENGlVMlNveFlXZlBxQkc5MEdmUkFXOW92YzhaaTFlT19NOUlyTE5EaTZDWUtSRmxFU3FKenJzbU9oRFhheXdmOWV1UA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:10:42.904Z",
+      "detail": "Aggregated reports from leading technology and gaming publications regarding Valve's Steam Machine and its market performance."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:15:08.857Z",
+      "detail": "Compiled market prices, expert analyses, and Valve's statements on the Steam Machine from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:15:28.129Z",
+      "detail": "Wove market data with expert commentary and corporate statements to illustrate the immediate challenges facing Valve's new gaming console."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Market dynamics and product specifications verified against provided fact sheet, including specific price ranges, source attributions, and direct quotes.",
+      "timestamp": "2026-06-28T06:19:45.816Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "spanish-mans-suspected-brain-tumor-revealed-as-worm-infestation",
+  "headline": "Spanish Man's Suspected Brain Tumor Revealed as Worm Infestation",
+  "deck": "A puzzling medical case in Spain underscores the profound challenges in diagnosing rare parasitic infections that mimic severe neurological conditions.",
+  "category": "HEALTH",
+  "body": [
+    "Doctors in Spain recently encountered a perplexing medical case that initially pointed towards a grim diagnosis of brain cancer. What began as a suspected life-threatening malignancy, however, took an unexpected turn, revealing a far more unusual and deeply unsettling reality for the patient. This diagnostic journey highlights the intricate challenges faced by medical professionals when confronting rare conditions.",
+    "The initial suspicion of a brain tumor cast a harsh spotlight on the patient's condition, raising serious concerns for his health and prognosis. Such a diagnosis typically triggers an immediate and intense focus on oncology, involving a battery of tests and specialist consultations to confirm the nature and extent of the suspected cancerous growth within the delicate confines of the skull.",
+    "However, as investigations progressed, the presumed cancerous mass defied conventional understanding. Medical teams were confronted with an unforeseen discovery: the presence of parasitic worms nestled within the man's brain tissue. This dramatic shift in diagnosis pivoted the case from oncology to parasitology, presenting an entirely different set of clinical considerations and treatment pathways.",
+    "Further examination confirmed the specific nature of the infestation, identifying it as a pork tapeworm. These parasites, known scientifically as Taenia solium, can cause a condition called neurocysticercosis when their larval cysts develop in the brain. The location of these worms within the Spanish man's brain was a critical factor in the puzzling symptoms he presented.",
+    "The medical team found themselves grappling with the sheer rarity and complexity of the situation. Doctors were particularly puzzled by the presence of these parasites in the Spanish man's brain, especially since no clear cause or transmission route for the infestation was immediately apparent. This lack of a straightforward explanation deepened the diagnostic mystery for the clinicians involved.",
+    "This extraordinary case serves as a powerful reminder of the diagnostic complexities inherent in medicine, particularly when dealing with unusual presentations. It underscores the critical importance of thorough investigation and an open mind, even when initial symptoms strongly suggest a more common, albeit severe, illness. The distinction between a parasitic infection and a life-threatening disease like brain cancer carries immense implications for treatment and patient outcomes.",
+    "Reflecting on the long-term impact, this incident reinforces the need for vigilance and continued research into zoonotic diseases and their neurological manifestations. Medical professionals globally must remain attuned to the potential for rare parasitic infections to mimic other serious conditions, ensuring that diagnostic protocols are robust enough to uncover such hidden truths, no matter how improbable they may seem."
+  ],
+  "publishedAt": "2026-06-28T06:18:36.690Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Ars Technica",
+    "Boing Boing",
+    "WION"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjFlQjZmY0UzeDVKMUxjX2RWZ29yWHlzRXF3bWwzNnFqak93cGRWc0EweVEwalNJc1p3dFVYSmZBSGUwajQxMF8tNzBmN0NoSWd3b0RRNlNDU0JCNHdEdlVFNUNyYkRxbElVdzE2YmFkSWxKbTRtenF1YmFrMWthWmNhaTh0VU9MRjdfemgteGQ5clpFal82VkVWeld3U1RFWGc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:10:42.904Z",
+      "detail": "Aggregated medical news reports from technology and science publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:15:08.857Z",
+      "detail": "Compiled details regarding a medical misdiagnosis, patient's nationality, and the specific parasitic infection from 4 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-28T06:18:36.690Z",
+      "detail": "Wove diagnostic details with the human impact of a rare parasitic infection mimicking brain cancer."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the patient's diagnosis, location, and the doctors' observations were directly verified against the provided fact sheet, with no discrepancies or fabrications found.",
+      "timestamp": "2026-06-28T06:22:20.806Z"
+    }
+  ]
+}
