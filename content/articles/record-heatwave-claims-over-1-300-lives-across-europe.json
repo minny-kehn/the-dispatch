@@ -1,0 +1,52 @@
+{
+  "slug": "record-heatwave-claims-over-1-300-lives-across-europe",
+  "headline": "Record Heatwave Claims Over 1,300 Lives Across Europe",
+  "deck": "A historic heatwave sweeping across Europe has been linked to more than 1,300 excess deaths, overwhelming public services and casting a harsh spotlight on climate vulnerability.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Europe is currently enduring a historic heatwave, casting a harsh spotlight on the immediate and severe human cost of extreme weather. More than 1,300 excess deaths are now linked to these record-breaking temperatures across the continent, according to figures released by the World Health Organization. This escalating crisis is pushing already strained public services closer to the brink.",
+    "The impact is particularly acute in France, where approximately 1,000 additional deaths have been recorded as a direct consequence of the extreme heat. French authorities have issued stark warnings, indicating that the death toll is expected to climb further as the intense conditions persist across the nation.",
+    "The sheer scale of the crisis has begun to overwhelm critical infrastructure, with mortuaries in Paris reportedly struggling to cope with the influx of deceased. This grim reality has left countless families in profound distress, grappling with both loss and logistical challenges during a period of immense sorrow.",
+    "Across affected regions, the heat has reached such an intensity that even traditional cooling methods, long relied upon by residents, have proven ineffective. Shutters and ceiling fans, typically offering some respite, are no match for the relentless, record-breaking temperatures searing across the European landscape.",
+    "These events underscore the critical challenges confronting public health infrastructure across Europe, exposing vulnerabilities in how societies adapt to a rapidly changing climate. The immediate human toll serves as a powerful indicator of the urgent need for robust, long-term strategies to protect populations from increasingly frequent and severe extreme weather phenomena."
+  ],
+  "publishedAt": "2026-06-29T06:36:47.541Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "France 24",
+    "AP News",
+    "Reuters",
+    "NBC News",
+    "The Atlantic"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1FqVWUxczJuZVowaEY3SjFWVG1VcERZdnVRT254VjJEbUFBeUluX1NLa3oyZVMzQVZ0Z1NFZ0xRUTRlSG9kYV93M2QxOEo3cGZOZWdnTk1qNTktclNzNTNrOEswTmZZOUhHMlpydU5BYjVMNzlXMFpmbEF1QkUxQXZsVGxqYUkyemFTOTRvdEpKSEVuampBdDN0bFl0Xy1xRmExbExsWXRkUGNjQk1wbmNhVXF5QlNCZWptRVRsd01Sdw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-29T06:31:07.000Z",
+      "detail": "Aggregated reports from France 24, AP News, Reuters, NBC News, and The Atlantic."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-29T06:35:13.295Z",
+      "detail": "Compiled excess death statistics, heatwave impact claims, and official warnings from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-29T06:36:47.541Z",
+      "detail": "Wove official death tolls with reports of overwhelmed services and personal distress to illustrate the human impact of Europe's record heatwave."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All statistical figures, specific events, and claims regarding impact were meticulously cross-referenced with the provided fact sheet, confirming precise alignment.",
+      "timestamp": "2026-06-29T06:40:50.453Z"
+    }
+  ]
+}
