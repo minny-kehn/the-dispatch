@@ -1,0 +1,49 @@
+{
+  "slug": "europe-heatwave-intensifies-calls-to-confront-climate-denial",
+  "headline": "Europe Heatwave Intensifies Calls to Confront Climate Denial",
+  "deck": "A scorching heatwave gripping Europe has prompted a senior European Union official to issue a forceful rebuke against those who question the scientific consensus on climate change.",
+  "category": "CLIMATE",
+  "body": [
+    "Europe currently finds itself in the grip of a significant heatwave, a meteorological event casting a harsh spotlight on the continent's vulnerability to extreme weather patterns. Amidst these challenging conditions, a prominent voice from the European Union has stepped forward to address the broader implications of such environmental shifts. The intensity of the current heat has undeniably sharpened the focus on the urgent climate discourse.",
+    "The EU green chief, responding directly to the unfolding heatwave, asserted that these climatic events underscore a profound necessity to reject climate denial. This high-level declaration directly links observable environmental phenomena to the political and scientific debate surrounding global warming. The statement frames the ongoing heat as a powerful, undeniable indicator of the climate crisis.",
+    "The EU green chief did not mince words, reportedly stating that the Europe heatwave \"shows need to reject climate denial ‘lies’.\"",
+    "The use of such stark language from a key EU official marks a significant moment in the ongoing battle against misinformation. Referring to climate denial as \"lies\" elevates the discourse beyond scientific debate into a realm of deliberate falsehoods. This firm stance by a senior European figure suggests a growing impatience with narratives that seek to undermine climate action.",
+    "This direct challenge from the EU green chief signals a clear political intent to push back forcefully against skepticism, especially as extreme weather events become more frequent and severe. The statement frames the current heatwave not merely as an isolated incident, but as a compelling argument for unified, unequivocal action against climate change and its detractors. The coming months will likely see continued pressure to align policy with these urgent warnings."
+  ],
+  "publishedAt": "2026-06-30T06:11:03.768Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Environment",
+    "The Guardian",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWhfMDJna0l3ZHVHWlVWLVFPZWJUcl90WjZzWXpyLTFteEJsT0RGNmVXNlJXekJKbnpQcFN5Qm9BQ0lzZXVOcTVLMW9NMkIyUnMySlY4TVFoNF9JOVowWmtwM2NjZEk5cTdDb1BTWHF0Yi1GbzRFOEFadGRvdThfZWlxUU1lWl9Tc2d5YWs3bnZ0aHJibktuTVM4MVQ2eGpqeGZ5NnJUMzdhQUkyZFR2TVJXTU9GeU9jZVY1ZU8wbXJqdjhkWHMw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:04:26.968Z",
+      "detail": "Aggregated news reports concerning European weather events and official EU statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:08:47.780Z",
+      "detail": "Compiled information on the ongoing heatwave and the EU green chief's direct quote and assertion from a single journalistic source."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:11:03.768Z",
+      "detail": "Wove a high-level political response to an extreme weather event into a narrative highlighting the ongoing debate over climate change and denial."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the heatwave event, the EU green chief's statement, and the direct quote, were precisely verified against the provided fact sheet, with no fabrications or misrepresentations found. (Bias: 7/10, Accuracy: 10/10)",
+      "timestamp": "2026-06-30T06:14:56.631Z"
+    }
+  ]
+}

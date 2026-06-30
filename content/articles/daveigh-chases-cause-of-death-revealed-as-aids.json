@@ -1,0 +1,52 @@
+{
+  "slug": "daveigh-chases-cause-of-death-revealed-as-aids",
+  "headline": "Daveigh Chase's Cause of Death Revealed as AIDS",
+  "deck": "The actor, known for her memorable roles in 'Lilo & Stitch' and 'The Ring,' passed away at 35 in Los Angeles.",
+  "category": "CULTURE",
+  "body": [
+    "The entertainment world is reflecting on the life and career of actor Daveigh Chase, as officials have now confirmed the cause of her death. Chase, who captivated audiences in both animated and live-action roles, passed away at the age of 35, a revelation that brings a somber clarity to her untimely passing.",
+    "Reports from Los Angeles confirm that the specific cause of death for the young actress was AIDS. An autopsy conducted in the city where she died provided these findings, offering definitive answers to questions surrounding her premature departure.",
+    "Chase left a distinct mark on popular culture through her diverse performances. Many will remember her as the voice behind the beloved titular character Lilo Pelekai in Disney's animated classic, 'Lilo & Stitch,' bringing warmth and spirit to the role. She also chillingly portrayed the spectral Samara Morgan in the horror hit, 'The Ring,' a performance that solidified her presence in the genre.",
+    "Beyond her work on screen, Chase was an Oregon-raised actress, a detail that grounds her story in a specific American landscape. Her journey from the Pacific Northwest to Hollywood's bright lights saw her contribute to projects that resonated with a wide audience.",
+    "The confirmation of AIDS as the cause of her death not only provides closure regarding her passing but also serves as a potent reminder of ongoing public health conversations. Her life and career, cut short, now carry an additional layer of significance, drawing attention to a critical health issue that continues to impact communities worldwide."
+  ],
+  "publishedAt": "2026-06-30T06:12:49.845Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Los Angeles Times",
+    "ABC7 Los Angeles",
+    "The New York Times",
+    "OregonLive.com",
+    "Yahoo"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXgtU1NOTlp1Qm5xd2pnU19lelpGWVhLalMwZDdadzUxX2taWnl6WEZWbXRsZjdKQjlZODVESGZySU1nVU5GaVVqWEt4VmVPczNyaGJlRDVvbUxMVzFiOTJDR0lsc2FLVFFTXzk1MkRzb2ItSFVsYThfSDFMak5jOVQtaHl4eXJDMGdEN3BOeXZLdVBHcnRQbm1TUHkzYWJMREFCVXY1ZkNsQ0pieG9iZ0JycFFIVFdLSVB0ZFJORVMyZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:04:26.968Z",
+      "detail": "Aggregated news reports from major outlets including the Los Angeles Times, The New York Times, and ABC7 Los Angeles."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:08:47.780Z",
+      "detail": "Compiled specific details regarding Daveigh Chase's cause of death, age, location of death, and notable acting roles from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:12:49.845Z",
+      "detail": "Wove factual details about Daveigh Chase's passing and career into a narrative, providing context and highlighting the significance of the revelation for public awareness."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the actor's identity, age, location and cause of death, and key roles were directly verified against the provided fact sheet, with no fabrications or misrepresentations found.",
+      "timestamp": "2026-06-30T06:16:26.018Z"
+    }
+  ]
+}

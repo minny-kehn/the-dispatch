@@ -1,0 +1,54 @@
+{
+  "slug": "rare-tick-virus-reaches-record-highs-in-us",
+  "headline": "Rare Tick Virus Reaches Record Highs in US",
+  "deck": "A rapidly progressing and often fatal tick-borne illness, identified as Powassan disease, is seeing an unprecedented increase in reported infections nationwide, raising urgent public health alarms.",
+  "category": "HEALTH",
+  "body": [
+    "The United States is currently grappling with a significant and concerning rise in cases of a rare, tick-borne virus, with infections reaching record highs across the nation. Identified as Powassan disease, this illness is drawing serious warnings from health experts due to its capacity to turn deadly fast once contracted. This alarming trend underscores a growing public health challenge that demands immediate attention and increased vigilance.",
+    "This particular tick-borne disease has established a worrying foothold, particularly within the New England region, where communities are now facing an elevated risk. The increasing prevalence suggests a shifting landscape for public health, pushing an already vulnerable population closer to the brink of a serious, rapidly progressing health threat. The pattern indicates a broader ecological shift contributing to the spread of such pathogens.",
+    "A stark illustration of this emerging threat recently unfolded in Rhode Island, where the Department of Health (RIDOH) confirmed a case of Powassan viral infection. This diagnosis in a Rhode Island man serves as a potent reminder of the virus's concrete presence and immediate danger within local communities, bringing the warnings from national experts into sharp local focus. Such individual cases paint a grim picture of the virus's expanding reach.",
+    "Experts are casting a harsh spotlight on the grave implications of this record surge in Powassan cases. Their warnings are not merely cautionary; they reflect a deep concern over the virus's swift progression and the severe outcomes it can precipitate in infected individuals. The medical community is increasingly focused on understanding the dynamics behind this accelerated spread and its potential for widespread impact.",
+    "The rapid and often fatal nature of Powassan disease distinguishes it from other more commonly known tick-borne illnesses. Once transmitted, the virus can quickly lead to severe neurological complications, leaving little time for intervention. This characteristic makes the current rise in cases particularly troubling for public health officials monitoring disease patterns.",
+    "These reports come as the broader issue of tick-borne illnesses continues to challenge public health strategies across the country. The environmental conditions favoring tick populations, coupled with increased human interaction in affected areas, create fertile ground for such pathogens to proliferate. The growing number of reported cases of Powassan disease thus represents a critical barometer of these evolving environmental and health dynamics.",
+    "Reflecting on the long-term impact, the unprecedented rise in Powassan cases necessitates a robust public health response focused on awareness, prevention, and early detection. Communities, especially in high-risk areas like New England, must be equipped with the knowledge and tools to protect themselves against this rapidly progressing threat. Vigilance and proactive measures will be paramount in mitigating the potential for further fatalities and containing the virus's accelerating spread."
+  ],
+  "publishedAt": "2026-06-30T06:12:31.209Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Fox News",
+    "The Washington Post",
+    "Go Local Prov",
+    "WJAR",
+    "The Boston Globe"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkpyb1d3SnNWMGE4bnJlQ2NHWk9jYUlncVFVdHZQTlNuQi1XOHFHWndXQkx5cUR1dXBpTVptbGtnWTJ4THh4eG45QldGYUt1THlSSkVBMmphaHg4X2Y1VU5rMVpEWnV3TGFvSktMRWVaaTBULVN6YUhRWFhvTldwbDNqY2pHQUgwa052RXo2eDJ2U3dRT3dNSnNPT18yQUwtNzBoTXdnUVhkd2FkczlJ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:04:26.968Z",
+      "detail": "Aggregated news reports from national and local outlets, focusing on recent public health alerts and confirmed cases."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:08:47.780Z",
+      "detail": "Compiled information on record high case numbers, the deadly nature of the virus, expert warnings, and specific regional confirmed cases from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:12:31.209Z",
+      "detail": "Wove confirmed case details with public health warnings and regional impacts to highlight the escalating threat of Powassan disease."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the rise of the rare tick-borne virus, expert warnings, its rapid progression, and the confirmed case in Rhode Island were directly verified against the provided fact sheet.",
+      "timestamp": "2026-06-30T06:16:07.557Z"
+    }
+  ]
+}

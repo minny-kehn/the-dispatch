@@ -1,0 +1,54 @@
+{
+  "slug": "delevingne-confirms-heard-relationship-amid-depp-divorce",
+  "headline": "Delevingne Confirms Heard Relationship Amid Depp Divorce",
+  "deck": "Supermodel Cara Delevingne has clarified long-standing speculation, confirming a romantic involvement with actress Amber Heard during Heard's highly publicized separation from Johnny Depp.",
+  "category": "CULTURE",
+  "body": [
+    "Supermodel Cara Delevingne has formally addressed long-standing rumors, confirming a past relationship with actress Amber Heard. This revelation casts new light on a period that drew intense global media scrutiny, specifically identifying their romance as occurring during Amber Heard's high-profile divorce proceedings from actor Johnny Depp. Delevingne's decision to speak out offers clarity on a previously whispered connection, adding a significant detail to the public record.",
+    "For years, the nature of Delevingne and Heard’s connection had been the subject of persistent speculation across entertainment circles. Delevingne is now breaking her silence on what was once only a rumored romance, providing a definitive statement on the depth of their past bond. This public acknowledgment directly addresses the whispers that have circulated for some time.",
+    "Crucially, Delevingne's confirmation specifies that her relationship with Heard unfolded precisely during Heard's tumultuous divorce from Johnny Depp. This timing adds a complex layer to the timeline of events that captivated international audiences, refining the public understanding of Heard’s personal life during that intensely scrutinized period. The overlap between these significant personal events is now firmly established.",
+    "The depth of their connection has been characterized by Delevingne with a poignant descriptor.",
+    "\"Cara Delevingne stated that she and Amber Heard were 'entangled'.\"",
+    "This description, shared with USA Today, provides a vivid sense of the emotional complexity inherent in their relationship. The public's understanding of Amber Heard's private life during her widely publicized divorce from Johnny Depp has gained new specificity with Delevingne's candid remarks. Her confirmation offers a definitive answer to a question that had lingered for years in the celebrity news cycle.",
+    "Delevingne's forthright statement contributes significantly to the ongoing public narrative surrounding these prominent figures, moving beyond mere conjecture. Her words offer a more complete picture of the personal entanglements that existed during a period already under an intense spotlight. This clarity provides a definitive point of reference for those following the unfolding stories of these well-known personalities."
+  ],
+  "publishedAt": "2026-06-30T06:13:11.006Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "The Hollywood Reporter",
+    "Yahoo",
+    "Page Six",
+    "E! Online",
+    "USA Today"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGx6clFUWnNkSWVobDVHZmRaaHc2a0wwOTZZZ3ZyY2lIdUFXTjhOYkFPazVab1o4YmZFZWRWcXZTZFFZZGxvZ3VOOWdUWmlMZkNaNHU3Nk5jZ21iMFlBdjhTYXRNUjVIMHlITy1aR2E5WTl3MkNMcmtTWlFuY2N3S19nb0VrNXZOanp1OFJKQkFpQmdGVXJESEFqWWQ4VlEtRnRMcHRRWl9kWGIxUXlRLTFET3dWZ2xu?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:04:26.968Z",
+      "detail": "Aggregated reports and statements from prominent entertainment news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:08:47.780Z",
+      "detail": "Compiled details regarding Cara Delevingne's confirmation of a relationship with Amber Heard and its timing during Heard's divorce from Johnny Depp, along with a direct quote, from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-06-30T06:13:11.006Z",
+      "detail": "Wove Delevingne's confirmation and specific timing into a coherent narrative clarifying long-standing celebrity rumors."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 10/10, Readability: FK 15.2",
+      "timestamp": "2026-06-30T06:16:54.796Z"
+    }
+  ]
+}
