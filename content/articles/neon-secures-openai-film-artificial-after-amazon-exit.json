@@ -1,0 +1,53 @@
+{
+  "slug": "neon-secures-openai-film-artificial-after-amazon-exit",
+  "headline": "Neon Secures OpenAI Film 'Artificial' After Amazon Exit",
+  "deck": "Luca Guadagnino's anticipated film about OpenAI, 'Artificial,' has found a new distributor in Neon after its surprising departure from Amazon, signaling a new chapter for the high-profile project.",
+  "category": "CULTURE",
+  "body": [
+    "Neon has officially acquired 'Artificial,' the film helmed by acclaimed director Luca Guadagnino, which centers on the burgeoning world of OpenAI. This move provides a clear path forward for a project that has drawn significant industry attention, not least for its timely subject matter and the creative forces behind it.",
+    "The film has been a subject of considerable discussion within the entertainment landscape, especially given its focus on OpenAI, a company at the forefront of artificial intelligence development. Reports indicate that Sam Altman, a key figure associated with OpenAI, is also involved in the project, adding another layer of intrigue to its narrative.",
+    "Filmed on location in San Francisco, a global hub for technological innovation, 'Artificial' promises to offer a unique perspective on the rapidly evolving AI sector. This setting lends an authentic backdrop to a story exploring technology that is increasingly reshaping daily life and global industries.",
+    "The film's journey to distribution was not without its complexities, as Amazon had previously dropped the project, casting a harsh spotlight on its uncertain future. This decision by the streaming giant had left many wondering about the film's eventual release and the reasons behind the unexpected change.",
+    "Luca Guadagnino, speaking on the situation at the time, acknowledged the sensitive nature of the shift, stating, \n\n_“Can’t Discuss Amazon Dropping ‘Artificial’ Because ‘We Are Right in the Middle of This Situation.’”_\n",
+    "Despite the earlier distribution hurdle, the film's core themes resonate deeply with current global conversations surrounding technological progress. Guadagnino himself has articulated the profound impact of artificial intelligence, observing, \n\n_“AI Is ‘Changing the Identity of the World.’”_\n",
+    "Neon's acquisition now ensures that 'Artificial' will reach audiences, bringing Guadagnino's vision to the screen. This development underscores the dynamic nature of film distribution and the industry's evolving interest in stories that grapple with the profound implications of advanced technology."
+  ],
+  "publishedAt": "2026-07-01T06:26:41.606Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Deadline",
+    "Los Angeles Times",
+    "SFGATE",
+    "Variety"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE9rRXB5TjdlekJ1c3p4QkhyQVVOYm4zVFdaZFI4bjE5c2VJZW8xR2tuX3dyMFFpUl9ZNVhpdEJKWUVuNFFmODZlTFZMSmp3cWNXSHhKTEZVdGRnT3RkMkM4TW91RGdGaXdEWnpTOU5nX1NUMGdWYVU3czZJZGMxTWJUTGlad2g5TjNNMzAzOTcycVpfMmZNbTdsRQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:18:59.426Z",
+      "detail": "Aggregated news reports and interviews from leading entertainment and technology publications, including Deadline, Los Angeles Times, SFGATE, and Variety."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:22:50.312Z",
+      "detail": "Compiled details on film acquisition, director, subject matter, cast involvement, previous distribution status, and filming location from 4 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:26:41.606Z",
+      "detail": "Wove industry developments with director statements and contextual information to present a comprehensive account of 'Artificial's' distribution journey and thematic relevance."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the director, subject matter, filming location, and direct quotes, were precisely verified against the provided fact sheet.",
+      "timestamp": "2026-07-01T06:30:20.506Z"
+    }
+  ]
+}

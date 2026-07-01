@@ -1,0 +1,53 @@
+{
+  "slug": "chris-brown-ordered-to-pay-housekeeper-13-million-after-dog-attack",
+  "headline": "Chris Brown Ordered to Pay Housekeeper $13 Million After Dog Attack",
+  "deck": "A Los Angeles jury has held the acclaimed artist liable for severe injuries, including disfigurement, sustained by his housekeeper in a dog mauling incident on his property.",
+  "category": "CULTURE",
+  "body": [
+    "A Los Angeles jury has ordered Grammy-winning artist Chris Brown to pay his former housekeeper a significant $13 million following a dog mauling incident that left her with severe injuries. The verdict, delivered after a contentious trial, marks a substantial legal and financial blow for the entertainer.",
+    "The legal action stemmed from a harrowing attack by one of Brown's dogs on his property, an event that led to the housekeeper suffering profound physical harm. Reports indicate the injuries were so severe they resulted in lasting disfigurement, painting a grim picture of the ordeal she endured.",
+    "Throughout the trial, the housekeeper's emotional testimony underscored the gravity of her experience. She was observed sobbing during proceedings, conveying the deep personal impact of the attack and the subsequent legal battle.",
+    "The jury ultimately found Chris Brown liable for the extensive damages, culminating in the $13 million payment. This figure is intended to compensate for the medical costs, lost wages, and profound suffering she has faced since the incident.",
+    "This high-profile case casts a harsh spotlight on the responsibilities property owners, particularly public figures, bear toward their staff and the animals they keep. It serves as a stark reminder of the serious legal ramifications that can arise from incidents on one's private grounds.",
+    "The substantial verdict underscores the jury's clear finding of Brown's responsibility and the severity with which they viewed the housekeeper's plight. Such a ruling sends a powerful message about accountability, even for those accustomed to life in the public eye."
+  ],
+  "publishedAt": "2026-07-01T06:26:58.205Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Rolling Stone",
+    "Billboard",
+    "Variety",
+    "Yahoo",
+    "myTalk 107.1"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbzlXT0JCLTlSRFdxQnJOS0ZGd0pCNm1rVFE3NEJZR2o2clhDN2xSWGRuQkV4NVdnVlNZVVNnRGRvZjdIS0U3OE44WndWY0NsMGhieEVpQlFuMVI5WWZzV2hCZ1pGMlQyMTBQeEdHRjUtQ2tucmItendJWGVTTWU5Ukd1MTFOQkdmcGpTd3pmOEN4ZnUxbmdNTEtzdEVlQXVUcklqM3dLYVRCdGZlMGhqMA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:18:59.426Z",
+      "detail": "Aggregated legal reports, entertainment news, and court proceeding summaries from multiple reputable media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:22:50.312Z",
+      "detail": "Compiled details on the court order, payment amount, nature of the incident, and jury findings from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:26:58.205Z",
+      "detail": "Wove legal facts and human impact into a coherent narrative examining celebrity accountability and the consequences of negligence."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 5/10, Accuracy: 9/10, Readability: FK 14.1",
+      "timestamp": "2026-07-01T06:30:40.290Z"
+    }
+  ]
+}

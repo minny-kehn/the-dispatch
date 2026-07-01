@@ -1,0 +1,53 @@
+{
+  "slug": "dr-congo-ebola-outbreak-intensifies-prompts-gathering-bans",
+  "headline": "DR Congo Ebola Outbreak Intensifies, Prompts Gathering Bans",
+  "deck": "The Democratic Republic of Congo faces a deepening public health crisis as confirmed Ebola cases surge past 1,300, prompting authorities to implement widespread bans on gatherings.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with a severe Ebola outbreak, with confirmed cases now surging past 1,300, and a grim tally of 377 deaths reported across its affected regions. This escalating crisis casts a harsh spotlight on the urgent public health challenges facing the nation. The relentless spread of the virus continues to push an already vulnerable population closer to the brink.",
+    "The outbreak's relentless trajectory has seen it now spread to a fourth province within the Democratic Republic of Congo, signaling a concerning expansion of the disease's footprint. This widening geographical reach has prompted Africa's C.D.C. to issue a sobering warning, suggesting the current outbreak could potentially become the largest ever recorded. Such a pronouncement underscores the immense scale of the challenge and the profound global health implications.",
+    "In an effort to contain the virus's insidious march, Congolese authorities have implemented drastic public health measures, including banning mass gatherings across various areas. These critical restrictions extend beyond the immediate outbreak zones, notably impacting populous Kinshasa and other regions far removed from the epicenter. The intent behind these wide-ranging prohibitions is to curb further transmission by significantly limiting public interaction.",
+    "However, these sweeping bans on public assembly have not been without controversy, drawing scrutiny from various quarters. Some individuals within the nation express concern, believing that the prohibition on gatherings extends beyond mere public health imperatives. They suggest these measures could also serve to limit political dissent, adding a layer of complexity where public health efforts intersect with civil liberties and political expression.",
+    "The Democratic Republic of Congo finds itself grappling with an escalating Ebola outbreak that now presents a significant public health crisis, characterized by a high number of confirmed cases and tragic deaths. The potential for this outbreak to become the largest ever highlights the urgent need for robust containment strategies and international support. This multifaceted challenge demands a delicate balance between public health imperatives and the preservation of civil liberties.",
+    "As the nation navigates this complex and evolving situation, the effectiveness of the containment strategies will be rigorously tested against the virus's persistent spread. The global health community watches intently, understanding that containing this outbreak requires not only medical intervention but also careful consideration of its societal implications. The path ahead remains fraught with significant public health and governance challenges that demand sustained attention."
+  ],
+  "publishedAt": "2026-07-01T06:26:21.971Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Al Jazeera",
+    "The New York Times",
+    "AP News",
+    "BBC",
+    "CIDRAP"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTZmOGRIWGNOR084Z0ZILTVwaVVsaU5FWG1qeWJmcVpMMmZ4LTItclpCMEVmOHVQZEp6OVFtY1FqS1pab2czUUpSbjh4ZmZ3WUpaU2Q3SEcwc3ZpQ1JMdTdKdVJTcEI0ZzdjOW95alV3UWVSbXlLMXB2ckgxYUNiZlQwS1kzRFZSdVgwZ3ZnNFJuQ0EzQk1ObEdYejZ1bVo3Z2dCMdIBqgFBVV95cUxNT1FoZ281eTJ2MFRNQmE3MGFnYzZfRkktRUZCSjRPN3RLbHRpNTU4SS1lME45NTJvVkdkeHlEWTRqYmRfNlBPdFhaYlJndk43Yy13aVNhYXh1X09oOWJLM1p6aWU0eDV6Um04d1ZpVmhRVUI3bVcwQ2t6MG5NZV91VjJJS1ZUbGIwVThGSS1WSjhqUHB3ZWZUU3MzVi1ZU0hMdWxQYU5rbVRIQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:18:59.426Z",
+      "detail": "Aggregated reports on confirmed cases, deaths, and containment measures from international news agencies."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:22:50.312Z",
+      "detail": "Compiled confirmed case counts, death tolls, geographic spread, and policy responses from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:26:21.971Z",
+      "detail": "Wove epidemiological data with governmental actions and civil liberty concerns to frame the escalating health crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Confirmed case numbers and death tolls verified, geographical spread and official warnings cross-referenced, and public health measures including gathering bans and associated public concerns confirmed against the fact sheet.",
+      "timestamp": "2026-07-01T06:30:03.393Z"
+    }
+  ]
+}

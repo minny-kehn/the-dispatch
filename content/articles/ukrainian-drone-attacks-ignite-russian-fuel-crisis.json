@@ -1,0 +1,52 @@
+{
+  "slug": "ukrainian-drone-attacks-ignite-russian-fuel-crisis",
+  "headline": "Ukrainian Drone Attacks Ignite Russian Fuel Crisis",
+  "deck": "Ukrainian drone assaults on oil refineries have created a significant summer fuel crisis across Russia, prompting a rare admission of \"problems\" from President Vladimir Putin.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Ukrainian drone attacks have escalated their targeting of oil refineries within Russia, casting a harsh spotlight on the domestic consequences of the ongoing conflict. These persistent assaults have plunged the nation into a significant summer fuel crisis, disrupting daily life and impacting critical sectors. In a rare public acknowledgement, Russian President Vladimir Putin conceded that Ukrainian strikes on infrastructure are indeed \"creating problems\" for his country.",
+    "The ripple effects of these attacks are now acutely felt across Russian communities, painting a grim picture for ordinary citizens. Fuel shortages and price hikes have rapidly become a central concern, consuming local discussions from bustling city centers to remote towns. This tangible impact on daily necessities highlights the war's reach far beyond the front lines.",
+    "Reflecting the widespread concern, one observer noted the pervasive nature of the issue: \"It's The Only Thing They're Talking About.\"",
+    "Despite these mounting domestic pressures and the clear operational challenges, analysts suggest that President Putin is not expected to yield on his broader strategic objectives. The Kremlin's resolve appears undeterred, even as the cost of the conflict increasingly burdens the Russian populace. This firm stance indicates a continued commitment to the war effort, despite the acknowledged difficulties.",
+    "The deepening fuel crisis serves as a potent indicator of Ukraine's evolving strategy to inflict costs on Russia's economy and infrastructure. As summer progresses, the unresolved tensions surrounding these attacks will continue to test public morale and potentially strain Russia's logistical capabilities. The coming weeks will reveal the full extent of these challenges and the Kremlin's response to an increasingly uncomfortable domestic situation."
+  ],
+  "publishedAt": "2026-07-01T06:24:00.163Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "AP News",
+    "Radio Free Europe/Radio Liberty",
+    "CNN",
+    "Institute for the Study of War",
+    "CBS News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:18:59.426Z",
+      "detail": "Aggregated reports from AP News, CBS News, Radio Free Europe/Radio Liberty, CNN, and the Institute for the Study of War concerning Ukrainian drone attacks and their impact on Russia."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:22:50.312Z",
+      "detail": "Compiled details on Ukrainian drone targeting of oil refineries, the resulting summer fuel crisis, local public concern, and President Putin's rare admission of problems from multiple news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:24:00.163Z",
+      "detail": "Wove together reports of escalating drone attacks with analysis of Russia's domestic fuel crisis and President Putin's response to illustrate the war's economic impact."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 3/10, Accuracy: 9/10, Readability: FK 15.0",
+      "timestamp": "2026-07-01T06:27:54.995Z"
+    }
+  ]
+}

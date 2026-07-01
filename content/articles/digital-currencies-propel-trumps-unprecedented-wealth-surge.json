@@ -1,0 +1,54 @@
+{
+  "slug": "digital-currencies-propel-trumps-unprecedented-wealth-surge",
+  "headline": "Digital Currencies Propel Trump's Unprecedented Wealth Surge",
+  "deck": "Donald Trump's personal income reportedly exceeded $2 billion in 2025, largely driven by significant investments in the volatile cryptocurrency market.",
+  "category": "FINANCE",
+  "body": [
+    "Donald Trump's financial landscape underwent an extraordinary transformation in 2025, with his total income reportedly soaring past $2 billion. This remarkable surge, detailed by The Washington Post, marks a period of unparalleled wealth accumulation for a figure of his political stature, particularly in his first year out of office.",
+    "A substantial portion of this financial ascent is attributed to a foray into the burgeoning world of cryptocurrencies and other digital coin ventures. Reports indicate that these speculative investments became a primary engine of his income, pushing his personal fortune to levels previously unseen for a former president.",
+    "The BBC reported that Trump garnered more than $1 billion from crypto assets within his first year after leaving the presidency. This figure highlights the sheer scale of his engagement with digital currencies and their outsized impact on his overall financial standing.",
+    "Further illustrating this trend, Trump’s annual financial disclosure revealed varying but consistently high figures. CNBC noted more than $580 million in crypto-related income, while NBC News separately reported $1.4 billion in crypto earnings on his disclosure forms.",
+    "These substantial earnings, particularly in the digital asset space, were powered largely by meme coins, a highly speculative class of cryptocurrency often characterized by their viral popularity and extreme price volatility. This particular focus adds a modern dimension to the narrative of political wealth.",
+    "The New York Times characterized Trump’s moneymaking run as unrivaled in presidential history, underscoring the exceptional nature of this financial trajectory. It sets a new benchmark for how political figures might leverage their public profile into substantial personal wealth through emerging financial instruments.",
+    "This financial trajectory marks a significant moment, inviting scrutiny into the intersection of high-stakes politics and speculative finance. The extraordinary gains from volatile digital assets will undoubtedly factor into future discussions about public perception, political ethics, and the financial disclosures required of leaders."
+  ],
+  "publishedAt": "2026-07-01T06:25:22.722Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "The Washington Post",
+    "BBC",
+    "The New York Times",
+    "CNBC",
+    "NBC News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG1ucDZ5Y295WG44SXZDbzVSb1UtSVJCQ2pXcEMxZWtTc1ZsR2JodlRKdENuUDdkUE5GbE1ZTFVDQ0VRU1hkclJaYkVKM202TVktdWt1dmQ3WTNoT0VwSlZ1LUZCQURHZThTUERwbkVOQThVblhKOHNqcjVBQkV3bmdGRzFmNmloQTNRVnViTWg4NDcxRmdYSHlNSlp4UFZJeDNJWUxLbnN1RDVVZE4wOE5Fa212NUpkbnc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:18:59.426Z",
+      "detail": "Aggregated financial reports, wealth analyses, and disclosure summaries from major news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:22:50.312Z",
+      "detail": "Compiled income statistics, crypto earnings details, and historical comparisons from The Washington Post, BBC, The New York Times, CNBC, and NBC News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-01T06:25:22.722Z",
+      "detail": "Wove reported income figures with contextual analyses to detail the unprecedented financial gains of a former president, particularly from digital currency ventures."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 9/10, Readability: FK 16.4",
+      "timestamp": "2026-07-01T06:29:08.781Z"
+    }
+  ]
+}
