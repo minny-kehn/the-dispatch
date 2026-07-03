@@ -1,0 +1,53 @@
+{
+  "slug": "flesh-eating-bacteria-warnings-intensify-for-holiday-swimmers",
+  "headline": "Flesh-Eating Bacteria Warnings Intensify for Holiday Swimmers",
+  "deck": "Health officials are issuing urgent warnings about flesh-eating bacteria in waterways across the U.S. Gulf Coast, coinciding with the busy July 4 holiday weekend.",
+  "category": "HEALTH",
+  "body": [
+    "As the nation prepares for the bustling July 4 holiday, health authorities are urging extreme caution for beachgoers and swimmers. Warnings about flesh-eating bacteria have been amplified, particularly in coastal regions and inland waterways where the risk of exposure is heightened during peak recreational use.",
+    "Medical professionals in the Houston area, for instance, are specifically alerting residents about the dangers lurking in local beaches, lakes, and ponds. Their advisories emphasize the need for vigilance for anyone planning to enter these waters, given the potential for severe health outcomes from bacterial infections.",
+    "The urgency of these warnings is underscored by recent, harrowing accounts from the Mississippi Coast. One man, after a seemingly typical day fishing, contracted the dangerous bacteria and is now engaged in a grim fight to save his leg, illustrating the rapid and devastating progression of the illness.",
+    "Meanwhile, another South Mississippi man is reportedly battling for his life after exposure while swimming and fishing in Coast waterways. These individual tragedies paint a stark picture of the severe risks associated with these bacteria, pushing public health officials to reiterate their calls for caution.",
+    "These immediate public health concerns unfold against a broader backdrop of emerging disease threats across the nation. Analysts suggest that new health challenges are becoming more prominent, following reductions in health programs that were initiated during the Trump administration.",
+    "The confluence of a busy holiday weekend and these severe health risks casts a harsh spotlight on the critical need for public awareness and robust health infrastructure. Individuals are advised to heed local warnings, cover open wounds, and seek immediate medical attention if symptoms arise after water exposure."
+  ],
+  "publishedAt": "2026-07-03T05:54:21.607Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "NewsNation",
+    "CBS News",
+    "Click2Houston",
+    "NOLA.com",
+    "Sun Herald"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVhVRDI4T09qUl91RGltLUxKZHNnblQ1MnhlVEQ2M1B0ZWZGbUlJSmxvZTJXRDBtTWpQb09OdnE5eTk5TkRPbW83MUtkTHl6VzdQU0JjTm8yVWc1ODZCRmlaRzBDcDd0MUdrLU42QVBscWhMcU4tQW1mLUFFc1lxNE5PX2_SAYoBQVVfeXFMTXpIWFVQd2tEUUhKbUpVc285azYyUUxQUHJCSFJTdjlVQy1GQ0ZNNXo3WTFfT3dISUl2VFRYdU9HUU5sel9XaGNYZTVKSWV2WTIwYVNKVXptWGU1RFhqQXhlZWc5d3E3SzF4M1Y4YTY0YkxEY3dHSDFwU0t5MTB2b3p5V0tnTkpGRGtB?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:46:00.817Z",
+      "detail": "Aggregated public health advisories and local news reports from multiple U.S. regions."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:49:55.826Z",
+      "detail": "Compiled specific medical warnings, detailed patient cases, and broader health policy analysis from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:54:21.607Z",
+      "detail": "Wove immediate public health warnings with recent, severe patient cases and systemic health policy context to highlight holiday risks."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including health warnings, individual case details, and analytical points, were directly verified against the provided fact sheet, with no discrepancies or fabrications found.",
+      "timestamp": "2026-07-03T05:58:27.458Z"
+    }
+  ]
+}

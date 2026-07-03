@@ -1,0 +1,56 @@
+{
+  "slug": "trump-blasts-federal-reserve-amidst-inflation-surge",
+  "headline": "Trump Blasts Federal Reserve Amidst Inflation Surge",
+  "deck": "Former President Donald Trump's pointed criticisms of the Federal Reserve's independence come as rising inflation figures intensify economic scrutiny.",
+  "category": "FINANCE",
+  "body": [
+    "Donald Trump's recent public criticism of the Federal Reserve, labeling it “hostile,” casts a harsh spotlight on the independent institution at a sensitive economic juncture. These pointed remarks underscore the persistent tension between political figures and the central bank's critical monetary policy decisions. The commentary arrives as the nation grapples with inflation figures that have climbed above four percent, adding urgency to the debate.",
+    "“hostile,”",
+    "This direct assessment from former President Donald Trump highlights a significant perception of the Federal Reserve as an impediment rather than a neutral arbiter of economic health. Such public declarations from a prominent figure can significantly shape public discourse surrounding the Fed's crucial role in managing the economy. His words suggest a deeply felt concern about the institution's current direction.",
+    "Amidst these broader criticisms, Mr. Trump also weighed in on specific figures, including Kevin Warsh, a potential candidate for Fed Chairman. He acknowledged the difficult position Warsh might face in navigating interest rate decisions. The former president suggested that Warsh, if appointed, would “has to do what he has to do” when confronting these critical economic levers.",
+    "This nuanced perspective on Warsh's potential actions was accompanied by a further observation about the internal dynamics of the Fed. Trump indicated his belief that the board Warsh would contend with is “a bit hostile.” This comment paints a picture of an internal environment potentially resistant to certain policy directions, adding another layer to the political scrutiny surrounding the central bank.",
+    "Despite these sharp observations, reports also suggested a subtle shift, with Trump appearing to ease some of the direct pressure on Warsh. This delicate balance of criticism and tempered expectation reflects the complex interplay between executive influence and central bank autonomy. Such moves can be interpreted as attempts to shape future policy discussions without resorting to outright demands.",
+    "The backdrop to these discussions is a challenging economic landscape, with inflation currently topping four percent. This persistent rise in prices adds significant urgency to any debate surrounding interest rates and monetary policy. The elevated inflation figure pushes an already vulnerable population closer to the brink, making the Fed's decisions even more consequential for everyday Americans.",
+    "Meanwhile, the White House has publicly dismissed any expected intervention in Federal Reserve policy. White House's Hassett stated that direct involvement in the Fed's independent decisions is not anticipated, reaffirming the central bank's autonomy. This official stance aims to buffer the Fed from political interference, even as prominent figures articulate their views on its direction.",
+    "The ongoing public dialogue surrounding the Federal Reserve's independence and its handling of economic indicators like inflation remains a critical flashpoint in national discourse. As the nation navigates persistent price increases, the delicate balance between political rhetoric and the central bank's mandate to maintain economic stability will continue to be closely watched. The implications for future monetary policy and financial markets are substantial."
+  ],
+  "publishedAt": "2026-07-03T05:53:14.253Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "MarketWatch",
+    "Bloomberg",
+    "CNBC",
+    "Stocktwits",
+    "WJLA"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0ZRb0NsUk02RjFwYU9FQ2JuMFV2emprWkE3c3pRWXB3OWFka1hlTjdzRFJOcEtvR0RWUVhyX1lIazk4VEpJcW5VNnpBdmJ2MjQ4RGoxSkdTNjVrWFVzMzVJZDFBVEQwVC03T3hJWlc0eXMydm1jdm84QnJiUGRrT2NBeWFxSHIwNUxRU3hPN1NubGdkeHNYOVpra2dGb3BQNGlscnMtWXR1Y1BaZUNOZWdsUGFiTElBMGhlbnVSQTF0YmdoblNj?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:46:00.817Z",
+      "detail": "Aggregated public statements and financial news reports from multiple outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:49:55.826Z",
+      "detail": "Compiled former President Trump's specific comments on the Federal Reserve, Kevin Warsh, and inflation statistics from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-03T05:53:14.253Z",
+      "detail": "Wove together political commentary, central bank dynamics, and economic data to illustrate the tension between political figures and monetary policy."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.3",
+      "timestamp": "2026-07-03T05:57:27.640Z"
+    }
+  ]
+}
