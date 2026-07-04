@@ -1,0 +1,54 @@
+{
+  "slug": "health-officials-warn-of-flesh-eating-bacteria-ahead-of-holiday",
+  "headline": "Health Officials Warn of Flesh-Eating Bacteria Ahead of Holiday",
+  "deck": "As the July 4 holiday approaches, health officials across multiple states are issuing urgent warnings to beachgoers and swimmers about the escalating risk of contracting flesh-eating bacteria.",
+  "category": "HEALTH",
+  "body": [
+    "Health officials in coastal regions are sounding the alarm, cautioning beachgoers about the potential dangers of flesh-eating bacteria as the busy July 4 holiday weekend draws near. This critical alert is aimed at protecting the public during a period when many are expected to flock to the nation’s beaches and other bodies of water for recreation.",
+    "Doctors in areas like Houston are specifically advising swimmers to exercise extreme caution when entering local beaches, lakes, and ponds, pointing to the risk of dangerous bacterial infections. Similar warnings have been echoed by health authorities in Alabama, underscoring a widespread concern across the Gulf Coast region.",
+    "The urgency of these warnings is underscored by a recent and severe incident involving a man on the Mississippi Coast. After a fishing trip, he contracted the virulent bacteria and is now engaged in a difficult battle to save his leg, a stark illustration of the severe consequences these infections can bring.",
+    "Such incidents and the broader public health advisories arrive amidst a landscape of evolving disease threats. Analysts suggest that new health challenges are emerging, partly following cuts to health programs initiated during the previous Trump administration, which may have impacted preparedness and surveillance capabilities.",
+    "This public health concern highlights the critical need for vigilance, particularly as warmer temperatures create more favorable conditions for bacterial growth in marine and freshwater environments. The warnings aim to arm the public with crucial information, enabling them to make informed decisions about their water-related activities.",
+    "Reflecting on the long-term impact, the consistent messaging from health departments emphasizes the importance of understanding environmental risks that can turn recreational outings into serious medical emergencies. It underscores the continuous effort required to safeguard public health against insidious, naturally occurring threats.",
+    "As the holiday weekend unfolds, authorities will continue to monitor water quality and provide updated guidance to the public. The focus remains on preventing further infections and ensuring that celebratory activities do not inadvertently lead to severe health complications for individuals and communities alike."
+  ],
+  "publishedAt": "2026-07-04T05:46:58.334Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "AL.com",
+    "CBS News",
+    "NOLA.com",
+    "Click2Houston",
+    "NewsNation"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2hsY1B5SndXaHlqNVBFdjllTkFlSUNLNmZUb3dlcjhOejhrVkpaWW04aGNRSUVZcFdBdmlkUmlmZVZZR3pYbUF6dWt0NGFnTFlFd1d5YXVRdC1GN3JiREg1b19JbzJHM29kb0pkUUdycGFxR1A1RFdXNWxYelU0UDNQbWdQYmR3b3p1b0RBM0djWnlXUk5ndENpdGtzNEx5VUlBRDg5bmtDQkhBdkI2eWxyRDR6NmpRejh4ZzM2VjBNR1Q5TXNOT3JqR0fSAeABQVVfeXFMUGZDRTFPYVVBZEFYbFBsd0VoM3hjby02MGxkOVM0a0c5Z2dvSUVkRWxHM084NHhkQmdWalptX25rZFhmSGg2NE5kNkt2cERQWHQtX1g4dE9MLUx1V0RsSnlVTjhLZHJldzRhMy00a1ZITXVzYzhTaWNhZVdqbElnS1FZTjNWVTEzaUFSeERMalJQaG1kb2xZYk1zajlNVjFjbldnRmNEbnZQbmpfcmlGU3BnQng4OHRkMVotYzJqRUNfT1M5TVctVDg4LU5wTUk4dWQ5OVRRVXdfeVZQeUI1MnE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:39:24.627Z",
+      "detail": "Aggregated public health warnings, incident reports, and expert analyses from major news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:43:16.207Z",
+      "detail": "Compiled specific warnings from health officials, doctor advisories, a concrete patient incident, and an analysis of broader disease threat trends from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:46:58.334Z",
+      "detail": "Wove localized health warnings with a critical patient case and systemic public health context to highlight an urgent holiday risk."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 5/10, Accuracy: 8/10, Readability: FK 16.7",
+      "timestamp": "2026-07-04T05:50:28.627Z"
+    }
+  ]
+}

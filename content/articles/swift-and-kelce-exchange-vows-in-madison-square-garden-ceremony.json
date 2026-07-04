@@ -1,0 +1,53 @@
+{
+  "slug": "swift-and-kelce-exchange-vows-in-madison-square-garden-ceremony",
+  "headline": "Swift and Kelce Exchange Vows in Madison Square Garden Ceremony",
+  "deck": "The highly anticipated union of music superstar Taylor Swift and NFL tight end Travis Kelce unfolded in an elaborate ceremony, captivating a global audience.",
+  "category": "CULTURE",
+  "body": [
+    "Taylor Swift and Travis Kelce, two titans of entertainment and sports, have officially married. The highly anticipated union took place in a remarkably elaborate ceremony at New York City's iconic Madison Square Garden. This marriage marks a significant milestone, solidifying the intersection of contemporary pop culture and professional sports.",
+    "The unique occasion saw comedian Adam Sandler officiate the vows, adding an unexpected, yet fitting, touch of celebrity to the proceedings. Swift herself graced the event in a Dior gown, a creation by designer Jonathan Anderson, underscoring the high-fashion sensibilities woven into the day. These details, while officially confirmed, only hint at the overall grandeur.",
+    "Reports from NBC New York confirm the ceremony was indeed elaborate, a spectacle befitting two of the world's most visible figures. The meticulous planning behind the event was further evidenced by a permit obtained by AP News, which reportedly laid out the schedule for the highly anticipated nuptials. Such official documentation offers a rare glimpse into the logistical scale of such a high-profile celebration.",
+    "Their relationship has been a subject of intense public and media scrutiny since it first became known, with every appearance and interaction meticulously chronicled. This constant spotlight has transformed their personal journey into a shared cultural narrative, watched by millions around the globe. The wedding culminates months of speculation, meeting the fervent curiosity of fans and media alike.",
+    "Despite the public nature of their romance, Men's Journal notes that some wedding details remain a surprise, preserving a touch of intimacy amidst the grandeur. This blend of public spectacle and private moments is characteristic of how both Swift and Kelce have navigated their high-profile lives. It allows for a narrative that is both accessible and retains an air of mystique.",
+    "The marriage of Taylor Swift and Travis Kelce is more than a celebrity wedding; it is a major cultural event that further solidifies their positions as two of the most influential and widely followed figures of their generation. Their union will undoubtedly continue to generate extensive media coverage, capturing the collective attention of millions. It marks a definitive moment in the ongoing story of how entertainment and professional sports intersect on the global stage."
+  ],
+  "publishedAt": "2026-07-04T05:47:20.656Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "CBS News",
+    "Men's Journal",
+    "The New York Times",
+    "NBC New York",
+    "AP News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTlOYk1SRUpLaHpQOTc0SGpSQThtclQzRDRkVktKWUJUbW0yelNuVTVJSVR1VWFnVTVEWlpYdEpKOGt2RGhva2VORy1FYW5Ra3BzME41b2g3NUFoUHVVODYtRy10bW5YUWJoTnBPdVVlVktvVlVfajhSalYtQXZ4NVRuWXU0UXZmMGJhY25sNmMwOXhKbVByaQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:39:24.627Z",
+      "detail": "Aggregated reports from major news outlets detailing the wedding of Taylor Swift and Travis Kelce."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:43:16.207Z",
+      "detail": "Compiled key facts including the marriage confirmation, ceremony location, officiant, and dress details from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:47:20.656Z",
+      "detail": "Wove together confirmed event details with contextual background to present a comprehensive account of the high-profile celebrity union."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the wedding, including participants, location, attire, and official documentation, were directly verified against the provided fact sheet.",
+      "timestamp": "2026-07-04T05:50:47.631Z"
+    }
+  ]
+}

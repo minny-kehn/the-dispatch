@@ -1,0 +1,52 @@
+{
+  "slug": "kyiv-suffers-deadliest-russian-attack-this-year",
+  "headline": "Kyiv Suffers Deadliest Russian Attack This Year",
+  "deck": "The Ukrainian capital is grappling with immense loss after a Russian bombardment claimed at least 21 lives and left widespread destruction, marking one of the war’s most significant strikes.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Kyiv is enduring the profound aftermath of a Russian attack described as the deadliest the city has faced this year. The bombardment has cast a harsh spotlight on the enduring vulnerability of the Ukrainian capital, pushing an already resilient population closer to the brink. This assault marks one of the largest strikes seen throughout the ongoing conflict, painting a grim picture of escalating tensions.",
+    "Rescuers are tirelessly sifting through the shattered remnants of buildings across Kyiv, a stark testament to the ferocity of the assault. The city is cloaked in mourning, with its residents grappling with the sudden, devastating loss. This latest aggression underscores the relentless human cost of the protracted conflict.",
+    "The scale of the tragedy is underscored by the grim casualty count, with at least 21 people confirmed killed in the bombardment, according to reports from Defense News. Each life lost represents an irreplaceable void, deepening the collective sorrow that grips the community. The sheer number of fatalities makes this a particularly somber moment for the nation.",
+    "Beyond the immediate loss of life, the attack has also inflicted irreversible damage on the city's cultural fabric. One Ukrainian family, for instance, lost treasured cultural items when their home was struck. Such incidents highlight the broader, often overlooked, destruction that extends beyond physical structures and human lives, eroding the very essence of heritage.",
+    "These harrowing events unfold as analysts continue to monitor the shifting dynamics of the conflict. The Institute for the Study of War, for example, published its 'Russian Offensive Campaign Assessment' on July 2, 2026, providing ongoing insights into military developments. Such assessments continually chart the heavy toll the war continues to exact on Ukraine.",
+    "As Kyiv begins the arduous process of recovery and remembrance, the latest attack serves as a somber reminder of the ongoing struggle and the urgent need for lasting peace. The international community watches closely as the city grapples with this fresh wound, underscoring the enduring humanitarian stakes of the conflict. The path forward remains fraught with challenges, demanding sustained attention and resolve."
+  ],
+  "publishedAt": "2026-07-04T05:44:50.545Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Reuters",
+    "CNN",
+    "Institute for the Study of War",
+    "Defense News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU1hNlBDTURsc1NhcHNqODU1dTRDdnVLOUladWNPbTBGTUVVaDlzbFRVUU94SVVuM2w2c3E3Zjk2b0hUSVEtZk5tSkxoVzRRWDNsWjd0NmE0V2J6NnJGWXhoYzlETDdfT3VGaGtLaWhfUlFPc3JPYkM5djFBM3ZuTFZCYXVpcUpKcUt2M1ZueEpEWm9SYWNFdzE0Z2FCek1Qek9JM250M1hUUkNQTHVIUksybURObjJT?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:39:24.627Z",
+      "detail": "Aggregated news reports from Reuters, CNN, Institute for the Study of War, and Defense News on a significant Russian attack."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:43:16.207Z",
+      "detail": "Compiled details on the attack's deadliness, casualty count, rescue efforts, and cultural impact from 4 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:44:50.545Z",
+      "detail": "Wove immediate facts of the attack with its human impact and broader context to highlight the ongoing intensity of the conflict."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 3/10, Accuracy: 10/10, Readability: FK 13.2",
+      "timestamp": "2026-07-04T05:48:57.331Z"
+    }
+  ]
+}

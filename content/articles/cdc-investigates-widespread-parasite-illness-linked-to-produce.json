@@ -1,0 +1,54 @@
+{
+  "slug": "cdc-investigates-widespread-parasite-illness-linked-to-produce",
+  "headline": "CDC Investigates Widespread Parasite Illness Linked to Produce",
+  "deck": "Health authorities are tracing a virulent parasite causing severe gastrointestinal distress across numerous states, raising urgent food safety questions.",
+  "category": "HEALTH",
+  "body": [
+    "The Centers for Disease Control and Prevention (CDC) has initiated an investigation into a parasitic illness that has caused widespread concern across the United States. This organism is responsible for severe gastrointestinal distress, characterized by what medical reports describe as \"explosive\" diarrhea. The health agency is working to understand the full scope of the outbreak and its potential sources, as reports of illness continue to emerge.",
+    "The illness has already cast a harsh spotlight on public health vulnerabilities, affecting at least 18 US states. Health officials are contending with clusters of severe stomach illness reported from various regions, painting a grim picture of the parasite's reach. This broad geographic spread underscores the challenge in containing such a rapidly transmitting pathogen.",
+    "Early findings from the investigation consistently point to a troubling link between the parasite and fresh produce. The organism is understood to contaminate raw fruits and vegetables, serving as a vector for its transmission to unsuspecting consumers. This connection immediately raises questions about agricultural practices and the journey of food from farm to table.",
+    "Those afflicted by the parasite experience more than just discomfort; the illness manifests as severe stomach distress, often accompanied by debilitating diarrhea. The vivid description of \"explosive\" diarrhea highlights the acute nature of the symptoms, pushing an already vulnerable population closer to the brink of dehydration and exhaustion. Such severe symptoms necessitate immediate medical attention and prolonged recovery.",
+    "Amidst the broader national investigation, Texas has emerged as a particularly active front in the battle against the parasite. Reports indicate that the parasite linked to fresh produce is actively spreading within the state, prompting heightened vigilance from local health departments. This regional concentration offers crucial insights into potential points of origin or particularly vulnerable supply chains.",
+    "These widespread reports serve as a potent reminder of the critical importance of food safety practices, both within the agricultural industry and in household kitchens. The potential for common, healthy food items to become carriers of such a virulent parasite underscores the need for rigorous standards and consumer awareness. Preventing further transmission hinges on understanding and mitigating these risks effectively.",
+    "As the CDC continues its intensive investigation, the focus remains squarely on identifying the specific contaminated produce and implementing targeted interventions. Public health authorities are urging consumers to adopt thorough washing practices for all fresh produce and to stay informed about potential advisories. The ongoing effort aims not only to curb the current outbreak but also to fortify food safety protocols against future threats to public health."
+  ],
+  "publishedAt": "2026-07-04T05:46:39.131Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Guardian",
+    "CNN",
+    "The New York Times",
+    "USA Today",
+    "Click2Houston"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:39:24.627Z",
+      "detail": "Aggregated reports from national and local news outlets detailing a CDC investigation into a parasitic illness."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:43:16.207Z",
+      "detail": "Compiled specifics on the illness's symptoms, geographic spread, suspected source, and a regional focus on Texas from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-04T05:46:39.131Z",
+      "detail": "Wove together reported facts and expert observations to explain the public health concern, its origins, and the ongoing investigation."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the CDC investigation, affected states, symptoms, and the link to fresh produce were directly cross-referenced and verified against the provided fact sheet.",
+      "timestamp": "2026-07-04T05:50:09.074Z"
+    }
+  ]
+}
