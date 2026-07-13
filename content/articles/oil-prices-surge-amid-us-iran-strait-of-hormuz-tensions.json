@@ -1,0 +1,52 @@
+{
+  "slug": "oil-prices-surge-amid-us-iran-strait-of-hormuz-tensions",
+  "headline": "Oil Prices Surge Amid US-Iran Strait of Hormuz Tensions",
+  "deck": "Global energy markets react sharply as military exchanges between Washington and Tehran threaten critical oil shipments through the strategic Strait of Hormuz.",
+  "category": "FINANCE",
+  "body": [
+    "Oil prices have experienced a significant jump, with some reports indicating a 4% increase, following military actions between the United States and Iran. These exchanges of attacks or strikes are centered around the strategically vital Strait of Hormuz, a critical chokepoint for global oil shipments. The immediate impact is a fresh wave of uncertainty for international markets and a direct challenge to global energy stability.",
+    "This substantial 4% surge in oil prices reflects the market's acute sensitivity to geopolitical instability in the Middle East. Reports from multiple financial and news outlets confirm these sharp increases, painting a clear picture of investor anxiety. The underlying cause is a series of attacks or strikes traded between the two nations, pushing an already volatile region closer to the brink of wider conflict.",
+    "At the heart of these escalating tensions lies the Strait of Hormuz, a narrow yet indispensable maritime chokepoint connecting the Persian Gulf to the open ocean. This waterway facilitates a substantial portion of the world's seaborne oil shipments, making any disruption here a matter of grave global concern. New military strikes in the region now explicitly threaten the safe passage of these vital cargoes, raising fears of supply interruptions.",
+    "The heightened risk has not been confined to oil markets alone; US Futures also experienced a dip in the wake of fresh Iranian military actions. This broader market reaction underscores the interconnectedness of global finance with Middle Eastern stability. The underlying struggle for control over the Strait of Hormuz, as identified by various observers, further complicates the economic outlook for nations reliant on these energy flows.",
+    "The ongoing military exchanges between Washington and Tehran, centered on this critical maritime artery, continue to cast a long shadow over global energy markets. The immediate financial ripple effects, including elevated fuel costs for consumers and businesses, highlight the direct economic consequences of such geopolitical friction. The international community now watches closely for developments that could either stabilize or further destabilize this economically vital region, with profound implications for global trade and daily life."
+  ],
+  "publishedAt": "2026-07-13T05:35:38.148Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "Al Jazeera",
+    "The New York Times",
+    "Reuters",
+    "Bloomberg.com",
+    "CNBC"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-13T05:28:52.337Z",
+      "detail": "Aggregated real-time market data, geopolitical analyses, and direct event reports from major financial and news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-13T05:32:47.070Z",
+      "detail": "Compiled oil price movements, specific percentage increases, and direct attributions of market shifts to US-Iran military actions and Strait of Hormuz threats from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-13T05:35:38.148Z",
+      "detail": "Wove market volatility with geopolitical developments to illustrate the immediate economic impact of Middle Eastern tensions on global oil supply."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual",
+      "timestamp": "2026-07-13T05:39:26.424Z"
+    }
+  ]
+}
