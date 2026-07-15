@@ -1,0 +1,54 @@
+{
+  "slug": "decade-old-flaw-undermines-microsoft-secure-boot",
+  "headline": "Decade-Old Flaw Undermines Microsoft Secure Boot",
+  "deck": "A critical security feature designed to protect computers from malicious software has reportedly been compromised for ten years without detection, exposing a significant vulnerability in device integrity.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "A fundamental security mechanism designed to safeguard devices at their most vulnerable point, Microsoft's Secure Boot, has reportedly been operating with a critical flaw for a decade. This significant breakage went entirely unnoticed, leaving countless systems potentially exposed to sophisticated low-level attacks.",
+    "Secure Boot is engineered to prevent malicious software from loading during a device's startup process, acting as a digital gatekeeper for the operating system. Its long-term compromise casts a harsh spotlight on the persistent challenges of maintaining foundational security in an ever-evolving threat landscape.",
+    "The vulnerability stems from old, forgotten UEFI (Unified Extensible Firmware Interface) shims that have been undermining devices' Secure Boot protections. These components, some of which are signed by Microsoft itself, were overlooked for years, creating a backdoor for potential attackers.",
+    "Researchers at ESET Research recently brought this decade-old oversight to light, revealing the pervasive nature of the flaw. Their investigation pinpointed the specific components that could be leveraged to bypass Secure Boot with alarming ease.",
+    "Specifically, the vulnerability involves a collection of Microsoft-signed Linux UEFI shims, with 11 such old shims implicated in the compromise. Attackers could exploit these forgotten digital keys to circumvent Secure Boot's safeguards, allowing unauthorized code to execute before the operating system even begins to load.",
+    "The implications of this long-standing vulnerability paint a grim picture for system integrity. The ability to bypass Secure Boot could enable persistent, stealthy malware to embed itself deep within a device's firmware, making it exceptionally difficult to detect and remove through conventional means.",
+    "The lingering presence of these vulnerabilities underscores the perpetual cat-and-mouse game between system designers and those seeking to exploit fundamental weaknesses. This revelation demands renewed vigilance from both developers and users to fortify the digital infrastructure against such deeply embedded threats."
+  ],
+  "publishedAt": "2026-07-15T04:47:59.184Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Ars Technica",
+    "WeLiveSecurity",
+    "The Hacker News",
+    "SC Media",
+    "The Manila Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDdNWDRqSzRtV1JidlFxOWU2Yi15SXU0bnB4UHMwZ1hNenBJZXlGU2VDSnBOWWpBeGl4SUpIRHpEOGVFajRWRW83UF9SSFBSeGZ2LTZwM2t2Nmk2MExadHhoNnA5UHAzQmMyTF9ZNnlBUi1tOG5ZbEJ1eWxvblJiSExJa2R4TkFaQmlpTE14Nkhnc2JSS0FHelhKRmdURm03eHl6TWw2N2w?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-15T04:43:01.027Z",
+      "detail": "ESET Research discovered the vulnerable UEFI shims."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-15T04:47:03.582Z",
+      "detail": "Compiled details on vulnerable UEFI shims, their decade-long unnoticed status, and the number of implicated shims from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-15T04:47:59.184Z",
+      "detail": "Wove together technical details of the Secure Boot vulnerability with its prolonged impact and the mechanism of its exploitation to explain the threat to system integrity."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Technical claims regarding Microsoft's Secure Boot vulnerability, its decade-long duration, the role of UEFI shims, and ESET Research's discovery were meticulously cross-referenced with the provided fact sheet, and the specific number of implicated shims was verified.",
+      "timestamp": "2026-07-15T04:52:09.641Z"
+    }
+  ]
+}
