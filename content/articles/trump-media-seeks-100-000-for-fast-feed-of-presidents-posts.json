@@ -1,0 +1,55 @@
+{
+  "slug": "trump-media-seeks-100-000-for-fast-feed-of-presidents-posts",
+  "headline": "Trump Media Seeks $100,000 for Fast Feed of President's Posts",
+  "deck": "Trump Media is reportedly pitching a premium service to Wall Street traders, offering early access to the U.S. president's social media posts for a substantial monthly fee, prompting significant ethical questions.",
+  "category": "FINANCE",
+  "body": [
+    "Trump Media, the company behind the Truth Social platform, has reportedly approached Wall Street firms with an offer of a $100,000 monthly fee for the fastest possible feed of the U.S. president's posts. This initiative aims to monetize direct access to a prominent political figure's communications, creating a new and potentially lucrative revenue stream for the company.",
+    "The proposed service would grant Wall Street traders an early look at posts from the president's Truth Social account, specifically targeting those deemed 'market-moving.' Such rapid dissemination of information could provide a competitive edge in fast-paced financial markets, where even seconds can influence trading decisions and investment strategies.",
+    "Analysts suggest that paying for this expedited access to presidential communications could indeed raise significant capital for Trump Media. In an environment where political statements often have immediate economic repercussions, the value of being first to receive such information is considerable for market participants.",
+    "However, this arrangement immediately casts a harsh spotlight on a range of ethical issues. The prospect of a company directly profiting from early access to a political leader's public statements, particularly during a presidential term, blurs the traditional lines between political discourse and private financial gain.",
+    "Sources indicate that the situation surrounding early access to these posts highlights persistent conflicts of interest around the former president. The potential for 'market-moving' information to be selectively distributed or monetized raises serious questions about fairness, transparency, and the integrity of both political and financial systems.",
+    "The implications extend beyond mere revenue, touching upon the very dynamics of market fairness. If certain traders can pay for an information advantage derived directly from a political leader's communications, it could be perceived as creating an uneven playing field, potentially undermining public confidence in market integrity.",
+    "This proposed service ultimately forces a conversation about the intersection of power, information, and profit in the digital age. The monetization of a president's public statements through a private company opens new avenues for financial influence and raises profound questions about the ethical boundaries of political communication.",
+    "As this offer circulates on Wall Street, the financial sector and the broader public will undoubtedly scrutinize the potential for market distortion and the erosion of public trust. The unfolding debate will shape perceptions of how political figures' digital footprints can and should be managed in an increasingly interconnected world."
+  ],
+  "publishedAt": "2026-07-19T05:20:02.417Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Business",
+    "CNBC",
+    "AP News",
+    "The Hill",
+    "BBC",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-19T05:13:53.872Z",
+      "detail": "Aggregated business reports and news analyses from major financial and news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-19T05:17:35.523Z",
+      "detail": "Compiled claims and analyses regarding Trump Media's $100,000 monthly fee pitch, early access to posts, and associated ethical concerns from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-19T05:20:02.417Z",
+      "detail": "Wove claims of a premium service with analyses of revenue potential and ethical issues to examine the intersection of political communication and financial markets."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 7/10, Accuracy: 7/10)",
+      "timestamp": "2026-07-19T05:23:47.687Z"
+    }
+  ]
+}
