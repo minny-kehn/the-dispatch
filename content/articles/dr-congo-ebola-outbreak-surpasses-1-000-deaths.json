@@ -1,0 +1,55 @@
+{
+  "slug": "dr-congo-ebola-outbreak-surpasses-1-000-deaths",
+  "headline": "DR Congo Ebola Outbreak Surpasses 1,000 Deaths",
+  "deck": "A rapidly escalating Ebola outbreak in the Democratic Republic of Congo has claimed over a thousand lives, spreading with unprecedented speed amidst challenging conditions for healthcare workers and vulnerable populations.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with an Ebola outbreak that has now surpassed a devastating milestone, with the death toll exceeding 1,000 lives. This current crisis is unfolding with alarming speed, demonstrating a pace of transmission that has outstripped even the worst on record. The relentless spread casts a harsh spotlight on the profound challenges facing public health efforts in the region.",
+    "The virus is particularly insidious in its reach, actively stalking crowded camps where vulnerable populations reside. These densely populated environments present fertile ground for rapid contagion, pushing an already fragile situation closer to the brink. Containing such a virulent pathogen within these transient communities presents a formidable task for health authorities.",
+    "\"We Will All Die From Ebola Here,\" one desperate voice was quoted by The New York Times, painting a grim picture of the despair gripping affected communities.",
+    "Meanwhile, the very individuals on the front lines, the health workers in the DRC, are experiencing profound hardship as they battle the spreading disease. These dedicated professionals often face immense personal risk, yet many are not receiving their due. The lack of basic remuneration significantly complicates the already arduous task of containment.",
+    "Al Jazeera reported on the dire circumstances, quoting a health worker simply stating, \"There’s no salary.\"",
+    "This combination of rapid spread, vulnerable populations, and a struggling healthcare workforce creates an environment of profound uncertainty. The sustained effort required to bring the outbreak under control is immense, with no clear end in sight. The emotional and physical toll on those fighting the disease, and those living under its shadow, is immeasurable.",
+    "Reflecting on the long-term impact, a doctor expressed profound uncertainty, with The New Yorker quoting the stark sentiment: \"No One Knows When It Will End.\"",
+    "The ongoing Ebola emergency in the DRC continues to test the limits of global public health response and regional resilience. With the virus spreading faster than any previous major outbreak and critical support for health workers faltering, the coming weeks will be crucial in determining whether this complex crisis can be contained or if it will further strain the region's already overstretched health infrastructure."
+  ],
+  "publishedAt": "2026-07-24T05:21:15.441Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "ABC News",
+    "The New York Times",
+    "Al Jazeera",
+    "NPR",
+    "The New Yorker"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2pEVE1hRS0xT0RlNlZ2dGtGWVc1WjdZMTNhWk9fOTJ0VFVGc1Z0NU9DNnVfYnA3ZXdMcVQ5XzdQOWZjbWZRdUk3MTl1NTNHRWJVT3hYUkQwYUtvdENFX2tNd1JnOWlua0NlRWRpUzhjNUZGSUFrejhKaHhDYnlmYUgwRE0wWVZCdGYwVGYyY0huUTdKSVdXMVRTZkJXcm12M0o2RtIBqgFBVV95cUxORk5tMFp0VnAyUDdhTTJMcTV0aXlwaENWQWJXZldXMGNjQVRRWFotTzFjaWlhWDhzX1hSV19OY09WcElUYnp6TVg1NGVkVlJ2UEpxbnpsU2daWEVNNC1RMlNZczBpNjhMU3VmSnYwTUIydUNUR09uNE5PLUlmOUlTeGxhUkg1VkphbzF3ZW9VMFBpZXJRSFctQ3FDRXhmUVZMN0REQUt3WmZmUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-24T05:13:49.380Z",
+      "detail": "Aggregated reports from major news outlets detailing the Ebola outbreak's progression and impact."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-24T05:17:50.194Z",
+      "detail": "Compiled death toll statistics, spread rates, and reports on healthcare worker conditions from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-24T05:21:15.441Z",
+      "detail": "Wove together epidemiological data with ground-level reports on human impact and healthcare challenges to illustrate the escalating crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Death toll and spread rate statistics verified, direct quotes from The New York Times, Al Jazeera, and The New Yorker cross-referenced, and claims regarding crowded camps and health worker hardship confirmed against the fact sheet.",
+      "timestamp": "2026-07-24T05:25:07.843Z"
+    }
+  ]
+}
