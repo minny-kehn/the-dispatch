@@ -1,0 +1,53 @@
+{
+  "slug": "rabid-bat-lands-in-vista-restaurant-sparks-health-warning",
+  "headline": "Rabid Bat Lands in Vista Restaurant, Sparks Health Warning",
+  "deck": "Southern California health officials have issued a dire alert after a rabid bat made contact with unsuspecting patrons at a local eatery, underscoring the severe risks of untreated rabies.",
+  "category": "HEALTH",
+  "body": [
+    "Health officials in Southern California have issued an urgent and dire warning to restaurant guests who may have been exposed to rabies following a startling incident. A rabid bat landed on a table at a restaurant in Vista, disrupting a family's lunch and prompting significant public health concerns. The alert underscores the critical need for immediate action for anyone potentially exposed to this dangerous disease.",
+    "The unsettling event unfolded as a family was enjoying their meal at the Vista establishment. The rabid animal unexpectedly descended, startling patrons and making direct contact with a dining table. Such an encounter casts a harsh spotlight on the unseen risks that can emerge in public spaces.",
+    "These reports come as authorities describe the public health warning as 'extremely serious,' reflecting the gravity of potential rabies exposure. The disease, if left untreated, is almost invariably fatal, making prompt medical intervention a matter of life and death. Officials are working diligently to identify and inform all who might have been affected by the incident.",
+    "Compounding the concern, the rabid bat was reportedly found near a zoo restaurant. While the exact proximity and potential for broader interaction remain under investigation, this detail raises additional questions about the bat's movements and the areas it may have traversed before entering the dining area.",
+    "The inherent danger of rabies lies in its neurological impact, with symptoms often manifesting only after the virus has progressed significantly. This incident highlights the critical importance of immediate medical attention for anyone who believes they may have come into contact with the rabid animal, regardless of how minor the interaction seemed.",
+    "As health authorities continue their efforts to trace potential exposures, the incident reinforces the ongoing need for public awareness and vigilance against zoonotic diseases. The immediate priority remains ensuring that all at-risk individuals receive the necessary post-exposure prophylaxis, a crucial step to avert what could otherwise be a tragic and preventable outcome. This swift action is vital in safeguarding community health."
+  ],
+  "publishedAt": "2026-07-25T05:06:51.271Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Yahoo",
+    "San Diego County News Center",
+    "NBC 7 San Diego",
+    "Fox News",
+    "People.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREpLTndOYU9xVUxJb3hGNlJQSmxLWjZDQU82M0E4U09vTjBDT2ZJaHNMQ0psM09PUW9QZ1d5SEc1eXBSSG5ZLUg2YWhQOG1kZTlNek1jaEN2OGlxS1RYUHVqOGwwTENQR1JEMDZrT2VZb3NkNExCNWRBd3lfZTVYYjI3QXltdllZM3M2SHhLVG5Vcnc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-25T04:58:57.472Z",
+      "detail": "Aggregated news reports and public health advisories from Google News, Yahoo, San Diego County News Center, NBC 7 San Diego, Fox News, and People.com."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-25T05:02:52.324Z",
+      "detail": "Compiled event details, public health warnings, and the bat's location from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-25T05:06:51.271Z",
+      "detail": "Wove immediate incident facts with public health implications to emphasize the severity of rabies exposure and the necessity of rapid medical intervention."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Public health warning details, incident location, and official",
+      "timestamp": "2026-07-25T05:10:00.058Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "international-criminal-court-ousts-prosecutor-khan-over-misconduct-claims",
+  "headline": "International Criminal Court Ousts Prosecutor Khan Over Misconduct Claims",
+  "deck": "Karim Khan, the high-profile chief prosecutor of the International Criminal Court, has been removed from his post following a vote by member states amidst serious allegations of sexual misconduct.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "The International Criminal Court has taken the extraordinary step of dismissing its chief prosecutor, Karim Khan, a move that sends tremors through the world of international justice. Member states of the ICC voted to remove Khan from his pivotal role, a decision directly linked to a series of sexual misconduct claims that have cast a harsh spotlight on the institution. This sudden departure of a figure at the apex of global legal accountability raises immediate questions about the integrity and operational stability of the court.",
+    "Reports from multiple international news outlets confirm Khan’s dismissal is tied to allegations of sexual misconduct, with some specifying these claims as 'political' sex abuse. The nature of these allegations, surfacing against a prosecutor responsible for upholding the highest standards of international law, presents a profound challenge to the court's moral authority. The swift action by ICC member states reflects the gravity with which these accusations are being treated.",
+    "Khan's tenure as chief prosecutor was already marked by significant international attention and controversy. He was the prosecutor who sought an arrest warrant for Israeli Prime Minister Benjamin Netanyahu, an action that fueled a 'Mamdani arrest threat' and ignited fierce debate across diplomatic circles. This highly scrutinized period underscored the immense pressures and political sensitivities inherent in the ICC's work.",
+    "The removal of such a high-profile prosecutor under these circumstances inevitably impacts the credibility of the International Criminal Court itself. An institution dedicated to prosecuting the most egregious international crimes must maintain an unimpeachable standard of conduct among its leadership. This incident risks undermining public and state confidence in the court’s ability to administer justice impartially and ethically.",
+    "Beyond the immediate fallout for Khan, this event pushes broader questions about accountability within international bodies to the forefront. When leaders of organizations tasked with global oversight face such serious personal allegations, it highlights the critical need for robust internal mechanisms to address misconduct. The focus now shifts to how the ICC will navigate this challenge and reinforce its commitment to ethical governance.",
+    "Reflecting on the long-term impact, Khan’s dismissal could significantly influence ongoing and future investigations conducted by the ICC, particularly those that have recently drawn intense global scrutiny. The path forward for the court will involve not only appointing a new prosecutor but also meticulously rebuilding trust and reaffirming its foundational principles in a global landscape already wary of institutional failings. The international community will be watching closely as the ICC endeavors to move beyond this tumultuous chapter."
+  ],
+  "publishedAt": "2026-07-25T05:04:02.026Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Al Jazeera",
+    "Fox News",
+    "BBC",
+    "The Guardian",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2tkckxBak5lVkgzYnBjcTNWUnVjaHNWbWhLc3J3U2lHWTVQUF85YXhSU2JMZ1RSYWs5TDdETWViTFVZbld5SWJfbTZ6T1EwaFdpZDlVd21aMnVELTQ5WWZmZWt4bjlnV0JvQWhtYmszdW5aTy1lQ1NmaXItdzRjZ1ZOSk5scktoTGtRMXVSa1BwYk5xTXNCOGJVU21DRS1DMEhPUjh3UEtrc3duX210ZdIBtgFBVV95cUxQUFNYOUJEZFNIQ1VMaDFHeWVVa2VlSDIyWVNhTi1ZUU9FYW5aaEhhbUU4VlZWVXZSY3FWRFhJYlg5MTZ6NHpqX1pIcUVaM2V5V3Q1YldhNzg5OElSZzZaRWxNNjdSWTkwN1hzV2FpV1VIQWVSekNkNUJrRWQzcWExTEtkZHhrcTl0QUlWODVGY0dYSDA2V3psNjlCTmM3MTZoUktLV1NZdlJVYWZyTHNxWlRmbnN1UQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-25T04:58:57.472Z",
+      "detail": "Aggregated reports from leading international news organizations regarding the dismissal of ICC Prosecutor Karim Khan."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-25T05:02:52.324Z",
+      "detail": "Compiled details on Khan's removal, the sexual misconduct allegations, and the vote by ICC member states from multiple reputable sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-25T05:04:02.026Z",
+      "detail": "Wove together immediate news of Khan's dismissal with his controversial tenure and the broader implications for the ICC's integrity and future investigations."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Dismissal event and associated claims, including specific allegations and past controversies, were verified against provided key facts, with no discrepancies or fabrications found.",
+      "timestamp": "2026-07-25T05:08:28.102Z"
+    }
+  ]
+}
