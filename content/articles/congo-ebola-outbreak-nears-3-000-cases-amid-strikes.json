@@ -1,0 +1,56 @@
+{
+  "slug": "congo-ebola-outbreak-nears-3-000-cases-amid-strikes",
+  "headline": "Congo Ebola Outbreak Nears 3,000 Cases Amid Strikes",
+  "deck": "The Democratic Republic of Congo grapples with a rapidly escalating Ebola epidemic, marked by a soaring death toll and critical challenges posed by health worker strikes and crowded living conditions.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is facing a harrowing public health emergency as its latest Ebola outbreak continues its relentless advance, with cases now nearing 3,000. This grim tally is compounded by a death toll that has tragically surpassed 1,300, painting a devastating picture of the virus's impact on communities already struggling with instability. The sheer speed of this contagion has made it particularly alarming, spreading faster than even the worst outbreaks on record.",
+    "The current crisis has seen the Ebola virus demonstrate an unprecedented velocity, establishing itself as a formidable adversary in the nation's eastern provinces. These escalating numbers confirm a deeply troubling trajectory, reflecting a public health system under immense strain and a population increasingly vulnerable to its deadly reach. Each new case and every reported death underscores the urgent need for a robust and sustained international response.",
+    "Adding to the complexity, the virus is described by observers as 'spreading like a wildfire' across the region. This evocative phrase captures the terrifying reality on the ground, where containment efforts are continuously challenged by the swift and often unseen movement of the disease through dense populations. The highly contagious nature of Ebola, coupled with these rapid transmission rates, makes breaking the chain of infection an arduous task.",
+    "A significant factor intensifying this rapid spread is the virus's presence in crowded camps, where thousands of displaced individuals seek refuge. These congested environments, often lacking adequate sanitation and healthcare infrastructure, become fertile ground for the pathogen, pushing an already vulnerable population closer to the brink. The close proximity of residents within these makeshift shelters inadvertently facilitates the virus's insidious progression.",
+    "Further complicating the response, more health workers have resorted to strikes across the affected areas. These industrial actions, often driven by concerns over safety, pay, and the overwhelming demands of the crisis, severely impede the delivery of critical care and public health interventions. The absence of these frontline responders creates dangerous gaps in detection, treatment, and community engagement, allowing the virus more room to maneuver.",
+    "The profound fear gripping affected communities is palpable, a heavy cloud hanging over daily life. The constant threat of infection, coupled with the loss of loved ones, has created an atmosphere of deep despair among residents. The raw anguish is perhaps best encapsulated by a desperate cry reported from the region:",
+    "‘We Will All Die From Ebola Here’",
+    "This dire sentiment reflects the immense obstacles to containment, which are not merely clinical but deeply social and logistical. The combination of armed conflict, community mistrust, and the sheer geographic spread of the virus makes traditional public health strategies incredibly difficult to implement effectively. Without full community cooperation and a secure environment, halting Ebola's advance remains a formidable, uphill battle.",
+    "The ongoing struggle in the Democratic Republic of Congo serves as a stark reminder of the fragile balance between human health and societal stability. Addressing this escalating crisis will necessitate not only immediate medical intervention but also sustained investment in local healthcare infrastructure, robust community engagement, and concerted efforts to resolve the underlying drivers of insecurity. The world watches, hoping for a turning point in this devastating epidemic."
+  ],
+  "publishedAt": "2026-07-26T05:31:09.593Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "ABC News",
+    "Al Jazeera",
+    "NPR",
+    "The New York Times",
+    "AP News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUNoRHhUbHo5OGgwaEw4SEhSUU96UkVEOE5YQlY4UVQ1anVOaFdKd2ROdzV5QXZsS2tQR0xMckV2dVJEbjB1Qi1WSjNLd01yMG9jQWZCMU1TRkduakZfSC14NnhNMW9CNW13Rkk2MFJndENpSUN6Zk9yNkRhQ1VOUmNCX240akdiNkxaNWl0QXljLU5jV3BGOWlGa1NvMkswRjFPamJJLXQ5TW000gGyAUFVX3lxTE9ZR0UyeVcyNmRqSW1hRmtQNGF6X3lTTS10YnR1LS13Wm9jcW5tTlRTTWhOTEFnWXBzRnV1YVRNSURqRF9pdHkwbGxXa2ZsSUVFdURINmxtd0YydXJydF9NRWpjc0FaX0JmWGtST3ZTdHVQVERCTjR5QllESHhrU1R4ZnhjWTM3WjV2Tm1yTWIwMlRTY2ZvZ1ktNjJuMTh5ck1lcFJobUl5MHRjVHducTZiYXc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:24:03.244Z",
+      "detail": "Aggregated reports from major news outlets including ABC News, Al Jazeera, NPR, The New York Times, AP News, and Google News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:27:56.776Z",
+      "detail": "Compiled Ebola case numbers, death tolls, quotes on the virus's spread, and contextual factors such as health worker strikes and crowded camps from six distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:31:09.593Z",
+      "detail": "Wove epidemiological data with on-the-ground reports and expert analysis to detail the escalating Ebola crisis and its multifaceted challenges in the Democratic Republic of Congo."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Ebola case numbers, death toll, health worker strike information, and specific quotes were meticulously cross-referenced with the provided fact sheet, confirming high accuracy.",
+      "timestamp": "2026-07-26T05:34:49.020Z"
+    }
+  ]
+}

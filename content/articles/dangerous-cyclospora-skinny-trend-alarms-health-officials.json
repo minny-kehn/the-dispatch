@@ -1,0 +1,54 @@
+{
+  "slug": "dangerous-cyclospora-skinny-trend-alarms-health-officials",
+  "headline": "Dangerous 'Cyclospora Skinny' Trend Alarms Health Officials",
+  "deck": "A concerning online trend, where individuals seek illness for weight loss, highlights the severe health consequences of social media-driven body image obsessions.",
+  "category": "HEALTH",
+  "body": [
+    "A disturbing new phenomenon, dubbed the 'Cyclospora skinny' trend, is casting a harsh spotlight on the lengths some individuals are willing to go for extreme weight loss. Doctors across the United States are issuing urgent warnings about this perilous behavior, which sees some actively attempting to contract serious gastrointestinal illnesses. This alarming development underscores a deeply troubling intersection of body image pressures and the pervasive influence of social media.",
+    "On various social media platforms, jokes about shedding pounds through 'explosive diarrhea' have become unsettlingly prevalent. These casual, often viral, posts have the insidious effect of normalizing severe and unhealthy methods of weight reduction. Such content subtly shapes perceptions, making extreme measures seem like a permissible, if not humorous, path to thinness.",
+    "This normalization is not happening in a vacuum; it resonates with and amplifies an already entrenched societal obsession with thinness. The constant barrage of idealized body images online contributes to immense pressure, particularly among younger audiences, to conform to unrealistic aesthetic standards. This relentless pursuit often eclipses concerns for genuine health and well-being.",
+    "The gravity of the situation intensifies with reports indicating that some individuals are intentionally trying to contract illnesses like Cyclospora, a parasitic infection known for causing severe and prolonged bouts of diarrhea. Health professionals are deeply concerned by this deliberate self-harm, warning of the significant health complications that extend far beyond temporary weight loss, including dehydration, nutrient malabsorption, and long-term gastrointestinal issues.",
+    "These dangerous trends emerge against a backdrop of increasing Cyclospora outbreaks across the United States. While the exact correlation with intentional exposure is difficult to quantify, the rise in reported cases paints a grim picture for public health authorities already grappling with containing foodborne illnesses. This surge places additional strain on healthcare systems and public health resources.",
+    "Meanwhile, certain social media influencers are inadvertently contributing to the climate of anxiety around food safety and body image by promoting 'parasite-free' grocery hauls. While seemingly innocuous, these promotions can heighten fears about food contamination, potentially feeding into misguided attempts to control one's body through extreme dietary or even pathogenic means.",
+    "Reflecting on the long-term impact, this convergence of social media trends, body image issues, and the intentional pursuit of illness demands a unified response. Greater public awareness campaigns are urgently needed to educate individuals about the profound dangers of extreme weight loss methods and to foster a more realistic and healthy understanding of body image. The challenge lies in dismantling the online narratives that push vulnerable populations closer to the brink of self-inflicted harm."
+  ],
+  "publishedAt": "2026-07-26T05:31:33.215Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "CNN",
+    "FOX 10 Phoenix",
+    "Slate",
+    "WSJ",
+    "Межа. Новини України."
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmQ1UmFOQ2ZCcVk1QWxWaHFjTkRkeDZZSTFrejhINDBwaHdQR2YwTDdlOXJQd0k0ajd4VzNKTXR0ZnNlRmJIb04waDdiVkJyRDRBeWxyeFJxLW50ZzdhaEZQdjltVGxNZ0Z3bWFkcFRGaE8tUEpyMGRwOERPakF6b3FQUjc4LXFjcmkyWFdNWQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:24:03.244Z",
+      "detail": "Aggregated social media analyses, public health warnings, and news reports on health trends."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:27:56.776Z",
+      "detail": "Compiled details on social media jokes, intentional illness attempts, influencer promotions, and rising Cyclospora outbreaks from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:31:33.215Z",
+      "detail": "Wove social media trends with public health concerns to examine the dangerous intersection of body image and online influence."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the prevalence of social media jokes, doctors' warnings, intentional contraction of illness, influencer promotions, and rising Cyclospora outbreaks, were directly verified against the provided fact sheet without any fabrications or misrepresentations.",
+      "timestamp": "2026-07-26T05:35:07.339Z"
+    }
+  ]
+}

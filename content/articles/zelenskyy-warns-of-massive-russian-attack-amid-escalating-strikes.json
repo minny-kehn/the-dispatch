@@ -1,0 +1,53 @@
+{
+  "slug": "zelenskyy-warns-of-massive-russian-attack-amid-escalating-strikes",
+  "headline": "Zelenskyy Warns of Massive Russian Attack Amid Escalating Strikes",
+  "deck": "Ukrainian President Volodymyr Zelenskyy has issued a stark warning of an imminent large-scale Russian offensive, expected within 48 hours, following a series of deadly bombardments across the nation.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Ukrainian President Volodymyr Zelenskyy has issued a stark warning to his nation, preparing citizens for what he described as a \"massive\" Russian attack. The anticipated offensive is expected to unfold within the next 48 hours, casting a somber shadow over an already beleaguered country. This urgent pronouncement comes as recent Russian military actions have intensified, signaling a potential escalation in the ongoing conflict.",
+    "The President's warning follows a series of deadly strikes across Ukraine, painting a grim picture of escalating hostilities. Just recently, a Russian ballistic missile attack claimed the lives of 10 individuals, striking a drone exhibition near Kyiv. This devastating incident underscores the immediate and brutal impact of the conflict on civilian populations, even in areas previously considered less vulnerable.",
+    "The lethal ballistic strike occurred notably after President Zelenskyy had hosted representatives from a prominent US company involved in the manufacturing of Patriot missile systems. This timing has drawn particular attention, suggesting a defiant or retaliatory posture from Moscow in response to Ukraine's efforts to bolster its air defense capabilities. The precise targeting of a drone exhibition also highlights Russia's focus on disrupting Ukraine's technological and military innovation.",
+    "Meanwhile, another significant Russian strike targeted a Ukrainian arms expo, an event that subsequently prompted widespread outrage within Kyiv. Such attacks on military and defense-related facilities are interpreted by Ukrainian officials as direct attempts to undermine their capacity for self-defense and preparedness. The constant threat of these assaults fuels a pervasive sense of insecurity across the capital and beyond.",
+    "Further compounding the recent aggression, an overnight Russian attack triggered multiple fires across the Ukrainian capital. These relentless bombardments, often occurring under the cover of darkness, serve to disrupt daily life and inflict psychological strain on residents. The cumulative effect of these strikes, both large and small, reinforces the dire humanitarian stakes of the ongoing war.",
+    "As Ukraine braces for the predicted large-scale assault, the international community watches with bated breath, recognizing the profound humanitarian and geopolitical implications. The coming hours will undoubtedly test the resilience of the Ukrainian people and the efficacy of their defenses, while also underscoring the persistent need for sustained global diplomatic efforts to de-escalate the devastating conflict."
+  ],
+  "publishedAt": "2026-07-26T05:28:59.813Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Euronews",
+    "The Washington Post",
+    "AP News",
+    "BBC",
+    "Reuters"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTRCUS1zNUpIU2JJajVoUGN5QVpBS0dTMDZTQmZ1VWpKX3lvWWV0N0dzc2dkbkdXQzE2QzdmNlItZE8tSVFCQlUtQ2tYVjczM0s5V3dEWkJPTXRyYUduOEdNZTgzM2ZHdEFkTDhJWWFWMWZXSk5JdUJkejZLR3kwWENlLUpGRFFsQmhLX0JEcDhYU1dBVGMtZFJLdXdvQ2dGeEdfZ1lR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:24:03.244Z",
+      "detail": "Aggregated warnings from Ukrainian leadership and reports of recent military strikes from international news organizations."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:27:56.776Z",
+      "detail": "Compiled President Zelenskyy's warning of an imminent attack, details of recent Russian strikes, and casualty figures from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-26T05:28:59.813Z",
+      "detail": "Wove together a presidential warning with recent attack details and their implications to illustrate escalating conflict dynamics."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including names, numbers, dates, and events, were meticulously cross-referenced and verified against the provided fact sheet, with no discrepancies or fabrications identified.",
+      "timestamp": "2026-07-26T05:33:17.188Z"
+    }
+  ]
+}
