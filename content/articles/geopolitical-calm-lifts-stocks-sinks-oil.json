@@ -1,0 +1,53 @@
+{
+  "slug": "geopolitical-calm-lifts-stocks-sinks-oil",
+  "headline": "Geopolitical Calm Lifts Stocks, Sinks Oil",
+  "deck": "Global financial markets are experiencing a significant rally as reported de-escalation between the U.S. and Iran eases investor anxieties.",
+  "category": "FINANCE",
+  "body": [
+    "A notable de-escalation of tensions between the United States and Iran has sent a wave of positive sentiment across global financial markets this morning. Stock futures are climbing steadily, reflecting a renewed sense of stability among investors, who have been closely monitoring the volatile geopolitical landscape.",
+    "This newfound calm immediately registered in commodity markets, where oil prices experienced a significant decline. Crude futures slid by a full 5%, a sharp reversal from recent upward pressures driven by regional instability. Analysts suggest that ongoing discussions regarding the Strait of Hormuz are specifically contributing to this plunge in oil prices.",
+    "Beyond crude, the broader equity landscape reflected similar optimism. The Kospi index, a key indicator in Asian markets, jumped notably in early trading. Shares and bonds are also making guarded gains, signaling a cautious but widespread return of investor confidence across various asset classes.",
+    "The catalyst for this market shift lies in reports indicating a pause in hostilities between Washington and Tehran. Both nations have reportedly ceased attacks, with Iran signaling a halt to further aggression if the U.S. pause holds firm. This diplomatic movement offers a crucial reprieve from recent anxieties that have weighed heavily on global commerce.",
+    "Further underscoring the broad impact on commodities, soybean oil recorded its most significant drop in a month. This movement illustrates how a reduction in geopolitical risk can ripple through various agricultural and energy markets, affecting prices for a wide array of goods.",
+    "As markets continue to digest these geopolitical developments, investors are also looking ahead to an upcoming Federal Reserve meeting. While not directly tied to the current de-escalation, the Fed's stance on monetary policy will provide another layer of context for market movements in the coming days.",
+    "The swift positive reaction across global indices and commodity markets highlights the immediate and profound impact of geopolitical stability on financial performance. This episode underscores how international relations are intrinsically linked to investor confidence, directly affecting economic stability and consumer costs worldwide."
+  ],
+  "publishedAt": "2026-07-27T05:48:48.172Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "CNBC",
+    "Bloomberg.com",
+    "Fortune",
+    "Reuters"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:41:59.549Z",
+      "detail": "Aggregated real-time financial news reports and geopolitical analyses from leading business publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:46:06.671Z",
+      "detail": "Compiled stock market movements, commodity price changes, and de-escalation reports from CNBC, Bloomberg.com, Fortune, and Reuters."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:48:48.172Z",
+      "detail": "Wove market data with geopolitical developments to illustrate the immediate financial impact of U.S.-Iran de-escalation."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Financial market movements, specific commodity price changes, and geopolitical de-escalation reports were meticulously cross-referenced with the provided fact sheet.",
+      "timestamp": "2026-07-27T05:52:19.360Z"
+    }
+  ]
+}

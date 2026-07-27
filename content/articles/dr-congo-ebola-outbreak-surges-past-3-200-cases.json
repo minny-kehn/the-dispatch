@@ -1,0 +1,55 @@
+{
+  "slug": "dr-congo-ebola-outbreak-surges-past-3-200-cases",
+  "headline": "DR Congo Ebola Outbreak Surges Past 3,200 Cases",
+  "deck": "The Democratic Republic of Congo is grappling with an escalating Ebola crisis as infections and fatalities continue their grim ascent, complicated by strikes and the virus's spread in densely populated areas.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo finds itself in the throes of a deepening public health crisis, as the Ebola outbreak continues its relentless advance across the nation. Confirmed infections have now surged to a staggering 3,200, casting a harsh spotlight on the immense challenges faced by health authorities and communities alike. This alarming rise underscores the urgent need for sustained intervention and robust support to stem the tide of the deadly virus.",
+    "The human toll of this devastating epidemic has grown tragically, with 1,405 lives now claimed by the disease. These figures, meticulously tracked by international health organizations and local officials, paint a grim picture of the virus's persistent grip. Just weeks prior, reports indicated cases were hovering near 3,000, with deaths exceeding 1,300, signaling a continuous and concerning escalation.",
+    "Compounding the already formidable obstacles, the humanitarian response is increasingly hampered by a growing number of health workers striking across the affected regions. These industrial actions introduce a critical vulnerability into the heart of the containment efforts, disrupting vital services and potentially leaving communities more exposed. The withdrawal of these essential frontline personnel pushes an already vulnerable population closer to the brink.",
+    "The insidious nature of the Ebola virus is particularly pronounced within Congo’s crowded camps, where it stalks densely packed populations with chilling efficiency. The proximity of individuals in these temporary settlements creates an ideal environment for rapid transmission, making containment efforts extraordinarily difficult. This particular challenge amplifies the risk of widespread infection, threatening to overwhelm the limited resources available.",
+    "“We Will All Die From Ebola Here,” the New York Times quoted one desperate resident, encapsulating the profound fear and despair gripping communities at the epicenter of the outbreak.",
+    "Reflecting on the broader impact, the outbreak has already claimed more than 1,000 lives across both Congo and neighboring Uganda, highlighting the regional threat posed by the unchecked spread. The porous borders and constant movement of people present a significant challenge to isolating the virus within national boundaries. This interconnectedness necessitates a coordinated regional strategy to protect public health beyond Congo's immediate borders.",
+    "The escalating numbers of infections and deaths underscore a critical public health crisis in DR Congo, with profound and enduring human suffering at its core. The combination of a highly virulent disease, challenging operational environments, and social unrest creates a complex web of obstacles. Controlling this outbreak demands a concerted global effort, coupled with sustained local engagement, to protect countless lives.",
+    "As the Democratic Republic of Congo continues its arduous battle against Ebola, the coming weeks will be critical in determining the trajectory of this devastating outbreak. The unresolved tensions between health worker demands and the urgent public health imperative, alongside the persistent threat within crowded populations, will continue to define the crisis. A sustained, multi-faceted approach remains paramount to mitigating further loss of life and preventing regional destabilization."
+  ],
+  "publishedAt": "2026-07-27T05:49:28.082Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Al Jazeera",
+    "Reuters",
+    "The New York Times",
+    "PBS",
+    "ABC News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFF0dlNLZUtnTC1TQW11b1Y1Tnk1YmItcHQ1Q0xkckFpc201RHNKaHJxanRBSmdGaVNIWmlZXzVHQWFwV0ozM0pESW5FUEtoclNnWDZUNlljajZmamh0c2xPN3o4U2NRRWwtNm8zQmMtSlExT01YeTQ5WFpyM1hCeU4tOXRaS1UxM1NRcDJ0WFpMRGJPc3BLTmk3YjlEQlBDSmfSAacBQVVfeXFMUEl2U3VvTGxEb05TcEs3LTZqR3htSDU1d2tDa2szSlE3RkxqZ3RjWjZKSGNHOV9TR1FoaUZ1VDdRNWptdFFGY1pzaU1qWW9YYzB5RzBMellCUnpWYzAwUDJJYnJiWWRBWWF3cmYxejdWcklCd1NXWUp4Y2pRb3RURVQ0U1ZyWExSaXd0S0ZOUWZZRmRMQm0xbGVXT3RUUzhIcS1wOHhxYWM?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:41:59.549Z",
+      "detail": "Aggregated reports from international news agencies and health organizations, including Al Jazeera, Reuters, The New York Times, PBS, and ABC News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:46:06.671Z",
+      "detail": "Compiled confirmed infection and death statistics, details on health worker strikes, and virus spread in camps from multiple sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-27T05:49:28.082Z",
+      "detail": "Wove escalating infection data with operational challenges and human impact to present a comprehensive view of the DR Congo Ebola crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported statistics on cases and deaths, details on health worker strikes, the spread in crowded areas, and the specific quote were directly verified against the provided fact sheet, with no discrepancies found.",
+      "timestamp": "2026-07-27T05:52:57.248Z"
+    }
+  ]
+}
