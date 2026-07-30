@@ -1,0 +1,54 @@
+{
+  "slug": "saudi-arabia-seeks-coalition-amid-red-sea-houthi-attacks",
+  "headline": "Saudi Arabia Seeks Coalition Amid Red Sea Houthi Attacks",
+  "deck": "Escalating Houthi aggression in the Red Sea prompts Riyadh to seek a united international front to safeguard vital shipping lanes.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Saudi Arabia is actively pursuing the formation of an international coalition aimed at countering Houthi aggression in the Red Sea. This diplomatic push comes as the critical global shipping lane faces a growing number of threats, casting a harsh spotlight on maritime security in the region. The Kingdom's initiative signals a serious concern over the stability of a waterway crucial for global trade and energy flows.",
+    "The primary objective guiding Saudi Arabia's efforts is the protection of Red Sea shipping from relentless Houthi attacks. These assaults pose a direct challenge to the free movement of vessels, threatening economic stability far beyond the immediate region. Riyadh's call for a unified front underscores the shared interest in maintaining the unimpeded passage of goods through this vital maritime artery.",
+    "The urgency of this situation has been underscored by recent Houthi actions, including a claimed strike on a Saudi oil tanker. Such incidents paint a grim picture of the operational risks faced by commercial and energy transport in the Red Sea. Ongoing Houthi attacks on Saudi ships have become a consistent feature of the regional security landscape, demanding a robust response.",
+    "Further complicating matters, reports suggest the Houthis are planning to implement a 'Red Sea toll plan.' This proposed strategy mirrors Iran's long-standing approach to controlling passage through the Strait of Hormuz, indicating a calculated move to exert greater influence over maritime traffic. Such a development would undoubtedly escalate tensions and introduce new layers of complexity for international shipping.",
+    "Amidst these escalating threats, the potential for Pakistan to intervene in response to Houthi attacks on Saudi ships has become a subject of considerable discussion. The involvement of additional regional powers could significantly alter the dynamics of the conflict, bringing new military and diplomatic considerations to the forefront. This possibility highlights the broader regional implications of the ongoing maritime insecurity.",
+    "The Kingdom's pursuit of an international coalition against the Houthis therefore represents a pivotal moment for Red Sea security and regional stability. The outcome of these diplomatic efforts will determine the future of a critical global shipping lane, either consolidating a united front against disruption or allowing a dangerous precedent to take root. The international community watches closely as the situation continues to unfold."
+  ],
+  "publishedAt": "2026-07-30T04:55:26.612Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Al Jazeera",
+    "Reuters",
+    "The New York Times",
+    "DW.com",
+    "Euronews.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk5DNlFtUFNDdkhMSkVpNDNIeGFZLUI5Q3NscTk3NC1kY09KWC1lblMwNlc1N0ZhdEQ1VUhjUFJ1Qk9oVFpEWWpHUkRkS2wtazVjU0ZwSGFydk81aXQycWw1NVpBWmdMdGlOQTlhWDBQbi1lS0stajVZZDlPazJLZkF6NzVpTGlCLXV0aWt0ejNsTEdRMmZsYU5OM1huZy05ekhZR05Qek0wRm5UWGNF0gG0AUFVX3lxTFA2Y3VkOTJ4TmktdFJjSXIwNUhmWkMtS0pTTFNna0pGMTR2aU9FcEtvN3EwSTVsVl9YVkN6cFFyUVYzTDVuWFNKVGc4UUZGV1NTS09QX0hHa2NPd1NWOTN4T2xMcUxrUkRzdkNTdm1HSjdfSk9NY3p3cU1vY0xRYWxaeXllbGNEZUs1dEIxOW50cXZ4MGR6ajdGbEVrYUp4dTRXMkRGd29CS1FIQTVNV2ZOd2syUA?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXNwdEZvXzBiaDA3NWlKTHBfQ2NTS3gzVXpqWWh3Nl9XZm1iNWRGMzllTDNrY0xvcUpFNG41N1Z1V0dERWVZdHRJRk4wLWo0a1JFMFNERkYtWHJjZkUzRFdxa2NBQzBlbV9UUjlUZno2bm9WV1B0WGY5MUtPcHZ4d0t6YlVjNjRTLW1JZW1hVUpHckpoTW1ySXF4Y2NfX28?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-07-30T04:50:11.266Z",
+      "detail": "Aggregated reports from major news outlets regarding Houthi actions and Saudi diplomatic initiatives."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-07-30T04:54:09.180Z",
+      "detail": "Compiled details on Saudi Arabia's coalition efforts, Houthi attacks, and strategic plans from 5 international news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-07-30T04:55:26.612Z",
+      "detail": "Wove together diplomatic efforts and regional threats to analyze escalating tensions in the Red Sea."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding Saudi Arabia's coalition efforts, Houthi actions, and regional discussions were directly cross-referenced and verified against the provided fact sheet.",
+      "timestamp": "2026-07-30T04:59:34.442Z"
+    }
+  ]
+}
