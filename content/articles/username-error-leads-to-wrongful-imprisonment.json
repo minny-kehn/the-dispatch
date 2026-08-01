@@ -1,0 +1,54 @@
+{
+  "slug": "username-error-leads-to-wrongful-imprisonment",
+  "headline": "Username Error Leads to Wrongful Imprisonment",
+  "deck": "A seemingly minor digital inaccuracy in a username sent an innocent man to prison for 18 months, exposing critical vulnerabilities in digital identification within the justice system.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "An innocent man was unjustly incarcerated for 18 months, a profound miscarriage of justice stemming from a seemingly insignificant digital error. This deeply concerning incident casts a harsh spotlight on the precision required in modern investigations and the devastating consequences when that precision falters.",
+    "The man spent a year and a half behind bars, his freedom stripped away due to a detail that would typically be dismissed as a simple oversight. Eighteen months is a substantial period of one's life to lose, particularly when the grounds for confinement are entirely erroneous.",
+    "At the heart of this wrongful imprisonment was a tiny difference in a username, described variously as a mistaken username, a typo, or a missing underscore. Such minor digital discrepancies can prove surprisingly potent in their real-world impact when misread by authorities.",
+    "Specifically, police misread the man's username from the popular video game Skyrim. What should have been a clear identifier became a source of tragic confusion, leading investigators down a path that ultimately resulted in an innocent person's loss of liberty.",
+    "A court later confirmed that this mistaken username was indeed the catalyst for the man's imprisonment. This judicial finding underscores the systemic failure that allowed a minor digital error to bypass multiple checks and balances within the legal process.",
+    "The man was imprisoned for child sex crimes he did not commit, charges that carry immense societal stigma and severe penalties. To be accused and incarcerated for such heinous acts, only to be found innocent, represents an unimaginable ordeal for any individual.",
+    "This case serves as a grave reminder of the critical importance of meticulous accuracy in digital identification during law enforcement investigations. It vividly illustrates how even the smallest human error, when compounded by technology-reliant processes, can push an already vulnerable population closer to the brink of despair. The incident demands a re-evaluation of verification protocols to prevent similar injustices from occurring."
+  ],
+  "publishedAt": "2026-08-01T05:25:15.076Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Newser",
+    "The New York Times",
+    "Yahoo",
+    "WKRC",
+    "Ars Technica"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVFLallpWkdtc0YtQlQxUU5EczVHbmFiUkhITHVTWUJyQmp5RlkwX2xBQ1pyeGdieW9pbmZsVnBLczFZSGJQdlE3RjlDZ3Y4WHFsRHpzM1BWSkZFdEE0MGtHdC1oZ05FN3pRcGJOdGpRN0F1Vld4V1MzS1U4TmxxM1ZONDdEb1plNnR2Z01vMy01UllfREZCcDdlZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-01T05:20:36.965Z",
+      "detail": "Aggregated news reports and technological analyses from multiple reputable sources to identify a specific case of wrongful imprisonment."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-01T05:24:36.096Z",
+      "detail": "Compiled facts regarding the duration of imprisonment, the cause (username error), and the nature of the false accusation from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-01T05:25:15.076Z",
+      "detail": "Wove factual details into a narrative examining the profound human impact of a digital error within the justice system, emphasizing the need for greater investigative precision."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding the duration of imprisonment, the cause of the error, the specific game involved, and the nature of the charges were directly verified against the provided fact sheet, with no discrepancies or fabrications found.",
+      "timestamp": "2026-08-01T05:29:40.834Z"
+    }
+  ]
+}
