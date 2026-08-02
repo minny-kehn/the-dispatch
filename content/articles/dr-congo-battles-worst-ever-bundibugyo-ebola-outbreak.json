@@ -1,0 +1,54 @@
+{
+  "slug": "dr-congo-battles-worst-ever-bundibugyo-ebola-outbreak",
+  "headline": "DR Congo Battles Worst-Ever Bundibugyo Ebola Outbreak",
+  "deck": "The Democratic Republic of Congo faces an unprecedented public health crisis as the current Ebola epidemic, driven by the aggressive Bundibugyo strain, escalates rapidly.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is currently grappling with the most severe Ebola outbreak in its history, a public health emergency fueled by the Bundibugyo virus strain. This particular iteration of the disease has rapidly escalated, casting a harsh spotlight on the persistent challenges of disease containment in the region.",
+    "This fast-growing epidemic has surged to become the world’s second-largest Ebola outbreak on record, painting a grim picture of its widespread impact. Its unprecedented speed of transmission marks it as the fastest-growing in the history of the virus, pushing an already vulnerable population closer to the brink.",
+    "The specific pathogen at the heart of this crisis is the Bundibugyo virus, a strain of Ebola that presents unique challenges to medical teams on the ground. Understanding the characteristics of this particular virus is crucial for developing targeted and effective response strategies.",
+    "These alarming reports come as health organizations work tirelessly to contain the spread, often in difficult and insecure environments. The sheer scale and rapid progression of this outbreak underscore the urgent need for sustained international attention and robust resource allocation.",
+    "Analysts suggest that the unchecked expansion of the virus threatens not only the immediate health of communities within the DRC but also poses significant risks to regional stability. The movement of people across borders makes robust containment efforts vital for broader health security.",
+    "Reflecting on the long-term impact, the continued battle against this formidable pathogen demands a concerted global effort. Without comprehensive support for treatment, prevention, and community engagement, the challenges of managing such a virulent outbreak become increasingly complex.",
+    "The ongoing struggle in DR Congo highlights the critical importance of strengthening health infrastructures and rapid response mechanisms in susceptible regions. The coming months will be crucial in determining the trajectory of this devastating outbreak and the effectiveness of the global community’s response."
+  ],
+  "publishedAt": "2026-08-02T05:26:40.457Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "BBC",
+    "Al Jazeera",
+    "who.int",
+    "The Guardian",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-02T05:19:46.817Z",
+      "detail": "Aggregated reports from leading news agencies and health organizations detailing the Ebola outbreak in the Democratic Republic of Congo."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-02T05:23:26.966Z",
+      "detail": "Compiled statistics on outbreak size and growth rate, identification of the specific virus strain, and severity assessments from BBC, Al Jazeera, WHO, The Guardian, and CNN."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-02T05:26:40.457Z",
+      "detail": "Wove together factual data and expert analysis to articulate the unprecedented scale and urgency of the DR Congo's Bundibugyo Ebola crisis, focusing on its public health and regional implications."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 8/10, Readability: FK 16.1",
+      "timestamp": "2026-08-02T05:30:20.640Z"
+    }
+  ]
+}
