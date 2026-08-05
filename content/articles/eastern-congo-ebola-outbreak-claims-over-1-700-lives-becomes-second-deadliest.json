@@ -1,0 +1,53 @@
+{
+  "slug": "eastern-congo-ebola-outbreak-claims-over-1-700-lives-becomes-second-deadliest",
+  "headline": "Eastern Congo Ebola Outbreak Claims Over 1,700 Lives, Becomes Second-Deadliest",
+  "deck": "The rapidly escalating Ebola crisis in eastern Congo now represents the second-deadliest outbreak in history, pushing an already vulnerable population closer to the brink.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with an Ebola outbreak that has claimed the lives of 1,700 people in its eastern region, marking it as the second-deadliest in recorded history. This devastating surge presents a profound public health challenge, casting a harsh spotlight on the persistent vulnerabilities within the region. The sheer scale of loss underscores the urgent need for a robust and sustained global response.",
+    "Reports indicate that this particular outbreak is not only surging but also stands as the fastest-growing on record. The relentless pace of transmission paints a grim picture for communities already struggling with instability and limited resources. Each new infection amplifies the immense pressure on local health infrastructure and the dedicated teams working to contain the virus.",
+    "The disease, identified as being caused by the Bundibugyo virus, presents unique complexities for medical professionals on the ground. Understanding the specific strain is crucial for developing targeted interventions, yet the rapid spread continues to outpace containment efforts. This biological challenge is compounded by the difficult terrain and socio-political landscape of eastern Congo.",
+    "Amidst these escalating health concerns, critical Ebola response efforts have faced significant disruptions. The vital work of tracing contacts, providing care, and conducting safe burials has been hampered by internal challenges within the response teams themselves. Such impediments threaten to undermine the fragile progress made in controlling the disease's reach.",
+    "These complications stem directly from worker protests, with essential personnel withholding their services due to late pay. The dedication of frontline health workers is paramount in any outbreak, and their inability to receive timely compensation creates an untenable situation. This breakdown in support jeopardizes the very foundation of the containment strategy, potentially leading to further unchecked transmission.",
+    "The confluence of a rapidly spreading, historically deadly virus and the internal strife affecting response efforts creates a precarious situation for eastern Congo. Without swift and decisive action to address both the public health crisis and the legitimate grievances of aid workers, the region risks prolonged suffering and wider instability. The ongoing challenges demand immediate attention to prevent further tragic loss of life and ensure the efficacy of global health security measures."
+  ],
+  "publishedAt": "2026-08-05T05:04:59.770Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "CIDRAP",
+    "The Hill",
+    "World Health Organization (WHO)",
+    "Reuters"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2NlUWpWemNHaS1rTkN1MWh0Z2tIR01xbVFZeEk0ZUhhWVg3NTIyWktxY1FzSWR4QWFMR2JvdWJLX2wxUnVOblMwSEtPeUpOcF9xZWp6S0I2aTczOGJTcEpmWjVLVlRZWVVNTkZydi1HSU1tZDZFQndMNEF4S1VVNl9mOA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-05T04:57:26.477Z",
+      "detail": "Aggregated real-time news reports, public health updates, and humanitarian statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-05T05:01:31.825Z",
+      "detail": "Compiled death tolls, outbreak characteristics, viral information, and response challenges from AP News, CIDRAP, The Hill, WHO, and Reuters."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-05T05:04:59.770Z",
+      "detail": "Wove statistical data with operational challenges to detail the escalating humanitarian crisis and its systemic roots."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Death toll, outbreak characteristics, and response challenges were meticulously cross-referenced with the provided fact sheet.",
+      "timestamp": "2026-08-05T05:08:33.142Z"
+    }
+  ]
+}
