@@ -1,0 +1,54 @@
+{
+  "slug": "texas-confronts-rising-threat-of-drug-resistant-fungus",
+  "headline": "Texas Confronts Rising Threat of Drug-Resistant Fungus",
+  "deck": "Candida auris, a formidable drug-resistant fungus, is rapidly expanding its footprint across the United States, with Texas now reporting the highest number of cases nationwide.",
+  "category": "HEALTH",
+  "body": [
+    "Texas has emerged at the forefront of a concerning public health trend, leading the nation in reported cases of Candida auris. This insidious fungus, often referred to as a 'superbug,' presents a significant challenge to healthcare systems due to its formidable resistance to common antifungal treatments.",
+    "Candida auris is not merely a difficult infection; it is potentially deadly, particularly for individuals with weakened immune systems or those already battling serious illnesses. Its ability to shrug off typical medications makes treatment complex and recovery uncertain for affected patients.",
+    "The spread of this pathogen is not confined to one region, as it is quietly, yet relentlessly, making its way across the national healthcare landscape. According to data from the Centers for Disease Control and Prevention, cases of Candida auris have now been detected in 27 states.",
+    "Further reports indicate this drug-resistant 'superbug' fungus has broadened its reach to at least 23 states, painting a grim picture of its rapid dissemination. This expansion underscores the urgent need for heightened surveillance and robust infection control measures across the country.",
+    "In Texas, the rise of this drug-resistant fungus has been particularly pronounced, pushing an already vulnerable population closer to the brink. Healthcare facilities are grappling with the complexities of identifying and containing outbreaks within their walls.",
+    "Meanwhile, the challenge is not isolated, with other states also witnessing an escalation in cases. Tennessee, for instance, has also reported a significant rise in the drug-resistant fungus, indicating a broader systemic issue that demands national attention.",
+    "The widespread emergence of Candida auris represents a serious public health challenge, highlighting the urgent need for effective prevention and treatment strategies. Its capacity to spread quickly and cause potentially fatal infections underscores the growing threat this 'superbug' poses to healthcare infrastructure and the most vulnerable among us."
+  ],
+  "publishedAt": "2026-08-06T05:06:07.409Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Houston Chronicle",
+    "ABC News - Breaking News, Latest News and Videos",
+    "KCRA",
+    "Dallas News",
+    "WKRN News 2"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODNqaTZEMDc5Zk0wOXEzWHZwWXdtcm5ZZHl4MlZob1VXTWdPYkIwSWZDQjFfTzJ2c1NjS0YwcTB1RjBjbWgzQm8tYXc3ekNZeVVVM2hJNjFlcmhFTmk1NnNsaU5XbmZYMEQzOWdKY0JRTXJoUkw3T2xrRjZiTGNDdTBLS0hfSUFRYkszeW9ySTVfT3hOZk1GQktaVEYtNXVKbFlSU0lDbkZoNXc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-06T04:57:53.287Z",
+      "detail": "Aggregated news reports and public health advisories concerning Candida auris outbreaks across the United States."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-06T05:02:24.350Z",
+      "detail": "Compiled statistics on Candida auris prevalence, geographic spread, and clinical characteristics from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-06T05:06:07.409Z",
+      "detail": "Wove national case data with regional reports to illustrate the escalating public health threat posed by Candida auris, focusing on its impact in Texas."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including state-level case numbers and the nature of the fungus, were directly cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-08-06T05:09:38.795Z"
+    }
+  ]
+}

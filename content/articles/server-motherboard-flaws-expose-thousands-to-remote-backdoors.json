@@ -1,0 +1,52 @@
+{
+  "slug": "server-motherboard-flaws-expose-thousands-to-remote-backdoors",
+  "headline": "Server Motherboard Flaws Expose Thousands to Remote Backdoors",
+  "deck": "Critical vulnerabilities, some dating back over a decade, in Baseboard Management Controllers from major manufacturers leave thousands of internet-connected servers open to deep, persistent compromise.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Thousands of internet-connected servers, sold by some of the world’s biggest manufacturers, face a critical security threat, as vulnerabilities in their motherboard controllers can allow for remote backdoors. These pervasive flaws present a significant, under-monitored attack surface, enabling hackers to gain deep access to data centers and corporate networks, even when the main server systems are powered down.",
+    "Firmware security expert HD Moore, CEO of runZero, has uncovered more than a dozen new vulnerabilities within these Baseboard Management Controllers (BMCs) across products from industry giants like HPE, Supermicro, Avocent, Huawei, Lenovo, and Dell. Disturbingly, Moore's extensive research indicates that some weaknesses he first warned about in 2013 remain active today, despite previous efforts to address them, painting a grim picture of persistent systemic issues.",
+    "“The end result is a pervasive, under-monitored, under-patched parallel attack surface that is both Internet-exposed and widespread inside corporate networks, and is much more exploitable than many folks realize,” Moore wrote in an email ahead of his talk.",
+    "An external scan conducted as part of the research found more than 86,000 internet-connected BMCs openly exposing a management service to the public. Of these publicly accessible controllers, a staggering 54 percent contained at least one critical vulnerability. This widespread exposure highlights a severe lapse in network hygiene and security protocols across numerous organizations.",
+    "The persistence of older flaws is particularly concerning; as many as 75,000 of the internet-exposed BMCs remained vulnerable to CVE-2013-4786, a critical flaw in the IPMI 2.0 authentication protocol. This decade-old vulnerability continues to offer an entry point for sophisticated attackers, underscoring the challenge of patching fundamental server infrastructure.",
+    "Further validating the extent of the problem, an internal scan of 126,761 BMCs revealed that nearly 29 percent of them harbored one or more critical vulnerabilities. These findings suggest that the problem is not limited to publicly exposed systems, but extends deep within corporate networks, creating an expansive internal attack surface.",
+    "At the heart of this widespread vulnerability are Baseboard Management Controllers, miniature computers embedded in virtually every enterprise server motherboard. Operating independently with their own OS, network stack, and IP address, BMCs allow administrators to perform crucial “lights out” and “out-of-band” management tasks, such as reboots and OS installations, even when the main server is offline. The IPMI protocol, which facilitates BMC functionality, has been a known source of security concerns since at least 2013.",
+    "The ability to backdoor servers regardless of their operational state poses a critical threat to data security and operational integrity across major organizations using these manufacturers' products. Such deep access could allow malicious actors to compromise entire data centers, manipulate system firmware, or establish persistent footholds that are exceedingly difficult to detect and remove.",
+    "The continued exposure of these fundamental server components, often due to unpatched, decade-old vulnerabilities, presents an enduring challenge for cybersecurity teams worldwide. Addressing this systemic problem will require a concerted effort from manufacturers to deliver robust, secure firmware and from organizations to diligently monitor and patch these often-overlooked yet critical infrastructure elements."
+  ],
+  "publishedAt": "2026-08-06T05:02:54.327Z",
+  "readTime": 2,
+  "sources": [
+    "Ars Technica",
+    "Thousands of servers can be backdoored by exploiting buggy motherboard controllers"
+  ],
+  "sourceUrls": [
+    "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-06T04:57:53.287Z",
+      "detail": "Firmware security expert HD Moore and his team at runZero uncovered critical vulnerabilities in motherboard controllers through extensive research and scans."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-06T05:02:24.350Z",
+      "detail": "Compiled specific claims regarding remote backdoor capabilities, vulnerability age, expert findings, and precise statistics from external and internal scans of BMCs."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-06T05:02:54.327Z",
+      "detail": "Wove expert analysis, historical context, and scan statistics into a narrative exploring the widespread and persistent security vulnerabilities in server motherboard controllers."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims",
+      "timestamp": "2026-08-06T05:07:12.851Z"
+    }
+  ]
+}
