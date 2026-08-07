@@ -1,0 +1,54 @@
+{
+  "slug": "louisiana-sees-deadly-rise-of-flesh-eating-bacteria",
+  "headline": "Louisiana Sees Deadly Rise of Flesh-Eating Bacteria",
+  "deck": "Five individuals have tragically died and four others hospitalized in Louisiana this year due to Vibrio, a dangerous flesh-eating bacteria found in the state's coastal waters.",
+  "category": "HEALTH",
+  "body": [
+    "A grave public health concern has emerged in Louisiana, as officials confirm five fatalities and four hospitalizations this year linked to a dangerous flesh-eating bacterium. The infections, identified as Vibrio, underscore a troubling trend across the state's coastal regions, prompting heightened vigilance among residents and visitors alike.",
+    "This particular bacterium, known for its severe and rapid progression, thrives in warm water conditions, making coastal Louisiana waters a potential breeding ground. Characterized as a 'dangerous warm-water bacterial infection,' Vibrio can lead to devastating consequences, as evidenced by the recent surge in cases.",
+    "The sheer number of incidents marks a discernible 'rise of Vibrio vulnificus infections' within Louisiana, painting a grim picture for public health authorities. These figures cast a harsh spotlight on the environmental factors contributing to the bacteria's presence and the urgent need for preventative measures.",
+    "Meanwhile, the threat of flesh-eating bacteria is not isolated to Louisiana's Gulf Coast. Reports indicate that a similar infection has also claimed a life in Florida, suggesting a broader regional challenge. This wider context emphasizes the importance of understanding the bacteria's behavior in warm, coastal environments.",
+    "The five deaths and four hospitalizations in Louisiana serve as a stark indicator of the immediate danger posed by Vibrio. Each case represents a profound personal tragedy and pushes an already vulnerable population closer to the brink of health crises.",
+    "Reflecting on the long-term impact, the presence of this deadly bacterium necessitates ongoing monitoring and public education. As warmer temperatures persist, the potential for further infections remains a significant concern for those interacting with coastal waters.",
+    "Addressing this public health threat requires a concerted effort to raise awareness about the risks associated with Vibrio exposure. Clear guidance on preventative measures and prompt medical attention for suspected infections will be crucial in mitigating future fatalities and hospitalizations in affected communities."
+  ],
+  "publishedAt": "2026-08-07T04:28:11.395Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "CBS News",
+    "Time Magazine",
+    "NOLA.com",
+    "WDSU",
+    "WWLTV.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkJwNUxXM0N5SUpUdWhvZExpUFBGZFpoZ1QwSDBmQnpJUTNZN3B0OGlpSUg3cktTdDVrUGRrS3FXbXpYc1dzRGotWjU0d3I4Q3M5allCekZPMWYxSzVvZExscUY5WXlHSGxWdkM5Qkh3dmxycE8wNVdEN2NCTmhWTzIta09xcEMzWEFZbGlfN1lPZmJZQ0E?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:20:40.151Z",
+      "detail": "Aggregated news reports from multiple local and national media outlets detailing recent Vibrio infections in Louisiana and Florida."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:24:48.646Z",
+      "detail": "Compiled statistics on deaths and hospitalizations, identified the specific bacterium, and noted its environmental characteristics from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:28:11.395Z",
+      "detail": "Wove reported fatalities and hospitalizations with bacterial characteristics and regional context to highlight a growing public health concern."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All statistical figures for fatalities and hospitalizations, bacterial identification, geographical locations, and direct quotes were precisely verified against the provided fact sheet, with no factual discrepancies or fabrications found.",
+      "timestamp": "2026-08-07T04:31:44.279Z"
+    }
+  ]
+}

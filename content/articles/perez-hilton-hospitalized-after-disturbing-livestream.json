@@ -1,0 +1,53 @@
+{
+  "slug": "perez-hilton-hospitalized-after-disturbing-livestream",
+  "headline": "Perez Hilton Hospitalized After Disturbing Livestream",
+  "deck": "Celebrity blogger Perez Hilton was hospitalized following an apparent act of self-harm during a livestream, prompting his family to urgently request privacy for his children.",
+  "category": "CULTURE",
+  "body": [
+    "New details are emerging regarding a crisis involving celebrity blogger Perez Hilton, who was hospitalized after a deeply disturbing incident. The event, which unfolded publicly, has cast a harsh spotlight on the intense pressures faced by public figures and the devastating impact of online distress.",
+    "His hospitalization occurred after he appeared to self-harm during a livestream video, an incident confirmed by police. This public display of distress immediately sparked alarm among viewers and quickly became a focal point for broader discussions about mental health in the digital age.",
+    "Amidst the unfolding crisis, Perez Hilton's family has made a heartfelt plea to paparazzi and the public, asking that his children be granted privacy. This request underscores the profound ripple effect such public events have on the most vulnerable members of a family.",
+    "Adding a poignant layer to the situation, family members stated that his children had 'fled' their home prior to the self-harm livestream incident. This detail paints a grim picture of the escalating tension and distress within the household leading up to the public event.",
+    "The intense public scrutiny surrounding the incident highlights the unique challenges celebrities face, where personal struggles can instantly become global headlines. The immediate and widespread nature of the livestream meant a private moment of crisis was thrust into the public domain, magnifying its impact exponentially.",
+    "Beyond the immediate shock, the disturbing online incident involving Perez Hilton has prompted renewed discussions about mental health. It serves as a stark reminder of the critical importance of accessible support systems and the need for compassion when public figures experience profound distress.",
+    "The coming days will undoubtedly involve a complex navigation of personal recovery, family privacy, and the ongoing public conversation this incident has ignited. Attention will remain on the well-being of Hilton and his family, alongside a deeper reflection on media ethics and mental health awareness."
+  ],
+  "publishedAt": "2026-08-07T04:28:52.510Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Los Angeles Times",
+    "People.com",
+    "NBC News",
+    "wtop.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFVfbm11UlB1UHdvUjBWaGJiOHg1TUVYbWpSdXdCNVQ4UHpubTBYbF9zdFlCUkl5LXUteGowU0NNNWF2cDExWWh1ZW5LSFZXNl9NRWprOUhBcVZzcWJwM3MzOWplbGZuaU55b3UyRDBWTEY0NkN2bEZSM05pQ3ZVME5adjRyMlQ0eEcwUThYbDYzeG0yZ2R4Q2VtQk5xZWtMS0c0b1VaMjZGbXFCa0dUeWd3TmpzNTJxTFRFVVdPUENKZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:20:40.151Z",
+      "detail": "Aggregated news reports from major entertainment and news outlets regarding a celebrity's hospitalization."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:24:48.646Z",
+      "detail": "Compiled details on Perez Hilton's hospitalization, the nature of the incident, family's requests, and broader societal discussions from 5 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-07T04:28:52.510Z",
+      "detail": "Wove immediate incident details with family pleas and societal implications to frame the event within broader mental health and media ethics discussions."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding the incident, hospitalization, family requests, and police confirmation were directly cross-referenced and verified against the provided fact sheet.",
+      "timestamp": "2026-08-07T04:32:01.999Z"
+    }
+  ]
+}
