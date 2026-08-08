@@ -1,0 +1,52 @@
+{
+  "slug": "netflix-billboard-hosts-resident-for-film-promotion",
+  "headline": "Netflix Billboard Hosts Resident for Film Promotion",
+  "deck": "A man has taken up residence inside a prominent West Hollywood billboard, part of an audacious marketing stunt for an upcoming Netflix film.",
+  "category": "CULTURE",
+  "body": [
+    "A curious sight has emerged on West Hollywood's bustling Sunset Boulevard, where a man has taken up an unusual residence within a towering billboard. This unexpected inhabitant is not a new art installation, but rather a calculated move designed to capture the public's imagination and promote an upcoming film. The unconventional living arrangement has quickly become a focal point, drawing numerous spectators to witness the unfolding spectacle.",
+    "This distinctive promotional effort is reportedly orchestrated by Netflix, specifically in anticipation of a new feature titled 'Last House'. The choice of a prominent billboard along one of Los Angeles' most iconic thoroughfares ensures maximum visibility for what industry insiders are already describing as a significant marketing stunt. Such tactics aim to cut through the noise of an increasingly saturated entertainment market.",
+    "Indeed, the individual occupying the elevated structure is not a mannequin or a digital projection, but a 'real live human' whose continuous presence aims to amplify the campaign's authenticity. Passersby and local residents have been seen gathering below, their gazes fixed upwards, testament to the immediate draw of such a peculiar public display. The sheer audacity of the concept ensures it stands apart from more traditional advertising.",
+    "These creative, attention-grabbing strategies underscore the entertainment industry's ongoing quest to generate buzz and counter what is often referred to as a 'summer slump' in viewership. By crafting a unique, real-world spectacle, companies hope to embed their content into daily conversations and news cycles. This particular stunt is designed to capture public imagination, potentially boosting viewership for the advertised film.",
+    "As the man continues his temporary residence above Sunset Boulevard, the effectiveness of such extreme promotional tactics will undoubtedly be scrutinized. This bold move serves as a vivid illustration of how far marketers are willing to go to differentiate their content in a fiercely competitive landscape. The unfolding spectacle offers a unique lens into the evolving art of audience engagement in the digital age."
+  ],
+  "publishedAt": "2026-08-08T03:26:14.779Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "ABC7 Los Angeles",
+    "The New York Times",
+    "KTLA",
+    "Time Out Worldwide",
+    "NBC Los Angeles"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHJIdml0WlpZZjBoSm9DNGVRaVBFUlRDTlZBNllKT2gyV2o5VDdhRXJkRHVmNU1kMnlKMHZoSjVTQnlIRXEzLXFTMmpvUjZVY3VVZmFmQVUzYnJsZ0dEdmpJc2diTk5qdGZRUHhUY21MLWJyYWRZcmV5bE11Y01OOE12R2VuNWxOT2dNMnVyVDFSUDNYM3U3N2kwZDZyQU1ucHJ5bmJtZEhZd9IBrwFBVV95cUxNZGxRQkhZYXJMT2hUVm9PLW5TTXpRczc0NkNWUXhVdkdhNkQwM25HOUpiMnFYZ0R1M1dEZUtkWkhmRUhsZnpyV2MzTXFUY0hPN3ZCaEgwRGJFYng5X19YMlBFaGxGZ3pjVHdyTWtUOGJjc09UYXlPUXlrZDZVZlhHY3JReVJXXzBUZnhRd0FlbG5YaHN5X04yTkhiRVBZa201SC1ueHJSTUIxOEtGZmlv?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:18:29.962Z",
+      "detail": "Aggregated news reports from local Los Angeles affiliates and national publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:22:11.126Z",
+      "detail": "Compiled details regarding the billboard's location, occupant, associated film, and promotional nature from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:26:14.779Z",
+      "detail": "Wove together reported facts to analyze the cultural impact and marketing strategy behind the unusual promotional stunt."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual",
+      "timestamp": "2026-08-08T03:28:50.679Z"
+    }
+  ]
+}

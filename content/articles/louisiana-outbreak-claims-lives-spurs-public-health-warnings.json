@@ -1,0 +1,53 @@
+{
+  "slug": "louisiana-outbreak-claims-lives-spurs-public-health-warnings",
+  "headline": "Louisiana Outbreak Claims Lives, Spurs Public Health Warnings",
+  "deck": "Health officials in Louisiana are grappling with a deadly outbreak of Vibrio bacteria, prompting urgent warnings for residents and beachgoers.",
+  "category": "HEALTH",
+  "body": [
+    "An alarming public health crisis has emerged in Louisiana, with at least five deaths now reported due to what health officials have identified as 'flesh-eating' bacteria. This serious outbreak is casting a harsh spotlight on the dangers associated with water exposure, as authorities confirm a rise in severe infections across the state.",
+    "The bacteria at the center of these tragic cases has been specifically identified as Vibrio vulnificus, a virulent strain known for its rapid and devastating impact. Infections are directly linked to exposure to seawater, painting a grim picture for those who frequent coastal waters.",
+    "Beyond the fatalities, the outbreak has also led to a significant number of hospitalizations, further underscoring the severity of the situation. Health officials have confirmed at least four people have been hospitalized, with some reports indicating as many as nine individuals requiring medical intervention.",
+    "These concerning reports come as health officials have officially declared an outbreak of the Vibrio bacteria, urging heightened caution among the public. Consequently, beachgoers across Louisiana have been issued stern warnings to be vigilant and take necessary precautions to avoid exposure.",
+    "The rise in Vibrio vulnificus infections serves as a clear indicator of an escalating public health challenge within Louisiana's coastal communities. This trend suggests a growing risk that demands immediate attention and sustained public awareness efforts.",
+    "Reflecting on the immediate impact, this outbreak highlights the critical importance of understanding and mitigating environmental health risks associated with water activities. Continued vigilance, prompt medical attention for symptoms, and adherence to public health advisories will be crucial in navigating this ongoing challenge."
+  ],
+  "publishedAt": "2026-08-08T03:25:16.429Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "foxnews.com",
+    "abcnews.com",
+    "KLTV.com",
+    "WDSU",
+    "fox8live.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkJIVDhCeEU4Q2pfZzQ1MWRaWGQ4Mi1vY3V1dExGd2d5LU0ySEdXMGpCUHozV1FLZE00RlJERlNKYVZLRUhTbHNBTDRoRUhlY1ZEcG1LVVFibnc4UzY1eGdEejF3aUY3VDhoa3JhLWF0ZURZblc2WHVuamdlWktvTHhDcHdRYVhLdEVtOE00M2RWeUxFTjlvSTNsX2xFVUd4NmfSAacBQVVfeXFMT1poNWk3SUs5VEEtcFhKTk1nb0ZtcjRZVFZwcEhJY1RBdHNIekh5R2k5NVFtZWlJbXBxRF83NTFXcmxuUTBlemY2VG1JV0IxR0NGX0ZkRlI2SHdmSktjM0E0a0R5aUdCWm5sbHowblVVUUhrRTdOMFFlNWlKNmVodV9MR1lIcVRoZ0Q4MllMNGIyQXc3dWxYLS01WVNXVWFWdGM3YjdHcDg?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:18:29.962Z",
+      "detail": "Aggregated public health alerts and news reports from multiple local and national media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:22:11.126Z",
+      "detail": "Compiled death tolls, hospitalization figures, bacterial identification, and official warnings from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-08T03:25:16.429Z",
+      "detail": "Wove confirmed outbreak details with patient impact and public health advisories to illustrate the severity of the Vibrio crisis in Louisiana."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported deaths and hospitalizations were cross-referenced with the provided statistics, and the identification of the bacteria and its link to seawater exposure were verified against key claims.",
+      "timestamp": "2026-08-08T03:28:31.262Z"
+    }
+  ]
+}
