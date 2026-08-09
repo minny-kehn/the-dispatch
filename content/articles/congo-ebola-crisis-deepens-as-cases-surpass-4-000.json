@@ -1,0 +1,54 @@
+{
+  "slug": "congo-ebola-crisis-deepens-as-cases-surpass-4-000",
+  "headline": "Congo Ebola Crisis Deepens as Cases Surpass 4,000",
+  "deck": "The Democratic Republic of Congo grapples with the fastest-growing Ebola outbreak in history, now exceeding 4,000 cases, as critical failures in the international response threaten to push the crisis further into peril.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is facing an escalating public health crisis as its Ebola outbreak has now surged past 4,000 reported cases, marking it as the fastest-growing in history. This grim milestone casts a harsh spotlight on the profound challenges hindering containment efforts within the region. The relentless spread of the virus continues to push an already vulnerable population closer to the brink, demanding immediate and decisive action.",
+    "Reports from the ground paint a grim picture, indicating that even the most fundamental aspects of the current Ebola response are reportedly falling short. These critical failures undermine efforts to track, isolate, and treat patients effectively, allowing the highly contagious disease to continue its devastating trajectory. Such systemic shortcomings amplify the danger, making containment an increasingly elusive goal.",
+    "Adding another layer of complexity to the dire situation, health workers on the front lines are reportedly threatening to abandon their crucial duties. Their potential withdrawal would represent a catastrophic blow to the containment strategy, leaving communities even more exposed to the deadly virus. This looming threat underscores the intense pressure and profound risks faced by those dedicated to fighting the disease.",
+    "The reasons behind these desperate threats are rooted in deeply troubling issues, including prolonged periods of unpaid wages and the constant, deadly risks inherent in their work. These brave individuals labor under immense strain, often without the consistent financial support or adequate protection they deserve. Their sacrifices, though profound, are not being met with the necessary institutional commitment, fostering a climate of despair and distrust.",
+    "Amidst these systemic failures, the quiet heroism of some individuals stands in stark contrast. One unnamed person, for instance, is reportedly working without pay, driven by an unwavering commitment to slow the spread of this unprecedented outbreak. Such acts of profound selflessness highlight the human spirit's resilience, even as the official response falters.",
+    "Reflecting the gravity of the situation, both the Africa CDC and the World Health Organization (WHO) have issued urgent calls for robust, community-led action to contain the outbreak in the DRC. This emphasis on local engagement acknowledges that sustainable solutions must be rooted within the affected populations, empowering them to drive their own protection and recovery. Such a shift in strategy is deemed essential for any hope of success.",
+    "The confluence of a rapidly spreading virus, critical failures in the response mechanism, and the potential withdrawal of frontline health workers presents an increasingly dire scenario for the Democratic Republic of Congo. The urgent appeals for community-led initiatives must translate into tangible support and resources to avert an even greater humanitarian catastrophe. Without a swift and comprehensive overhaul of the current approach, the region faces a prolonged struggle against a relentless adversary."
+  ],
+  "publishedAt": "2026-08-09T03:33:04.563Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "The Atlantic",
+    "CNN",
+    "reuters.com",
+    "World Health Organization (WHO)"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:25:44.028Z",
+      "detail": "Aggregated reports from international news agencies and public health organizations provided real-time updates on the outbreak's progression and response challenges."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:29:23.713Z",
+      "detail": "Compiled case statistics, response efficacy evaluations, health worker grievances, and international calls for action from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:33:04.563Z",
+      "detail": "Wove together statistical updates, ground reports on response failures, and humanitarian appeals to illustrate the escalating public health crisis and its human cost."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims",
+      "timestamp": "2026-08-09T03:36:26.110Z"
+    }
+  ]
+}

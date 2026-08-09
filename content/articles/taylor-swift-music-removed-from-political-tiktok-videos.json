@@ -1,0 +1,54 @@
+{
+  "slug": "taylor-swift-music-removed-from-political-tiktok-videos",
+  "headline": "Taylor Swift Music Removed From Political TikTok Videos",
+  "deck": "Copyright claims have led to the removal of Taylor Swift's songs from TikTok posts by both the White House and Team Trump, underscoring artists' control over their intellectual property.",
+  "category": "CULTURE",
+  "body": [
+    "Taylor Swift's pervasive influence, often felt across the cultural landscape, recently extended into the contentious realm of political digital messaging, albeit not by her own design. Her songs were quietly scrubbed from several TikTok videos originating from both the White House and Team Trump accounts this week. These removals, swift and decisive, underscore a burgeoning tension between artists and political entities over the unapproved use of copyrighted material.",
+    "One specific White House TikTok video, which had previously featured a Swift track, now plays in silence following a copyright claim. This incident highlights the meticulous enforcement of intellectual property rights, even when navigating the typically freewheeling digital sphere of political communications. The move signals a clear boundary for content creators, regardless of their institutional standing.",
+    "Meanwhile, the evocative track 'August' by Taylor Swift was similarly removed from a TikTok video posted by Team Trump. This particular instance drew attention not just for the copyright claim itself, but for the perceived intent behind its initial inclusion. The choice of song was reportedly seen as a deliberate act of political provocation.",
+    "Indeed, sources characterized Team Trump's use of 'August' as a direct attempt to troll the globally recognized pop star, a tactic often deployed to garner attention or elicit a reaction. Such maneuvers, while common in political sparring, frequently run afoul of intellectual property protections. A swift copyright claim subsequently brought silence to the Team Trump video, effectively neutralizing the intended jab and asserting artistic control.",
+    "These twin incidents cast a harsh spotlight on the ongoing tension between political campaigns and musical artists regarding the unauthorized use of copyrighted material in digital spaces. While political messaging often seeks to leverage popular culture for broader appeal, it frequently collides with the fundamental rights of creators. The digital landscape, for all its fluidity, is still governed by established legal frameworks that protect artistic endeavors.",
+    "The swift action taken against both the White House and Team Trump serves as a potent demonstration of the power inherent in intellectual property law. Artists, even those as globally ubiquitous as Taylor Swift, maintain a significant degree of control over how and where their work is presented. This control extends even to high-profile political figures attempting to weave popular music into their online narratives, reminding them that even viral moments come with legal obligations.",
+    "As political narratives increasingly play out on platforms like TikTok, the boundaries of fair use and copyright enforcement will continue to be tested and refined. These recent removals illustrate a growing assertiveness from artists and their representatives in protecting their creative output against unauthorized appropriation. The incidents suggest that future political campaigns will need to exercise greater caution and perhaps even creativity when considering the sonic backdrop for their digital outreach."
+  ],
+  "publishedAt": "2026-08-09T03:33:26.823Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "USA Today",
+    "Rolling Stone",
+    "The Independent",
+    "Deadline",
+    "facebook.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDhoTC1NZkxaSTV5LXZaMFZlWjlIUnJCMm5pczFicnY1S1BySGd1dGZrczRpWE10eEpvbEtiT0gzQjZoWGFmVmlQMHY0ZEUyYmM2VWpMV3dudndrTGlVTWNLMk1kUWw3R195MTliaXlZamI5b2hUMEp1MXBJdWZtYnNETEwwdzhZbmM2bkU1LUhKYTZBYjZxcmNhSGdjckJZWHltN25ZTWxTNFRzVF8zRy1NNFE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:25:44.028Z",
+      "detail": "Aggregated news reports and social media observations from USA Today, Rolling Stone, The Independent, Deadline, and facebook.com."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:29:23.713Z",
+      "detail": "Compiled specific instances of Taylor Swift song removals from White House and Team Trump TikTok videos, along with the stated reasons for removal and analytical characterizations from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:33:26.823Z",
+      "detail": "Wove together reports of copyright enforcement against political TikToks featuring Taylor Swift's music, examining the implications for intellectual property rights and digital political messaging."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding song",
+      "timestamp": "2026-08-09T03:36:44.705Z"
+    }
+  ]
+}

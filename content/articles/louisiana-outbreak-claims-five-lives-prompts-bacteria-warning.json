@@ -1,0 +1,53 @@
+{
+  "slug": "louisiana-outbreak-claims-five-lives-prompts-bacteria-warning",
+  "headline": "Louisiana Outbreak Claims Five Lives, Prompts Bacteria Warning",
+  "deck": "A deadly outbreak of flesh-eating bacteria has claimed five lives and hospitalized four others in Louisiana, prompting urgent public health warnings across the state.",
+  "category": "HEALTH",
+  "body": [
+    "The quiet waters of Louisiana have become a source of grave concern following a recent outbreak of flesh-eating bacteria that has claimed five lives and sent four others to the hospital. Health officials across the state are now grappling with the escalating crisis, casting a harsh spotlight on the dangers lurking in seemingly innocuous environments. This tragic toll underscores a serious public health threat demanding immediate attention and public awareness.",
+    "The insidious culprit behind these devastating cases has been identified as Vibrio Vulnificus, a bacterium known for its rapid and aggressive progression. Once it enters the body, often through open wounds exposed to contaminated water, it can lead to severe tissue damage and systemic infection, painting a grim picture for those afflicted. The swift onset of symptoms makes early detection and treatment critically important.",
+    "In the wake of these fatalities and hospitalizations, Louisiana health authorities have moved swiftly, issuing a public warning to residents. This advisory serves as a vital tool to inform the community about the risks and to encourage heightened vigilance, particularly for individuals with compromised immune systems or existing skin lesions. The urgency of the situation necessitates a clear and direct message to protect the population.",
+    "The concern extends beyond Louisiana's borders, with neighboring Mississippi also reporting a significant number of related cases. Across the state line, health officials have documented 29 instances of Vibrio infections, indicating a broader regional challenge that transcends individual state lines. These converging reports suggest a widespread environmental presence of the bacteria, demanding a coordinated public health response.",
+    "These incidents collectively highlight the severe threat posed by Vibrio Vulnificus, a bacterium capable of causing profound illness and death. The issuance of these health warnings is not merely a formality; it is a crucial step towards fostering public awareness and encouraging essential preventive measures. Protecting residents from potential exposure requires both official guidance and individual responsibility.",
+    "As communities in Louisiana and Mississippi grapple with this unsettling outbreak, the focus remains squarely on public safety and the swift dissemination of critical information. Continued vigilance, particularly regarding water exposure and wound care, will be paramount in mitigating further spread and protecting vulnerable populations. The ongoing public health efforts will determine how effectively this serious threat can be contained in the weeks and months ahead."
+  ],
+  "publishedAt": "2026-08-09T03:32:40.706Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "NBC News",
+    "The New York Times",
+    "KY3",
+    "KOMO",
+    "WJTV"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWpGajIyMGhwMjJDZGk4cFJOeU9IOHpEak5IVmYzZXFVUm9YLURUMlBqVGFPb1dPb2ducEJ4N3VQVzNBc1dpN3IweERCM1A1MnN4Z19JX0Z5QzlweVUzY3J5aHlvQ3ltT1N0dU9uTWFsejVfZ294Zlo5NHh0bU85TFV4d2JpWGFfNG1ZVjJobGthdw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:25:44.028Z",
+      "detail": "Aggregated reports from major news outlets and regional broadcasters regarding a public health crisis."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:29:23.713Z",
+      "detail": "Compiled statistics on deaths and hospitalizations, identified bacterial agent, and noted public warnings from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:32:40.706Z",
+      "detail": "Wove reported fatalities and hospitalizations with official warnings and regional case numbers to illustrate a pressing public health threat."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported deaths, hospitalizations, bacterial identification, and state warnings were precisely cross-referenced and verified against the provided fact sheet, with no factual discrepancies or fabrications identified.",
+      "timestamp": "2026-08-09T03:36:07.526Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "quake-celebrates-30th-anniversary-with-expansive-update-and-sold-out-nin-collect",
+  "headline": "Quake Celebrates 30th Anniversary with Expansive Update and Sold-Out NIN Collection",
+  "deck": "The iconic first-person shooter Quake marks three decades with new game content and a commemorative merchandise line that quickly vanished from virtual shelves.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The iconic first-person shooter Quake is marking its 30th anniversary this week, a significant milestone celebrated with a wave of new content and a highly sought-after merchandise collection. Three decades after its initial release, the franchise continues to resonate deeply with players, evidenced by both developer investment in fresh experiences and an enthusiastic consumer response to commemorative items. This enduring appeal casts a bright spotlight on the lasting power of foundational video games in the modern era.",
+    "As part of the anniversary festivities, a substantial update for Quake has been released, providing players with fresh reasons to revisit its dark, gothic corridors. This includes a brand-new official mission pack, designed to extend the game's challenging narrative and expand its intricate world. The continued addition of new playable content underscores a commitment to the game's active community.",
+    "The newly added mission pack brings with it a host of new maps, promising fresh environments for players to explore and conquer. Alongside these spatial additions, new mechanics have also been introduced, evolving the gameplay experience while retaining the series' core intensity. Furthermore, a brand-new episode titled 'Dawn of the Machine' is now available, offering a completely fresh chapter in the Quake saga.",
+    "Beyond the digital additions, the anniversary has also seen the release of a special Quake collection, notably featuring the industrial rock band Nine Inch Nails. This merchandise line, an homage to the game's original sound design and aesthetic, quickly captured the attention of long-time fans and collectors alike. The collection's rapid disappearance from virtual shelves speaks volumes about the deep connection players feel to the franchise's legacy.",
+    "The overwhelming demand for these physical commemorations was strikingly clear, as Kotaku reported that \"Just About Everything Other Than The Music Sells Out In NIN’s 30th Anniversary Quake Collection.\"",
+    "This swift sell-out of anniversary merchandise, particularly the items tied to the Nine Inch Nails collaboration, underscores the strong nostalgic appeal that classic gaming properties continue to wield. It demonstrates a vibrant market demand for tangible connections to beloved franchises, even decades after their debut. The enduring legacy of Quake is not merely in its gameplay but in the cultural touchstones it created.",
+    "The sustained developer support and fervent community interest surrounding Quake's 30th anniversary offer a compelling case study in the longevity of video game franchises. It highlights how original titles can continue to evolve and captivate new generations of players while deeply satisfying those who have walked its pixelated halls since the very beginning. The celebration firmly cements Quake's place as a cornerstone of gaming history, with its future now looking as dynamic as its past."
+  ],
+  "publishedAt": "2026-08-09T03:29:44.525Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "Kotaku",
+    "Slayers Club",
+    "Ars Technica",
+    "PlayStation.Blog",
+    "XBOX Wire"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObHRoVmhkajhQdF9lV2pQMU0xZjVib0dTY2h5M0tRSllyZnh6U3dmUlE5d0N1eUlZVzZ0TFFsOVpCX2Zoai1JcXBCckFJY1hUZ3dic0FYT0FMRGNrRmt2OUlBSDdHcWhLeHlrc2daa3dFR3JyX1YzVWNVRGlFSnJOTkpqYzB4QmhNcmhQRldjMXcxejdsVU9BSUp1QS1lUW5VR2pCVkY1TUIzTWFibkJJcnlEb08taUgta3Uwd0tQWTlpdw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:25:44.028Z",
+      "detail": "Aggregated news releases and gaming publication reports regarding Quake's 30th anniversary from various platforms."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:29:23.713Z",
+      "detail": "Compiled details on new content releases, mission packs, episodes, and merchandise sell-out information from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-09T03:29:44.525Z",
+      "detail": "Wove details of new game content and merchandise demand to illustrate the enduring legacy and market appeal of the Quake franchise."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the 30th anniversary, new content details, merchandise sell-out, and direct quote, were precisely verified against the provided fact sheet with no",
+      "timestamp": "2026-08-09T03:34:07.087Z"
+    }
+  ]
+}
