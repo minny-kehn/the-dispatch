@@ -1,0 +1,53 @@
+{
+  "slug": "vibrio-vulnificus-outbreak-kills-seven-on-gulf-coast",
+  "headline": "Vibrio Vulnificus Outbreak Kills Seven on Gulf Coast",
+  "deck": "A deadly surge of 'flesh-eating' bacterial infections has prompted urgent public health warnings across Gulf Coast states following multiple fatalities.",
+  "category": "HEALTH",
+  "body": [
+    "A dangerous bacterial outbreak is casting a harsh spotlight on the health risks facing coastal communities, as seven individuals have now died from 'flesh-eating' bacteria across Gulf Coast states. This alarming surge in deadly infections has prompted health officials to issue urgent warnings, particularly for those frequenting beaches. The situation underscores the constant vigilance required to mitigate environmental health threats in vulnerable regions.",
+    "The grim picture is particularly pronounced in Louisiana, where five people have succumbed to Vibrio vulnificus, the aggressive bacterium responsible for these fatalities. Meanwhile, Florida has reported another death attributed to the same 'flesh-eating' pathogen. These individual tragedies collectively highlight an escalating public health concern across the region.",
+    "Vibrio vulnificus, often colloquially referred to as 'flesh-eating' bacteria, is known for its rapid and severe impact on human tissue. Infections can occur through open wounds exposed to contaminated saltwater or brackish water, or by consuming raw or undercooked seafood. Its swift progression makes early detection and treatment critical for patient survival.",
+    "These reports come as health authorities across the Gulf Coast region grapple with a noticeable surge in these dangerous bacterial infections. The rising number of cases has pushed officials to amplify their public safety messages, aiming to arm residents and visitors with the knowledge needed to protect themselves. This proactive communication is vital in preventing further spread and fatalities.",
+    "Reflecting the gravity of the situation, Louisiana has formally cautioned its residents against the flesh-eating bacteria, while health officials in Florida and other Gulf Coast states are echoing similar calls for extreme caution for beachgoers. These warnings emphasize the importance of avoiding water exposure with open cuts or wounds and adhering to safe seafood preparation practices.",
+    "The ongoing threat from Vibrio vulnificus demands continued public awareness and adherence to preventative measures. As the warm coastal waters remain a draw for many, understanding the risks and taking appropriate precautions will be paramount in curbing further infections and safeguarding public health along the Gulf."
+  ],
+  "publishedAt": "2026-08-10T03:52:20.914Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "WFLA",
+    "The New York Times",
+    "AP News",
+    "NBC News",
+    "WUSA9"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUJEc2FMeml6MXpsMXRfZWJKclF0dHJLNDdpdUFiWjhyUU1CTTNqV3NTOGRLdUFCdlhuTGE2ejZCZ1kxWFFPYlpraGZaZ2tzVVViSlBYa1ZwVl8tN2dpNWZmUzU1a3MwaHBHOS1pMVVDR3pRRjhYbUxRZTF0YnR6SnVYSUlaZEFseFU3VXdING9tWlBtb1YxdEdqcktfMXJKYVdHOVNXdndITk5yaUHSAbMBQVVfeXFMTlV4dnFUMFpzX2tBMGs4MzNtUi1GV25teXFsTWctUHp0Zmpzay1TNmR3MExxelhlT1FQbFJFcHp6cnBYeTZtTG9uRWFkaDZIVmlEa3NrN1pIc2hTUDRmY3VaLWRvNjhvOHoxdmZCcTJOdXZ0UnNzblhzVUdua3Q3czh6SFhGZW9ndDZmQkVjdFZkcGQwRjh4WFZ5bE1QVUJHMUp6c0Rmak5jQ19EekJIN25LSkk?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:45:00.885Z",
+      "detail": "Aggregated news reports and health advisories from major news outlets and regional health authorities."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:48:48.355Z",
+      "detail": "Compiled death tolls, bacterial identification, and public health warning details from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:52:20.914Z",
+      "detail": "Wove specific fatality statistics with official health warnings to detail the ongoing Vibrio vulnificus outbreak on the Gulf Coast."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported fatalities, locations, and public health warnings were directly verified against the provided fact sheet, with no factual discrepancies or fabrications found.",
+      "timestamp": "2026-08-10T03:55:40.390Z"
+    }
+  ]
+}

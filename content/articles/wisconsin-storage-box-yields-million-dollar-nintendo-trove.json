@@ -1,0 +1,54 @@
+{
+  "slug": "wisconsin-storage-box-yields-million-dollar-nintendo-trove",
+  "headline": "Wisconsin Storage Box Yields Million-Dollar Nintendo Trove",
+  "deck": "A forgotten collection of classic Nintendo Entertainment System games, nearly sold for pocket change, has emerged as a significant find for collectors, revealing the unexpected value of vintage digital artifacts.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "A remarkable discovery in Waukesha, Wisconsin, has sent ripples through the world of video game collecting, as a seemingly ordinary storage box yielded an extraordinary cache of rare Nintendo cartridges. These vintage finds, including iconic titles like Super Mario Bros. and Duck Hunt for the original Nintendo Entertainment System (NES), are now believed to hold a potential value stretching into the millions of dollars. The revelation underscores the often-unseen fortunes hidden within forgotten corners, waiting for the discerning eye to uncover them.",
+    "The true significance of these cartridges was almost entirely overlooked. A local Wisconsin shop, unaware of the treasures they held, nearly priced the old Mario games for a mere $15 each, a figure that now seems astonishingly low given their current valuation. This near-miss highlights the precarious journey many valuable collectibles take before their true worth is recognized by the wider market.",
+    "It was the keen insight of dedicated collectors that ultimately prevented these rare artifacts from being sold off for a pittance. After the shop's initial pricing, collectors quickly identified the genuine value of the games, recognizing them as exceptionally rare copies. One particular collector is credited with the crucial discovery of these incredibly rare Super Mario Bros./Duck Hunt NES editions, ensuring their preservation and proper assessment.",
+    "The incident casts a harsh spotlight on the burgeoning market for vintage video games, where nostalgia, scarcity, and pristine condition can converge to create immense financial value. What was once considered mere entertainment for children has evolved into a serious investment category, attracting enthusiasts and investors alike. This particular find serves as a powerful testament to the enduring appeal and escalating financial significance of early console gaming history.",
+    "At the heart of this discovery are cartridges for the beloved Nintendo Entertainment System, a console that defined a generation of gaming. Among them are copies of Super Mario Bros., a groundbreaking title that introduced millions to the platforming genre, and Duck Hunt, a ubiquitous light gun game often bundled with the console. The combination of these iconic titles, coupled with their rarity, significantly boosts their market appeal.",
+    "Analysts familiar with the retro gaming market suggest that the discovered cartridges could indeed be worth millions. This valuation is not merely speculative; it reflects documented sales of similar high-grade, sealed, or exceptionally rare vintage games in recent years. The potential for such a substantial return transforms a simple storage box find into a compelling financial narrative.",
+    "This remarkable find in Waukesha will undoubtedly prompt a renewed scrutiny of attics, basements, and forgotten storage units across the nation. It illustrates vividly that the next multi-million dollar collectible might be tucked away in plain sight, awaiting a knowledgeable eye to unlock its hidden potential. For the video game collecting community, this discovery reinforces the thrill of the hunt and the profound historical and monetary value embedded in these digital relics."
+  ],
+  "publishedAt": "2026-08-10T03:49:10.511Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "WISN",
+    "ABC7 Chicago",
+    "Yahoo Life UK",
+    "FOX6 News Milwaukee",
+    "gonintendo.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWRxVXlpRzF6MDhZdTFNVEpqandkdzE4MXRieTNlS3pmRHA3OFB3c3UwSEZFWTVLM0UxTzJzV21LaXJ2dGprOFpmNVAzMnUzLWhPdU9tWXNKeUFVUG94aEFnUGdYNEcxYjQ1bUZsbW5LNnJhQk5RaERjRFIzbGt4d2Uzd1FMbW1uMVRqR0hhckFQRS16LXBHODBTaE9nUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:45:00.885Z",
+      "detail": "News of the rare Nintendo cartridge discovery was aggregated from multiple regional and technology news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:48:48.355Z",
+      "detail": "Key facts regarding the discovery, the specific game titles, their initial near-sale price, and potential multi-million dollar value were extracted from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-10T03:49:10.511Z",
+      "detail": "The narrative was crafted by weaving together details of the unexpected find, the role of collectors, and the broader implications for the vintage video game market."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the discovery location, items found, near-sale price, and valuation were precisely cross-referenced with the provided fact sheet.",
+      "timestamp": "2026-08-10T03:53:34.773Z"
+    }
+  ]
+}
