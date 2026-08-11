@@ -1,0 +1,54 @@
+{
+  "slug": "louisiana-issues-warning-amid-rise-in-flesh-eating-bacteria",
+  "headline": "Louisiana Issues Warning Amid Rise in Flesh-Eating Bacteria",
+  "deck": "Health officials across the Gulf Coast are urging heightened vigilance after a surge in deadly bacterial infections, with a troubling link to warming waters.",
+  "category": "HEALTH",
+  "body": [
+    "Louisiana health authorities have issued a stark warning regarding a disturbing increase in flesh-eating bacteria infections along the state's Gulf Coast. This urgent advisory follows a series of fatalities, casting a harsh spotlight on a serious public health concern impacting coastal communities. The gravity of the situation underscores the need for immediate caution among residents and visitors alike.",
+    "Officials are specifically urging beachgoers and anyone engaging with coastal waters to exercise extreme caution. The warnings are aimed at preventing exposure to these dangerous pathogens, which can lead to severe and rapidly progressing infections. This proactive stance seeks to mitigate further tragedies as the summer season progresses.",
+    "These advisories come amidst a broader surge of deadly bacterial infections reported across the region. The increase paints a grim picture for an already vulnerable population, pushing health systems to heightened alert. The rapid onset and severe nature of these infections make early detection and prevention paramount.",
+    "A particular concern centers on Vibrio, a type of flesh-eating bacteria increasingly found in warmer waters. Analysts suggest a troubling connection between the rise in Vibrio cases and the broader impact of climate change. The warming of bodies of water, such as the Chesapeake Bay, has already been identified as a contributing factor to its proliferation in other coastal areas.",
+    "The human cost of this surge is already tragically evident, with authorities confirming multiple fatalities. Louisiana's warning against flesh-eating bacteria follows at least five deaths within the state. Across the broader Gulf Coast, the toll has climbed to at least seven lives lost due to these aggressive infections.",
+    "The emergence of these bacterial threats serves as a potent indicator of wider environmental shifts. As ocean temperatures continue to climb, the conditions become more hospitable for such pathogens to thrive and expand their reach. This trend presents a significant long-term challenge for public health and coastal management strategies.",
+    "Reflecting on the long-term impact, the ongoing rise in these dangerous infections necessitates sustained public awareness campaigns and robust preventative measures. The interplay between environmental changes and public health outcomes will undoubtedly remain a critical focus for officials in the coming seasons. Addressing this challenge will require both immediate vigilance and a deeper understanding of our changing coastal ecosystems."
+  ],
+  "publishedAt": "2026-08-11T03:34:54.166Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Washington Post",
+    "NBC News",
+    "AP News",
+    "Maryland Matters",
+    "CBS News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1pzUzZpMXkzNHBVM29OTVAzODJlN0NGa3ZMUEg3Q29LY2hrZ1RSdHgxMjRUMlg3RF82aVhXQWk4NDZsVnZBSTM4UXRrYnpfcUpqVFp6Zy13b1NHSVF0SHBZV3BhRW03aDdLYmd4c2tOTWZzdUxMOVlNRHZyUWxVaTZ5cWw3a05DbXBpdkxPb1FmQnNGbm8yamltQ1BzeGdCNlVGdmlMQnk5VnBDalpR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:27:46.002Z",
+      "detail": "Aggregated public health warnings, news reports, and environmental analyses concerning bacterial infections."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:31:25.726Z",
+      "detail": "Compiled specific claims about rising infections, death tolls, and climate change links from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:34:54.166Z",
+      "detail": "Wove local public health warnings with broader environmental factors to highlight a critical coastal health concern."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding bacterial infections, death tolls, and environmental links were cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-08-11T03:38:14.995Z"
+    }
+  ]
+}

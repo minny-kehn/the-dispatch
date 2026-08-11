@@ -1,0 +1,54 @@
+{
+  "slug": "who-reveals-congo-ebola-outbreak-began-months-earlier",
+  "headline": "WHO Reveals Congo Ebola Outbreak Began Months Earlier",
+  "deck": "The World Health Organization reports that the current Ebola outbreak in the Democratic Republic of Congo started months before its official declaration, complicating urgent containment efforts.",
+  "category": "HEALTH",
+  "body": [
+    "A fast-moving Ebola outbreak currently sweeping through the Democratic Republic of Congo began several months before it was officially recognized, according to a recent statement from the World Health Organization (WHO). This significant delay has cast a harsh spotlight on the challenges confronting public health officials, who now acknowledge they are profoundly 'playing catch-up' against a rapidly spreading disease.",
+    "The delayed declaration means that valuable time was lost in initiating critical public health interventions, allowing the virus to establish a wider foothold within communities. Officials are grappling with the complexities of tracing contacts and isolating cases that predate the formal recognition, making containment a far more arduous task than initially anticipated.",
+    "Adding to the complexities, the current strain of the outbreak presents unique characteristics, proving distinct from previous epidemics for which response protocols were meticulously developed.",
+    "\"We prepared for Ebola — but not this Ebola.\"",
+    "This sentiment from medical sources underscores the unforeseen nature of the present crisis, highlighting how the virus has evolved or manifested in ways that challenge established public health strategies. The difference in this outbreak demands a rapid adaptation of tactics and a deeper understanding of its transmission dynamics.",
+    "In response to the escalating situation, both the Africa CDC and the WHO have issued a joint appeal for urgent, community-led action across the affected regions. Their call emphasizes that local engagement and trust are paramount in effectively breaking chains of transmission and protecting vulnerable populations.",
+    "The path forward necessitates a concerted and adaptive effort, integrating local knowledge with international expertise to halt the spread of this formidable disease. The immediate focus remains on bolstering community-level responses and ensuring resources reach those at the forefront of this public health emergency."
+  ],
+  "publishedAt": "2026-08-11T03:35:12.926Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "ABC News - Breaking News, Latest News and Videos",
+    "BBC",
+    "World Health Organization (WHO)",
+    "STAT"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPMzQ2WnExRkN1SjVSWUVhWkxJbVFHT1VwZmI4bmlSOUpGdnV6b1RKc25NOFBKZVExUm1lNEZuSzZYYXBWVkkxak12U3BMM2JwUDdTakpheklyVjA1X3RsSXhjRWdPRmJndXo2cG5Jb1R3c0JPVVhmVkpxQjc4RG1SWWhZNDZ1a2tfUzFfSGQtaHdzNkhaNS13eGc3a05adw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:27:46.002Z",
+      "detail": "Aggregated news reports and organizational statements from international media and health bodies provided initial alerts and key details."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:31:25.726Z",
+      "detail": "Compiled facts regarding the Ebola outbreak's delayed start, WHO's statement, the 'playing catch-up' status, and calls for community action from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:35:12.926Z",
+      "detail": "Wove together official statements and expert analysis to detail the critical implications of the delayed Ebola outbreak declaration in Congo and the urgent need for adaptive responses."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 9/10, Readability: FK 17.1",
+      "timestamp": "2026-08-11T03:38:34.305Z"
+    }
+  ]
+}

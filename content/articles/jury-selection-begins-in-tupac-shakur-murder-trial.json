@@ -1,0 +1,54 @@
+{
+  "slug": "jury-selection-begins-in-tupac-shakur-murder-trial",
+  "headline": "Jury Selection Begins in Tupac Shakur Murder Trial",
+  "deck": "Nearly three decades after the iconic rapper's death, a trial for his 1996 murder has commenced, promising potential answers to a long-standing mystery.",
+  "category": "CULTURE",
+  "body": [
+    "Jury selection has commenced for the long-anticipated trial of an ex-gang leader accused in the 1996 murder of hip-hop icon Tupac Shakur. This pivotal moment arrives nearly 30 years after the artist's untimely death, marking a significant development in one of music's most enduring unsolved mysteries. The legal proceedings aim to finally address the questions surrounding a killing that has captivated the public for decades.",
+    "The man now facing trial is identified as a former gang member, specifically charged with orchestrating the fatal shooting that claimed Shakur's life. His arrest and subsequent indictment have cast a harsh spotlight on the events of that fateful night in Las Vegas, nearly three decades past. This pursuit of justice has moved at a measured pace, reflecting the complexities inherent in such a high-profile case.",
+    "Intriguingly, reports indicate that the defendant in this murder trial is also positioned as the prosecution’s star witness. This unusual dual role suggests a complex legal strategy at play, potentially aiming to unravel the full narrative of the 1996 killing. The specifics of his testimony and its implications for the case remain a central point of anticipation.",
+    "Meanwhile, Marion \"Suge\" Knight, who was with Shakur in the vehicle when the shooting occurred, has publicly stated his disinterest in testifying. His reluctance could introduce another layer of complexity to the proceedings. Knight’s historical proximity to the events makes his absence from the witness stand a notable factor.",
+    "As reported by ABC News, Knight's position is clear: <em>'Leave me out of it,'</em> he stated, indicating his firm stance on avoiding involvement in the trial of the Tupac Shakur murder suspect.",
+    "The commencement of this trial represents a major breakthrough in a case that has long haunted the hip-hop community and the broader public. For years, theories and speculation have swirled around Shakur’s death, making this legal development a critical juncture. It offers the first concrete opportunity for a court of law to address the lingering questions.",
+    "This trial carries the immense weight of nearly three decades of anticipation for answers and accountability. For Tupac Shakur's family, friends, and legions of fans, the proceedings hold the potential for long-sought closure regarding the loss of one of music's most influential and visionary voices. The courtroom will now serve as the arena where history is finally confronted.",
+    "As jury selection unfolds, the coming weeks are poised to reveal details that could reshape the public understanding of that tragic night. The pursuit of justice for Tupac Shakur, though long delayed, now moves forward, promising a rigorous examination of the facts and circumstances surrounding his enduring legacy."
+  ],
+  "publishedAt": "2026-08-11T03:35:34.994Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Reuters",
+    "BBC",
+    "ABC News - Breaking News, Latest News and Videos",
+    "NBC News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRExTWkVOT3Z2WjAtQTFxWnd4Wk5WUVVDbGhtX28tOEx1VTBJQ1A5a2lSWkFOUVU3VDBpOEdPeGs3a2UzMFZWcXVDamhjVnBmMjh5ajJIMzBvd1dZdy1nRTFMY3FZb2JnejVKSmdOUl9kdUpGU3hSVXIzUVJPUkRfd1dUNDkteG45NzJ4bkFSQy01cFFYUGUzSEhiaWZuX2dFR1lBM3A4U1R5ZEdaMTMxZE5Ha0dId3JhVFE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:27:46.002Z",
+      "detail": "Aggregated reports on the commencement of the Tupac Shakur murder trial, including details on the accused and key statements, from multiple news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:31:25.726Z",
+      "detail": "Compiled facts regarding jury selection, the identity and role of the defendant, the timeline of the murder, and Suge Knight's refusal to testify, from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:35:34.994Z",
+      "detail": "Wove together legal developments, historical context, and key statements to present a comprehensive overview of the long-awaited trial for Tupac Shakur’s 1996 murder."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 7/10, Readability: FK 13.4",
+      "timestamp": "2026-08-11T03:38:52.939Z"
+    }
+  ]
+}

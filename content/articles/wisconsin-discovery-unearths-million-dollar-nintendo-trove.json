@@ -1,0 +1,53 @@
+{
+  "slug": "wisconsin-discovery-unearths-million-dollar-nintendo-trove",
+  "headline": "Wisconsin Discovery Unearths Million-Dollar Nintendo Trove",
+  "deck": "A cache of nearly 100 previously unseen Nintendo game cartridges, unearthed in Waukesha, Wisconsin, has ignited the retro gaming world with its potential multi-million dollar valuation.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The quiet corners of a Wisconsin game shop have yielded an extraordinary find, sending ripples through the world of vintage technology and collecting. Nearly 100 never-before-seen Nintendo cartridges, some featuring iconic titles, have surfaced, sparking intense interest among enthusiasts. This remarkable discovery, made in Waukesha, carries an estimated value potentially reaching into the millions, signaling a significant moment for video game history.",
+    "These elusive cartridges, found within a storage box at a local game shop in Waukesha, are confirmed to be exceedingly rare. Among the unearthed treasures are beloved classics such as Super Mario Bros. and Duck Hunt, titles that shaped a generation of gamers. The sheer volume of previously uncirculated games makes this an unprecedented event in the collecting community.",
+    "For decades, the idea of uncovering such a pristine, untouched collection of vintage gaming artifacts has been a collector's dream, largely considered improbable. This find casts a harsh spotlight on the enduring allure of early console gaming, where sealed or previously unknown items command exorbitant prices. The market for retro video games continues to demonstrate robust growth, driven by both nostalgia and investment potential.",
+    "Reflecting the immediate interest and their perceived value, these rare Nintendo cartridges have already made their way to the auction block. Experts anticipate fierce bidding, with collectors and investors eager to secure a piece of this unique technological heritage. The sale is expected to set new benchmarks for vintage video game memorabilia, further solidifying the market's strength.",
+    "The potential for these discovered cartridges to fetch millions underscores the evolving perception of video games from mere entertainment to valuable cultural artifacts. This valuation positions the find not just as a fascinating relic, but as a significant financial asset. It also highlights the thrill of the hunt for hidden gems within the vast landscape of discarded or forgotten items.",
+    "As the auction proceeds, the eyes of the retro gaming world will remain fixed on Waukesha, Wisconsin, awaiting the final valuation of this extraordinary collection. The outcome will undoubtedly shape future expectations for similar discoveries, inspiring renewed searches in unexpected places. This event serves as a powerful testament to the untapped history still waiting to be uncovered within the annals of technology."
+  ],
+  "publishedAt": "2026-08-11T03:32:09.464Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "ABC News - Breaking News, Latest News and Videos",
+    "ABC7 Chicago",
+    "NewsNation",
+    "The Bobby Bones Show",
+    "WISN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNU4tV29iMlFVcXJIeTJDNUFRVnZnd25NTDRNbTFnbXhhblZwLVFqUnZjR051cnp1ZGpvVVV6WU1ZMFBGeWxfZTJWa3U4Sk1WcVU4SDVGOXFGS25lSlowY1ZGbmJISjZCaG5pX2t2Z0Z4elk0bUNlaUZUWW93U1NXN1pJRHlZOEJDbW9Xbjh0V0RGaDlxWWfSAZsBQVVfeXFMT3RqNUJ6WUpaOEpOQTFKekZGSFQ2bm9sSlVtaDZPZGpYTWgxcXRPYmVFdFFVaW1HUjQzeUVBSUVWVHBkZWR3R3NfMmtkVDZ0LUhyRUs3QnFpa05PdFdGVkpPeVNQdURSeENkbXA2cGxobDBOa1gtQ0I3eHdYUFk0T0VLbW9ud3c2YWxtSm1MNkM3Z2RuVnR1WWlXOXc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:27:46.002Z",
+      "detail": "Aggregated news reports and local media coverage on the discovery of rare Nintendo cartridges."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:31:25.726Z",
+      "detail": "Compiled facts on the quantity, rarity, location, specific titles, potential value, and auction status of the discovered cartridges from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-11T03:32:09.464Z",
+      "detail": "Wove specific details about the discovery with market analysis to illustrate its significance for retro gaming and collecting."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the discovery location, quantity, titles, rarity, and auction status were directly verified against the provided fact sheet.",
+      "timestamp": "2026-08-11T03:36:30.302Z"
+    }
+  ]
+}
