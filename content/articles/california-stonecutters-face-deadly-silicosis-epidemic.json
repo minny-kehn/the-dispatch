@@ -1,0 +1,55 @@
+{
+  "slug": "california-stonecutters-face-deadly-silicosis-epidemic",
+  "headline": "California Stonecutters Face Deadly Silicosis Epidemic",
+  "deck": "An incurable lung condition has sickened hundreds and claimed dozens of lives among California stone countertop workers, casting a harsh spotlight on occupational safety.",
+  "category": "HEALTH",
+  "body": [
+    "A severe and escalating health crisis has gripped California's stone countertop industry, where a skyrocketing number of workers have been afflicted with an incurable lung disease. This devastating condition, directly linked to the fabrication of common kitchen items, has pushed an already vulnerable population closer to the brink, exposing critical gaps in workplace protection.",
+    "Hundreds of California stonecutters, particularly those handling quartz, have fallen gravely ill with what has been identified as silicosis. This incurable lung condition stems from the inhalation of crystalline silica dust, a pervasive byproduct of cutting and grinding engineered stone countertops.",
+    "The human toll of this occupational hazard paints a grim picture. Nearly 600 individuals have been sickened by silicosis across the state, with the disease claiming the lives of 31 workers to date. These figures underscore the urgent need for heightened awareness and more robust safety measures within the industry.",
+    "The gravity of the situation is perhaps best captured by the stark realization that these profound sacrifices are made for everyday commodities.",
+    "\"for a product we do not need\"",
+    "This sentiment, voiced in the Los Angeles Times, encapsulates the tragic irony of workers developing a terminal illness while producing a common household item. It compels a deeper look into the societal cost of consumer goods and the ethical responsibilities of manufacturers.",
+    "The outbreak serves as a stark indicator of the systemic challenges in protecting laborers in high-risk environments. As the number of cases continues to mount, it raises pressing questions about industry regulations, employer accountability, and the long-term health implications for those who shape our living spaces."
+  ],
+  "publishedAt": "2026-08-15T02:52:19.330Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "New York Post",
+    "KCRA",
+    "Los Angeles Times",
+    "People.com",
+    "The Daily Beast"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDhPSUU1VDFsa1R4ZWpKVGVHTU80cUlKcUt4c0dNOGlUTnlWdS1NdDZfT0pWcC14MWVPYTAwcGczVFFMLTdvVjR5UlFvTlRrcXB5ZTJVa2Zma1pXMHkyNW1DVFV0M2JfVjA0V2pzLUdnYlJ0OEZnX3IzcXlQN3Q3dHRPejZmUUFBZTlDd3pFNmNudDloUUx5RVFoaTVhTDVJU3ZlYW5LSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2M3NVFTQktWaW5Pc3dMcWNwZnNfUnhtaGRnZlpwSHIzUjNUU1JmaTZ5aFdsWnl1WXRaQ2R1YlYyMm5wWmVkdGc3bHkxSjI5ekpHdVUzMExoX1hDRllScHcwX3ZBSnJUVVItNFZzeFZRcUZTUGtjbElZc0dpTkU1ekdzLXhXcHNBcUd5VExRUEVWSzZ6ZUM3dWFPYVNYVlpNUmY4RdIBqgFBVV95cUxQQm5Gd3F0S01iejNscTdTcDNEZEhQeGNadGJNV1VMRnVwMG1peUVOakkzeDRZZDFrNVdXaXF5YkUwb1R1elUyanVkNHMtRVFjdDVtRlNtMDJsdU5iWVBNM3QzWHdfYl9SaHBCLWxnZWM4cHBmNzk2b09jSzBBZnNDMldjQ3hBVUl2bENHOUd6RjdpWFpkLXFnLUpWd3Z0M3NFUXNRN0Y0Tk5oZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:45:14.190Z",
+      "detail": "Aggregated news reports and health statistics from multiple reputable sources to identify a silicosis outbreak."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:48:59.047Z",
+      "detail": "Compiled statistics on deaths and illnesses, identified the disease, and linked it to stone countertop exposure from 6 distinct news organizations."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:52:19.330Z",
+      "detail": "Wove together reported health data, industry context, and a key quote to articulate the human cost and systemic issues of the silicosis crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific statistics, disease names, and direct quotes were precisely verified against the provided fact sheet, with contextual details aligning accurately with the core claims.",
+      "timestamp": "2026-08-15T02:55:40.166Z"
+    }
+  ]
+}

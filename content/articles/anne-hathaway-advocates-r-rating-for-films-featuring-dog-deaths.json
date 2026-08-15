@@ -1,0 +1,52 @@
+{
+  "slug": "anne-hathaway-advocates-r-rating-for-films-featuring-dog-deaths",
+  "headline": "Anne Hathaway Advocates R-Rating for Films Featuring Dog Deaths",
+  "deck": "Prominent actress Anne Hathaway has publicly shared a firm stance on the emotional toll of on-screen animal harm, suggesting a new standard for film ratings.",
+  "category": "CULTURE",
+  "body": [
+    "Actress Anne Hathaway has ignited a conversation among film enthusiasts and animal lovers alike, asserting that movies depicting the death of a dog should automatically receive an R-rating. This direct call by \"The Odyssey\" star, as identified by IMDb, underscores a growing sentiment regarding the profound emotional impact such scenes have on audiences. Her remarks have quickly resonated across multiple entertainment news outlets, bringing a sensitive topic into the spotlight.",
+    "\"Movies That Kill Dogs Should Automatically Be Rated R,\" Anne Hathaway was widely quoted as saying, a sentiment echoed across publications like Variety and The Hollywood Reporter.",
+    "Hathaway's position points to a belief that the portrayal of a dying dog carries a weight significant enough to warrant a more restrictive classification for viewers. Multiple entertainment news outlets, including Yahoo and Consequence of Sound, reported extensively on her strong opinion, highlighting the broad interest in this particular aspect of cinematic storytelling. Her comments suggest a deep understanding of how deeply viewers connect with on-screen animal characters.",
+    "This advocacy could spark broader discussions within the film industry about the criteria for ratings, particularly concerning content that evokes intense emotional responses from audiences. Hathaway's statement reflects a common, deeply felt sentiment among pet owners and general film viewers who often find the depiction of animal deaths to be profoundly distressing. Her high profile lends considerable weight to this conversation, potentially influencing public perception and future discourse around film content guidelines.",
+    "The actress's powerful declaration brings a critical, often unspoken, aspect of film consumption to the forefront, challenging existing rating conventions. As the conversation continues, Hathaway’s remarks may encourage a re-evaluation of how the emotional impact of on-screen animal harm is considered by rating boards and filmmakers alike."
+  ],
+  "publishedAt": "2026-08-15T02:52:57.704Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Variety",
+    "Yahoo",
+    "The Hollywood Reporter",
+    "Consequence of Sound",
+    "IMDb"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0xyLXM5Z2VaTi1FdU02bVNTQzhFQ01aVWVJS3E0MWhTTDRhY01RR1lwZUU2QVpNOER2cmxXLWNQeUFOSGlxWXpaN29LWHlscGpfNGtyN181ek5OTEFiM1U4UjltdEZqWm9VZ2dCQ1ZDTlJMSFZ1SU5FQ2tzZTExRGZKMzJMTU1Ud3pQMlNvSQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:45:14.190Z",
+      "detail": "Aggregated entertainment news reports and celebrity statements regarding film content."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:48:59.047Z",
+      "detail": "Compiled direct quotes and analytical interpretations of Anne Hathaway's stance on movie ratings from 5 distinct entertainment sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-15T02:52:57.704Z",
+      "detail": "Wove direct celebrity quotes with media analysis to illuminate a prominent actress's call for stricter film rating criteria based on on-screen animal deaths."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All direct quotes and specific factual claims regarding Anne Hathaway's stance and its reporting by various outlets were precisely verified against the provided fact sheet.",
+      "timestamp": "2026-08-15T02:56:14.285Z"
+    }
+  ]
+}
