@@ -1,0 +1,54 @@
+{
+  "slug": "congo-ebola-outbreak-overwhelms-response-efforts",
+  "headline": "Congo Ebola Outbreak Overwhelms Response Efforts",
+  "deck": "Health workers in the Democratic Republic of Congo are struggling to contain a rapidly spreading Ebola epidemic, which now threatens to become the deadliest in history.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with a severe Ebola outbreak that has pushed its already strained health infrastructure to the brink. The virulent disease is spreading with alarming speed, overwhelming local health workers and challenging the capabilities of international response efforts. This escalating crisis casts a harsh spotlight on the urgent need for a more robust and effective global public health strategy.",
+    "On the ground, exhausted health workers are struggling to keep pace with the relentless demands of the epidemic. Reports indicate that Ebola is significantly outpacing contact tracing efforts, making it incredibly difficult to isolate new cases and break chains of transmission. This inability to track and contain the virus effectively allows it to spread unchecked through vulnerable communities.",
+    "The stark reality of the situation was underscored by UN News, which reported simply, ‘Ebola is winning’.",
+    "The human cost of this unchecked spread is devastatingly clear. The Ebola epidemic is currently claiming a life every 30 minutes, painting a grim picture of the virus's lethal efficiency. This relentless mortality rate reflects the severe challenges in providing timely medical intervention and containing the disease's reach.",
+    "Adding to the complexity, this particular outbreak is attributed to new animal transmission, complicating traditional containment strategies. The UN relief chief has warned unequivocally that the disease is outpacing the response in the Democratic Republic of Congo, signaling a critical gap between the scale of the crisis and the resources deployed to combat it.",
+    "Should the current trajectory continue, experts fear the Congo Ebola outbreak is on track to become the deadliest in history. This grim prospect highlights the severe systemic vulnerabilities within the region and the urgent need for a more comprehensive approach to public health emergencies. The shadow of past epidemics looms large, underscoring the critical importance of effective containment.",
+    "The immediate future for the Democratic Republic of Congo hinges on a dramatic increase in resources and a radical re-evaluation of current intervention strategies. Without a concerted and intensified effort, the epidemic risks further destabilizing communities and claiming countless more lives. The international community faces a profound test in demonstrating its capacity to protect the most vulnerable from this escalating public health catastrophe."
+  ],
+  "publishedAt": "2026-08-16T03:02:05.656Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "Al Jazeera",
+    "OCHA",
+    "UN News",
+    "PBS"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkp4SWZma2xCbmZUVVdhS2FVWXl6bFJpcmgyc0J2Zi1KYlhLT3dId0FleHJvRXl4X3VZWWpLYUw4M3I4YkRrbjdpcVB5Ylg0dHhwalpya2hTaHNwLWw2T0xQZDNWUFgweGc3alFMX0E1SGktTkRSTHB3NmZ5VVZIUng5d3NBZElJc3U1RjBISGwtMTZzXzNuQnJuQmFMMGhpNXQ5ekxsODlqazJy?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:53:47.747Z",
+      "detail": "Aggregated reports from major news outlets and UN agencies on the unfolding public health crisis."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:57:41.394Z",
+      "detail": "Compiled details on health worker struggles, outbreak speed, transmission type, mortality rates, and historical significance from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-16T03:02:05.656Z",
+      "detail": "Wove together immediate crisis details with broader contextual warnings and statistical impacts to illustrate a spiraling public health emergency."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 10/10, Readability: FK 15.3",
+      "timestamp": "2026-08-16T03:05:29.882Z"
+    }
+  ]
+}

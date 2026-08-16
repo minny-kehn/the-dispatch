@@ -1,0 +1,54 @@
+{
+  "slug": "afghanistan-endures-five-years-of-taliban-rule",
+  "headline": "Afghanistan Endures Five Years of Taliban Rule",
+  "deck": "A grim five-year anniversary marks the Taliban's return to power in Afghanistan, casting a harsh spotlight on a nation grappling with deepening humanitarian crises and systemic human rights abuses.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Five years have now passed since the Taliban seized control of Kabul, ushering in a new era for Afghanistan that continues to be defined by profound challenges. This significant anniversary arrives as aid groups issue urgent warnings, painting a grim picture of a nation teetering on the brink of a full-blown humanitarian crisis. The international community watches closely as the long-term consequences of this governance unfold across the country.",
+    "Analysts suggest that, five years into this new chapter, Afghanistan is still losing ground, with its population enduring immense hardship. The initial hopes for stability have largely dissipated, replaced by a pervasive sense of struggle for many ordinary citizens. This assessment underscores the severe and enduring impact of the Taliban's policies on daily life and the national fabric.",
+    "Perhaps one of the most devastating impacts has been the systematic erasure of Afghan women from public life under Taliban rule. Education, employment, and social participation have been severely curtailed, effectively confining women to their homes and denying them fundamental rights. This profound rollback of freedoms has drawn widespread condemnation and remains a central concern for human rights advocates globally.",
+    "Meanwhile, as the humanitarian situation deteriorates and women's rights remain suppressed, concerns are growing over the Taliban's increasing global ties. This engagement with various international actors raises complex questions about recognition and the potential for legitimizing a regime that has consistently violated international norms. The delicate balance between engagement and accountability continues to challenge diplomatic efforts.",
+    "The memory of the Taliban's swift takeover of Kabul five years ago remains vivid, symbolizing the dramatic shift in Afghanistan's trajectory. That pivotal moment set in motion the events that have led to the current state of affairs, leaving countless individuals to navigate a drastically altered reality. The anniversary prompts a renewed focus on the human cost of this change.",
+    "Among those struggling to survive is one woman, whose ordeal has come to symbolize the broader challenges faced by many Afghans under Taliban administration. Her story, a testament to resilience amidst adversity, highlights the relentless daily battle for existence that defines life for an already vulnerable population. It serves as a poignant reminder of the personal toll exacted by the political landscape.",
+    "As Afghanistan marks this five-year milestone, the path ahead remains fraught with uncertainty for its people and for international relations. The ongoing humanitarian crisis, the systematic oppression of women, and the complex geopolitical implications of the Taliban's governance demand sustained global attention. The enduring consequences of these past five years will continue to shape the nation's future."
+  ],
+  "publishedAt": "2026-08-16T02:59:14.792Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Reuters",
+    "CNN",
+    "The New York Times",
+    "The Guardian",
+    "AP News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:53:47.747Z",
+      "detail": "Aggregated news reports and analyses from leading international publications regarding the five-year anniversary of the Taliban's rule in Afghanistan."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:57:41.394Z",
+      "detail": "Compiled facts detailing the Taliban's five years in power, warnings of crisis, the status of women, and international concerns from Reuters, CNN, The New York Times, The Guardian, and AP News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:59:14.792Z",
+      "detail": "Wove together reports on humanitarian conditions, human rights, and geopolitical implications to construct a comprehensive narrative of Afghanistan under five years of Taliban governance."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 3/10, Accuracy: 10/10, Readability: FK 15.6",
+      "timestamp": "2026-08-16T03:03:40.227Z"
+    }
+  ]
+}

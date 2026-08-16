@@ -1,0 +1,50 @@
+{
+  "slug": "chinas-coal-plan-prioritizes-energy-security-over-immediate-emissions-peak",
+  "headline": "China's Coal Plan Prioritizes Energy Security Over Immediate Emissions Peak",
+  "deck": "Beijing's newly unveiled 15th five-year plan for the coal industry signals a persistent reliance on the fossil fuel, even as it outlines a broader goal to cap consumption within the same period.",
+  "category": "CLIMATE",
+  "body": [
+    "China's National Development and Reform Commission (NDRC) and the National Energy Administration (NEA) published the 15th five-year plan for the coal industry on August 10, outlining the nation's energy strategy for the 2026-2030 period. The comprehensive document includes a goal to peak coal consumption within this five-year window, a significant marker for the world's largest coal consumer.",
+    "This particular five-year period, spanning 2026 to 2030, holds considerable weight as it directly precedes China's ambitious international pledge to peak its overall carbon dioxide (CO2) emissions. The nation has committed to reaching this critical emissions zenith 'before 2030,' making the trajectory of coal consumption in the preceding years acutely important.",
+    "Despite the overarching ambition to peak coal consumption within the plan's timeframe, the document notably refrains from setting a specific, government-endorsed year for this crucial turning point. This absence of a precise deadline leaves room for interpretation and raises questions about the immediate pace of China's energy transition away from fossil fuels.",
+    "Analysts tell Carbon Brief that the plan confirms a “broader trend” – driven by the conflict in the Middle East – in which coal’s role in China as a “cheap and secure” source of energy is reinforced – instead.",
+    "Indeed, the plan strongly emphasizes coal's enduring importance within China’s broader energy system, focusing heavily on the intricate systems that underpin its massive production. This strategic focus reflects an ongoing prioritization of energy security, particularly in a volatile global landscape, even as climate pressures mount.",
+    "Simultaneously, the document includes a forward-looking warning to the coal sector itself, signaling the imperative to diversify into other industries. This includes a push towards clean energy and chemicals, anticipating a future where coal consumption will ultimately decline from its peak levels.",
+    "These latest directives emerge against a backdrop of earlier policy documents issued in April 2026, which had called for the 'strict control' of fossil fuels. Those preceding policies had even established a framework for local governments to be graded on their adherence to reduced coal use, presenting a nuanced and sometimes conflicting policy landscape.",
+    "The 15th five-year plan for coal thus paints a complex picture, balancing China's immediate energy security needs with its long-term climate commitments. The coming years will reveal how effectively Beijing navigates this tension, and what the ultimate implications will be for global efforts to mitigate climate change."
+  ],
+  "publishedAt": "2026-08-16T03:00:20.124Z",
+  "readTime": 2,
+  "sources": [
+    "Carbon Brief"
+  ],
+  "sourceUrls": [
+    "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:53:47.747Z",
+      "detail": "The article's core information was sourced from a detailed report published by Carbon Brief on China's 15th five-year plan for the coal industry."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:57:41.394Z",
+      "detail": "Key facts regarding the plan's publication date, timeframe, goals, and analytical interpretations were extracted from the Carbon Brief report."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-16T03:00:20.124Z",
+      "detail": "The narrative wove together policy details, expert analysis, and China's climate pledges to illuminate the strategic tension between energy security and emissions reduction."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, dates, entities, and direct quotes were meticulously cross-referenced against the provided fact sheet, confirming complete accuracy.",
+      "timestamp": "2026-08-16T03:04:14.446Z"
+    }
+  ]
+}

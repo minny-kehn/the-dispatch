@@ -1,0 +1,54 @@
+{
+  "slug": "tori-spelling-recalls-directors-harsh-set-treatment",
+  "headline": "Tori Spelling Recalls Director's Harsh Set Treatment",
+  "deck": "Actress Tori Spelling recently recounted a deeply unsettling professional experience, detailing how an 'overly critical' director left her wishing for immediate dismissal from a film production.",
+  "category": "CULTURE",
+  "body": [
+    "Tori Spelling, a familiar face from her years on 'Beverly Hills, 90210,' has openly shared a particularly distressing episode from her career, labeling it her 'worst movie experience.' She described an encounter with an 'overly critical director' whose conduct on set left an indelible mark, casting a harsh spotlight on the sometimes challenging dynamics within the entertainment industry. This candid revelation has prompted discussions about professional conduct and the emotional toll such environments can take.",
+    "The actress detailed how the director's intense scrutiny created an atmosphere of profound discomfort. Spelling recalled feeling such acute unease on set that she was left 'shuddering' by the experience, a powerful indicator of the emotional weight she carried during that production. Her account paints a vivid picture of the stressful conditions she endured.",
+    "\"He didn’t like me,\" Spelling stated, conveying her personal interpretation of the director’s behavior towards her.",
+    "This pervasive feeling of being targeted ultimately led to a profound desire to exit the project entirely. Spelling revealed that the on-set situation became so unbearable she found herself hoping for a swift end to her involvement. The emotional strain was significant enough to make her yearn for dismissal.",
+    "\"Just Fire Me,\" she recounted wishing, illustrating the depth of her despair during the production.",
+    "The challenging experience unfolded during the making of the film 'Evil Alien Conquerors,' a detail that grounds her widely reported anecdote in a specific production. This particular set became the backdrop for what Spelling describes as her most difficult professional encounter. The incident stands as a powerful example of the kind of hidden struggles performers can face.",
+    "Spelling's candid recounting contributes to an ongoing industry dialogue about power imbalances and the necessity of fostering respectful work environments. Her story underscores the emotional well-being of cast and crew, even for established figures, and serves as a poignant reminder that professional conduct profoundly shapes the creative process. The entertainment world continues to grapple with these important considerations, seeking to ensure healthier sets for all."
+  ],
+  "publishedAt": "2026-08-16T03:02:44.409Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Page Six",
+    "People.com",
+    "Yahoo",
+    "Entertainment Weekly",
+    "The New"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0VqVEk0YjlXdFJwdVVGTzdBNEJLOFZJNjViWTlVU092ODFYQ2xzOFlDMGZLU2xUR25vcGtYa1hhMnF5OFN0QWNFNTZxaDQzVW1TMU9mTXRRSkQxUzBhXzI2QTBxYmhpVE5nUmIwZTVPS1RHXzAtcFFOZlQ2VmlIcmFEaHhXcGdyTUQ4X1o2aHRiOHRSVTZaRTUwblZDLXI5ZGdzeGtvc0o0WTdnY01R?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:53:47.747Z",
+      "detail": "Aggregated reports from entertainment news outlets and celebrity publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-16T02:57:41.394Z",
+      "detail": "Compiled specific claims and direct quotes from Tori Spelling regarding a difficult on-set experience from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-16T03:02:44.409Z",
+      "detail": "Wove personal anecdotes with industry context to illustrate challenges actors face on film sets."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, direct quotes, and event details were meticulously cross-referenced and verified against the provided fact sheet, confirming complete accuracy.",
+      "timestamp": "2026-08-16T03:05:46.948Z"
+    }
+  ]
+}
