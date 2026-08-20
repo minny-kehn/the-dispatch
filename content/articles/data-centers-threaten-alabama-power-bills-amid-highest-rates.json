@@ -1,0 +1,53 @@
+{
+  "slug": "data-centers-threaten-alabama-power-bills-amid-highest-rates",
+  "headline": "Data Centers Threaten Alabama Power Bills Amid Highest Rates",
+  "deck": "New data center proposals in Alabama could strain the state's power grid and potentially raise costs for residents already paying the highest electricity bills in the nation, despite utility assurances.",
+  "category": "CLIMATE",
+  "body": [
+    "Alabama Power, the state’s dominant electric utility, operates as an effective monopoly across much of the region. This position grants it significant influence over the energy landscape, particularly as average residential electric bills in its service area are currently the highest in the nation.",
+    "Against this backdrop, an Inside Climate News analysis reveals at least a dozen proposed data center developments across Alabama. If these energy-intensive campuses are built to their full capacity, they would collectively consume more electricity than all of the homes in Alabama combined, casting a harsh spotlight on the state's energy future.",
+    "Alabama Power has publicly stated its commitment to customers, asserting that power bills will not increase due to the influx of these data centers. The utility’s reassurance seeks to quell anxieties among a populace already burdened by steep energy costs.",
+    "\"Don’t worry about your power bills. They won’t go up because of data centers,\" the utility has advertised.",
+    "Yet, the question of whether the energy company will be able to keep that promise remains an open one.",
+    "Information regarding utility contracts with data center developers is often obscured, painting a grim picture of transparency. Heavy redactions and non-disclosure agreements, frequently signed by public officials, routinely shroud the financial particulars of these agreements from public scrutiny.",
+    "In response to these growing concerns, SB 270, a law enacted this year, aims to bring greater oversight to the process. This legislation now requires the state Public Service Commission (PSC) to consider whether a utility’s contract with a data center developer truly serves the public interest.",
+    "Specifically, SB 270 mandates that the PSC scrutinize contract pricing and terms, ensuring they could lower costs for other customers. The law also requires verification that all incremental costs associated with serving these new facilities are fully recovered from the data center operators themselves, rather than shifted to existing ratepayers.",
+    "Shannon Vanden Heuvel, an Alabama resident, expressed deep skepticism regarding the utility's assurances.",
+    "_\"I don’t believe a word they say,\" she stated, reflecting a sentiment of distrust among some consumers._",
+    "The coming months will test the efficacy of SB 270 and the PSC's resolve to protect Alabama residents. As these massive data center projects move forward, the ultimate impact on the state's power grid and, crucially, on the wallets of ordinary Alabamians, will become unmistakably clear."
+  ],
+  "publishedAt": "2026-08-20T02:56:13.500Z",
+  "readTime": 2,
+  "sources": [
+    "Inside Climate News"
+  ],
+  "sourceUrls": [
+    "https://insideclimatenews.org/news/19082026/alabama-power-proposed-data-centers-utility-bills/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:50:11.564Z",
+      "detail": "Aggregated investigative reports and utility analyses from Inside Climate News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:53:57.531Z",
+      "detail": "Compiled data center development proposals, energy consumption statistics, and legislative details from Inside Climate News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:56:13.500Z",
+      "detail": "Wove utility claims with independent analysis and legislative responses to examine potential consumer impact in Alabama."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, statistics, and direct quotes were meticulously cross-referenced and found to be in complete alignment with the provided fact sheet.",
+      "timestamp": "2026-08-20T03:00:17.345Z"
+    }
+  ]
+}

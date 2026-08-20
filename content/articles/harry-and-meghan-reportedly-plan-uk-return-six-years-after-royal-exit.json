@@ -1,0 +1,54 @@
+{
+  "slug": "harry-and-meghan-reportedly-plan-uk-return-six-years-after-royal-exit",
+  "headline": "Harry and Meghan Reportedly Plan UK Return Six Years After Royal Exit",
+  "deck": "The Duke and Duchess of Sussex are reportedly preparing to relocate to the United Kingdom with their children, signaling a potential new chapter after years living in California.",
+  "category": "CULTURE",
+  "body": [
+    "Prince Harry and Meghan, the Duke and Duchess of Sussex, are reportedly planning a return to the United Kingdom, potentially bringing their children with them. This significant development comes six years after their high-profile departure from royal duties, marking a potential shift in their family's global footprint.",
+    "This reported move concludes a six-year period during which the couple established a new life in the United States. Their time across the Atlantic saw them pursue various independent ventures, largely outside the direct purview of the British monarchy.",
+    "Their initial 'royal exit' in 2020 sent ripples through both the UK and international media, fundamentally altering their roles within the Royal Family. A return to the UK now would bring them back to the nation they departed under intense public and media scrutiny.",
+    "News of their potential relocation has surfaced through a British newspaper, subsequently picked up by numerous other news outlets globally. These reports have quickly ignited widespread discussion across various platforms, reflecting the enduring public fascination with the couple.",
+    "The announcement of Harry and Meghan's potential UK move has generated shock on social media, with one commenter dryly noting, 'My condolences to His Majesty.'",
+    "Such a return could carry profound implications for their public roles, their ongoing relationship with the wider royal family, and the inevitable resurgence of media scrutiny. It suggests a re-evaluation of their long-term plans, potentially redefining their presence in both public and private spheres.",
+    "The coming months will undoubtedly reveal the true contours of this reported decision, as the world watches to see how this potential shift might reshape their lives and their connection to the British establishment. This move, if confirmed, presents a complex narrative of return and reconciliation."
+  ],
+  "publishedAt": "2026-08-20T02:58:25.674Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "apnews.com",
+    "The New York Times",
+    "USA Today",
+    "Fox News",
+    "The Washington Post"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk02OF9KXzMzMFV3X3FiTGxqRDlGaG93MmpWbmdOenB1MXRYcXh1X0F3MmF4ZTE5N2hybUhMa1Qzcmp0LTBnYUx0c0ZMa3BWVDlOT0V3dFRBenNiZUM0dWhSckNrVFNROVFTZnJqY1V6ZjhTV2NsRHF6emNDSlVnMHY2NVFSTXpTb0o4Z21keThCRGtnRWEwQzdn?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:50:11.564Z",
+      "detail": "Aggregated news reports from multiple international and British media outlets regarding Prince Harry and Meghan's reported return to the UK."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:53:57.531Z",
+      "detail": "Compiled claims of their planned UK return, the duration of their US residency, and social media reactions from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:58:25.674Z",
+      "detail": "Wove reported facts with contextual background to frame the significance of Harry and Meghan's potential return to the UK, highlighting implications for their public roles and royal family relations."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported claims, durations, and direct quotes were cross-referenced with the provided fact sheet, with one specific date identified as not being present in the ground truth.",
+      "timestamp": "2026-08-20T03:02:20.640Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "whistleblower-alleges-meta-prioritized-profit-over-child-safety",
+  "headline": "Whistleblower Alleges Meta Prioritized Profit Over Child Safety",
+  "deck": "A former Meta engineer's testimony in a landmark trial accuses the tech giant of neglecting child safety in favor of financial gains, drawing the attention of both regulators and financial markets.",
+  "category": "FINANCE",
+  "body": [
+    "Former Meta engineer Arturo Béjar is currently at the center of a landmark trial against the tech giant, delivering testimony that casts a harsh spotlight on the company's internal practices regarding its youngest users. His statements suggest a concerning approach to underage individuals on Instagram, sparking a new wave of scrutiny for the social media giant.",
+    "Béjar, whose prior role gives his statements significant weight, testified that Instagram adopted a 'don't ask, don't tell' policy regarding children under the age of 13. This operational stance effectively allowed the platform to overlook the presence of underage users, raising serious questions about accountability and user protection.",
+    "\"Instagram took a 'don't ask, don't tell' approach on kids under 13 in lawsuit testimony,\" according to reports from ABC7 Los Angeles, directly quoting Béjar's impactful words.",
+    "These specific allegations are compounded by broader testimony from another former executive, who stated that Meta consistently prioritized profit over the safety of its younger users. Such claims paint a grim picture of corporate ethics, suggesting a systemic issue within the company's decision-making processes.",
+    "These reports come as Meta is already grappling with a separate social media addiction lawsuit, further complicating its legal and public relations landscape. The confluence of these legal challenges pushes an already vulnerable population, children and teenagers, closer to the brink of unregulated digital exposure.",
+    "Against this backdrop of escalating legal scrutiny, financial markets are closely watching Meta. Analysts suggest that options traders are reportedly considering complex strategies, such as the 'jade lizard,' to manage the potential volatility stemming from these ongoing legal challenges, reflecting investor apprehension.",
+    "The consideration of such sophisticated trading strategies underscores the significant financial uncertainty these lawsuits introduce for Meta. The outcome could not only impact the company's valuation but also set important precedents for how social media platforms are regulated concerning user safety, particularly for minors."
+  ],
+  "publishedAt": "2026-08-20T02:56:52.198Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "NPR",
+    "ABC7 Los Angeles",
+    "CNBC",
+    "Al Jazeera",
+    "The Detroit News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:50:11.564Z",
+      "detail": "Aggregated news reports, legal filings, and financial market analyses from major international and financial news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:53:57.531Z",
+      "detail": "Compiled whistleblower testimony details, executive statements, legal case statuses, and market response strategies from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-20T02:56:52.198Z",
+      "detail": "Wove legal allegations and corporate ethics concerns with financial market reactions to detail Meta's current challenges."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific claims regarding whistleblower testimony, executive statements, ongoing lawsuits, and financial market reactions were directly verified against the provided fact sheet, with minor editorial language noted for potential bias.",
+      "timestamp": "2026-08-20T03:01:18.934Z"
+    }
+  ]
+}
