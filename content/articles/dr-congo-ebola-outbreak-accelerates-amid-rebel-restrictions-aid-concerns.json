@@ -1,0 +1,56 @@
+{
+  "slug": "dr-congo-ebola-outbreak-accelerates-amid-rebel-restrictions-aid-concerns",
+  "headline": "DR Congo Ebola Outbreak Accelerates Amid Rebel Restrictions, Aid Concerns",
+  "deck": "The Democratic Republic of Congo faces a deepening public health crisis as an uncontrolled Ebola outbreak spreads rapidly, further complicated by new movement restrictions and a critical shortfall in international support.",
+  "category": "HEALTH",
+  "body": [
+    "The Ebola outbreak gripping the Democratic Republic of the Congo (DRC) has spiraled beyond control, casting a harsh spotlight on the profound challenges of disease containment in conflict-ridden territories. Health officials are now grappling with a crisis where the virus is outpacing their ability to respond effectively, pushing an already vulnerable population closer to the brink.",
+    "The World Health Organization has conveyed a stark assessment of the situation, highlighting the immense difficulties on the ground.",
+    "\"It is spreading faster than our ability to contain it.\"",
+    "Adding another layer of complexity, Congo's M23 rebels have recently imposed new movement restrictions, citing their own concerns over the Ebola virus. While intended to prevent spread within their areas, these unilateral actions invariably complicate the already arduous efforts of international and local health teams.",
+    "Such restrictions create significant logistical hurdles for medical personnel and aid workers attempting to reach affected communities, distribute vital supplies, and conduct crucial contact tracing. The fragmentation of control and the imperative to negotiate access with non-state actors inherently slow down a response that demands immediate and unhindered action.",
+    "These operational challenges are compounded by a troubling trend of reduced international support, with aid cuts identified as a significant accelerant for this current Ebola flare-up. Financial shortfalls directly impact the resources available for surveillance, treatment centers, and community engagement, all of which are critical in battling such an aggressive pathogen.",
+    "Indeed, this particular outbreak in the DRC serves as a sobering case study, demonstrating with grim clarity the indispensable role of sustained international aid in global health security. When support wanes, the consequences are felt most acutely in regions least equipped to manage large-scale public health emergencies on their own.",
+    "Further complicating the epidemiological picture, the current resurgence involves a rare kind of Ebola, adding another layer of scientific and medical challenge to an already desperate situation. Understanding and responding to this specific strain requires specialized knowledge and resources, making the constraints on aid and access even more perilous.",
+    "As the DRC grapples with this escalating health crisis, the interwoven threads of conflict, limited access, and insufficient funding present a formidable barrier to containment. The path forward demands not only an intensified medical response but also a concerted effort to ensure unhindered humanitarian access and robust international solidarity to avert a wider catastrophe."
+  ],
+  "publishedAt": "2026-08-21T03:03:33.292Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "EL PAÍS English",
+    "Reuters",
+    "Financial Times",
+    "The Guardian",
+    "PBS"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVjFRbDcyUWt6dkR4RzlDNTVnMWpTaU4ta1pidC1lekg2YkEwOUVjMEM5SkhjWnRxak1EanB4dkl2VG1QLTU1QnNWbU1yLVpsX3BxeFJfQkdURENaRmNlc1ZpbkxpbklxZ3JTcEpReGdzeU1ESlNFMkh1bDBqMEkwZkdfOWN4anJaYnhqVzFKektKdmh2RHlrV19oUjYtSU9BandJd09RZ2tJcE9MS2VzS18zcG9CWlRwb2dqeE4wNG55WUZLTjBRVnk4X3BETGdCY19ITFgxRnA5MlVhSmNSSHhUYjJudXVlZDZRWF9Tc1BfSWJ4dlhYbkFBRFZONFBnZ2FRcnlLY2RZZ0RabWZiN1lud9IBpwJBVV95cUxNc1lkd1pOS2kzU0NaV2xJQkJnVUE5RzhvOTdJdTBaUGtPWWxBSDVIZXBobU84TWhtYXlHY0ZUVW1Jbk9wc1J2NGJDRmZic25RVHp1LXo5bDNIRVNhOFVUbXkzRHItTTNfa1QxdFdmUTRHU1dkYmJsTmtNcFQ5UndqaHRqTU8yMWNISW93T241eG8zZ0kwdUNZRDNxazc2TVJVY2loVHJUSG4teWpmLXp2TnRyR1I5ay1ZNDAtRnJDWUpXWUdUcjlsWHhBQmlGX2xUOVp1WXBETjRzYUxnNnN1bzByalY2eXM3cnFzQW9qbTRuZGlzWUNFTlRmbGJVNmZLb25OcFdaYWU5blI0N0w3a0VaZnVpSWo1MVZaX1FJWEM0YkZHVmM0?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-21T02:56:05.088Z",
+      "detail": "Aggregated reports from international news outlets on the Ebola outbreak in the Democratic Republic of Congo, including statements from the World Health Organization and analyses of contributing factors."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-21T02:59:55.105Z",
+      "detail": "Compiled claims regarding the outbreak's uncontrolled status, WHO statements, M23 rebel actions, and analyses of aid cuts from EL PAÍS English, Reuters, Financial Times, The Guardian, and PBS."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-21T03:03:33.292Z",
+      "detail": "Wove together facts on the escalating Ebola outbreak with contextual information on rebel restrictions and international aid concerns to illustrate the multifaceted challenges in the Democratic Republic of Congo."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, including the WHO quote, rebel actions, and the nature of the outbreak, were precisely cross-referenced against the provided fact sheet, confirming high accuracy and neutrality.",
+      "timestamp": "2026-08-21T03:07:48.316Z"
+    }
+  ]
+}

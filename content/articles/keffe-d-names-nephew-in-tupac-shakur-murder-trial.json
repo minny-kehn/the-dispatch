@@ -1,0 +1,54 @@
+{
+  "slug": "keffe-d-names-nephew-in-tupac-shakur-murder-trial",
+  "headline": "'Keffe D' Names Nephew in Tupac Shakur Murder Trial",
+  "deck": "Decades after the iconic rapper's death, a crucial testimony in court promises to unravel the enduring mystery of the 1996 drive-by shooting.",
+  "category": "CULTURE",
+  "body": [
+    "Jurors in the high-profile Tupac Shakur murder trial recently heard a pivotal statement from Duane Davis, known as 'Keffe D,' directly implicating his nephew as the individual who fired the fatal shots. This development marks a significant turn in a case that has captivated public interest for nearly three decades, pushing closer to a potential resolution for the revered artist's killing. The testimony casts a harsh spotlight on the long-unsolved crime, offering a glimpse into the events of that fateful night.",
+    "During the proceedings, Duane Davis walked police through the chilling details of the night Tupac Shakur was killed in a 1996 drive-by shooting. This detailed account, now presented to the jury, laid bare the sequence of events leading up to the rapper's untimely death. His narrative is central to understanding the prosecution's case against him.",
+    "These recent revelations stand in stark contrast to previous claims made by Davis. He had reportedly stated that he had never told anyone the full story of Tupac's killing, maintaining a shroud of silence around the details. This shift in his public stance and testimony underscores the complexities inherent in long-running cold cases, where memories and allegiances can evolve over time.",
+    "It was not the first time 'Keffe D' had linked his nephew to the shooting. Detectives investigating the case years ago had also heard Davis assert that his nephew was the one who pulled the trigger. This consistency across different interviews and settings lends a particular weight to his current statements before the court.",
+    "Against this backdrop, the defense strategy in the Tupac murder case has been characterized by a challenging stance: essentially asking jurors not to believe their client's own admissions. This unusual approach highlights the intricate legal maneuvers at play, as attorneys navigate the implications of Davis's self-incriminating narratives and his past statements.",
+    "The unfolding trial represents a major breakthrough in one of hip-hop's most enduring and tragic mysteries. For years, the drive-by shooting of Tupac Shakur remained a source of intense speculation and countless theories, leaving fans and family yearning for answers. Davis's testimony now offers a concrete path towards potentially unraveling the truth.",
+    "As the trial continues, the court's proceedings will determine whether this testimony finally brings closure to a case that has echoed through the annals of music history for decades. The implications for the Shakur family and the wider cultural landscape are profound, as the legal system grapples with the weight of past actions and long-held secrets."
+  ],
+  "publishedAt": "2026-08-21T03:04:55.554Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "AP News",
+    "CNN",
+    "The Guardian",
+    "Reuters",
+    "KTLA"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWNXWVZhaGltWHN3dmJYYy1EcTgxeDNvSTJTYUlBTXJRTlM0NDJ0cGR4VjFfekwzT0ZDOG9IeFY5X1daOHJqRl9QSi1FU3ljUkktbmRlZkZ6MzBNajlkbXIzYmR4ZlZkdVRSSUt3TTIzeThZa0Q3b2ZqVkhHYWZFWDNScEplR2FydENxNGNfS1BILWF4V0VkNXlXMA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-21T02:56:05.088Z",
+      "detail": "Aggregated news reports and legal analyses from major news outlets covering the Tupac Shakur murder trial."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-21T02:59:55.105Z",
+      "detail": "Compiled details of Duane Davis's testimony, his past statements, and the defense strategy from 4 distinct journalistic sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-21T03:04:55.554Z",
+      "detail": "Wove together courtroom developments and historical context to detail the critical implications of 'Keffe D''s testimony in the long-unsolved murder case."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding Duane Davis's testimony, his past statements, and the defense strategy were directly verified against the provided fact sheet, confirming high accuracy.",
+      "timestamp": "2026-08-21T03:08:41.660Z"
+    }
+  ]
+}
