@@ -1,0 +1,53 @@
+{
+  "slug": "trumps-iran-strategy-stalls-after-six-months",
+  "headline": "Trump's Iran Strategy Stalls After Six Months",
+  "deck": "Six months into an intensified pressure campaign, the United States finds its objectives in Iran largely unfulfilled, with the region facing unintended consequences.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Six months have passed since the United States initiated its intensified pressure campaign against Iran, a period President Trump had initially suggested would be brief. This ongoing 'Iran war,' as it has been termed, has instead settled into a protracted struggle, casting a harsh spotlight on the complexities of foreign policy execution.",
+    "Despite the significant efforts, U.S. goals regarding Iran largely remain unmet, painting a grim picture of the campaign's effectiveness thus far. The Iranian regime, which was a primary target of the pressure, continues to stand firmly, signaling resilience in the face of sustained international pressure.",
+    "As the conflict reaches this significant milestone, President Trump's administration faces a landscape of few good options for advancing its agenda. The current strategy heavily relies on increasing economic pressure, a tactic designed to compel changes in Tehran's behavior and regional influence.",
+    "These six months of heightened tension have undeniably reshaped the geopolitical contours of the Middle East. However, a critical assessment reveals that these significant regional transformations are not aligning with the strategic outcomes its architects had initially hoped for, creating new layers of instability.",
+    "The sustained pressure has also coincided with various attacks across the region, further complicating an already volatile environment. Furthermore, the global energy markets have registered notable oil price changes, directly linked to the fluctuating tensions surrounding the Iran conflict.",
+    "Reflecting on the long-term impact, the unresolved tensions continue to pose a substantial challenge to regional stability and global energy security. The path forward remains fraught with complexity, demanding careful diplomatic navigation to avoid further escalation and to find a viable resolution."
+  ],
+  "publishedAt": "2026-08-28T13:40:25.787Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "The Washington Post",
+    "The New York Times",
+    "SFGATE",
+    "AP News",
+    "The Guardian"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTdKOVAyMFQ3WXhRdm4wTkllTUtJSm9TTUpoS0VJR3pUT3ZFWU1WWDNFQXgxYzJxbDhOdTFFVWxNTVptSkFGci1ubkFNNnFMbHotQ2MyU1phUzRuS05uOEpkcFF2ektZN08wNWlaOGpkcl9DU1RHNldEOEktc3plR2dTR0d4ZjROb1ZER2Q1ZFdjNnktNUNHa2RCNXJBcFVaWjVCcC1Xc2FqWTVad29pVmt2OWxHNXd1eVE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:34:57.866Z",
+      "detail": "Aggregated reports on the Iran conflict's six-month mark, U.S. policy objectives, and regional impacts from The Washington Post, The New York Times, SFGATE, AP News, and The Guardian."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:39:05.339Z",
+      "detail": "Compiled facts detailing the conflict's duration, President Trump's initial promises, unmet U.S. goals, Iran's regime status, economic pressure tactics, and the conflict's impact on Middle Eastern geopolitics and oil prices."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:40:25.787Z",
+      "detail": "Wove together reported facts and analysis to illustrate the gap between initial political promises and geopolitical realities, emphasizing the complex and unintended consequences of the ongoing pressure campaign."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the Iran pressure campaign's duration, outcomes, and regional impacts were directly verified against the provided fact sheet.",
+      "timestamp": "2026-08-28T13:44:39.043Z"
+    }
+  ]
+}

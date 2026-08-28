@@ -1,0 +1,53 @@
+{
+  "slug": "malaria-outbreak-claims-lives-at-german-travel-hub",
+  "headline": "Malaria Outbreak Claims Lives at German Travel Hub",
+  "deck": "A rare outbreak of malaria, likely carried by a mosquito on an international flight, has resulted in two deaths and several illnesses at Frankfurt Airport, raising concerns about global disease transmission.",
+  "category": "HEALTH",
+  "body": [
+    "An unprecedented health alert has gripped Germany following the deaths of two airport workers from malaria, an illness more commonly associated with tropical climates than European travel hubs. The fatalities, which occurred at Frankfurt Airport, a major international gateway, have cast a harsh spotlight on the vulnerabilities inherent in global transportation networks.",
+    "Beyond the two tragic deaths, four other individuals connected to the airport were also sickened by the mosquito-borne disease. This cluster of cases paints a grim picture, signaling an unexpected breach in public health defenses at a location designed to facilitate the rapid movement of people and goods across continents.",
+    "Investigators believe the malaria was likely spread by a mosquito that arrived on an aircraft, having journeyed from an endemic region. This scenario underscores the constant, albeit often unseen, biological traffic that accompanies international air travel, posing unique challenges for disease control in non-endemic areas.",
+    "The incident at Frankfurt airport, one of the world's busiest aviation hubs, serves as a sobering reminder of how easily infectious diseases can traverse borders. Such a prominent location, typically a nexus of global commerce and tourism, now finds itself at the center of a rare public health scare.",
+    "Officials have expressed profound shock at the emergence of these malaria cases, acknowledging the unusual nature of the outbreak within Germany. Simultaneously, authorities have urged calm, working to contain any further spread and reassure the public that comprehensive measures are being implemented.",
+    "Reflecting on the long-term impact, this outbreak highlights the persistent need for vigilance at international entry points, where the convergence of global travel and local populations can create unforeseen public health challenges. The incident compels a re-evaluation of biosecurity protocols designed to prevent exotic diseases from establishing a foothold in new environments."
+  ],
+  "publishedAt": "2026-08-28T13:42:54.826Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "The New York Times",
+    "CBS News",
+    "Fox News",
+    "BBC",
+    "The Guardian"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk5wUFFMU0ptNzl3aFFwdjhsWEdMZlBaY2xXb0JJU1plU280b2dQRFpvWE5UcUM5RFA5Vm9CM2wwdzU2R2JBdWNGaDhEdEs2cEJ0UVFST2JzNWFxN05WSF9MUk1wTnNEWWVzdWl0UC1kT3NZTjl0OGNDTC1WUnBQei03OXNsZTdpVWVxYkFB?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:34:57.866Z",
+      "detail": "Aggregated reports from major news outlets including The New York Times, CBS News, Fox News, BBC, and The Guardian regarding an unexpected health incident."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:39:05.339Z",
+      "detail": "Compiled details on two deaths, four illnesses, the suspected mosquito vector, and the location at Frankfurt airport from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-08-28T13:42:54.826Z",
+      "detail": "Wove incident specifics with public health implications to examine disease transmission risks at international travel hubs."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding deaths, illnesses, location, cause, and official reactions were directly verified against the provided fact sheet.",
+      "timestamp": "2026-08-28T13:46:16.509Z"
+    }
+  ]
+}
