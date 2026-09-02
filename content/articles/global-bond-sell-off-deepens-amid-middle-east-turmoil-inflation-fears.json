@@ -1,0 +1,54 @@
+{
+  "slug": "global-bond-sell-off-deepens-amid-middle-east-turmoil-inflation-fears",
+  "headline": "Global Bond Sell-Off Deepens Amid Middle East Turmoil, Inflation Fears",
+  "deck": "A widespread sell-off in global bond markets is pushing yields to multi-decade highs, threatening to increase borrowing costs for governments and individuals worldwide.",
+  "category": "FINANCE",
+  "body": [
+    "A significant global bond sell-off is currently underway, sending ripples through financial markets and casting a harsh spotlight on the fragility of the economic landscape. This dramatic movement has seen global bond yields soar, reaching levels not witnessed in multi-decades.",
+    "This widespread sell-off carries a tangible threat, poised to squeeze borrowers across the globe. From national governments funding essential services to individual households managing mortgages, the cost of securing capital is set to rise, potentially hindering economic growth and stability.",
+    "These market tremors are unfolding against a backdrop of escalating conflict in the Middle East. The intensifying geopolitical tensions are injecting a fresh wave of uncertainty into already volatile economic conditions, directly impacting investor sentiment.",
+    "Analysts suggest that the Middle East turmoil is further stoking deeply rooted inflation fears, reigniting concerns that had only recently begun to subside. This geopolitical instability is creating a challenging environment for central banks attempting to manage price stability.",
+    "A significant driver of these renewed inflation worries is the upward trajectory of energy prices. Oil prices, in particular, are jolting markets, directly influencing bond yields as investors price in higher future costs and potential supply disruptions.",
+    "The confluence of these factors has led to a deepening of the global bond sell-off, with inflation risks continuing to jolt markets. This persistent pressure on bond prices reflects a growing apprehension about the future trajectory of global economies.",
+    "The current trajectory of soaring global bond yields suggests a challenging period ahead for economic stability. The interplay between geopolitical tensions and market mechanics will likely dictate the pace of borrowing costs and the broader economic outlook in the coming months."
+  ],
+  "publishedAt": "2026-09-02T06:46:07.103Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Business",
+    "The New York Times",
+    "Bloomberg.com",
+    "CNN",
+    "Reuters",
+    "CNBC"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:39:47.259Z",
+      "detail": "Aggregated market reports, financial news, and geopolitical analyses from leading international news organizations."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:43:29.914Z",
+      "detail": "Compiled bond market trends, yield statistics, and geopolitical event impacts from The New York Times, CNN, Reuters, Bloomberg.com, and CNBC."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:46:07.103Z",
+      "detail": "Wove market data with geopolitical developments to illustrate the interconnected forces driving the global bond sell-off and inflation fears."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 2/10, Accuracy: 10/10, Readability: FK 15.3",
+      "timestamp": "2026-09-02T06:50:18.421Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "wheel-of-fortune-announcer-suspended-amid-investigation",
+  "headline": "Wheel of Fortune Announcer Suspended Amid Investigation",
+  "deck": "Jim Thornton, the familiar voice of 'Wheel of Fortune,' has been suspended from his role as Sony launches an investigation into undisclosed allegations.",
+  "category": "CULTURE",
+  "body": [
+    "Jim Thornton, the long-standing announcer for the beloved game show 'Wheel of Fortune,' has been suspended from his duties, marking an unexpected and significant shift for the program. This abrupt departure comes amidst an ongoing investigation into allegations that remain undisclosed to the public.",
+    "Reports indicate that Sony, the production company behind 'Wheel of Fortune,' is actively looking into the specific claims. The nature of these allegations has not been revealed, casting a quiet spotlight on the inner workings of one of television's most enduring franchises.",
+    "Adding to the gravity of the situation, sources confirm that Thornton's position as announcer will be permanently recast. This decision signals a definitive break from the past, indicating that the show's signature audio presence will soon be in new hands.",
+    "For decades, Thornton's voice has been an integral, if often behind-the-scenes, part of the 'Wheel of Fortune' experience, guiding contestants and informing viewers. His suspension and the subsequent decision to recast the role represent a rare and substantial change for a program celebrated for its consistency.",
+    "The move suggests a new era for the iconic game show, which has been a fixture in American households for generations. The search for a new voice to introduce contestants and articulate puzzles will undoubtedly draw considerable attention and speculation from devoted fans.",
+    "The resolution of Sony's investigation and the eventual introduction of a new announcer will undoubtedly shape the narrative surrounding 'Wheel of Fortune' in the coming months. Viewers can anticipate a different soundscape as the program navigates this unexpected chapter, continuing its long run with a fresh voice at the helm."
+  ],
+  "publishedAt": "2026-09-02T06:47:30.185Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "Variety",
+    "Fox News",
+    "hollywoodreporter.com",
+    "USA Today",
+    "TODAY.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhhdFZkREJ3R1Zjdl9EWXQxaDNKQzhVQ3dqaGNPZk9RR1BvLXR5U0ZSS1NCd25Rc2JqTHlEQUMxTVhjNlZJNDkyekZJWTlTZkdjWEVFeVZMTGpnUEUzcHZwNnp6dFJhY2hNOFBESUpJNEZMM0tSRlozR2xCUXY5RkxwZHJvZU9aSWRKS1U3Q0s1c3J5LW5jdnNR?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:39:47.259Z",
+      "detail": "Aggregated news reports from major entertainment and news outlets including Variety, Fox News, hollywoodreporter.com, USA Today, and TODAY.com."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:43:29.914Z",
+      "detail": "Compiled facts regarding Jim Thornton's suspension, the ongoing investigation by Sony, and the decision to recast his role from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:47:30.185Z",
+      "detail": "Wove confirmed reports of Jim Thornton's suspension and the ensuing investigation into a narrative detailing the significance of this change for 'Wheel of Fortune' and its audience."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding the announcer's suspension, the ongoing investigation by Sony, and the decision to recast the role were directly verified against the provided fact sheet.",
+      "timestamp": "2026-09-02T06:51:57.424Z"
+    }
+  ]
+}

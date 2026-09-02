@@ -1,0 +1,54 @@
+{
+  "slug": "mario-kart-8-deluxe-gains-switch-2-enhancements",
+  "headline": "Mario Kart 8 Deluxe Gains Switch 2 Enhancements",
+  "deck": "Nine years after its initial release, Nintendo's popular racing title receives a substantial update, hinting at capabilities for the unreleased Nintendo Switch 2 console.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Nine years after its initial launch, the beloved Mario Kart 8 Deluxe has received a significant update, version 4.0.0, signaling a forward-looking strategy from Nintendo. This unexpected refresh brings substantial enhancements, with a particular focus on preparing the popular title for the unreleased Nintendo Switch 2 console. The move underscores Nintendo's commitment to its flagship games, even long after their debut, and offers a tantalizing glimpse into the next generation of hardware capabilities.",
+    "This update is more than just a routine patch; it's a profound overhaul, as industry observers have noted.",
+    "\"9 Years Later, Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2.\"",
+    "The longevity of Mario Kart 8, first released nearly a decade ago, makes this particular update all the more remarkable. Its enduring popularity on the current Switch console means millions of players will experience these new features. This commitment to a long-standing title demonstrates Nintendo's dedication to its player base and the continued relevance of its classic franchises.",
+    "Among the most anticipated enhancements are a notable resolution boost and an increase in game speed, promising a smoother and more visually engaging racing experience. These technical improvements suggest a more robust processing capability on the horizon for Nintendo's next-generation hardware. Players can expect crisper visuals and a more fluid gameplay flow, elevating the competitive thrill of each race.",
+    "Perhaps one of the most exciting additions for social gamers is the introduction of 8-player split-screen functionality. This feature dramatically expands local multiplayer options, allowing more friends to gather around a single console for simultaneous races. It speaks to a potential shift towards more communal gaming experiences on the upcoming Switch 2, leveraging its enhanced graphical and processing power.",
+    "This strategic update for one of Nintendo's most enduring titles sets a clear precedent for how the company might support its extensive back catalog on future hardware. For players, it promises a renewed and expanded experience, while for the industry, it offers an early, tangible indication of the enhanced performance and multiplayer possibilities that the Nintendo Switch 2 is poised to deliver."
+  ],
+  "publishedAt": "2026-09-02T06:44:11.235Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Polygon.com",
+    "Nintendo World Report",
+    "vooks.net",
+    "Nintendo Life",
+    "gematsu.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2tJZmxtbW1taVowbkhUeXpYWnN4ZjhsMFBaM243YUhGd0xZUzBpVEJfWnd1VWhkYm5VQVRlb2N3U1JqTzh1X2VyUlpSVUhRUm5uVmN2WkNGQ2xLSVprMDBmZVE4d3BoUUtqODU3R2M4d0MyNzNhX0gtUXBiR3dsSzZWbG5tZnVN?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:39:47.259Z",
+      "detail": "Aggregated technology news reports and gaming industry analyses from leading publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:43:29.914Z",
+      "detail": "Compiled details on the Mario Kart 8 Deluxe update, including version number, specific enhancements, and its connection to the Nintendo Switch 2, from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:44:11.235Z",
+      "detail": "Wove technical update details with industry speculation to highlight the strategic implications for Nintendo's console future and player experience."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Specific update details (version number, age, features like speed, resolution, and 8-player split-screen) and the direct quote were verified against the provided fact sheet.",
+      "timestamp": "2026-09-02T06:48:34.846Z"
+    }
+  ]
+}

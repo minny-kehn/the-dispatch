@@ -1,0 +1,52 @@
+{
+  "slug": "rare-amoeba-infection-claims-north-carolina-teens-life",
+  "headline": "Rare Amoeba Infection Claims North Carolina Teen's Life",
+  "deck": "A devastating and uncommon infection has led to the death of a North Carolina teenager, drawing attention to the latent dangers present in natural freshwater environments.",
+  "category": "HEALTH",
+  "body": [
+    "A North Carolina teenager has tragically died after contracting a rare and aggressive brain-eating amoeba. This devastating loss has been confirmed by state officials, casting a somber light on the potential, albeit infrequent, health risks associated with natural environments. The incident immediately grounds readers in the profound human cost of such an obscure pathogen.",
+    "The infection, caused by what is commonly known as a brain-eating amoeba, is exceptionally rare, making each reported case a significant public health concern. While infrequent, the outcomes are notoriously severe and often fatal, as evidenced by this recent tragedy. Authorities have confirmed the death, underscoring the gravity of the situation for the community.",
+    "This particular amoeba is typically found in freshwater sources, thriving in warmer conditions often encountered during recreational activities. Such environments, from lakes to rivers, can harbor these microscopic organisms, which pose a threat when water enters the body through the nose. The presence of such a pathogen in natural waters highlights an enduring, if subtle, environmental hazard.",
+    "The tragic passing of the North Carolina teen serves as a powerful reminder of the hidden dangers that can lurk in seemingly benign natural settings. Though the infection is rare, its severe consequences push an already vulnerable population closer to the brink when it does occur. This incident paints a grim picture of the profound impact these rare pathogens can have.",
+    "Reflecting on the long-term impact, this event necessitates an ongoing vigilance regarding public health advisories concerning recreational water use. While the overall risk remains low, understanding the specific conditions under which such infections can occur is crucial for preventing future tragedies. The focus remains on informed public awareness and continued monitoring of environmental health factors."
+  ],
+  "publishedAt": "2026-09-02T06:47:10.595Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "The Seattle Times",
+    "ABC News - Breaking News, Latest News and Videos",
+    "The Guardian",
+    "WCNC",
+    "WBTV"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamp6Yk5WTzh4RjgyQTJGMkZMcjRFTHZaU2FwbktxT1U1UjVrTUVReHdNMzlnWmg2T214bE5ZaVdEeHdzM092eFY5LXBDTHRYNVFuZFpmMFBBaV9Xb3NwcEJseU03NVJaT0RvYm4xRzJUQ2N2dGNUR2E5U3ZuNFdfZGdpNjNmeXBScGowMVBJeUlzMWxNV0VzMlp3eUNWZWw4c05sR2w4MnhNWEZFTlE?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:39:47.259Z",
+      "detail": "Aggregated news reports from national and local outlets detailing a rare amoeba infection."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:43:29.914Z",
+      "detail": "Compiled facts regarding a North Carolina teenager's death from a brain-eating amoeba, its rarity, and its freshwater origin from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-02T06:47:10.595Z",
+      "detail": "Wove confirmed reports of a rare and fatal infection with contextual information about its nature and environmental source to illuminate public health risks."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Teenager's death from rare amoeba infection and official confirmation verified against key facts, with contextual details aligning with general knowledge.",
+      "timestamp": "2026-09-02T06:51:40.782Z"
+    }
+  ]
+}
