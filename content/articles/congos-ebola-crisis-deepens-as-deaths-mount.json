@@ -1,0 +1,52 @@
+{
+  "slug": "congos-ebola-crisis-deepens-as-deaths-mount",
+  "headline": "Congo's Ebola Crisis Deepens as Deaths Mount",
+  "deck": "The Democratic Republic of Congo faces a worsening public health crisis as the Ebola outbreak continues its rapid and deadly spread across the nation.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with a severe and unrelenting Ebola outbreak, where the death toll has now tragically surpassed 3,000 lives. This grim milestone casts a harsh spotlight on the persistent challenges in containing one of the world's most virulent diseases within a vulnerable region. Despite concerted efforts, the virus shows no discernible signs of slowing its relentless advance, pushing an already strained healthcare system closer to the brink.",
+    "Government figures confirm that more than 3,000 individuals have succumbed to the Ebola virus, painting a grim picture of the outbreak's devastating human cost. This escalating number underscores the urgency of the situation, as communities continue to battle a disease that ravages families and destabilizes daily life. The sheer scale of loss highlights the profound impact on the nation's social fabric and public health infrastructure.",
+    "Compounding the tragedy, reports indicate that the Ebola virus is spreading at an unprecedented speed across affected areas. This rapid transmission rate presents formidable obstacles for health workers and aid organizations striving to trace contacts, isolate cases, and provide critical care. Such swift propagation makes containment significantly more complex, demanding agile and robust responses from all involved parties.",
+    "The World Health Organization has voiced serious concerns regarding the trajectory of the outbreak. The WHO chief warns that the current Ebola response must significantly ramp up to effectively stem the tide of the virus in the Democratic Republic of Congo. This call to action emphasizes the need for greater resources, enhanced coordination, and intensified community engagement to turn the tide against the epidemic.",
+    "The persistent and rapid spread of Ebola in Congo highlights the critical need for a more robust international and local response. Without an intensified effort, the human cost will continue to mount, and the potential for wider regional destabilization remains a significant concern. Containing this highly infectious disease requires sustained commitment and innovative strategies tailored to the unique challenges on the ground."
+  ],
+  "publishedAt": "2026-09-03T06:48:56.461Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "KSL News",
+    "NBC News",
+    "AP News",
+    "Al Jazeera",
+    "Reuters"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2R3MjZaYnRQSUVpMHJrelR3Vk9xZzFJa0dsT2hjcXFKR3dQTWRZeThpd1lqZ2xtSXlpVzQwM0luSVJBZG5LYXZIc3kwZXlPTXE4UGQxdW9iTUUxcnFMcksxeGh5eHQtczFCRkxkUkM0VlBPakpYa3UwTEk1WnZjZFJLdTl1NUM0QTJ1aFplYkFmT3hwcmphbzlNcTBMZU1lZHRKWFNn?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:41:52.694Z",
+      "detail": "Aggregated news reports and health organization updates detailing the ongoing Ebola outbreak in the Democratic Republic of Congo."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:45:38.211Z",
+      "detail": "Extracted current death tolls, spread rates, and official warnings from KSL News, NBC News, AP News, Al Jazeera, and Reuters."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:48:56.461Z",
+      "detail": "Wove together statistics on fatalities and spread with expert warnings to illustrate the deepening public health crisis in Congo."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding death toll, spread rate, and WHO warnings were directly verified against the provided fact sheet, with no fabrications or misrepresentations found.",
+      "timestamp": "2026-09-03T06:52:28.195Z"
+    }
+  ]
+}

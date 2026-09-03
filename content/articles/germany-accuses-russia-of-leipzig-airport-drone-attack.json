@@ -1,0 +1,53 @@
+{
+  "slug": "germany-accuses-russia-of-leipzig-airport-drone-attack",
+  "headline": "Germany Accuses Russia of Leipzig Airport Drone Attack",
+  "deck": "A direct accusation by Berlin against Moscow for an act of sabotage involving explosives at a German airport has significantly escalated geopolitical tensions across Europe.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Germany has unequivocally pointed the finger at Russia, blaming the Kremlin for a drone attack involving explosives at Leipzig airport. This serious allegation comes weeks after the incident, marking a significant escalation in the ongoing fraught relationship between Moscow and Western allies.",
+    "The drone attack, confirmed to have used explosives, targeted critical infrastructure on German soil, prompting immediate and forceful reactions from key international bodies. Such an act of sabotage on a sovereign nation's territory casts a harsh spotlight on the covert tactics at play in the current geopolitical climate.",
+    "In the wake of this 'new escalation,' both the European Union and NATO have vowed to step up pressure on Russia. This collective stance signals a unified front among Western powers, suggesting that the incident will not be met with diplomatic silence but rather with a concerted response.",
+    "Meanwhile, Moscow has announced its own retaliatory measures, planning to close German cultural centers across Russia. This move underscores the tit-for-tat nature of the escalating tensions, transforming cultural exchange into another casualty of the deepening diplomatic rift.",
+    "These reports surface as Germany continues to investigate a series of new sabotage cases within its borders. The pattern of such incidents, now explicitly linked to Russia by German authorities, paints a grim picture of a covert campaign designed to destabilize and exert pressure.",
+    "Analysts suggest that Germany's direct accusation, backed by investigative findings, could lead to a hardening of positions and potentially new sanctions against Russia. The gravity of one major European power directly blaming another for an act of aggression on its home ground cannot be overstated."
+  ],
+  "publishedAt": "2026-09-03T06:47:13.560Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "BBC",
+    "Reuters",
+    "10tv.com",
+    "The New York Times",
+    "Defense News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYV9ZN2R2OTZjZzlXU19jcGJHRF9qNjRHZHp1ZElzdG5OWVZtWVJxVEhLeHpxbjBTSGJKZnJFWlFwV3N1LUE5WVl1Nmh4NVgyUWFwd0FScGJmdw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:41:52.694Z",
+      "detail": "Aggregated news reports and official statements concerning a drone attack in Germany and subsequent international reactions."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:45:38.211Z",
+      "detail": "Compiled details of Germany's accusation against Russia, the nature of the drone attack, EU/NATO responses, and Russian retaliation from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-03T06:47:13.560Z",
+      "detail": "Wove factual accounts of a geopolitical incident with the broader context of international relations to illustrate escalating tensions and potential diplomatic repercussions."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 6/10, Accuracy: 9/10)",
+      "timestamp": "2026-09-03T06:50:54.975Z"
+    }
+  ]
+}
