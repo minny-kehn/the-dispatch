@@ -1,0 +1,50 @@
+{
+  "slug": "un-report-projects-warming-to-exceed-1-5-c-limit",
+  "headline": "UN Report Projects Warming to Exceed 1.5 C Limit",
+  "deck": "A new United Nations report casts a harsh spotlight on the accelerating pace of global warming, projecting a critical climate threshold will be breached within the decade.",
+  "category": "CLIMATE",
+  "body": [
+    "A sobering report from the United Nations has revealed that global warming is now projected to surpass the key 1.5 degrees Celsius climate limit, a benchmark widely recognized as crucial for avoiding the most catastrophic impacts of climate change. This finding signals an urgent and intensified timeline for global climate action.",
+    "This critical threshold, enshrined in the Paris Agreement, aimed to limit global warming to 1.5 C above pre-industrial levels. The agreement represents a collective global commitment to safeguard the planet against escalating environmental degradation and human displacement.",
+    "The UN report's stark projection indicates that this globally recognized limit will be breached by the year 2030, a timeline far sooner than many had hoped. This accelerated pace underscores the profound challenges facing international efforts to mitigate climate change.",
+    "These alarming findings, which have been highlighted by publications such as the National Catholic Reporter, paint a grim picture for the planet's future. The report's conclusions resonate across scientific and diplomatic circles, demanding renewed focus on greenhouse gas emissions.",
+    "The projected surpass of the 1.5 C limit by 2030 is not merely a statistical anomaly; it represents an accelerated timeline for severe climate impacts across the globe. It underscores the urgency for intensified global efforts to mitigate greenhouse gas emissions and adapt to a rapidly changing climate.",
+    "Reflecting on the long-term impact, this imminent breach demands not just renewed pledges but immediate, transformative action from nations worldwide. The findings compel a re-evaluation of current climate strategies and an unprecedented commitment to sustainable practices."
+  ],
+  "publishedAt": "2026-09-12T06:49:06.352Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Environment",
+    "Google News",
+    "National Catholic Reporter"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUYyejRwMFQ4dEZMRi05SE1Kek85QmpzM0VGQU1FSEZySkJXNHNBZ0xIOFJQeDRKTGYtUlpEQm9XazhsbHJWU3RMRXNsdFM1THJvdXhocmFUbUNuM2VDODExcXJGbHRJMHpVWXV4MmRpV0N5WjRWQ3FQQ2E2OU5OZlFBWHRUTHJLS1dfSGsyTk9QNTJKYlRwakJCTlNuV2FadWZr?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:43:07.966Z",
+      "detail": "News of a United Nations report on global warming surpassing the 1.5 C limit by 2030 was sourced from Google News and the National Catholic Reporter."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:47:00.892Z",
+      "detail": "Key claims regarding global warming exceeding the 1.5 C limit by 2030, originating from a UN report, were extracted from Google News and the National Catholic Reporter."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:49:06.352Z",
+      "detail": "The article synthesizes findings from a UN report, contextualizing the 1.5 C limit and highlighting the urgency of its projected surpass by 2030, based on reports from Google News and the National Catholic Reporter."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 14.1",
+      "timestamp": "2026-09-12T06:52:53.034Z"
+    }
+  ]
+}

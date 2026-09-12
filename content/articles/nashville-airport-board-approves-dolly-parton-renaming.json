@@ -1,0 +1,55 @@
+{
+  "slug": "nashville-airport-board-approves-dolly-parton-renaming",
+  "headline": "Nashville Airport Board Approves Dolly Parton Renaming",
+  "deck": "A unanimous vote by the Nashville Airport Authority board will soon see the city's international gateway bear the name of beloved country music icon and philanthropist, Dolly Parton.",
+  "category": "CULTURE",
+  "body": [
+    "The Nashville Airport Authority board has formally approved the renaming of the Nashville International Airport in honor of the legendary Dolly Parton. This landmark decision marks a significant tribute to the globally recognized country music icon, whose deep roots in Tennessee and Nashville have shaped her enduring legacy. The move underscores Parton's profound cultural impact and her widespread appeal, which continues to transcend genres and generations.",
+    "The vote to bestow Parton's name upon the major transportation hub was notably unanimous, reflecting a broad consensus across local leadership. This decisive approval means that travelers arriving in Music City could soon be greeted by a facility bearing the name of one of its most cherished figures. Such a renaming serves as a lasting testament to her contributions to the region and the world.",
+    "Perhaps most striking about the decision was the rare unity it fostered among Nashville's political landscape. Both Republican and Democratic officials came together, setting aside partisan differences to support the renaming of the airport for Dolly Parton. This bipartisan embrace highlights the unique way Parton's persona and philanthropy resonate across the community.",
+    "Parton's influence extends far beyond her musical prowess; she is celebrated as a savvy businesswoman and an ardent philanthropist. Her deep ties to Tennessee, particularly the Smoky Mountains region, and her long-standing connection to Nashville's vibrant music scene, have solidified her status as a cultural titan. Naming a major international airport after her would not just be an honor, but a recognition of her multifaceted contributions.",
+    "The potential renaming of such a critical piece of infrastructure, a major international airport, signifies the immense scale of her cultural imprint. It elevates her status from a beloved entertainer to a foundational figure whose name can represent an entire region to the world. This move speaks volumes about the lasting legacy she has built through decades of devoted work.",
+    "This story powerfully illustrates Dolly Parton's immense and unifying cultural appeal, showcasing her ability to transcend political divides. The widespread support for the renaming, crossing traditional party lines, serves as compelling evidence of her unique ability to bring people together. Her influence reaches into the hearts of people from all walks of life, making her a truly universal icon.",
+    "The potential renaming of a major transportation hub in her honor underscores her enduring legacy and profound influence on both local and global stages. It is a powerful symbol of how art and philanthropy can shape civic identity and pride. This decision recognizes not just her fame, but the genuine affection and respect she commands worldwide.",
+    "As the formal processes for the renaming move forward, the city of Nashville prepares to enshrine one of its most cherished daughters in a truly monumental way. This tribute will ensure that Parton's spirit of generosity, creativity, and resilience greets millions of visitors for generations to come. The airport will stand as a beacon, celebrating a woman who embodies the very heart of Tennessee."
+  ],
+  "publishedAt": "2026-09-12T06:51:08.779Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "NBC News",
+    "Fox News",
+    "nytimes.com",
+    "AP News",
+    "ABC News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2NXaHh5UHFNTWhXclU3YjRFWm1sd1NiOVo0Q1BfNW9xUFJzTXZNZ0N0LVBsWGVjRGhJbUdTazhQa0pQczNjT05VSzZEYTlkbEdRZDNmWV9vbnBvalF1ZG9BUEdvN0p5MVVZbnd0N3A5VEpJdUpFUlFYRUpPN0Yzd3gtZzdGUE82VS1yV3VaLUx1VG1faDg5cFQ4R285dTN1cVd0aVRZWEt5QzJtN2Y3LQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:43:07.966Z",
+      "detail": "Aggregated news reports and official statements regarding the Nashville Airport Authority board's vote."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:47:00.892Z",
+      "detail": "Compiled details on the unanimous vote, bipartisan support, and the specific event of renaming approval from 5 prominent news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:51:08.779Z",
+      "detail": "Wove factual details of the renaming with contextual information on Dolly Parton's cultural impact and bipartisan appeal to craft a comprehensive news article."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All key events, statistics, and claims regarding the airport renaming and bipartisan support were directly verified against the provided fact sheet, with no factual discrepancies or fabrications found.",
+      "timestamp": "2026-09-12T06:54:35.749Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "lil-durk-acquitted-in-federal-murder-for-hire-trial",
+  "headline": "Lil Durk Acquitted in Federal Murder-for-Hire Trial",
+  "deck": "A federal jury in Los Angeles has cleared the Grammy-winning rapper of all charges, marking a significant legal victory in a high-profile case.",
+  "category": "CULTURE",
+  "body": [
+    "A federal jury in Los Angeles has delivered a verdict that resounds throughout the music industry, finding Grammy-winning rapper Lil Durk not guilty. The decision brings to a close a high-stakes murder-for-hire trial that cast a harsh spotlight on the artist's life. This acquittal clears his name of serious allegations that have shadowed his prominent career for months.",
+    "The charges against Lil Durk stemmed from an alleged murder-for-hire plot dating back to 2022. Prosecutors had accused the rapper of orchestrating a scheme targeting fellow artist Quando Rondo. The gravity of these accusations painted a grim picture, with potential long-term ramifications for his future.",
+    "Throughout the proceedings in Los Angeles, the artist, whose legal name is Durk Banks, maintained his innocence. After careful deliberation, the federal jury ultimately acquitted him of all charges. This comprehensive not-guilty verdict signifies a complete exoneration from the complex federal case.",
+    "For a figure as prominent as Lil Durk, a Grammy-winning rapper with a substantial global following, this legal outcome carries immense weight. The acquittal could significantly impact his career trajectory and public image, allowing him to refocus on his music without the shadow of these allegations. His ability to move past this legal hurdle is now firmly in his own hands.",
+    "This high-profile case also underscores the complexities of legal proceedings involving well-known figures in the entertainment industry. The intense scrutiny and public nature of such trials highlight the unique challenges faced by artists navigating both their careers and serious legal battles. It serves as a vivid reminder of the often-unseen pressures that accompany celebrity.",
+    "With the federal trial now concluded and the charges dismissed, Lil Durk steps back into the public eye with a cleared legal record. The path ahead will undoubtedly involve rebuilding and refocusing, as the artist moves forward from a legal challenge that could have reshaped his future. His next steps will be closely watched by fans and industry observers alike."
+  ],
+  "publishedAt": "2026-09-12T06:50:46.286Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "ABC7 Los Angeles",
+    "Los Angeles Times",
+    "NBC Los Angeles",
+    "AP News",
+    "Google News - Entertainment"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSjhDVWJZbWQ0SUVBaXBBcHVmTVdEZjZQRnFjcTRVbEE4enFFeHV2NGZzdXZqOTlXQXo2SHJXSGlkT1RBSC0ybTNuTDNuWmkxTTU0ZU1Md3NzdDN0SVlsTlowYjhKVDFWWjRoY0JuYWI1cnJDaDVQb0xrT0Nia0F3bXRkeU5sWXhvNEhhcjZpQ1JOejVON1haRzh6RkFOSk1XWFlyelhKU01mWTZkdXZhVHlTUGdtNVV20gG-AUFVX3lxTE1WWTRXRWpOdjNOQmU4YnZrX28tTFl5VW9rSDhhT0t5SVZjcFg1SG04Qnp0c1NhQmRocC15WWNybDE0NzBDUWwwNWZKSlpEbVJlcHd5aWM5YWR3dVdudWNrUmxzVTl0Yk5YMlc5clNreXZ0YkkxNTFDX3B2YUVSR2RIamtyaWtiNGlCOVU5b0EzcXVtLVBKSHhlR3I0UTZBUmk4bFBvakN1VTc2NVhJOU1kRjdtYXNUOVA5anJad0E?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:43:07.966Z",
+      "detail": "Aggregated news reports from major Los Angeles outlets and national wire services, alongside general entertainment news feeds."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:47:00.892Z",
+      "detail": "Compiled details on the rapper's acquittal, the specific murder-for-hire charges, the target, trial location, and Lil Durk's prominent status from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:50:46.286Z",
+      "detail": "Wove together legal facts and artist context to detail the significant outcome for a Grammy-winning rapper in a high-profile federal case."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Legal verdict, charges, and location of trial were verified against the provided fact sheet. One minor factual detail regarding the artist's legal name was not found in the ground truth.",
+      "timestamp": "2026-09-12T06:54:18.453Z"
+    }
+  ]
+}

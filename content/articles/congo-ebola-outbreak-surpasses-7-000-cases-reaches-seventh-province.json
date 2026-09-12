@@ -1,0 +1,53 @@
+{
+  "slug": "congo-ebola-outbreak-surpasses-7-000-cases-reaches-seventh-province",
+  "headline": "Congo Ebola Outbreak Surpasses 7,000 Cases, Reaches Seventh Province",
+  "deck": "The Democratic Republic of Congo faces an escalating public health crisis as Ebola infections climb past 7,000 and the virus establishes a foothold in a seventh province.",
+  "category": "HEALTH",
+  "body": [
+    "The Ebola outbreak in the Democratic Republic of Congo has reached a critical juncture, with reported infections now exceeding 7,000. This alarming surge in cases is compounded by the virus’s geographical expansion, pushing an already vulnerable population closer to the brink. The ongoing spread underscores the immense challenges in containing this deadly disease.",
+    "A new front in the battle against Ebola has emerged as the virus was detected in a seventh province within the country. This latest development marks a significant setback, confirming fears that the outbreak is rapidly spreading beyond its initial epicenter. The detection of a new case in this previously unaffected region casts a harsh spotlight on the difficulties faced by health workers on the ground.",
+    "Africa's top health body has issued a stark warning, noting that Congo’s Ebola outbreak is indeed spreading rapidly beyond its primary containment zones. This assessment paints a grim picture of the virus's trajectory, highlighting the urgent need for intensified and coordinated public health efforts. The expansion suggests that current strategies may not be fully effective in halting the disease’s march.",
+    "Analysts suggest that the unchecked propagation of the virus carries severe implications for global health security. The Democratic Republic of Congo’s Ebola outbreak, if not brought under control, has the potential to become a global pandemic. This sobering outlook emphasizes the international community's shared responsibility in supporting containment efforts.",
+    "The escalating public health crisis demands immediate and effective intervention to prevent further catastrophe. With over 7,000 infections now recorded and the virus reaching new territories, the window for decisive action is narrowing. Preventing the outbreak from spiraling into a wider, more devastating event remains paramount.",
+    "Looking ahead, sustained and robust intervention will be crucial to reversing the current trajectory of the Ebola outbreak. The coming weeks will be pivotal in determining whether the spread can be contained or if the crisis will deepen further. The international community and local authorities must redouble their efforts to protect lives and public health."
+  ],
+  "publishedAt": "2026-09-12T06:50:25.496Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Reuters",
+    "AP News",
+    "PBS",
+    "Al Jazeera",
+    "The Conversation"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXNtNU53SzhZWTc0VWI5VXJn?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:43:07.966Z",
+      "detail": "Aggregated news reports and health warnings from international media outlets and health organizations."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:47:00.892Z",
+      "detail": "Compiled statistics on Ebola infections and geographical spread, along with expert analysis and warnings from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-12T06:50:25.496Z",
+      "detail": "Wove infection data with geographical spread and expert warnings to highlight the escalating public health crisis and potential global implications."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Ebola infection counts, geographical spread, and expert warnings were meticulously cross-referenced and confirmed against the provided fact sheet.",
+      "timestamp": "2026-09-12T06:54:00.956Z"
+    }
+  ]
+}
