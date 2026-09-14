@@ -1,0 +1,49 @@
+{
+  "slug": "uk-parliament-committee-examines-renewable-energy-reliability",
+  "headline": "UK Parliament Committee Examines Renewable Energy Reliability",
+  "deck": "A key parliamentary body has launched an investigation into the challenges posed by intermittent renewable energy sources as the nation advances its climate objectives.",
+  "category": "CLIMATE",
+  "body": [
+    "The UK Parliament's Environment and Climate Change Committee has initiated a significant inquiry into the risks associated with renewable energy intermittency. This formal investigation marks a crucial step in understanding the complexities of transitioning to a greener energy grid. The committee's focus will be on the practical challenges that arise when relying on power sources like wind and solar, which fluctuate with natural conditions.",
+    "As the United Kingdom pushes towards ambitious decarbonization targets, ensuring a stable and consistent energy supply remains paramount. The inherent variability of many renewable technologies, often referred to as intermittency, presents a unique set of operational and infrastructure hurdles. This inquiry aims to cast a harsh spotlight on these specific risks, seeking robust solutions to maintain national energy security.",
+    "The Environment and Climate Change Committee, a dedicated body within the UK Parliament, is tasked with scrutinizing government policy and expenditure relating to environmental protection and climate change. Their decision to launch this inquiry underscores the growing recognition that the path to net-zero requires meticulous planning and a clear understanding of potential bottlenecks. Such parliamentary oversight is vital for robust policy development.",
+    "The inquiry's scope will likely delve into various aspects, including grid management, storage solutions, and the potential need for backup capacity. By formally examining these issues, the committee provides a platform for experts, industry stakeholders, and the public to contribute to a comprehensive assessment. This collective effort is essential for building a resilient and sustainable energy future.",
+    "The findings of this parliamentary inquiry will undoubtedly inform future energy policy and investment decisions, shaping the trajectory of the UK's green transition. It represents a deliberate effort to proactively address the technical and logistical challenges inherent in a rapidly evolving energy landscape. The committee's work will be instrumental in ensuring the nation's ambitious climate goals are met without compromising the reliability of its power supply."
+  ],
+  "publishedAt": "2026-09-14T07:28:43.450Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Environment",
+    "Google News",
+    "UK Parliament"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUWJQT08zSXRHRFNQRUJnNGQ0cVlhbnlaLUdLZWlGb29BQ1NCX3oxS0E4YVNmX21FYmJzT25LSWl1Vy0xdkd6OEd2Wjhldll2ZkY4UTJhMkhaNHlmaURwd2JXQmVqMjRDNW5Da0FMTDRpcE4tVGlMamVoVUpzZTMwU1B0UG4yb2stY3prdnN6cVZoMDZFNHhNdVZhS0IzaHNWZF9RWGlXQjlMRGhVUkJlTEF5SDVsN1pnS1JQaWV2aWVTZzQyZGl6ZDZDcVBsbEpESXYtUkp5RnRDbl91eVVWbjRNTjFyaDZkM3ZTUlNXT3R2OFozb2Yya1VnRFE5ZlZHcW41eldwOVR0UmRVUzRiREJ1M3JpcURjM0NSc2JNcTJYbXVENFdzNm43UQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-14T07:23:09.296Z",
+      "detail": "Monitored Google News and UK Parliament press releases for new parliamentary inquiries."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-14T07:27:01.167Z",
+      "detail": "Extracted details about the Environment and Climate Change Committee's new inquiry into renewable energy intermittency risks from 2 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-14T07:28:43.450Z",
+      "detail": "Constructed a narrative focusing on the significance and implications of a parliamentary inquiry into energy reliability during the UK's green transition."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The committee's identity, the launch of the inquiry, and its specific focus on renewable energy intermittency risks were all directly verified against the provided fact sheet.",
+      "timestamp": "2026-09-14T07:33:03.041Z"
+    }
+  ]
+}
