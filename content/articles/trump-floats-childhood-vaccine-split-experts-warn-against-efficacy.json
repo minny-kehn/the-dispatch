@@ -1,0 +1,54 @@
+{
+  "slug": "trump-floats-childhood-vaccine-split-experts-warn-against-efficacy",
+  "headline": "Trump Floats Childhood Vaccine Split, Experts Warn Against Efficacy",
+  "deck": "A proposal to divide routine childhood immunizations into multiple doses has prompted immediate concern from medical professionals regarding public health standards.",
+  "category": "HEALTH",
+  "body": [
+    "Donald Trump has publicly stated his intention to demand pharmaceutical companies split routine and childhood vaccines into more doses, specifically suggesting they be administered as five separate shots. This proposal, targeting the immunization schedules for the youngest populations, has immediately drawn sharp criticism from the medical community. The potential shift in approach to childhood vaccinations could carry profound implications for public health.",
+    "The former president detailed that certain routine immunizations, typically given in combined forms, would instead be broken down into these five distinct injections. This approach, if implemented, would fundamentally alter the established protocols for how children receive their protective inoculations. The specific focus on childhood vaccines underscores the gravity of the discussion surrounding their administration.",
+    "Vaccine experts have been swift to respond, unequivocally stating that splitting routine immunizations into five separate shots 'won’t work'. Their collective apprehension casts a harsh spotlight on the feasibility and safety of such a radical departure from current medical practice. These experienced professionals emphasize the rigorous development and testing behind existing vaccine protocols.",
+    "The notion of reducing childhood vaccines in this manner is characterized by experts as 'not evidence-based science'.",
+    "This assessment highlights a core tension between political rhetoric and established scientific consensus in public health. Medical guidelines for childhood immunizations are meticulously crafted over years, relying on extensive research and clinical trials to ensure both efficacy and safety. Any deviation without robust scientific backing could introduce unforeseen risks to public health.",
+    "Meanwhile, the Department of Health is reportedly engaged in discussions regarding potential changes to the childhood vaccine policy. These internal deliberations suggest that the proposal is being considered at an official level, pushing an already vulnerable population closer to the brink of a significant policy shift. The gravity of these conversations cannot be overstated, given their potential societal impact.",
+    "The ongoing debate pits a high-profile political proposal against the consensus of medical professionals, creating an environment of uncertainty for public health policy. As discussions continue within health departments, the scientific community remains steadfast in its warnings about the potential for diminished vaccine efficacy and the broader implications for community-wide immunity. The coming months will reveal how these competing narratives shape the future of childhood immunization."
+  ],
+  "publishedAt": "2026-09-20T07:24:35.765Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Washington Post",
+    "CNN",
+    "Reuters",
+    "KTVN",
+    "Shelby News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:17:20.147Z",
+      "detail": "Aggregated statements from political figures and analyses from medical professionals."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:21:17.699Z",
+      "detail": "Compiled proposals on vaccine administration and expert concerns from 4 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:24:35.765Z",
+      "detail": "Wove political claims with scientific critiques to illustrate potential public health policy shifts."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 7/10, Accuracy: 9/10)",
+      "timestamp": "2026-09-20T07:28:22.708Z"
+    }
+  ]
+}

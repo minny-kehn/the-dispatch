@@ -1,0 +1,54 @@
+{
+  "slug": "mosquito-borne-dengue-claims-first-life-in-florida",
+  "headline": "Mosquito-Borne Dengue Claims First Life in Florida",
+  "deck": "A tropical disease, spread by mosquitoes, has claimed its first recorded life in a southern U.S. state, signaling a critical public health challenge.",
+  "category": "HEALTH",
+  "body": [
+    "A tropical disease, spread by the ubiquitous mosquito, has claimed its first recorded life in a southern U.S. state, casting a somber spotlight on public health challenges. Florida has confirmed a death from dengue fever, marking a critical and tragic milestone in the state's ongoing struggle with mosquito-borne illnesses. This fatality underscores the increasing presence and severity of such diseases, pushing an already vulnerable population closer to the brink.",
+    "The confirmed victim of this mosquito-borne illness was a woman residing in Tampa, within Hillsborough County. This localized tragedy provides a grim picture of the immediate human cost of the wider outbreak. Her death is the first recorded instance of a dengue fever fatality in Florida's history, a stark reminder of the disease's potential severity.",
+    "This single, devastating loss arrives as the state of Florida grapples with what public health officials describe as one of its most significant recent dengue outbreaks. The scale of the challenge is becoming increasingly apparent across the region. Authorities are working to contain the spread, but the confirmed cases continue to multiply, signaling a persistent threat.",
+    "Hillsborough County, where the fatality occurred, has emerged as a particular hotspot for the disease. There are now 134 confirmed dengue fever cases within the county, painting a clear picture of localized transmission. This concentration of cases in a single area demands focused and immediate public health interventions.",
+    "Meanwhile, the disease's reach extends beyond this immediate epicenter, with new reports emerging from other parts of the state. Two additional cases of dengue fever have been reported in Orange County, indicating a broader geographical spread. This expansion suggests that the threat is not isolated but rather a statewide concern requiring comprehensive strategies.",
+    "The first recorded dengue fever death in Florida is a profound public health milestone, highlighting a concerning trend of tropical diseases establishing a foothold in the southern United States. It underscores the urgent need for robust public health surveillance to track the disease's movement effectively. Enhanced mosquito control efforts are paramount to break the chain of transmission and protect communities from further harm.",
+    "As Florida confronts this escalating health crisis, the lessons learned from this outbreak will undoubtedly inform future prevention strategies. The imperative for public awareness campaigns to educate residents on protective measures against mosquito bites has never been clearer. The coming weeks will test the resilience of public health infrastructure and the collective commitment to mitigating the spread of this insidious disease."
+  ],
+  "publishedAt": "2026-09-20T07:24:55.954Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Fox News",
+    "Tampa Bay Times",
+    "ABC News",
+    "Bay News 9",
+    "WESH"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWW12NzZocWRVQWcwOGV2RVExNEYxcFUyTkVOdEJFVlBzNVRvU0tVRktGWXE5YjBoZDkzYzlmYmVSbHNiUWowOHlpVldoRzM1UjhxZG9la3NCUVpjTzlXS0h5N01rZHVkZlc0N3h0Q2xWd042R2QzUjc4enpCQ1FES05PWXYtYVA2Sl9CRkVmdEFOaFFGTTZEdzJFOTRwdGxnNU9qVEdOemd5ZmZya0ww0gG0AUFVX3lxTE1hQUpQMEZ5Ym1adnNRaW9yZW5FUFpQY2xIWEFsNzdNMy1hN1BidVBCVkJFdllSY1VTcWpQU2RKbUNiUi1YY2gxR3JtOFN1NWRRTjlDUWZnUDduVDBzcFZTNUpJek9SWmtDRkg1b0RJdW1DcVk2VF81RTlROUZBbEZHbDYxT1JQaVFfQUpuV0NvNGljRERzaVoxUkZzaVhjQzd6cmotUjZaMjZTaDlPMnpBQTU4OA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:17:20.147Z",
+      "detail": "Aggregated news reports from major local and national media outlets covering public health announcements and local case details."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:21:17.699Z",
+      "detail": "Compiled confirmed dengue fever cases, the first recorded death, and locations from 6 distinct news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-20T07:24:55.954Z",
+      "detail": "Wove confirmed fatality and case statistics into a narrative examining the public health implications of Florida's escalating dengue outbreak."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including statistics on cases and deaths, and geographical locations, were cross-referenced and confirmed against the provided fact sheet, with descriptive language and synthesis deemed appropriate editorial practice.",
+      "timestamp": "2026-09-20T07:28:41.537Z"
+    }
+  ]
+}
