@@ -1,0 +1,52 @@
+{
+  "slug": "fda-nominee-dodges-questions-on-presidential-falsehoods",
+  "headline": "FDA Nominee Dodges Questions on Presidential Falsehoods",
+  "deck": "Heidi Overton, President Trump's pick to lead the Food and Drug Administration, faced pointed scrutiny over her objectivity and willingness to contradict the president's health claims during her Senate confirmation hearing.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Heidi Overton, President Trump’s nominee to lead the Food and Drug Administration, appeared before the Senate health committee on Thursday, facing a crucible of questions that cast a harsh spotlight on her potential independence. Her confirmation hearing quickly zeroed in on her willingness to challenge presidential falsehoods and her own objectivity on critical public health matters. The stakes felt particularly high for an agency entrusted with safeguarding the nation's health.",
+    "Senators pressed Overton on a range of contentious issues, from the safety of vaccines to the regulation of flavored vapes, and her stances on birth control and abortion. These inquiries sought to understand how her personal views might intersect with the scientific integrity demanded of the FDA's top official. The session underscored the deeply politicized landscape surrounding public health policy.",
+    "Overton, a physician with a doctoral degree in clinical investigation, currently serves as the deputy assistant to the president for domestic policy, bringing a wealth of experience to the role. However, her clear public opposition to abortion immediately raised significant concerns about her impartiality. This apprehension is particularly acute as the FDA currently reviews the safety protocols surrounding mifepristone, the widely used abortion pill.",
+    "A central point of contention emerged from President Trump’s past public statements, specifically his false assertion in August that the measles, mumps, and rubella (MMR) vaccine was “quite lethal.” This claim, made at a press conference where Overton was present, hung heavily over the proceedings. It presented a direct challenge to the nominee's commitment to evidence-based science.",
+    "In a moment of direct contradiction to the President’s earlier remarks, Overton firmly stated during her testimony:",
+    "\"The MMR vaccine is not lethal.\"",
+    "She further emphasized the scientific consensus, affirming, \"The MMR vaccine is safe and effective.\" This clear declaration offered a momentary respite from the political tensions.",
+    "Despite her clarity on the MMR vaccine, Overton repeatedly sidestepped pointed questions from Sen. Maggie Hassan (D-NH) about whether President Trump could ever be wrong. This pattern of evasion extended to another of Trump's false claims, specifically his assertion linking Tylenol taken during pregnancy to autism in children. Her reluctance to directly correct the president fueled concerns about her independence.",
+    "Adding another layer of complexity, reports have surfaced suggesting that Overton herself might have previously recommended to President Trump that the combination MMR vaccine could be administered as multiple, separate shots. This detail complicates the narrative, intertwining her past advice with the current scrutiny over vaccine policy and presidential influence.",
+    "Overton's hearing painted a vivid picture of the challenges facing the FDA's leadership in an environment where scientific consensus often clashes with political rhetoric. Her nomination process continues to underscore the critical balance between administrative loyalty and the unwavering commitment to public health science. The Senate now weighs a nominee whose capacity for independent judgment remains a central, unresolved question."
+  ],
+  "publishedAt": "2026-09-27T07:26:34.690Z",
+  "readTime": 2,
+  "sources": [
+    "Ars Technica"
+  ],
+  "sourceUrls": [
+    "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:21:55.637Z",
+      "detail": "Aggregated news reports and analyses detailing a Senate confirmation hearing for a presidential nominee."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:25:53.198Z",
+      "detail": "Compiled statements, questions, and biographical details regarding an FDA nominee's testimony and past actions from 2 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:26:34.690Z",
+      "detail": "Wove testimony details with contextual information to examine a nominee's objectivity and independence in the face of political pressure."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including quotes and events, were meticulously cross-referenced and found to be in complete alignment with the provided fact sheet.",
+      "timestamp": "2026-09-27T07:31:24.628Z"
+    }
+  ]
+}

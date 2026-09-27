@@ -1,0 +1,54 @@
+{
+  "slug": "florida-counties-confront-wildly-unusual-dengue-outbreak",
+  "headline": "Florida Counties Confront 'Wildly Unusual' Dengue Outbreak",
+  "deck": "A rapidly expanding dengue fever outbreak has prompted emergency declarations in two Florida counties, signaling a significant public health challenge for the region.",
+  "category": "HEALTH",
+  "body": [
+    "Florida counties are grappling with a dengue outbreak that officials have described as \"wildly unusual,\" prompting urgent emergency declarations. This unexpected surge in cases casts a harsh spotlight on the evolving public health landscape across the state. The situation demands immediate attention as local governments mobilize resources to contain the spread of the mosquito-borne illness.",
+    "Hillsborough County, in particular, has been significantly affected, leading its authorities to declare a state of emergency. Health officials there are monitoring a concerning rise in infections, with reported dengue fever cases now reaching 170. This concentration of illness underscores the immediate threat to the county's residents.",
+    "Meanwhile, in neighboring Pasco County, a state of emergency has also been declared in response to the emerging threat. While its reported case count stands at three, the proactive measure reflects a deep concern over the potential for wider transmission. Local authorities are moving swiftly to implement preventative strategies and inform the public.",
+    "These local emergencies unfold as broader trends indicate a troubling expansion of dengue-carrying mosquitoes into new territories. Previously less common in Florida, these vectors are now establishing a foothold, contributing to the increased risk of transmission. This geographical shift presents a formidable challenge for public health officials accustomed to different patterns of disease.",
+    "The cumulative effect of this expansion is a discernible rise in dengue cases across the entire Tampa Bay area. Residents are facing an unprecedented level of vigilance as the threat of infection becomes more immediate. This regional increase highlights the systemic nature of the challenge, extending beyond individual county lines.",
+    "The gravity of the situation is perhaps best captured by a recent assessment: \"This dengue outbreak is truly 'wildly unusual',\" a source noted, reflecting the surprise and concern among public health experts grappling with the unexpected scale and spread of the disease. This stark characterization underscores the novel challenges presented by the current situation.",
+    "Looking ahead, the expansion of dengue-carrying mosquitoes into Florida demands a swift re-evaluation of public health strategies. Local governments and health agencies will need to adapt their approaches, focusing on enhanced surveillance, community education, and effective vector control measures. The coming weeks will be critical in determining the trajectory of this evolving public health concern and its long-term impact on Florida residents."
+  ],
+  "publishedAt": "2026-09-27T07:29:39.655Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Washington Post",
+    "WFLA",
+    "CNN",
+    "FOX 13 Tampa Bay",
+    "wtsp.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZMa1FVM3B1dzhnTHN6bW8zZW5XNGNmRXIydnZRX2FSX0s0ZWZzVUlEMDFzTFJEeWNhanVIeXF6Qi1Tdl9JcEJaMmJMb2NrVWk2Tjhhb0kzZ0F6ZUw2c2NQZlk5eEoxd2tqTzRoOGV2dEJncWs4S3N1d1ZBbnFkdW5YbDF4cl9GQVpqZXdVTWVHQ19sTzhyZU5lYjJBVGVzSkNmSzJBaTRlbGRxQkhsQTh5YVcxdHB3c0F0NQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:21:55.637Z",
+      "detail": "Aggregated news reports and health updates from national and local media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:25:53.198Z",
+      "detail": "Compiled emergency declarations, specific case counts, and expert analyses from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:29:39.655Z",
+      "detail": "Wove local emergency actions with broader epidemiological trends to illustrate the public health challenge posed by the dengue outbreak."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Dengue outbreak details, including county emergency declarations, specific case numbers for Hillsborough and Pasco, and the expansion of dengue-carrying mosquitoes, were all precisely verified against the provided fact sheet.",
+      "timestamp": "2026-09-27T07:33:18.615Z"
+    }
+  ]
+}

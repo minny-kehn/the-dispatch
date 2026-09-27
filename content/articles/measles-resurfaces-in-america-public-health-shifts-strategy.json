@@ -1,0 +1,50 @@
+{
+  "slug": "measles-resurfaces-in-america-public-health-shifts-strategy",
+  "headline": "Measles Resurfaces in America, Public Health Shifts Strategy",
+  "deck": "A highly contagious disease, once largely eradicated, now presents a renewed challenge to national health authorities.",
+  "category": "HEALTH",
+  "body": [
+    "Measles, a formidable disease once relegated to the annals of medical history in many parts of the United States, has made an unwelcome return. This re-emergence signals a critical juncture for public health, prompting a re-evaluation of strategies designed to protect communities. The presence of the disease now fundamentally alters the landscape of infectious disease control.",
+    "For decades, public health efforts focused on maintaining high vaccination rates successfully pushed measles to the brink of elimination, making its reappearance particularly concerning. This highly contagious viral infection, known for its severe symptoms and potential complications, demands robust and immediate attention. Its comeback underscores the persistent challenges in safeguarding collective immunity.",
+    "The gravity of the situation is further highlighted by a significant shift in how health authorities are approaching the outbreak. Public health efforts in America are reportedly no longer operating in a containment mode regarding measles. This change suggests that the disease's presence is now more widespread, moving beyond isolated cases that could be easily traced and isolated.",
+    "\"Measles Has Returned To America. We’re No Longer In Containment Mode.\"",
+    "This strategic pivot from containment implies a broader public health response will be necessary, moving towards mitigating wider community transmission rather than merely isolating individual instances. Such a shift could impact resource allocation, public awareness campaigns, and the broader implementation of vaccination initiatives. It reflects a recognition of the disease's entrenched presence.",
+    "The return of measles to American communities demands sustained vigilance and adaptive public health measures to counter its spread. Authorities face the complex task of reinforcing vaccination programs and educating the public on the ongoing risks associated with this resurgent infection. The coming months will test the resilience of public health infrastructure in confronting this renewed threat."
+  ],
+  "publishedAt": "2026-09-27T07:29:18.093Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "Yahoo",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSV9YR3Rlcm9IYW9JUVlNZ0V0UERMRkFhSlVBcTVuTDZ5THc4cXZSdWNIVFZONno4RGlpQlluWTZJejZXT0ZlaHp0aGhZelMweThvRmxTRUQ0S0c5UWstSkptdWJJZzdMWU5tcU4ycWpVdGtDR1hfVno4ZG1sNHVKV1lBOU10QWxNcTRDa1pNSlJXZw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:21:55.637Z",
+      "detail": "Aggregated news reports and health updates from national media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:25:53.198Z",
+      "detail": "Compiled information on measles' re-emergence and the shift in public health strategy from a single Yahoo news headline."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:29:18.093Z",
+      "detail": "Wove reported public health shifts with contextual background to highlight the implications of measles' return."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The article accurately reports the return of measles and the shift in public health strategy, with the key quote directly matching the provided fact sheet.",
+      "timestamp": "2026-09-27T07:32:59.332Z"
+    }
+  ]
+}

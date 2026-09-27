@@ -1,0 +1,53 @@
+{
+  "slug": "elderly-womans-eviction-ignites-spains-housing-crisis-protests",
+  "headline": "Elderly Woman's Eviction Ignites Spain's Housing Crisis Protests",
+  "deck": "The forcible removal of an 87-year-old woman from her Madrid home, where she had lived for 70 years, has sparked widespread anger and protests, thrusting Spain's deepening housing crisis into the national spotlight.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "A quiet apartment block in Madrid became the unlikely epicenter of a national outcry this week, as an 87-year-old woman was forcibly evicted from her home. This deeply unsettling event immediately cast a harsh spotlight on Spain’s deepening housing crisis, igniting widespread anger across the country. The incident has quickly transformed into a powerful rallying cry for those struggling with housing insecurity, pushing an already vulnerable population closer to the brink.",
+    "Reports indicate the elderly woman had resided in the apartment for an astonishing 70 years, making her abrupt displacement particularly poignant. Her long history within those walls underscores a profound sense of loss, extending beyond mere shelter to encompass decades of a lived life within a community.",
+    "In the immediate aftermath of the eviction, thousands of people took to the streets of Madrid, marching in solidarity and protest. The sheer volume of demonstrators painted a grim picture of growing public frustration, signaling a collective demand for urgent action on housing policies.",
+    "This surge of public anger is not an isolated reaction but reflects a pervasive anxiety surrounding Spain's housing market. The incident has unequivocally put the nation’s deepening housing crisis back into the public discourse, forcing difficult conversations about affordability and tenant rights.",
+    "The plight of the 87-year-old woman has resonated deeply, evolving into a potent symbol for broader systemic failures. Her eviction now serves as a powerful focal point for activists and ordinary citizens alike, galvanizing a movement demanding greater protections for vulnerable tenants.",
+    "The widespread protests following this eviction underscore significant social unrest and exert considerable pressure on authorities to address long-standing issues of housing affordability and eviction policies. How Spain's government responds to this intensified public outcry will undoubtedly shape the immediate future of its housing landscape and the security of its most vulnerable citizens."
+  ],
+  "publishedAt": "2026-09-27T07:27:25.259Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Fortune",
+    "The Guardian",
+    "NBC News",
+    "AP News",
+    "france24.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmVlNzhVTGlKekU4dkZlSF9EX1lQeFNNbzRYMndSbU45Zk81bDZpQzRjQlNVWTJsdE1fYVNicXBFZEJLYnQyQUJzTF9GaG9ISm9IcnJMcXpsV0lXS3gtanlBTy04cEE5UWFzc3RVWmJPWTRGZzFPZ0J0dzdrNWdrdXFqVi1jSml1ZEl1R1AxRFZrNWVaX25UUEdPcHBXZkN3RGN4Rm1ERQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:21:55.637Z",
+      "detail": "Aggregated news reports from international and national media outlets covering a significant social event in Spain."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:25:53.198Z",
+      "detail": "Compiled details of an 87-year-old woman's eviction, the duration of her residency, and the subsequent public protests from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-27T07:27:25.259Z",
+      "detail": "Wove individual event facts with broader societal context to illustrate the human impact and political ramifications of Spain's housing crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 7/10, Accuracy: 10/10)",
+      "timestamp": "2026-09-27T07:32:04.219Z"
+    }
+  ]
+}
