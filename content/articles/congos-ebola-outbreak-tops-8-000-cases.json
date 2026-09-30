@@ -1,0 +1,53 @@
+{
+  "slug": "congos-ebola-outbreak-tops-8-000-cases",
+  "headline": "Congo's Ebola Outbreak Tops 8,000 Cases",
+  "deck": "The Democratic Republic of Congo grapples with an escalating Ebola crisis, as confirmed infections push past 8,000 amidst severe challenges to containment and healthcare infrastructure.",
+  "category": "HEALTH",
+  "body": [
+    "The Ebola outbreak in the Democratic Republic of Congo has crossed a deeply troubling threshold, with confirmed cases now surpassing 8,000. This stark figure paints a grim picture of a public health crisis that continues to defy containment efforts, casting a harsh spotlight on the profound struggles faced by the nation's healthcare system. The relentless spread underscores the urgent need for a renewed focus on effective intervention strategies.",
+    "Reports from various international agencies confirm that the disease remains stubbornly out of control across affected regions. This persistent inability to halt the transmission chain has fueled widespread concern among global health observers, who note the unique difficulties inherent in battling such a virulent pathogen in a complex operational environment. The sheer scale of the challenge continues to test the resolve of local and international responders.",
+    "Congo's government has itself acknowledged the escalating numbers, confirming that Ebola infections have indeed crossed the 8,000 mark. This official admission underscores the immense pressure on national authorities, who are struggling to control an outbreak exacerbated by myriad factors. The fight against the virus is not just a medical one, but a logistical and social uphill battle.",
+    "A particularly concerning aspect of this crisis is the worsening shortage of health workers, a critical resource being stretched thin by the demands of the outbreak. These dedicated professionals are on the front lines, facing immense personal risk and exhaustion, yet their dwindling numbers are pushing an already vulnerable population closer to the brink. The strain on personnel directly compromises the capacity for effective patient care and community engagement.",
+    "Beyond the immediate fight against Ebola, the outbreak is hollowing out the very foundations of basic health care across Congo. Resources and personnel are necessarily diverted to manage the epidemic, leaving other essential services — from maternal care to routine vaccinations — severely under-resourced. This systemic weakening creates a dangerous ripple effect, threatening the long-term health and well-being of countless citizens.",
+    "Reflecting on the persistent rise in cases and the deep strain on the nation's health infrastructure, the path forward demands robust international support and intensified local efforts. Without a concerted and sustained intervention, the Democratic Republic of Congo risks further devastating consequences, not only from the direct impact of Ebola but from the broader erosion of its vital public health services. The global community's commitment will be crucial in turning the tide against this relentless epidemic."
+  ],
+  "publishedAt": "2026-09-30T07:51:12.594Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "NBC News",
+    "Al Jazeera",
+    "Reuters",
+    "Bloomberg.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-09-30T07:44:14.519Z",
+      "detail": "Aggregated news reports and health analyses from leading international media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-09-30T07:47:48.659Z",
+      "detail": "Compiled confirmed case numbers, outbreak control assessments, and healthcare impact details from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-09-30T07:51:12.594Z",
+      "detail": "Wove confirmed statistics with expert analysis to detail the escalating public health crisis in Congo."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Confirmed case numbers and government statements verified against fact sheet; analysis of outbreak control and healthcare impact cross-referenced.",
+      "timestamp": "2026-09-30T07:54:46.058Z"
+    }
+  ]
+}
