@@ -1,0 +1,51 @@
+{
+  "slug": "congo-ebola-crisis-deepens-as-treatment-center-burns",
+  "headline": "Congo Ebola Crisis Deepens as Treatment Center Burns",
+  "deck": "The relentless struggle against Ebola in Congo faces severe setbacks, marked by a devastating rise in fatalities and direct attacks on critical healthcare infrastructure.",
+  "category": "HEALTH",
+  "body": [
+    "The ongoing battle against Ebola in Congo has reached a grim milestone, with the death toll now surpassing 4,000, casting a harsh spotlight on the persistent challenges facing public health efforts. This alarming escalation comes as a crucial Ebola treatment center was deliberately set ablaze, further impeding the already strained response to the deadly virus. Such acts of sabotage not only destroy vital infrastructure but also deepen the mistrust that health workers frequently encounter on the ground.",
+    "The destruction of the treatment center represents a profound setback for medical teams working tirelessly to contain the highly contagious disease. Each such facility is a frontline defense, providing isolation, care, and a safe environment for both patients and healthcare providers. Its loss directly impacts the capacity to treat new cases and track transmission chains, pushing an already vulnerable population closer to the brink.",
+    "Meanwhile, the grim statistic of over 4,000 lives lost paints a stark picture of the outbreak's severity and its enduring grip on communities. This figure is not merely a number; it represents thousands of families shattered and an immense burden on the healthcare system. The sustained rise in fatalities underscores the complex interplay of medical challenges, security concerns, and community engagement hurdles.",
+    "These reports come as health authorities grapple with an epidemic that has proven exceptionally difficult to control, unlike previous outbreaks. The burning of treatment centers, often fueled by misinformation and community resistance, directly undermines the very infrastructure designed to save lives. Such actions create dangerous gaps in the response, allowing the virus more opportunities to spread unchecked.",
+    "Analysts suggest that the ongoing violence and instability in affected regions significantly complicate efforts to deploy resources and ensure the safety of medical personnel. Health workers frequently operate in high-risk environments, navigating not only the threat of infection but also the perils of conflict and suspicion. This volatile backdrop makes effective intervention a continuous, uphill battle.",
+    "The urgency for effective intervention and robust community cooperation has never been more apparent. Without secure facilities and the trust of local populations, containing the virus becomes an almost insurmountable task. Every day lost to insecurity or misinformation translates into more lives at risk and further entrenchment of the disease.",
+    "Addressing this escalating crisis demands not only sustained medical support but also concerted efforts to rebuild trust and ensure the safety of humanitarian operations. The international community and local stakeholders face the critical task of protecting essential health infrastructure and fostering an environment where life-saving work can proceed unhindered. The path ahead requires a unified approach to halt the relentless march of the virus."
+  ],
+  "publishedAt": "2026-10-03T07:27:05.835Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "AP News",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:20:04.061Z",
+      "detail": "Aggregated news reports from AP News and Google News to identify key developments."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:23:47.870Z",
+      "detail": "Compiled facts on the burning of an Ebola treatment center and the surpassing of 4,000 deaths from 3 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:27:05.835Z",
+      "detail": "Wove together reports of infrastructure destruction and rising fatalities to illustrate the deepening humanitarian crisis in Congo."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The core statistics regarding the Ebola death toll and the event of the treatment center burning were precisely verified against the provided fact sheet, with no factual discrepancies or fabrications identified.",
+      "timestamp": "2026-10-03T07:30:59.961Z"
+    }
+  ]
+}

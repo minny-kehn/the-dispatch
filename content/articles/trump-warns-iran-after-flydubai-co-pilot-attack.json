@@ -1,0 +1,53 @@
+{
+  "slug": "trump-warns-iran-after-flydubai-co-pilot-attack",
+  "headline": "Trump Warns Iran After FlyDubai Co-Pilot Attack",
+  "deck": "An unprecedented in-flight assault on a FlyDubai flight has escalated into a major geopolitical flashpoint, drawing a stern warning from the U.S. President to Tehran.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "President Trump issued a stark warning to Iran, signaling potential fresh strikes if Tehran is found to be complicit in the recent FlyDubai plane incident. This pronouncement casts a harsh spotlight on an already tense geopolitical landscape, linking an unusual aviation security breach to broader regional instabilities. The immediate implications of such a warning underscore the delicate balance of power and the rapid potential for escalation in the Middle East.",
+    "The incident itself involved a harrowing mid-flight assault where FlyDubai passengers and crew had to intervene to avert a catastrophe. Reports indicate the co-pilot used a crash axe to attack the captain, creating a terrifying scenario thousands of feet above ground. This extraordinary event on a commercial airliner immediately raised profound questions about aviation safety protocols and crew psychological screening.",
+    "Investigators quickly identified the co-pilot involved in the shocking attack as Hamam al-Hammami. Further details emerged, confirming al-Hammami as an Omani national. The identification provided a concrete data point in an unfolding mystery, though the motivations behind such an unprecedented act remain a subject of intense scrutiny.",
+    "These developments swiftly drew attention from Washington, culminating in President Trump's assertive statement regarding Iran. His warning suggests that U.S. intelligence agencies are actively probing potential links, or at least considering the possibility, that Tehran might have played a role in instigating or facilitating the co-pilot's actions. Such a direct accusation, even conditional, signals a significant escalation in rhetoric between the two nations.",
+    "The dual nature of this story — an alarming aviation security breach and a high-stakes geopolitical confrontation — makes it particularly significant. Beyond the immediate shock of an in-flight attack, the incident has pushed concerns about rigorous crew vetting and airline security to the forefront. Simultaneously, the U.S. President's swift and severe warning highlights the extreme volatility permeating the Middle East, where local incidents can rapidly become international crises.",
+    "As investigations into Hamam al-Hammami's motives and any potential external connections continue, the international community watches with apprehension. The veracity of any link between Tehran and the FlyDubai incident, if proven, would undoubtedly trigger a severe response, reshaping diplomatic alignments and military postures across the region. Until definitive conclusions are drawn, the specter of further geopolitical friction looms large over an already fragile stability."
+  ],
+  "publishedAt": "2026-10-03T07:24:58.589Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "Fox News",
+    "The New York Times",
+    "The Guardian",
+    "AP News",
+    "The Hill"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW5QNEJrTlJLWi1DUTYyWURFTFJRRVBDYWRTVkZMM3FSVjY3RlA1emhJdmJmMmlHNlFmQ2Z3ZHNmYjVmUHpFbGZJeGZLOTFXbHA0dTJoUE9Jcjk4dGc0MS1VSncxYlhkX2xwRThNU09fcFNLdnB6SzFvLWNzWXlxWmJIZE44Y1VG?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:20:04.061Z",
+      "detail": "Aggregated reports from news organizations detailing an in-flight incident and subsequent geopolitical warnings."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:23:47.870Z",
+      "detail": "Compiled details on a FlyDubai co-pilot attack, the co-pilot's identity, and President Trump's warning to Iran from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-03T07:24:58.589Z",
+      "detail": "Wove together facts about an aviation security breach with geopolitical statements to explore potential escalation and regional impact."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the FlyDubai incident, the co-pilot's identity, and President Trump's warning were directly verified against the provided fact sheet, with no discrepancies or fabrications found.",
+      "timestamp": "2026-10-03T07:29:27.372Z"
+    }
+  ]
+}
