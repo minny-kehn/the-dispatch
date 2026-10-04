@@ -1,0 +1,54 @@
+{
+  "slug": "florida-dengue-outbreak-reaches-record-highs",
+  "headline": "Florida Dengue Outbreak Reaches Record Highs",
+  "deck": "A rapidly accelerating dengue outbreak in Florida has become the largest in the United States in decades, prompting emergency declarations in several counties.",
+  "category": "HEALTH",
+  "body": [
+    "Florida finds itself grappling with a public health challenge of historic proportions as a rapidly accelerating dengue outbreak has pushed case numbers to unprecedented levels. With 252 confirmed infections, the state is now confronting the largest surge of the mosquito-borne illness seen in the United States in decades, casting a harsh spotlight on the vulnerabilities within its public health infrastructure. This growing crisis demands immediate and coordinated action to protect residents across the affected regions.",
+    "The record count of 252 dengue cases paints a grim picture of the disease's progression across the Sunshine State. This figure represents not merely a statistic, but a tangible measure of the illness spreading through communities, impacting daily lives and stretching healthcare resources. The sheer volume of cases underscores the formidable challenge facing local health authorities.",
+    "Reports from across Florida confirm that the dengue outbreak is not just widespread but also accelerating at an alarming pace. This rapid increase in infections suggests a robust transmission cycle, making containment efforts increasingly difficult. Health officials are working to understand the environmental factors contributing to this heightened activity and to implement effective countermeasures.",
+    "In response to the escalating threat, several Florida counties have taken the serious step of declaring a state of emergency. These declarations unlock crucial resources and allow for more agile responses to control mosquito populations and disseminate public health information. They reflect the gravity of a situation that is pushing an already vulnerable population closer to the brink of a widespread health crisis.",
+    "Further underscoring the urgency, Pinellas County has specifically urged its residents to take proactive measures as local dengue activity intensifies. The county's appeal highlights the localized nature of these outbreaks and the critical role individual vigilance plays in preventing further spread. This localized focus demonstrates the immediate, on-the-ground impact of the broader statewide challenge.",
+    "Adding another layer of complexity to Pinellas County's public health landscape, officials are also observing a concurrent increase in West Nile virus activity. The simultaneous rise of two significant mosquito-borne diseases presents a compounded threat, requiring comprehensive and multifaceted vector control strategies. This dual challenge places additional strain on local health departments already stretched thin.",
+    "As Florida navigates this intensifying health crisis, the immediate focus remains on robust mosquito control and public awareness campaigns to curb further transmission. The unfolding situation will undoubtedly test the resilience of the state's public health systems and its ability to adapt to a changing epidemiological environment. The path forward requires sustained vigilance and coordinated efforts to safeguard the well-being of its communities."
+  ],
+  "publishedAt": "2026-10-04T07:44:41.479Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Independent",
+    "The Hill",
+    "The Guardian",
+    "Sarasota Herald-Tribune",
+    "Bay News 9"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYko5T1I2QTJ0MWF0b2hXU3Nxc213ZVhJamNzUS1BQjZ2MlB6cEUyWGZtdUc0Q3hyalFQUUJ0ckRiWjJ1OHNkYlZ3Yzd1OEh6b1Vqa0VmNS1FVi1iODBiRnprUFJ6VkdnX2pVenBTaFlSak9WX2sxTllEQ0NLaDVyRkVCVlcwU2J2UVlRdUNDajFsWkFY?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-04T07:36:29.819Z",
+      "detail": "Aggregated public health reports and news updates from national and local media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-04T07:40:19.079Z",
+      "detail": "Compiled dengue case numbers, outbreak acceleration details, emergency declarations, and specific county advisories from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-04T07:44:41.479Z",
+      "detail": "Wove statistical data with public health responses to illustrate the escalating dengue crisis in Florida."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including the record number of dengue cases, the outbreak's status as the largest in decades, county emergency declarations, and specific county actions, were directly verified against the provided fact sheet.",
+      "timestamp": "2026-10-04T07:48:23.222Z"
+    }
+  ]
+}
