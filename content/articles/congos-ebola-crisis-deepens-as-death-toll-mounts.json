@@ -1,0 +1,55 @@
+{
+  "slug": "congos-ebola-crisis-deepens-as-death-toll-mounts",
+  "headline": "Congo's Ebola Crisis Deepens as Death Toll Mounts",
+  "deck": "The Democratic Republic of Congo faces an escalating health crisis as the Ebola epidemic claims thousands of lives and strains healthcare efforts.",
+  "category": "HEALTH",
+  "body": [
+    "The Democratic Republic of Congo is grappling with a rapidly escalating health crisis, as the Ebola death toll has now tragically surpassed 4,000. This grim milestone underscores the severity of an outbreak that is not only devastating communities but is also now recognized as the fastest-growing on record. The relentless spread of the virus is pushing an already vulnerable population closer to the brink, casting a harsh spotlight on the urgent need for a more robust and secure response.",
+    "\"Ebola is spreading 'like wildfire' in Congo.\"",
+    "This vivid assessment captures the terrifying speed at which the virus is moving through vulnerable populations, pushing already fragile health systems to their breaking point. The sheer number of fatalities paints a grim picture of the epidemic's devastating impact on families and communities across the affected regions. Containing such a rapidly advancing pathogen requires an extraordinary level of coordinated effort and resources.",
+    "Beyond the sheer virulence of the disease, the response effort faces significant hurdles, including direct assaults on critical infrastructure. An Ebola treatment center in Congo was recently burned down, a stark act of violence that cripples containment efforts and endangers those dedicated to saving lives. Such incidents not only destroy vital facilities but also sow distrust and fear among communities, making public health outreach exceedingly difficult.",
+    "The relentless pressure of the epidemic is taking a heavy toll on the frontline responders. Health workers in Congo are battling profound exhaustion, working tirelessly in dangerous and often hostile environments. Their dedication is unwavering, yet the sheer scale of the crisis and the constant threat of violence wear down even the most resilient individuals, jeopardizing sustained efforts.",
+    "Meanwhile, recognizing the escalating urgency, international partners are stepping up their efforts to provide much-needed support. France, for instance, plans to increase its funding for Ebola efforts in Congo, a crucial injection of resources aimed at bolstering the response. This commitment is vital for procuring supplies, supporting medical teams, and strengthening public health infrastructure in the affected areas.",
+    "Despite these efforts, a pervasive fear of an Ebola resurgence continues to loom over the region. The volatile environment, coupled with community mistrust and the sheer difficulty of contact tracing in densely populated areas, means that containment remains a constant, arduous battle. Any lapse in vigilance, particularly given the rapid growth of the outbreak, could see the virus reignite with devastating consequences.",
+    "The ongoing struggle against Ebola in Congo paints a grim picture of a public health crisis exacerbated by systemic vulnerabilities and security challenges. The international community's sustained commitment, alongside local efforts to rebuild trust and fortify health systems, will be paramount in preventing further loss of life and ultimately bringing this relentless epidemic under control. The human cost demands nothing less than unwavering global attention and support."
+  ],
+  "publishedAt": "2026-10-06T08:28:52.642Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The New York Times",
+    "CBS News",
+    "AP News",
+    "Bloomberg.com",
+    "Reuters"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-06T08:20:45.781Z",
+      "detail": "Aggregated public health reports, epidemiological updates, and humanitarian aid organization statements."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-06T08:25:02.559Z",
+      "detail": "Compiled death toll statistics, outbreak progression details, and international response plans from 4 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-06T08:28:52.642Z",
+      "detail": "Wove epidemiological data with ground-level challenges and international responses to detail the escalating Ebola crisis."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including statistics, events, and direct quotes, were meticulously cross-referenced and confirmed against the provided fact sheet, with no discrepancies found.",
+      "timestamp": "2026-10-06T08:32:30.040Z"
+    }
+  ]
+}
