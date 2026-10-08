@@ -1,0 +1,52 @@
+{
+  "slug": "pioneering-apollo-software-lead-margaret-hamilton-dies-at-90",
+  "headline": "Pioneering Apollo Software Lead Margaret Hamilton Dies at 90",
+  "deck": "Margaret Hamilton, whose groundbreaking software was essential for the Apollo 11 moon landing, has passed away, marking the end of an era for a computing giant.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Margaret Hamilton, the visionary computing pioneer whose meticulously crafted software proved instrumental in guiding the Apollo 11 mission to its historic moon landing, has passed away at the age of 90. Her death marks the quiet close of a chapter for one of the most significant figures in both space exploration and the nascent field of computer science.",
+    "As the lead for software development for the Apollo program, Hamilton's innovations were foundational to the mission's success. Her pioneering work ensured the complex systems onboard the lunar module could function under immense pressure, directly contributing to the safe touchdown of astronauts on the lunar surface.",
+    "Her software, developed through rigorous dedication, was a critical component in enabling Apollo astronauts to successfully land on the moon. This monumental achievement showcased the indispensable role of robust and reliable software in the most ambitious human endeavors.",
+    "Beyond her direct contributions to the moon landing, Hamilton was recognized as a distinguished NASA scientist, a testament to her profound impact within the agency. Her invaluable work garnered national acclaim, culminating in the prestigious Presidential Medal of Freedom, an honor reflecting her enduring legacy in American scientific achievement.",
+    "Her passing underscores the profound human ingenuity behind monumental technological feats and serves as a powerful reminder of software's critical role in complex engineering. Hamilton's life and work will undoubtedly continue to inspire future generations to pursue careers in STEM, cementing her place not just in history books, but as a beacon for innovation."
+  ],
+  "publishedAt": "2026-10-08T08:16:41.277Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "The Guardian",
+    "MIT News",
+    "CNN",
+    "BBC",
+    "WSJ"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXUxRUFoWF9icjJyU0k0M1YyTGxhUWhxd1laQmt0cHhhclFfQzBOVGNpQ3pFdDdOb1dLM1dmbVhCVkVZVEJIRlZyT1lDNmlTRldFZ2kxS2NYR0ZxcEZrcU5IdGpCdENwLTMtQ0tSQklFN1k3U3FreGZsVFF4T3NYZXd4R2lpMUhYUlRDQThQQXpzUQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-08T08:12:22.993Z",
+      "detail": "Aggregated news reports regarding Margaret Hamilton's passing and her historical contributions."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-08T08:16:23.512Z",
+      "detail": "Compiled details of her death, role in Apollo program, and recognition from The Guardian, MIT News, CNN, BBC, and WSJ."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-08T08:16:41.277Z",
+      "detail": "Wove biographical details with historical context to highlight Hamilton's pioneering impact on space exploration and computer science."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 3/10, Accuracy: 7/10, Readability: FK 16.9",
+      "timestamp": "2026-10-08T08:21:08.038Z"
+    }
+  ]
+}
