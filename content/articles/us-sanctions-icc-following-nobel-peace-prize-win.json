@@ -1,0 +1,53 @@
+{
+  "slug": "us-sanctions-icc-following-nobel-peace-prize-win",
+  "headline": "US Sanctions ICC Following Nobel Peace Prize Win",
+  "deck": "A significant diplomatic confrontation has erupted after the United States imposed severe sanctions on the International Criminal Court, an action that coincided with a former ICC judge receiving the Nobel Peace Prize.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "The United States, under the Trump Administration, has imposed sanctions on the International Criminal Court (ICC), a move that has sent ripples through the international legal community. This unprecedented action occurred just hours after a former judge of the court was awarded the prestigious Nobel Peace Prize, casting a harsh spotlight on the contentious relationship between Washington and the global judicial body.",
+    "Analysts have widely characterized the US action as 'unprecedented,' asserting it represents a deliberate attempt to 'cripple the court' and undermine its foundational mission. The sanctions, described as 'severe' by observers, target an institution established to prosecute individuals for war crimes, genocide, and crimes against humanity, painting a grim picture of escalating tensions.",
+    "The timing of these sanctions adds a particular poignancy to the situation. Navi Pillay, a distinguished former judge who served on the ICC, had just been recognized with the Nobel Peace Prize for her tireless work in human rights and international justice. Her accolade underscored the very principles of accountability and the rule of law that the US sanctions now appear to challenge.",
+    "This diplomatic confrontation highlights a significant ideological divide concerning international justice and national sovereignty. Washington's stance against the ICC has long been a point of contention, but these direct sanctions mark a substantial escalation, potentially weakening an institution vital for global accountability.",
+    "Meanwhile, the international community has begun to respond to Washington's assertive posture. Japan, for instance, has publicly affirmed its commitment to the rule of law, implicitly signaling its continued support for international institutions like the ICC in the wake of the US measures. Such statements underscore the global concern for the integrity of international legal frameworks.",
+    "Reflecting on the long-term impact, this confrontation raises profound questions about the future efficacy of international judicial bodies. The US's willingness to employ such strong measures against the ICC could set a challenging precedent, potentially emboldening other nations to disregard international legal norms and institutions."
+  ],
+  "publishedAt": "2026-10-11T08:08:55.014Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "Al Jazeera",
+    "Reuters",
+    "Inquirer.net",
+    "The New York Times",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-11T08:03:47.791Z",
+      "detail": "Aggregated news reports from global media outlets including Al Jazeera, Reuters, Inquirer.net, The New York Times, and CNN."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-11T08:07:39.624Z",
+      "detail": "Compiled facts regarding US sanctions on the ICC, the timing relative to a Nobel Peace Prize win, the identity of the recipient, and international reactions from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-11T08:08:55.014Z",
+      "detail": "Wove factual accounts of the US sanctions, the Nobel Peace Prize, and international responses into a coherent narrative examining the geopolitical implications for international justice."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed with notes (Bias: 6/10, Accuracy: 9/10)",
+      "timestamp": "2026-10-11T08:12:55.138Z"
+    }
+  ]
+}
