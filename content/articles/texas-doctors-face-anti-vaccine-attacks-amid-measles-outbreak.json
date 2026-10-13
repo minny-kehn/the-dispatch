@@ -1,0 +1,51 @@
+{
+  "slug": "texas-doctors-face-anti-vaccine-attacks-amid-measles-outbreak",
+  "headline": "Texas Doctors Face Anti-Vaccine Attacks Amid Measles Outbreak",
+  "deck": "As Texas grapples with a growing measles outbreak, medical professionals report being targeted by anti-vaccine activists seeking to undermine the disease's fatality.",
+  "category": "HEALTH",
+  "body": [
+    "In Texas, medical professionals grappling with a burgeoning measles outbreak are finding themselves targeted by anti-vaccine activists. These concerted efforts aim to cast doubt on the validity of deaths occurring amid the resurgence of the highly contagious disease. The situation presents a profound challenge to public health officials and frontline healthcare providers alike.",
+    "The deliberate campaign against doctors is designed to sow skepticism regarding the severity of the measles outbreak, particularly by challenging fatalities attributed to the illness. This tactic seeks to erode public confidence in established medical facts and the expertise of those on the front lines. Such actions add an immense burden to healthcare systems already strained by the demands of containing a preventable disease.",
+    "Reports indicate a growing measles outbreak across Texas, prompting heightened concern among health authorities. The highly transmissible nature of measles means that even a small cluster of cases can rapidly expand into a wider public health crisis. This escalating situation underscores the critical importance of public trust and adherence to vaccination protocols.",
+    "These developments unfold against a troubling national backdrop, with the US Centers for Disease Control and Prevention (CDC) reporting a five-fold increase in weekly measles cases across the country. This significant surge points to a broader vulnerability in community immunity levels. The rapid spread illustrates the immediate public health challenge posed by declining vaccination rates in various regions.",
+    "The targeting of Texas doctors is not an isolated incident but reflects a wider trend where anti-vaccine activists in the United States are actively challenging medical professionals over measles deaths. This persistent pushback against scientific consensus complicates efforts to control outbreaks and protect vulnerable populations. The sustained erosion of trust in medical expertise poses long-term risks to public health infrastructure.",
+    "As the measles outbreak continues to expand, the dual challenge of containing the virus and combating pervasive misinformation remains critical. The ongoing efforts by anti-vaccine groups to undermine medical authority will likely intensify the complexities of the public health response. Protecting community health hinges on both effective medical intervention and robust defense against the spread of dangerous falsehoods."
+  ],
+  "publishedAt": "2026-10-13T08:52:36.376Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Guardian",
+    "The Lufkin Daily News",
+    "Nacionale News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHlSY1BNdTNlMHJfU0J2THJybDEzWjZXQUxsXzJ3YWhwbllvTkxCMWtzc1MtcEtyZVVrZDNCZ3lvRGZoa0tmUDFaSGp1NERBM1BtZGhOUVZFWkcwR21JS2NvcUdpVEhhLUQwWkxDaWYtWS02Q1M5cFRabTZNUmViclVRZG40c1J1RnVsejZaSlB5RHc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:44:29.119Z",
+      "detail": "Aggregated news reports from national and local publications regarding anti-vaccine activities and measles outbreaks."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:48:53.568Z",
+      "detail": "Compiled claims of doctor targeting, outbreak growth, and CDC statistics from 4 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:52:36.376Z",
+      "detail": "Wove specific reports of anti-vaccine challenges with public health data to illustrate the impact on measles outbreak response."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 5/10, Accuracy: 10/10, Readability: FK 15.5",
+      "timestamp": "2026-10-13T08:56:33.799Z"
+    }
+  ]
+}

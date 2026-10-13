@@ -1,0 +1,50 @@
+{
+  "slug": "corpus-christi-desalination-failure-spurs-water-crisis",
+  "headline": "Corpus Christi Desalination Failure Spurs Water Crisis",
+  "deck": "A grand plan to secure water for Corpus Christi, Texas' eighth-largest city, has instead left its residents facing a looming supply disaster and tens of millions in costs for an unbuilt plant.",
+  "category": "CLIMATE",
+  "body": [
+    "Eight years ago, a committee of industry titans and public officials in Corpus Christi unveiled an ambitious plan to insulate the city from the specter of drought, promising a future of abundant water during the booming shale-oil era. This initiative, designed to make Texas’ eighth-largest city \"drought proof,\" was lauded as a strategic move to secure its economic vitality. Instead of achieving water security, however, the plan has now pushed Corpus Christi to the precipice of a severe water-supply disaster, leaving its residents facing tens of millions in costs for a plant that remains unbuilt. The promise of a resilient water future has dissolved, exposing the complex challenges of large-scale climate adaptation projects.",
+    "The core of the proposal centered on building the state's first-ever seawater desalination plant, a monumental undertaking that would produce millions of gallons of freshwater daily. Consultant Frank Brogan, a former executive at the Port of Corpus Christi, articulated that this facility would specifically address the economic constraints imposed by the region's naturally scarce water supply. Major industrial users, including OxyChem, Valero, and Citgo, were slated to fund the construction in exchange for guaranteed water access without operational cutbacks during drought periods.",
+    "“Industry can continue to operate,” said a slideshow the consultant, Frank Brogan, presented to Corpus Christi City Council. “Industry can justify expansion. Community can attract new industry.”",
+    "Corpus Christi city leaders unanimously embraced the desalination blueprint, envisioning a future where economic growth would no longer be tethered to the whims of rainfall. The plan promised to deliver a robust water supply with minimal financial burden on the public, positioning the city for sustained prosperity. This unanimous approval underscored the widespread belief that desalination was the definitive answer to the region's long-standing water challenges.",
+    "Despite this initial enthusiasm, the promised plant has yet to materialize, even as the city has already committed at least $50 million to its development. A confluence of factors, including entrenched political dysfunction, the unforeseen economic impacts of the coronavirus pandemic, rapid inflation, and frequent changes in city leadership, are cited as reasons for the project's stalled progress. These compounding delays have transformed a once-celebrated vision into a significant financial drain.",
+    "“We don’t want to have the reputation of having a water problem,” said Brogan, a former executive at the Port of Corpus Christi, the top U.S. port for crude-oil exports, in the August 2018 presentation.",
+    "The financial landscape of the project has drastically shifted from its original design, leaving residents in an increasingly precarious position. Companies that initially pledged to cover the plant's construction now contribute only a fraction of its projected cost. This substantial shortfall means that the remaining, and indeed the majority, of the desalination plant's expenses would ultimately fall upon the shoulders of Corpus Christi’s residents.",
+    "The saga of Corpus Christi’s desalination project serves as a stark illustration of the intricate financial and political risks inherent in large-scale climate adaptation efforts, particularly those relying on public-private partnerships. As the city grapples with an impending water crisis and its citizens face the prospect of paying for an unbuilt solution, the episode underscores the critical need for robust planning, stable governance, and equitable financial models in securing essential resources for a changing climate. The path to water security for Corpus Christi remains fraught with unresolved tensions and significant financial questions."
+  ],
+  "publishedAt": "2026-10-13T08:50:52.512Z",
+  "readTime": 2,
+  "sources": [
+    "Inside Climate News"
+  ],
+  "sourceUrls": [
+    "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:44:29.119Z",
+      "detail": "Aggregated detailed reports from Inside Climate News regarding Corpus Christi's desalination project."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:48:53.568Z",
+      "detail": "Compiled project history, financial figures, stakeholder claims, and expert analysis from Inside Climate News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:50:52.512Z",
+      "detail": "Wove historical context with current financial burdens and political challenges to detail the project's failure and its impact on Corpus Christi residents."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 16.1",
+      "timestamp": "2026-10-13T08:54:48.921Z"
+    }
+  ]
+}

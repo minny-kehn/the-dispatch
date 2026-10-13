@@ -1,0 +1,54 @@
+{
+  "slug": "oregon-mom-sues-doctors-for-68-5m-after-catastrophic-limb-loss",
+  "headline": "Oregon Mom Sues Doctors for $68.5M After Catastrophic Limb Loss",
+  "deck": "An Oregon mother of six is seeking substantial damages, alleging medical negligence led to the catastrophic loss of her limbs following a routine hysterectomy.",
+  "category": "HEALTH",
+  "body": [
+    "An Oregon mother of six has initiated a significant legal battle, suing medical professionals for up to $68.5 million after a post-surgery infection resulted in the devastating loss of her limbs. The lawsuit casts a harsh spotlight on the critical importance of post-operative care and the profound consequences when patient concerns are allegedly disregarded. This development sends ripples through the medical community, prompting a closer look at patient advocacy and accountability in healthcare.",
+    "The woman's injuries are extensive, reportedly including the loss of both legs and a hand, with some reports also indicating the loss of her lips. This profound physical toll has undeniably reshaped her life and the lives of her six children, painting a grim picture of the aftermath of what should have been a standard medical procedure. The scale of her suffering underscores the gravity of the allegations at the heart of this case.",
+    "The catastrophic infection occurred following a hysterectomy, a common surgical procedure. Central to the lawsuit's claim is the allegation that doctors ignored the mother's repeated complaints during her recovery period. This alleged failure to heed patient warnings forms the crux of the negligence claim, suggesting a critical breakdown in communication and care that led to the devastating outcome.",
+    "Reports describe the hysterectomy surgery itself as having gone 'horribly wrong,' setting the stage for the subsequent complications. This characterization points to potential issues not only in post-operative management but possibly within the surgical event itself. The severity of the outcome has intensified scrutiny on every stage of her medical journey, from the operating table to the recovery room.",
+    "The legal action has been characterized as a 'bombshell lawsuit,' reflecting the substantial sum being sought and the severe nature of the alleged negligence. The mother is seeking a staggering $68.5 million, or $68 million according to some reports, in damages. Such a significant claim signals the profound impact these events have had on her life and her family's future, demanding a thorough examination of the circumstances.",
+    "\"I fought so hard to survive.\"",
+    "This legal challenge brings into sharp focus the immense personal and financial toll alleged medical negligence can inflict, particularly on a mother responsible for six children. It raises urgent questions about the systems in place to protect patients and ensure their concerns are addressed promptly and effectively. The outcome of this case will undoubtedly be watched closely, shaping discussions around patient safety and medical accountability for years to come."
+  ],
+  "publishedAt": "2026-10-13T08:52:16.413Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "New York Post",
+    "KGW",
+    "OregonLive.com",
+    "AOL.co.uk",
+    "Su"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:44:29.119Z",
+      "detail": "Aggregated news reports and legal filings concerning a medical negligence lawsuit from New York Post, KGW, OregonLive.com, and AOL.co.uk."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:48:53.568Z",
+      "detail": "Compiled details on a patient's limb loss, the specific surgery, the alleged negligence, and the lawsuit's financial claims from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:52:16.413Z",
+      "detail": "Wove together reported medical events, legal allegations, and patient statements to construct a detailed narrative of alleged medical negligence and its devastating impact."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific financial figures, injury details, and direct quotes were precisely cross-referenced with the provided fact sheet, confirming high accuracy, while descriptive language was evaluated for potential bias.",
+      "timestamp": "2026-10-13T08:56:02.510Z"
+    }
+  ]
+}

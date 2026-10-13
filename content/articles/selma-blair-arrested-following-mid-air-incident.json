@@ -1,0 +1,54 @@
+{
+  "slug": "selma-blair-arrested-following-mid-air-incident",
+  "headline": "Selma Blair Arrested Following Mid-Air Incident",
+  "deck": "The acclaimed actress was taken into custody after reports of a serious disturbance involving flight crew during a recent flight.",
+  "category": "CULTURE",
+  "body": [
+    "Acclaimed actress Selma Blair was reportedly arrested following a tumultuous mid-air incident that sent ripples through the entertainment world. The dramatic events unfolded high above the ground, involving members of the flight crew, sparking immediate concern and widespread media attention. Details surrounding the confrontation remain contested, with initial reports painting a vivid picture of distress and alleged misconduct.",
+    "Eyewitness accounts and initial reports from outlets like Variety detailed serious allegations against Blair, including accusations of assault. Specifically, it was reported that the actress allegedly bit a flight attendant during the disturbance. Such claims, if substantiated, represent a grave breach of airline safety protocols and passenger conduct.",
+    "Further compounding the seriousness of the situation were claims that Blair attempted to open a plane door mid-flight. This particular allegation underscores the potential for extreme danger such actions pose to all passengers and crew aboard an aircraft. The gravity of these accusations immediately triggered an official response upon landing.",
+    "In stark contrast to these unsettling allegations, a representative for Selma Blair offered a different explanation for the incident. They stated that the actress had suffered a 'medical emergency' during the flight, suggesting a health crisis rather than intentional misconduct. This counter-narrative introduces a layer of complexity to understanding the events that transpired.",
+    "This incident casts a harsh spotlight on the delicate balance of passenger conduct and the rigorous safety protocols governing air travel. The conflicting accounts—assault allegations against the backdrop of a claimed medical emergency—highlight the intricate challenges in deciphering such high-stakes mid-air events. It forces a public conversation about accountability and empathy in extraordinary circumstances.",
+    "For a public figure like Blair, these developments carry significant legal and personal ramifications, regardless of the ultimate findings. The immediate arrest, widely reported by outlets including The New York Times and TMZ, ensures that the incident will remain under intense scrutiny. Navigating the aftermath will undoubtedly be a challenging path, both in the courts and in the court of public opinion.",
+    "As investigations proceed, clarity will be sought regarding the precise sequence of events and the underlying causes of the mid-air disturbance. The incident serves as a reminder of the unpredictable nature of air travel and the profound impact such occurrences can have on everyone involved. The public will likely await further details as the legal process unfolds and more information becomes available."
+  ],
+  "publishedAt": "2026-10-13T08:53:18.562Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "BBC",
+    "The New York Times",
+    "Yahoo",
+    "Variety",
+    "TMZ"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNldKbE5XdzZFNlhobGhUc2RhajJYNk9heW1kSUREcE9mR3V6TVcyekxJbVh6enJxaE9KU29URzZtZzJKVHJHVmdJYTlUUWJrT1V1YXAyVXFJMXc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:44:29.119Z",
+      "detail": "Aggregated news reports and celebrity coverage from major media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:48:53.568Z",
+      "detail": "Compiled details of an alleged mid-air assault, arrest, and medical emergency claim from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-13T08:53:18.562Z",
+      "detail": "Constructed a narrative contrasting assault allegations with medical emergency claims surrounding a celebrity incident."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the incident, including allegations, the arrest, and the representative's counter-narrative, were precisely cross-referenced with the provided fact sheet.",
+      "timestamp": "2026-10-13T08:57:10.153Z"
+    }
+  ]
+}
