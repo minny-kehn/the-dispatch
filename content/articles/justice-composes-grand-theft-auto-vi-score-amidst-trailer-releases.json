@@ -1,0 +1,52 @@
+{
+  "slug": "justice-composes-grand-theft-auto-vi-score-amidst-trailer-releases",
+  "headline": "Justice Composes Grand Theft Auto VI Score Amidst Trailer Releases",
+  "deck": "The highly anticipated Grand Theft Auto VI has unveiled new trailers, revealing glimpses of Vice City and confirming the acclaimed electronic duo Justice as the composers of its immersive score.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "The gaming world is abuzz with the recent confirmation that French electronic music sensation Justice has composed the score for the forthcoming Grand Theft Auto VI. This revelation arrives as Rockstar Games continues to stoke immense anticipation for the title, releasing multiple trailers that offer tantalizing peeks into the game’s sprawling, dynamic universe.",
+    "Rockstar Games, the studio behind the iconic franchise, has been steadily rolling out promotional material, including an initial launch trailer that immediately captivated fans globally. These previews serve not just as marketing tools, but as critical windows into the creative direction and technical ambition driving one of the industry's most significant releases.",
+    "A more recent trailer for Grand Theft Auto VI has specifically highlighted the game's setting, offering a detailed look at Vice City. The vibrant, neon-drenched metropolis, a fan-favorite locale from previous iterations, appears to be returning with a contemporary sheen, promising both nostalgic familiarity and fresh, expansive environments for players to explore.",
+    "The involvement of Justice, known for their distinctive blend of electro and rock influences, signals a deliberate artistic choice to craft a memorable auditory experience for players. Their unique sound promises to infuse Vice City’s bustling streets and diverse narratives with a distinctive sonic identity, enhancing the game's atmosphere and emotional depth.",
+    "Such strategic disclosures, from the musical direction to the visual return of an iconic city, are meticulously designed to build fervent excitement within the global gaming community. Each piece of new information, meticulously disseminated, pushes the already sky-high anticipation for Grand Theft Auto VI even further, shaping industry trends and player expectations for years to come."
+  ],
+  "publishedAt": "2026-10-16T06:40:05.551Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Pitchfork",
+    "Rockstar Games",
+    "Mashable",
+    "CNET",
+    "The Verge"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEJSbm9ockhTbDkxMXlDUWl6ZzFJSnVuWk1lZ2U2cFpUOEtvUzZXc2xNMWJBbThUVVdCOFE1ZC1lRmVRZ2xlcVJhUm83bU5FaVk3RUN3bHp3NDdLdmducldHVWw1ZWNyTF9jX3BtQ0JmekhYVkx3aHRkNmZ6bUVFcjVBT1RlQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:35:57.719Z",
+      "detail": "Aggregated reports from major tech and gaming publications concerning Grand Theft Auto VI's development."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:39:29.489Z",
+      "detail": "Compiled details on the game's musical score, trailer releases, and setting from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:40:05.551Z",
+      "detail": "Wove together announcements about the game's score and trailer content to frame the immense anticipation among players."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the game's score, trailer releases, and setting were directly verified against the provided fact sheet, with no discrepancies or fabrications found.",
+      "timestamp": "2026-10-16T06:44:21.999Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "ukraine-renews-refinery-attacks-ending-trump-energy-truce",
+  "headline": "Ukraine Renews Refinery Attacks, Ending 'Trump Energy Truce'",
+  "deck": "Kyiv's decision to restart strikes on Russian oil infrastructure marks a significant escalation in the ongoing conflict, rejecting any informal ceasefires.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Ukraine has resumed its targeted assaults on Russian oil refineries, a move that signals the definitive end of an informal arrangement widely referred to as the 'Trump energy truce.' This strategic shift comes directly after Ukrainian President Volodymyr Zelenskyy unequivocally declared his nation \"we're done\" with any such understanding. The renewed offensive marks a critical escalation in the protracted conflict, underscoring Kyiv's determination to press its advantage.",
+    "\"We’re done,\" President Zelenskyy stated with stark finality, conveying his government’s resolute stance on the matter.",
+    "This pronouncement from President Zelenskyy directly defies calls from former President Donald Trump, who had reportedly urged Ukraine to halt its strikes on Russian energy infrastructure. Zelenskyy made it clear that Ukraine intends to continue hitting Russian refineries, asserting its right to defend itself. The decision to resume these strikes on energy targets is a calculated escalation from Kyiv.",
+    "The collapse of the 'Trump energy ceasefire' is now complete, with both nations actively trading strikes. Ukraine’s leadership maintains that Russia never truly ceased its own attacks throughout the period of the alleged truce. This continuous aggression from Moscow, Kyiv argues, rendered any informal ceasefire agreement null and void, necessitating a renewed offensive strategy.",
+    "Indeed, Russia's aggressive posture preceded President Zelenskyy's defiant statement and the resumption of Ukrainian strikes. Moscow had continued its own attacks on Ukrainian territory, creating an untenable situation for Kyiv. The ongoing exchange of hostilities paints a grim picture of a conflict with no immediate diplomatic off-ramp.",
+    "The re-engagement of Ukrainian forces with Russian energy infrastructure casts a harsh spotlight on the fragility of any informal mediation efforts in the conflict. This strategic pivot by Kyiv indicates a hardening resolve and suggests that global energy markets and geopolitical tensions could face further destabilization. The immediate future appears to be one of sustained military action rather than de-escalation."
+  ],
+  "publishedAt": "2026-10-16T06:40:52.720Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "DW.com",
+    "Yahoo",
+    "The Times of India",
+    "PBS",
+    "The Guardian"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb053UWVmeWJsM21FME9HQW9KUzhXQm9GNG9wUHVwMWd2YkpTZ1BEaS1DTk1pUW80cVZhaEpDVkgzN1R4bm91dVFRYTYxeXh2UldwR25rOEpYelBwblRKOU84YWRhLXVBX3d1aTI1bGItc0ZUcUlGbEdUS3NfWG9HMm1mRGpNOEd2bFRiU3dHNmh2cjE0eXFkZVJfaGY0MERDb1V4LVoxZHNQd9IBqgFBVV95cUxQcm5kSkVsNGFpR0lYVDhCc2JLN1BOLVJ4aFk3NFNSVEJXd0piSzJhanBXZ3B3OWozaWhqOXIweDM0ZjU3TTQyOUsweS1jNjZEdmNZSjFSMFg0Uno0bl9pODZWc0c5ZG1TMVF6c1JiTWFXUGR1STdCU3gxUENjWXRCdy00VUsxakpVWTI5TDhuMnQ2Z01TZTI4ODI1SDFMaXhEako0cWJVVXRiQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:35:57.719Z",
+      "detail": "Aggregated international news reports and geopolitical analyses concerning the Ukraine conflict from multiple reputable sources."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:39:29.489Z",
+      "detail": "Compiled event details, direct quotes from President Zelenskyy, and analytical claims regarding the 'Trump energy truce' from DW.com, Yahoo, The Times of India, PBS, and The Guardian."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-16T06:40:52.720Z",
+      "detail": "Wove direct presidential statements with reported military actions and geopolitical analysis to detail the collapse of an informal ceasefire and its implications."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.2",
+      "timestamp": "2026-10-16T06:45:00.085Z"
+    }
+  ]
+}
