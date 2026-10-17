@@ -1,0 +1,55 @@
+{
+  "slug": "apples-foldable-iphone-duo-sells-out-extends-deliveries",
+  "headline": "Apple's Foldable iPhone Duo Sells Out, Extends Deliveries",
+  "deck": "Apple's highly anticipated entry into the foldable smartphone market has seen its new iPhone Duo sell out almost immediately, pushing delivery dates deep into the new year and even beyond.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Apple's inaugural foldable device, the iPhone Duo, has rapidly sold out following its launch, a development the company attributes to what it describes as 'extraordinary' demand. This swift depletion of initial stock underscores a robust consumer appetite for Apple's first foray into the flexible screen segment, signaling a significant moment for the premium smartphone market.",
+    "The new iPhone Duo carries a substantial price tag, retailing at $1,999. This premium cost places the device firmly at the top tier of the smartphone market, challenging consumers to weigh its innovative design against its considerable expense.",
+    "Some industry watchers suggest this aggressive pricing strategy will serve as a crucial test of Apple's enduring appeal as a purveyor of aspirational technology.",
+    "\"Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test,\" analysts at CNBC noted, reflecting on whether the brand's cachet can sustain such a high entry point for a new product category.",
+    "The immediate sell-out has led to significant delays for those eager to acquire the cutting-edge device. Deliveries for the Apple iPhone Duo are now extending well into late January, according to reports from Yahoo Finance, indicating a backlog that will keep many early adopters waiting.",
+    "For some customers, the wait is even longer, with orders for the Apple iPhone Duo reportedly slipping into 2027. This unprecedented lead time for a new product launch highlights the immense scale of demand and the logistical challenges Apple faces in fulfilling it.",
+    "Bloomberg.com captured the magnitude of this preorder frenzy, stating, \"Apple iPhone Duo Orders Slip Into 2027 Amid Preorder Frenzy.\" The extended wait times underscore the intense anticipation surrounding Apple’s entry into the foldable market, setting a new benchmark for demand in this evolving category.",
+    "The rapid sell-out and subsequent extended delivery windows for the iPhone Duo illuminate the significant consumer interest in Apple's foldable offering. This launch not only reshapes the competitive landscape of premium smartphones but also provides a compelling indicator of the market's readiness for high-end foldable technology."
+  ],
+  "publishedAt": "2026-10-17T06:29:01.404Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Technology",
+    "Financial Times",
+    "CNBC",
+    "Bloomberg.com",
+    "Yahoo Finance",
+    "WCVB"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0NCNHRaTnNQZWgwVWVRUUNubHdDS1Voa1BESnNVYjBwSjhVa3NoR3Y5dUVrU25QMU8tSW5KcXozdnRxWEsyc0NaNlNlOVl0WTdTdmdLTDdRSGFuVnJkcDhnWVgxOHdhLVRCaTNoNlVvNll2YmlOa3NyT3l1bjZMak1HWUI?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:25:01.984Z",
+      "detail": "Aggregated news reports and financial analyses from major technology and business publications."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:28:42.622Z",
+      "detail": "Compiled facts regarding the Apple iPhone Duo's sell-out, pricing, demand, and delivery timelines from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:29:01.404Z",
+      "detail": "Wove together market observations and company claims to detail the immediate impact and implications of Apple's foldable iPhone launch."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims, specific statistics, and direct quotes were meticulously cross-referenced against the provided fact sheet, confirming complete accuracy.",
+      "timestamp": "2026-10-17T06:33:23.225Z"
+    }
+  ]
+}

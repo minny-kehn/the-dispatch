@@ -1,0 +1,53 @@
+{
+  "slug": "kelly-clarkson-feuds-with-toy-store-over-15-million-bird",
+  "headline": "Kelly Clarkson Feuds with Toy Store Over $15 Million Bird",
+  "deck": "A peculiar and high-stakes dispute involving pop star Kelly Clarkson and a toy retailer over an astonishingly valuable bird continues to capture public attention.",
+  "category": "CULTURE",
+  "body": [
+    "The unusual saga surrounding pop superstar Kelly Clarkson and a bird named Molly, valued at an astonishing $15 million, continues to unfold. At the heart of the matter is an ongoing dispute between Clarkson and the toy store Art of Play, a situation that has drawn significant media scrutiny from multiple prominent publications.",
+    "Reports from outlets including The Hollywood Reporter and The New York Times have highlighted the dramatic tensions. Kelly Clarkson has been widely reported to have coveted the unique $15 million bird, creating a celebrity-driven narrative that extends beyond typical entertainment headlines.",
+    "The toy store central to this continuing feud, Art of Play, exacerbated the situation by listing the bird for the eye-watering sum of $15 million. This decision, an exclusive detail first reported by USA Today, immediately escalated the public nature of the disagreement.",
+    "The Hollywood Reporter further fueled the widespread fascination with an exclusive story titled, 'Hello, Molly? The $15 Million Bird Kelly Clarkson Coveted Finally Breaks Her Silence.' Such coverage underscores the unique blend of celebrity intrigue and high-value ownership at play.",
+    "This particular clash positions Kelly Clarkson among a notable group of nine stars who have found themselves embroiled in disputes with small businesses. The 'Kelly Clarkson bird saga,' as the Los Angeles Times has termed it, exemplifies the complex dynamics that can emerge when high-profile figures interact with smaller commercial entities.",
+    "The continuous media attention ensures that the intricacies of this unusual quarrel remain in the public eye. Observers continue to track the developments, eager to see how a disagreement over such a uniquely valued item will ultimately resolve."
+  ],
+  "publishedAt": "2026-10-17T06:33:05.174Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Entertainment",
+    "The Hollywood Reporter",
+    "The New York Times",
+    "Los Angeles Times",
+    "Entertainment Weekly",
+    "USA Today"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnBDZlF1VU1qWWs1Ny1ZMnc2QnlPUWRYOGxMR1ZGcjhYd01BckwzX3pDLVJTYnlsTk5GRXN5Vjd6TVpxU3lHREU2LUNiUW11Q3BIMWw2R2ZpUlAtM29XV1J0NDhONVZWZlJBQlBUMzJ2QklIUlMzWjVYaHptYm55czg5d0ZpQ2pUUTRvQnBPVWZNTzNQakNsQW5ZYnBKaWJUQnNISHltOE9CTlpkbGRyY3l3bHJKVjl0OUZ3?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:25:01.984Z",
+      "detail": "Aggregated news reports and exclusive stories from prominent entertainment and national news outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:28:42.622Z",
+      "detail": "Compiled details on the ongoing feud, bird valuation, involved parties, and specific media coverage from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-17T06:33:05.174Z",
+      "detail": "Wove celebrity dispute facts with media reporting analysis to frame the continuing cultural fascination with the story."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the bird's value, the involved parties, and media coverage were directly verified against the provided fact sheet.",
+      "timestamp": "2026-10-17T06:36:18.078Z"
+    }
+  ]
+}
