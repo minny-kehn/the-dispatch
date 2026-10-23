@@ -1,0 +1,54 @@
+{
+  "slug": "new-holmes-documentary-draws-critical-whistleblower-reactions",
+  "headline": "New Holmes Documentary Draws Critical Whistleblower Reactions",
+  "deck": "A new documentary chronicling the saga of Elizabeth Holmes is drawing sharp scrutiny from whistleblowers, investigators, and reporters who previously exposed her actions.",
+  "category": "CULTURE",
+  "body": [
+    "The new documentary, 'You Can See Everything', chronicling the saga of Elizabeth Holmes, has quickly emerged as a focal point for renewed public discourse. This cinematic exploration of the Theranos founder's story is not merely recounting past events; it is actively drawing sharp reactions from the very individuals who helped expose her enterprise. These responses underscore a lingering vigilance surrounding Holmes's portrayal and the enduring questions about her credibility.",
+    "Among the most pointed reactions comes from a Theranos whistleblower, who asserts that Elizabeth Holmes continues to misrepresent facts within the documentary itself. This direct challenge, reported by STAT, casts a harsh spotlight on the film's narrative, suggesting that the former CEO's patterns of deception may persist. The claim immediately re-ignites debates over her sincerity, even years after the initial scandal broke.",
+    "Adding another layer of professional scrutiny, a forensic psychologist, specifically trained in the intricate art of identifying deception, is also weighing in on 'You Can See Everything'. This expert, as noted by TODAY.com, is meticulously considering the questions they would pose to Holmes, aiming to probe deeper into the psychological underpinnings of her actions and statements. Their involvement signals a continued quest for deeper understanding beyond the surface narrative.",
+    "The circle of critical observers further extends to seasoned journalists who previously played pivotal roles in bringing Holmes's fraudulent enterprise to light. A reporter, whose earlier investigations exposed the true nature of Theranos, is now offering their informed perspective on 'The Elizabeth Holmes Documentary', as reported by The New York T. Their insights are invaluable, providing a historical lens through which to evaluate the film's contents and Holmes's current presentation.",
+    "These specific reactions unfold against a broader backdrop where Elizabeth Holmes is widely perceived as a figure of fraud. Publications like Yahoo and STAT consistently reflect this public sentiment, a perception solidified by her conviction and the devastating impact of the Theranos collapse. The documentary, therefore, enters an environment already primed for critical analysis of any narrative she attempts to shape.",
+    "The diverse and critical responses to 'You Can See Everything' highlight the enduring fascination and unresolved tensions surrounding Elizabeth Holmes and the Theranos scandal. This renewed public and expert interest suggests that the lessons from this corporate fraud continue to resonate, pushing conversations about accountability and ethical leadership to the forefront. The documentary serves not as a final chapter, but as a fresh impetus for continued scrutiny of an indelible moment in corporate history."
+  ],
+  "publishedAt": "2026-10-23T06:54:54.142Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "SFGATE",
+    "Yahoo",
+    "STAT",
+    "TODAY.com",
+    "The New York T",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlNVWU4dWNuUDlEdndIcUVVSGpRaC1jQVVVbnhmWEg1SWtQcGt6LW5OSlh3M2RSN3diSDhXYmgyNDVGbFRGeWdtVmVxZWpPRjRSSGdTT0pRTVNZRlM4T1I4cXpRcFMtbDJBZUp4RVFaVFFvZmZPU2VsNHh2Z0R2OXF0ODZpNDVnSDNTLURhdzJVSGZROXZuaQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:46:26.588Z",
+      "detail": "Aggregated reactions from whistleblowers, investigators, and reporters to the new Elizabeth Holmes documentary, 'You Can See Everything'."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:50:23.827Z",
+      "detail": "Compiled claims from a Theranos whistleblower, a forensic psychologist, and a reporter regarding Elizabeth Holmes's credibility and the documentary from 4 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:54:54.142Z",
+      "detail": "Wove expert and witness reactions to the Elizabeth Holmes documentary into a narrative examining ongoing scrutiny of her credibility and the lasting impact of the Theranos scandal."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Reactions from whistleblowers, investigators, and reporters to the 'You Can See Everything' documentary were verified against the fact sheet, along with the public perception of Elizabeth Holmes.",
+      "timestamp": "2026-10-23T06:58:10.101Z"
+    }
+  ]
+}

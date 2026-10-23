@@ -1,0 +1,51 @@
+{
+  "slug": "ebola-outbreak-reaches-unprecedented-scale-in-africa",
+  "headline": "Ebola Outbreak Reaches Unprecedented Scale in Africa",
+  "deck": "A recent report by The New York Times reveals an Ebola outbreak in Africa has grown to its largest extent ever, signaling a severe public health challenge.",
+  "category": "HEALTH",
+  "body": [
+    "An Ebola outbreak currently sweeping across Africa has reached an unprecedented scale, marking its widest expansion ever recorded. This significant development, highlighted in a recent report by The New York Times, casts a harsh spotlight on the persistent public health challenges facing the continent. The news underscores the gravity of the situation, demanding immediate attention from global health organizations and local authorities alike.",
+    "The notion of the outbreak reaching its \"widest expansion ever\" paints a grim picture of the virus's current trajectory. It suggests a geographical spread and perhaps a level of community transmission not previously observed in past outbreaks. Such a development invariably pushes an already vulnerable population closer to the brink, straining healthcare infrastructures.",
+    "These alarming reports were prominently featured by The New York Times, a publication known for its in-depth international coverage. The newspaper's decision to bring this story to the forefront lends considerable weight to the seriousness of the situation. Its detailed account serves as a critical alert to the international community regarding the escalating crisis.",
+    "The visibility of this critical news was further amplified across major digital platforms, including Google News. This broad dissemination ensures that the unfolding public health crisis reaches a vast international audience. Such widespread reporting is crucial for galvanizing the necessary global response to mitigate the outbreak's impact.",
+    "Specifically, the Google News Health section highlighted the story, underscoring its relevance within the sphere of global health. This focused attention within a dedicated health news aggregator suggests that experts and the public alike are recognizing the severe implications of the outbreak's unprecedented reach. It frames the narrative as a top-tier concern for public health professionals.",
+    "An outbreak of this magnitude signifies a potentially severe public health crisis, threatening widespread illness and fatalities across affected regions. The sheer scale demands urgent international attention and intervention to contain its spread effectively. Without concerted efforts, the human cost could be devastating, impacting countless lives and livelihoods.",
+    "The imperative now is for a swift and coordinated global response, grounded in proven public health strategies. Addressing the unprecedented expansion of this Ebola outbreak will require robust support for local healthcare systems and extensive public awareness campaigns. The coming weeks will be critical in determining the trajectory of this escalating health challenge."
+  ],
+  "publishedAt": "2026-10-23T06:54:15.729Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "Google News",
+    "The New York Times"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:46:26.588Z",
+      "detail": "Aggregated news headlines from Google News and its Health section, identifying a prominent report by The New York Times."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:50:23.827Z",
+      "detail": "Compiled reporting details regarding an Ebola outbreak's unprecedented expansion across Africa from Google News, Google News — Health, and The New York Times."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-23T06:54:15.729Z",
+      "detail": "Wove reporting prominence with the public health implications to highlight the severity of Africa's widest-ever Ebola outbreak."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.1",
+      "timestamp": "2026-10-23T06:57:51.627Z"
+    }
+  ]
+}
