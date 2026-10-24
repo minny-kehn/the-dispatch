@@ -1,0 +1,50 @@
+{
+  "slug": "apple-unveils-costly-limited-foldable-iphone",
+  "headline": "Apple Unveils Costly, Limited Foldable iPhone",
+  "deck": "Apple has officially launched its highly anticipated foldable iPhone, entering the nascent market segment with a formidable $3,000 price point and notably scarce supply.",
+  "category": "TECHNOLOGY",
+  "body": [
+    "Apple has officially released its foldable iPhone, a long-awaited entry into the evolving landscape of mobile technology, which is now available in stores. This new device arrives with a striking $3,000 price tag and an immediate challenge of scarce supply, setting a distinctive tone for its debut. The launch represents a significant moment for the company as it steps into a segment already explored by competitors, but under its own stringent terms.",
+    "The formidable $3,000 price positions Apple's foldable iPhone firmly at the pinnacle of the premium smartphone market. This figure is a substantial investment for even the most dedicated technology enthusiasts, likely limiting its initial reach to a very specific, affluent demographic. Such a cost clearly delineates the product as a luxury item rather than a mainstream offering upon its release.",
+    "Compounding the high price, reports indicate that the supply of Apple's innovative foldable iPhone is remarkably scarce. This limited availability means that many consumers eager to experience the new form factor may face considerable delays or difficulty in acquiring the device. The constrained rollout could be a strategic move to gauge market interest or a reflection of initial production complexities for the advanced technology.",
+    "These factors—a high barrier to entry combined with restricted access—paint a nuanced picture of Apple's strategic approach to the foldable segment. It suggests a cautious, controlled entry, perhaps allowing the company to refine its manufacturing processes or observe early adopter feedback before a broader push. This measured introduction aligns with Apple's historical tendency to perfect a product before scaling its availability.",
+    "The combination of its premium cost and limited production will undoubtedly shape the device's initial market performance and consumer accessibility. While it establishes Apple's presence in the foldable arena, the path to widespread adoption will be heavily influenced by these foundational decisions. The success of this initial phase will offer crucial insights into the viability of ultra-premium foldables.",
+    "As the foldable iPhone makes its way into the hands of its first owners, the interplay between its innovative design, its exclusive price, and its constrained availability will be closely watched. This launch serves as a critical indicator of Apple's long-term vision for the foldable market and the broader direction of high-end smartphone innovation. The coming months will reveal how this carefully managed debut impacts both the company's standing and the segment itself."
+  ],
+  "publishedAt": "2026-10-24T06:46:36.974Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Technology",
+    "CTV News",
+    "Google News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEJFelpXcEpSU2paM0lKYnRYeC1LMjJOdXlFeE1rWENIOTMzbEVyMmhDRDF6UWtBNkZScEw4cVdjQXNnVDNFQl9laTRDN210bVFDM1VzbXBHZmk4LWNsQnVZQjVZdG5kOUxuTmlzWG5fOU8zQWRCUU5zRnZIRDZjaWZFM1RuYVZuZFRwcVFXZjJTV2YtUlNIZmxySEhZblI4dXlNLUw5U3V2STUwcWhOWVIwMA?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-24T06:42:19.814Z",
+      "detail": "Aggregated news reports from technology and general news sources concerning Apple's latest product launch."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-24T06:46:11.183Z",
+      "detail": "Compiled details regarding the release, pricing, and supply constraints of Apple's foldable iPhone from a single primary news source."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-24T06:46:36.974Z",
+      "detail": "Constructed a narrative framing Apple's entry into the foldable smartphone market through the lens of its high price point and limited initial availability."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding the product's release, price, and supply were directly verified against",
+      "timestamp": "2026-10-24T06:51:02.775Z"
+    }
+  ]
+}
