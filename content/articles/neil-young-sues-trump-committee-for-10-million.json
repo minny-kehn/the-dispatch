@@ -1,0 +1,54 @@
+{
+  "slug": "neil-young-sues-trump-committee-for-10-million",
+  "headline": "Neil Young Sues Trump Committee for $10 Million",
+  "deck": "Legendary musician Neil Young has once again taken legal action against the Donald Trump campaign, alleging unauthorized use of his anthem 'Rockin’ in the Free World'.",
+  "category": "CULTURE",
+  "body": [
+    "Musician Neil Young has initiated a new legal battle against the Donald Trump campaign committee, seeking a substantial $10 million in damages. This action comes after the unauthorized use of his iconic song, 'Rockin’ in the Free World,' at a recent political rally. The lawsuit casts a spotlight on the persistent tensions between artists and political entities regarding intellectual property rights.",
+    "The legal filing, reported by multiple outlets including Rolling Stone and Reuters, specifies the significant financial claim against the committee. Young's legal team is asserting that the repeated deployment of his work without consent constitutes a clear infringement. This dispute brings the question of artistic control directly into the political arena.",
+    "This is not the first instance where Young has pursued legal avenues against the Trump campaign over his music. The veteran artist has a documented history of objecting to the use of his compositions for political purposes he does not endorse. Such repeated confrontations underscore a deeper, ongoing conflict over musical rights.",
+    "The latest legal challenge specifically cites the song's appearance at a political rally, an event that sparked the current legal action. Public performances at such high-profile gatherings amplify the visibility of the unauthorized usage. For Young, this appears to be a matter of principle as much as it is a legal claim.",
+    "The dispute highlights the continuing struggle artists face to control the association of their creative work with political figures. Many musicians feel strongly about preventing their art from being co-opted for messages they oppose. This lawsuit serves as a potent reminder of the personal and professional stakes involved for creators.",
+    "Beyond the immediate parties, this legal action draws critical attention to the intricacies of copyright law within the context of political events. It forces a closer examination of what constitutes fair use versus infringement when music becomes part of a campaign's public messaging. The outcome could set precedents for future political uses of copyrighted material.",
+    "As the legal proceedings unfold, the entertainment and political worlds will be watching closely. This case could reinforce the boundaries of intellectual property in public forums or prompt new debates on artists' rights in an increasingly politicized cultural landscape. The resolution will undoubtedly inform how campaigns navigate musical selections in the future."
+  ],
+  "publishedAt": "2026-10-27T07:12:56.383Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Rolling Stone",
+    "Reuters",
+    "Courthouse News",
+    "Yahoo",
+    "Deadline"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjRUd2J3RTVQNVZnTlJpVUVQWDNvcWdqOXBaUUo1MkJidF9XOEVWYTZjOUVFWHpZREo5YlJTLUJ0aXYzMWlRdW9tVVR5Q0NwakhOOFFBbEt4Rml1dGtaeUVWTVg2eDFRWXAtcHM5bnZoV0pzVVM3c09kVVJGVjZ3Zi1JSmg3aFFXUER5UGw2YUwzMmliZWtkQ0hPeWhGTjBIbElRSGNUWk9QUXpDN0YzT2pVZ3Y?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-27T07:04:18.117Z",
+      "detail": "Aggregated reports from entertainment and news outlets including Rolling Stone, Reuters, and Yahoo."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-27T07:08:31.006Z",
+      "detail": "Compiled details regarding the $10 million lawsuit, the specific song 'Rockin’ in the Free World', and the history of previous legal actions from 6 sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-27T07:12:56.383Z",
+      "detail": "Wove legal facts with cultural context to explain the ongoing tension between artists and political campaigns over intellectual property."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "The article's factual claims regarding the lawsuit amount, involved parties, song title, and previous legal actions were directly verified against the provided fact sheet, showing perfect alignment.",
+      "timestamp": "2026-10-27T07:16:53.008Z"
+    }
+  ]
+}
