@@ -1,0 +1,52 @@
+{
+  "slug": "dramatic-dancing-with-the-stars-episode-delivers-double-elimination-perfect-scor",
+  "headline": "Dramatic 'Dancing with the Stars' Episode Delivers Double Elimination, Perfect Score",
+  "deck": "The latest installment of Season 35 brought unexpected twists and turns, reshaping the competition's landscape with high stakes and memorable moments.",
+  "category": "CULTURE",
+  "body": [
+    "The latest installment of 'Dancing with the Stars' Season 35 plunged viewers into a 'Horror Movie Night' theme, delivering a truly unexpected and dramatic evening. This special episode, known for its elaborate costumes and spooky routines, transcended mere entertainment, shaking up the competition with pivotal moments that will undoubtedly reshape the season's narrative. From the outset, it was clear this would be no ordinary dance-off, setting a tense stage for the night's events.",
+    "Central to the night's high drama was the unprecedented double elimination, which saw two celebrity contestants and their professional partners exit the ballroom. This rare occurrence around the halfway point of the competition cast a harsh spotlight on the intense pressure faced by all remaining pairs. The sudden departure of two teams pushed an already vulnerable population of competitors closer to the brink, intensifying the stakes for those still vying for the coveted Mirrorball Trophy.",
+    "Amidst the tension of the departures, the 'Horror Movie Night' also celebrated a significant triumph: the season's first perfect score. This remarkable achievement provided a stark contrast to the night's somber goodbyes, demonstrating that excellence could still shine through the competitive fray. Such a high mark often signals a frontrunner emerging, setting a new bar for the remaining contestants to aspire to as the competition progresses.",
+    "Further fueling the episode's unpredictable nature was a 'near walk-off' incident, a moment of palpable tension that momentarily threatened to derail the live broadcast. While the exact details of the near walk-off remain a subject of discussion among fans, its occurrence added another layer of raw, unscripted drama to an already eventful night. These unscripted moments often underscore the intense emotional investment of the participants in a live television environment.",
+    "Adding to the evening's memorable moments, veteran judge Carrie Ann Inaba experienced a notable gaffe, humorously described by some as a 'brain fart' during the 'Halloween Horror Movie Night'. This minor but noticeable misstep by one of the show's longest-serving judges injected a touch of relatable levity into the high-stakes proceedings. It served as a reminder that even seasoned professionals can be caught off guard during the intensity of live competition.",
+    "Reflecting on the long-term impact, this 'Horror Movie Night' episode will likely be remembered as a pivotal turning point in Season 35. The combination of a double elimination, a groundbreaking perfect score, and unexpected on-set drama has significantly altered the competitive landscape, leaving fans eager to see how the remaining couples adapt. The road to the Mirrorball Trophy now appears more challenging and unpredictable than ever before, promising a thrilling conclusion to the season."
+  ],
+  "publishedAt": "2026-10-28T07:53:32.416Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "USA Today",
+    "People.com",
+    "The Hollywood Reporter",
+    "Deadline"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2JFNVVaS1NoVGRsYmN3Z1h4ZmhnenNQSmZGQXFfVVplRDRSWDE2YWpqUElQdWZ2MW9rS3pRUW9nOXluNHRScHVOYnd6Ml8xaExzc0NxVU1fdi1pRkhNVVBkZEI5ZldTWlg4V0NReXpRdWRhVDBpV1g2c3lmOWRQOGp3ZlpqYlFwMm9za0dhakkxSFEzb2tlY05BSHh3bWJmRUJKQ0lQUXpIOHlPRDhHbXJqbTZEdGdOM3VBenh6Y3FUMHlvanhTOEdQWTZITGpYWUlTSDFkbGd1LUI1SGZEVw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-10-28T07:45:21.706Z",
+      "detail": "Aggregated entertainment reports and show recaps from prominent media outlets including USA Today, People.com, The Hollywood Reporter, and Deadline."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-10-28T07:49:15.865Z",
+      "detail": "Compiled key event details including two eliminations, the season's first perfect score, a near walk-off incident, and a judge's notable gaffe from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-10-28T07:53:32.416Z",
+      "detail": "Wove episode highlights with season context to detail the dramatic impact on the competition, emphasizing the unexpected twists and turns for 'Dancing with the Stars' Season 35."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Specific event details, participant actions, and judge commentary were cross-referenced",
+      "timestamp": "2026-10-28T07:57:38.890Z"
+    }
+  ]
+}
