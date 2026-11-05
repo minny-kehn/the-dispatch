@@ -1,0 +1,51 @@
+{
+  "slug": "global-warming-surpasses-1-5-c-target-adaptation-funding-lags",
+  "headline": "Global Warming Surpasses 1.5°C Target, Adaptation Funding Lags",
+  "deck": "International reports indicate a critical shortfall in financial support for climate adaptation, even as global temperatures continue to climb beyond a pivotal threshold.",
+  "category": "CLIMATE",
+  "body": [
+    "A sobering assessment from international reports indicates that global warming is now pushing past the critical 1.5°C threshold. This trajectory marks a significant moment, highlighting the accelerating pace of climate change and the urgent need for global response. The news comes as a stark indicator of the planet's evolving environmental state, demanding immediate attention from policymakers and communities alike.",
+    "Compounding this alarming rise in temperatures is a severe deficit in climate adaptation funding. Resources dedicated to helping communities worldwide cope with the inevitable impacts of a warmer planet are falling far short of what is required. This financial shortfall creates a precarious situation, leaving many vulnerable populations exposed to escalating environmental challenges.",
+    "The gravity of this dual challenge is perhaps best encapsulated by a recent observation from UN News, which plainly states:",
+    "‘The world is not ready.’",
+    "This blunt declaration underscores a profound lack of preparedness for the current climate situation. Despite years of warnings and international discussions, the mechanisms and support systems needed to build resilience against climate shifts remain woefully inadequate. The implications of this unpreparedness suggest significant challenges ahead for communities grappling with altered weather patterns and environmental stressors.",
+    "The exceeding of the 1.5°C global warming target and the concurrent lack of adaptation cash are deeply interconnected issues. One exacerbates the other, creating a feedback loop where rising temperatures demand more robust adaptive measures, which in turn are hindered by insufficient financial backing. This dynamic paints a grim picture for long-term environmental stability and human well-being.",
+    "These reports from UN News cast a harsh spotlight on the immediate urgency of the climate crisis. They serve as a crucial indicator that the pace of global warming is outstripping the collective capacity to respond effectively. The continued rise in temperatures, coupled with a dearth of protective measures, pushes an already vulnerable population closer to the brink of greater environmental disruption.",
+    "Reflecting on the long-term impact, the current trajectory points towards a future demanding far greater investment in resilience and preventative action. The gap between climate ambition and practical implementation, particularly in funding adaptation, represents a critical challenge that nations must confront with renewed commitment. Addressing this disparity will be paramount in mitigating the harshest consequences of a warming planet."
+  ],
+  "publishedAt": "2026-11-05T08:53:01.965Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Environment",
+    "UN News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSSXpCYzVKODh0N3BZUzdGUHdDYnlNdkx3RElySFdfZXJIOGo3cU1nS2J5ZjlTNGhXeXlSQm8tTEcwYi1XQlgySk1PQ3JkbXppdnFSOWZPTQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:46:23.041Z",
+      "detail": "Aggregated reports from UN News and Google News — Environment"
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:50:32.843Z",
+      "detail": "Compiled facts on global warming exceeding 1.5°C, adaptation funding shortfall, and global unpreparedness from UN News"
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:53:01.965Z",
+      "detail": "Wove the critical facts of rising temperatures and insufficient adaptation funding into a narrative highlighting global unpreparedness for climate change"
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 15.1",
+      "timestamp": "2026-11-05T08:56:55.740Z"
+    }
+  ]
+}

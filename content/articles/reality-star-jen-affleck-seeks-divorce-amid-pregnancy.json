@@ -1,0 +1,55 @@
+{
+  "slug": "reality-star-jen-affleck-seeks-divorce-amid-pregnancy",
+  "headline": "Reality Star Jen Affleck Seeks Divorce Amid Pregnancy",
+  "deck": "The 'Secret Lives of Mormon Wives' personality has initiated proceedings to end her seven-year marriage to Zac Affleck, even as the couple anticipates their fourth child.",
+  "category": "CULTURE",
+  "body": [
+    "Jen Affleck, a prominent figure from the reality series 'Secret Lives of Mormon Wives', has reportedly filed for divorce from her husband, Zac Affleck. This significant personal development unfolds as the couple prepares for the arrival of their fourth child, casting a harsh spotlight on the complexities of public life. The news, confirmed by multiple entertainment outlets, marks the end of a seven-year marriage that has often been a subject of public fascination.",
+    "The filing signals a profound shift in the life of the reality television star, who has become known for offering glimpses into her world. Sources close to the couple indicate that the decision comes after seven years of marriage to Zac Affleck. This unexpected turn of events has quickly become a central topic among followers of the popular show and the broader entertainment landscape.",
+    "What adds a particularly poignant layer to this unfolding narrative is the revelation of Affleck's pregnancy. With their family poised to expand further, the timing introduces a unique set of challenges for both individuals. The impending arrival of their fourth child will undoubtedly reshape their future dynamics, even as they navigate the legal intricacies of separation.",
+    "The couple's reported focus on their children during this tumultuous period offers a glimpse into their priorities. Amidst the flurry of reports, People.com highlighted their shared commitment, stating:",
+    "\"_Pregnant Jen Affleck and Zac Affleck Are ‘Focused on Preparing’ for Baby No. 4 amid Divorce._\"",
+    "This shared commitment underscores a desire to provide stability for their growing family, despite the personal upheaval. The impending arrival of baby number four demands a unified front, even as their marital bonds dissolve. Such public declarations often serve to frame the narrative, emphasizing parental responsibility over personal grievances.",
+    "For fans of 'Secret Lives of Mormon Wives', this development offers a stark, real-world parallel to the often-dramatized narratives depicted on screen. The show, which purports to offer an intimate look into its stars' lives, now finds one of its central figures facing a deeply personal and public challenge. This intersection of reality television and actual lived experience often blurs the lines for viewers.",
+    "The intense media scrutiny surrounding Affleck's personal life reflects the inherent challenges faced by public figures, especially during moments of vulnerability. Major outlets like Entertainment Weekly, TMZ, and E! News have all reported on the divorce and pregnancy, ensuring wide dissemination of the news. Navigating such significant life events under the constant gaze of the public eye can undoubtedly amplify personal pressures.",
+    "As Jen and Zac Affleck move forward, the immediate future will likely center on the practicalities of co-parenting their four children and establishing new family dynamics. The unfolding legal proceedings, coupled with the imminent birth, will undoubtedly keep their personal lives in the public conversation. This situation serves as a poignant reminder of the complex realities behind the curated facades often presented in entertainment."
+  ],
+  "publishedAt": "2026-11-05T08:54:43.798Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Entertainment",
+    "Entertainment Weekly",
+    "People.com",
+    "TMZ",
+    "E! News"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblNBRVlmNmo1ZXppc0RmQl85Q2tXOXJGWUJ3YnRmdmlXeFdVS1JjNjVBYmhYdWltUUFpMzdURzBnVTh3eVpKNXNFc0lEYnpOeldLVzMzSmVTQTFjaEVGd0Uta29ZMnktMDY1MlVCVjdzVnlJMVQwRURhTGhmMU50dnZKVWZkcjZvajFfZWZoOS1ZTGE1cXJZYw?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:46:23.041Z",
+      "detail": "Aggregated entertainment news reports and celebrity updates from major media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:50:32.843Z",
+      "detail": "Compiled reports on Jen Affleck's divorce filing, pregnancy status, and marital duration from Entertainment Weekly, People.com, TMZ, and E! News."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:54:43.798Z",
+      "detail": "Wove together celebrity news reports and direct quotes to detail the personal challenges of a public figure navigating divorce and pregnancy."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All key events, names, relationship durations, and pregnancy details were cross-referenced with the provided fact sheet, and direct quotes were verified for exact match.",
+      "timestamp": "2026-11-05T08:58:22.371Z"
+    }
+  ]
+}

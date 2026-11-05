@@ -1,0 +1,54 @@
+{
+  "slug": "russian-strikes-kill-dozens-in-ukraine-targeting-aid-center-and-school",
+  "headline": "Russian Strikes Kill Dozens in Ukraine, Targeting Aid Center and School",
+  "deck": "New reports from Ukraine detail a series of devastating Russian attacks on civilian infrastructure, including a school and an aid center, pushing the confirmed death toll to 40.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Ukrainian officials are reporting a grim surge in casualties following a series of Russian strikes that have left at least 40 people dead. These recent attacks have cast a harsh spotlight on the continued targeting of civilian infrastructure, including a school and a vital aid center, in the city of Zaporizhia.",
+    "The city of Zaporizhia bore the brunt of these recent assaults, where officials confirmed that a Russian strike on an aid center resulted in dozens of fatalities and missing persons. Separately, another attack reportedly targeted a school, further exacerbating the human cost of the ongoing conflict.",
+    "Ukrainian President Zelenskyy has confirmed the tragic toll, stating that 40 people are now dead following the Russian attack on the school. This figure was echoed by reports concerning the strike in Zaporizhia, painting a grim picture of the immediate aftermath.",
+    "Reflecting on the scale of the devastation, Ukrainian President Zelenskyy described the Russian bombing of the aid center as 'one of the war’s ‘deadliest attacks’', underscoring the profound impact on the civilian population.",
+    "Adding another layer of concern, Ukraine has presented bodycam video evidence which they claim shows a deadly Russian 'double-tap' bombing tactic. This method, involving a second strike shortly after the first, is often associated with maximizing casualties among first responders and those attempting to aid the wounded.",
+    "Such allegations, if proven, raise serious questions about the deliberate targeting of civilians and humanitarian efforts, potentially constituting war crimes. The consistent destruction of non-military sites pushes an already vulnerable population closer to the brink, disrupting essential services and safe havens.",
+    "As the international community grapples with these harrowing reports, the calls for accountability for attacks on civilian infrastructure grow louder. The rising death toll in Zaporizhia serves as a stark reminder of the relentless human cost of this conflict, highlighting the urgent need for a cessation of hostilities and protection for those caught in the crossfire."
+  ],
+  "publishedAt": "2026-11-05T08:52:13.034Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — World",
+    "BBC",
+    "Reuters",
+    "The Guardian",
+    "Al Jazeera",
+    "CNN"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0MlQ3RGZXaWNFM2h6RUpwSnRnRWw2VXgyYlRORFVTQ0xzcEMxVkdGUXdoR1FHSF93Y3pTMU1Bd0NUekpRMXU1OW5kOXB6WUNjenRMZ3Ryc25FZEU?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:46:23.041Z",
+      "detail": "Aggregated news reports from international media outlets detailing recent Russian strikes in Ukraine."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:50:32.843Z",
+      "detail": "Compiled casualty figures, strike locations, targeted infrastructure, and official statements from 6 reputable news sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:52:13.034Z",
+      "detail": "Wove confirmed death tolls and strike details with presidential commentary and tactical claims to illustrate the escalating human cost of the conflict."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims, including casualty figures, locations, and direct quotes from President Zelenskyy, were meticulously cross-referenced and found to align precisely with the provided fact sheet.",
+      "timestamp": "2026-11-05T08:56:22.053Z"
+    }
+  ]
+}

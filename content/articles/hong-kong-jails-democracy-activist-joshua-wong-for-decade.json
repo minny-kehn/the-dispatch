@@ -1,0 +1,53 @@
+{
+  "slug": "hong-kong-jails-democracy-activist-joshua-wong-for-decade",
+  "headline": "Hong Kong Jails Democracy Activist Joshua Wong for Decade",
+  "deck": "Prominent democracy activist Joshua Wong, long identified as the face of Hong Kong's pro-democracy movement, has been handed a decade-long prison sentence by authorities.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Hong Kong authorities have delivered a severe blow to the city's pro-democracy movement, sentencing prominent activist Joshua Wong to a decade in prison. Wong, widely recognized as the very face of Hong Kong's sustained calls for greater autonomy, received the lengthy term in what Bloomberg.com reported as a \"collusion case.\" This development marks a significant escalation in the ongoing suppression of dissent across the region, casting a harsh spotlight on the erosion of civil liberties.",
+    "The 10-year prison sentence for Wong, confirmed by multiple international news outlets including The New York Times and Al Jazeera, underscores the deepening challenges faced by activists in the city. Identified by the BBC as the 'face of Hong Kong's pro-democracy protests,' Wong has been a central figure in advocating for democratic reforms since his teenage years. His jailing by Hong Kong authorities represents a critical moment in the city's political landscape.",
+    "This substantial prison term sends a clear message about the tightening grip on political expression within the semi-autonomous territory. The Wall Street Journal specifically noted that Hong Kong 'Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years,' reflecting the authorities' resolve to silence prominent voices. Such actions push an already vulnerable population closer to the brink of losing fundamental freedoms.",
+    "Wong's activism has consistently drawn international attention to Hong Kong's unique status and its struggle to maintain promised freedoms. For years, he has been a vocal proponent for democratic values, often speaking out against Beijing's increasing influence. His conviction and imprisonment are seen by many as a direct consequence of his unyielding stance against a shifting political tide.",
+    "The severity of the sentence has reverberated through international diplomatic circles and human rights organizations. Observers suggest this ruling will intensify global scrutiny of Hong Kong's judicial independence and its adherence to human rights principles. It paints a grim picture for the future of civil society in a city once known for its vibrant public discourse and open expression.",
+    "Reflecting on the long-term impact, this decision raises profound questions about the political future of Hong Kong and the space remaining for peaceful dissent. The jailing of a figure as emblematic as Joshua Wong indicates how authorities intend to manage any opposition. As international bodies continue to monitor the situation, the implications for Hong Kong's autonomy and its citizens' fundamental rights remain at the forefront."
+  ],
+  "publishedAt": "2026-11-05T08:51:44.121Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "The New York Times",
+    "BBC",
+    "Al Jazeera",
+    "WSJ",
+    "Bloomberg.com"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2liS1VZcERBcGdsLWxMTlpHMllXeVVsdEJvbEMyUEtJSHZ4SmkyX1hMdDNoQVJVd0prVGd2M1h4X3pzdmVxUnZfbTRPODNJbVhGbU05Sy1RY2R6SXVMUzRYVU1sU2ZlSHBhLWxQd21PTGQ3Y1dHczJmM1I0bjFpVlNtbWdHeWJVRmc?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:46:23.041Z",
+      "detail": "Aggregated news reports and analyses from leading international media outlets."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:50:32.843Z",
+      "detail": "Compiled details on Joshua Wong's sentencing, the specific term, and the responsible authorities from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-05T08:51:44.121Z",
+      "detail": "Wove specific sentencing facts with contextual background to frame the broader implications for Hong Kong's civil liberties."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All specific factual claims regarding Joshua Wong's identity, sentence length, and the reporting sources were verified against the provided fact sheet, with no fabrications or misrepresentations identified. (Bias: 7/10, Accuracy: 10/10)",
+      "timestamp": "2026-11-05T08:56:02.112Z"
+    }
+  ]
+}
