@@ -1,0 +1,53 @@
+{
+  "slug": "paraguay-president-impeached-after-bank-collapse",
+  "headline": "Paraguay President Impeached After Bank Collapse",
+  "deck": "A financial crisis has swept through Paraguay, culminating in the swift removal of its head of state and casting a harsh spotlight on the nation's banking vulnerabilities.",
+  "category": "GEOPOLITICS",
+  "body": [
+    "Paraguay's political landscape was abruptly reshaped this week as its president was impeached mere minutes after tendering his resignation. This dramatic exit followed a severe financial crisis, rooted in a widespread bank collapse that sent shockwaves across the nation. The rapid succession of events underscores the profound impact economic instability can wield on a country's highest office.",
+    "At the heart of this upheaval lies the ueno bank, identified as the institution whose implosion triggered the cascade of political turmoil. The institution's sudden failure exposed deep vulnerabilities within the country's financial infrastructure, creating a ripple effect that quickly reached the highest echelons of government. This single event set in motion a chain of consequences that proved irreversible for the president's tenure.",
+    "The immediate and most devastating consequence of the bank crisis was the freezing of millions of people's savings. Families across Paraguay suddenly found their financial security evaporate, their hard-earned money rendered inaccessible. This widespread personal hardship fueled public outrage and intensified demands for accountability, painting a grim picture of everyday struggles.",
+    "Analysts and observers agree that the president's departure was directly precipitated by this catastrophic bank implosion. Facing immense pressure and rapidly deteriorating public trust, his resignation became an inevitability in the face of such widespread economic distress. Furthermore, the former president is now reportedly facing a criminal investigation, adding another layer of complexity to the unfolding crisis.",
+    "These reports come as a stark reminder of the delicate balance between a nation's financial health and its political stability. The erosion of public confidence in the banking sector can swiftly undermine governmental authority, pushing an already vulnerable population closer to the brink. Paraguay's recent events serve as a potent example of how deeply intertwined these spheres truly are.",
+    "Reflecting on the long-term impact, the coming months will undoubtedly test Paraguay's institutions as they navigate the aftermath of this unprecedented financial and political crisis. Rebuilding public trust in the banking system and ensuring accountability for those responsible will be paramount tasks for the new administration. The nation now faces the arduous challenge of stabilizing its economy and restoring faith among its citizens."
+  ],
+  "publishedAt": "2026-11-06T08:53:47.544Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — World",
+    "NPR",
+    "Reuters",
+    "The Guardian",
+    "CNN",
+    "The Washington Post"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:47:44.154Z",
+      "detail": "Aggregated news reports from international publications covering the unfolding political and financial crisis in Paraguay."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:51:43.949Z",
+      "detail": "Compiled details on the president's impeachment and resignation, the triggering bank collapse, frozen savings, and criminal investigation from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:53:47.544Z",
+      "detail": "Wove together immediate political events with the underlying financial crisis and its human impact to illustrate the fragility of national stability."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All reported events, claims, and statistics were directly cross-referenced and confirmed against the provided fact sheet, ensuring complete factual alignment.",
+      "timestamp": "2026-11-06T08:58:08.532Z"
+    }
+  ]
+}

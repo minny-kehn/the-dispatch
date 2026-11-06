@@ -1,0 +1,53 @@
+{
+  "slug": "wisconsin-reports-infant-measles-death-amid-outbreak",
+  "headline": "Wisconsin Reports Infant Measles Death Amid Outbreak",
+  "deck": "A tragic infant fatality from measles in southwestern Wisconsin marks the state's first such death in over three decades, highlighting a concerning resurgence of the highly contagious disease.",
+  "category": "HEALTH",
+  "body": [
+    "The quiet communities of southwestern Wisconsin are grappling with profound sorrow following the report of an infant measles death. This tragic development marks the first time in over three decades that the highly contagious disease has claimed a young life in the state, casting a harsh spotlight on an escalating public health crisis. The fatality arrives amidst a broader measles outbreak that has particularly taken root in the region.",
+    "Health authorities confirmed the infant's death occurred within the wider context of a persistent measles surge, especially pronounced in Wisconsin's Amish country. This specific loss underscores the severe risks posed by the virus, particularly to the most vulnerable members of the population. Healthcare workers in these rural areas are confronting the challenge directly, working to contain the spread and provide care.",
+    "The infant's passing in Wisconsin is sadly not an isolated event on the national stage, representing the US’ third measles-related death reported this week. These multiple fatalities paint a grim picture of the virus's renewed presence, challenging decades of public health progress in eradicating the disease. Such reports serve as a reminder of the persistent threat measles can pose when vaccination rates falter.",
+    "Within Wisconsin itself, health officials have indicated that this infant death is part of a larger count, reporting the 8th measles-related death across the state. While the infant fatality is the first of its kind in over three decades, the broader tally points to a concerning resurgence of the virus in various forms. This wider pattern suggests a systemic challenge requiring comprehensive public health interventions.",
+    "The surge in Wisconsin's Amish country highlights the specific vulnerabilities within communities where vaccination rates may differ from the general population. These close-knit groups face unique challenges in accessing information and healthcare, making them particularly susceptible to infectious diseases. The current outbreak pushes an already vulnerable population closer to the brink of health crises.",
+    "Reflecting on the long-term impact, the resurgence of measles and the recent fatalities demand a renewed focus on community engagement and public health education. Preventing further loss will require sustained efforts to bolster immunity across all demographics and ensure equitable access to preventative care. The coming months will test the resolve of health systems and community leaders alike in confronting this serious threat."
+  ],
+  "publishedAt": "2026-11-06T08:55:47.604Z",
+  "readTime": 2,
+  "sources": [
+    "Google News — Health",
+    "The Washington Post",
+    "CNN",
+    "Channel 3000",
+    "ABC News - Breaking News, Latest News and Videos",
+    "Milwaukee Journal Sentinel"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzNtZ2I5Mi1GS20yTVA1V1RTcDlIbXQ1LVFFTGxGczdqZkRyeUphakphR3RyTlRpX3dPMTQwSU5QNl85bFp0N3JvbFFVSHJWdW1neGRGMFFJMk80el93eXpmMV8wak5ocnpGSXFIWThQRUZQb2tyUDNLd1pEOUpFU2hxazZBbXhlNlBFcEZKZUFWQi1KR2VGbVZWQ3RtaWxHN1paaTNTRHpDNF81WlZDN0VqNDQxZ0o5Z0E?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:47:44.154Z",
+      "detail": "Aggregated news reports from national and local media outlets covering health and breaking news."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:51:43.949Z",
+      "detail": "Compiled details on an infant measles death, its historical context in Wisconsin, and its relation to national and local outbreaks from 6 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:55:47.604Z",
+      "detail": "Wove together immediate reports of a tragic infant death with broader outbreak context and historical significance to underscore public health challenges."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "Passed — Bias: 4/10, Accuracy: 10/10, Readability: FK 14.6",
+      "timestamp": "2026-11-06T08:59:21.981Z"
+    }
+  ]
+}

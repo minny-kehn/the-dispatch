@@ -1,0 +1,54 @@
+{
+  "slug": "parental-refusals-drive-infant-bleeding-surge",
+  "headline": "Parental Refusals Drive Infant Bleeding Surge",
+  "deck": "A concerning rise in infant bleeding episodes across the United States is being directly linked to a growing trend of parents declining routine Vitamin K shots for their newborns.",
+  "category": "HEALTH",
+  "body": [
+    "A disquieting pattern has emerged within pediatric care, as an increasing number of parents are opting to refuse the standard Vitamin K injection for their newborns. This shift in parental choice has cast a harsh spotlight on a critical public health concern, directly impacting the most vulnerable among us.",
+    "This growing reluctance to administer the Vitamin K shot, a long-standing medical protocol, places these infants at a significantly elevated risk of dangerous bleeding. Medical professionals and public health advocates are observing this trend with increasing alarm, noting the potential for severe, yet entirely preventable, health crises.",
+    "The consequences of these refusals became starkly apparent last year, when reports from leading news organizations documented a significant surge in infant bleeding episodes across the United States. This jump in cases painted a grim picture of the immediate impact of declining this crucial preventative measure.",
+    "Findings from multiple studies consistently support the direct correlation between the refusal of Vitamin K shots and the heightened incidence of infant bleeding. These scientific validations underscore the gravity of the situation, reinforcing the evidence-based necessity of the injection.",
+    "Beyond the immediate health crises, some reports indicate an even more tragic outcome, with claims suggesting that more babies in the U.S. are dying following parental decisions to forgo the Vitamin K shot. These potential fatalities amplify the urgent need for a renewed focus on informed medical consent and public health education.",
+    "The Vitamin K shot is a routine, yet vital, medical procedure administered shortly after birth to prevent a rare but exceptionally serious bleeding disorder known as Vitamin K deficiency bleeding (VKDB). This condition can lead to life-threatening hemorrhages in infants, often without warning.",
+    "Reflecting on the long-term impact, this trend points to a broader challenge in maintaining public trust in established medical institutions and evidence-based practices. Ensuring optimal health outcomes for infants requires a concerted effort to counter misinformation and reinforce the critical importance of routine preventative care."
+  ],
+  "publishedAt": "2026-11-06T08:56:12.550Z",
+  "readTime": 1,
+  "sources": [
+    "Google News — Health",
+    "ABC News",
+    "The New York Times",
+    "The Washington Post",
+    "Reuters",
+    "Unattributed Google News Headline"
+  ],
+  "sourceUrls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnpvUkFURXpaejg4b3k4cnNpT2dWMXMtRlB0WFdZWWJRREJPSEpLcHp6bnNqeHdXUWxlbXhMb3k0dktrYjJTVVh5ZTBRSEhpZy1fNW1OeGptM3paUWRVdG9OUFFyRF8wbEJmM25yV3p2Y254bjg1V0pRM3VUeVQ0cmRJS1p5cjAwUDNWTHh3U3NvRlFlRHk2VFFnbEVtRG5oUGY1SHJhYXBRQQ?oc=5"
+  ],
+  "pipelineSteps": [
+    {
+      "name": "Source Discovery",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:47:44.154Z",
+      "detail": "Aggregated news reports and health claims from ABC News, The New York Times, The Washington Post, Reuters, and Google News."
+    },
+    {
+      "name": "Fact Extraction",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:51:43.949Z",
+      "detail": "Compiled facts regarding parental refusal of Vitamin K shots, the surge in infant bleeding and deaths, and supporting studies from 5 distinct sources."
+    },
+    {
+      "name": "Editorial Synthesis",
+      "status": "complete",
+      "timestamp": "2026-11-06T08:56:12.550Z",
+      "detail": "Wove together reports of declining medical interventions with documented health consequences to highlight a critical public health issue concerning newborn welfare."
+    },
+    {
+      "name": "Quality Review",
+      "status": "complete",
+      "detail": "All factual claims regarding parental refusals, infant bleeding surges, and associated risks were directly verified against the provided fact sheet, with no discrepancies found, though the article's tone is strongly persuasive.",
+      "timestamp": "2026-11-06T08:59:40.959Z"
+    }
+  ]
+}
